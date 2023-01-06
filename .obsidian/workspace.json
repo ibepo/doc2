@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "f264805c0a0a2cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b63a6e7ffe123b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c8bc37a3d166677",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29127b30f09dc5bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "56e0ef17e968819d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e253a67c31ba3d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "2f9a4fe722e7b0d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "install",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81704b83b1ed70fe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8e41c23163a73b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.51103591918945
+  },
+  "right": {
+    "id": "0dc094587f64fed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7800aec63f1b04f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3040edea9c6169c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf729ba786f0fe2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b973a29bf0f6d95a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11aef934724d9bb0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "3c8bc37a3d166677",
+  "lastOpenFiles": [
+    "wiki.md",
+    "linux/命令.md",
+    "linux/shell.md",
+    "$a != 1.md",
+    "部署/nginx.md",
+    "English.md",
+    "linux/ssh.md",
+    "linux/包管理器.md",
+    "archlinux/pacman.md",
+    "archlinux/wechat.md"
+  ]
+}
