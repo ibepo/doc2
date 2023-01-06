@@ -1,7 +1,7 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "interfaceFontFamily": "Hack Nerd Font Mono,JetBrainsMono Nerd Font Mono",
-  "accentColor": "#ef936b",
+  "accentColor": "#6befd5",
   "baseFontSize": 18,
   "monospaceFontFamily": "ComicMono NF",
   "cssTheme": "Things"

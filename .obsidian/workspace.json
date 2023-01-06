@@ -11,8 +11,12 @@
             "id": "3c8bc37a3d166677",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "archlinux/wechat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "archlinux/wechat.md"
+              }
             }
           }
         ]
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "archlinux/wechat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "archlinux/wechat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,15 +161,15 @@
   },
   "active": "3c8bc37a3d166677",
   "lastOpenFiles": [
+    "archlinux/xsession.md",
+    "archlinux/pacman.md",
+    "archlinux/wechat.md",
+    "部署/centos部署.md",
+    "部署/nginx.md",
+    "linux/ssh.md",
     "wiki.md",
     "linux/命令.md",
     "linux/shell.md",
-    "$a != 1.md",
-    "部署/nginx.md",
-    "English.md",
-    "linux/ssh.md",
-    "linux/包管理器.md",
-    "archlinux/pacman.md",
-    "archlinux/wechat.md"
+    "$a != 1.md"
   ]
 }

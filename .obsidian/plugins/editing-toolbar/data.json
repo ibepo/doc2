@@ -209,6 +209,16 @@
       "id": "obsidian-table-generator:create-table-genertator",
       "name": "Table Generator: Create Table Generator",
       "icon": "blocks"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "name": "Obsidian Git: Push",
+      "icon": "navigate-glyph"
+    },
+    {
+      "id": "obsidian-git:commit",
+      "name": "Obsidian Git: Commit all changes",
+      "icon": "add-note-glyph"
     }
   ],
   "appendMethod": "workspace",
@@ -216,7 +226,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 502,
+  "cMenuWidth": 554,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false
