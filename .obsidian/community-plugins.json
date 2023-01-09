@@ -3,5 +3,6 @@
   "dataview",
   "editing-toolbar",
   "obsidian-table-generator",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-vimrc-support"
 ]
