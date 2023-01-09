@@ -219,6 +219,19 @@
       "id": "obsidian-git:commit",
       "name": "Obsidian Git: Commit all changes",
       "icon": "add-note-glyph"
+    },
+    {
+      "id": "app:open-settings",
+      "name": "打开设置",
+      "icon": "lucide-wrench",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": ","
+        }
+      ]
     }
   ],
   "appendMethod": "workspace",
@@ -226,7 +239,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 554,
+  "cMenuWidth": 606,
   "cMenuFontColor": "#000000",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false

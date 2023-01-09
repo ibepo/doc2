@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2b63a6e7ffe123b8",
+        "id": "ac5a9de1b6fa8a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8bc37a3d166677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archlinux/wechat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18571cf2632ab610",
+            "id": "43d9d7f2135dd35d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "linux/shell.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -88,13 +76,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.51103591918945,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -174,17 +160,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "18571cf2632ab610",
+  "active": "43d9d7f2135dd35d",
   "lastOpenFiles": [
+    "English.md",
+    "archlinux/wechat.md",
     "archlinux/lf.md",
     "archlinux/archlinux.md",
-    "archlinux/wechat.md",
     "archlinux/xsession.md",
     "archlinux/pacman.md",
     "部署/centos部署.md",
     "部署/nginx.md",
     "linux/ssh.md",
-    "wiki.md",
-    "linux/命令.md"
+    "wiki.md"
   ]
 }
