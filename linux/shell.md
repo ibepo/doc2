@@ -1,3 +1,69 @@
+
+### shell中特殊变量有如下几种：
+
+$0 当前脚本的文件名
+$n 传递给脚本或函数的参数。n 是一个数字，表示第几个参数。例如，第一个参数是$1，第二个参数是$2。
+$# 传递给脚本或函数的参数个数。
+$@ 传递给脚本或函数的所有参数。
+$ _传递给脚本或函数的所有参数。被双引号""包含时，形如"$_"会将所有参数组合为一个整体，$*写法时与 $@完全相同
+$? 上个命令的退出状态，或函数的返回值。
+
+$$ 当前Shell进程ID。对于 Shell 脚本，就是这些脚本所在的进程ID。
+
+---
+
+shell_special_variable.sh
+
+#!/bin/bash
+echo "当前脚本的文件名:$0"
+
+echo "第一个参数为:$1"
+echo "第二个参数为:$2"
+echo "第三个参数为:$3"
+
+echo "参数个数:$#"
+
+echo "所有参数\"\$@\""
+[for](https://laigedemo.com/linux_shell/shell_for_loop.html) var in "$@"
+[do](https://laigedemo.com/linux_shell/shell_for_loop.html)
+    echo $var
+[done](https://laigedemo.com/linux_shell/shell_for_loop.html)
+
+echo "所有参数\"\$*\""
+[for](https://laigedemo.com/linux_shell/shell_for_loop.html) var in "$*"
+[do](https://laigedemo.com/linux_shell/shell_for_loop.html)
+    echo $var
+[done](https://laigedemo.com/linux_shell/shell_for_loop.html)
+
+echo "上个命令的退出状态:$?"
+
+echo "当前Shell进程号:$$"
+
+运行上面的脚本:`./shell_special_variable.sh 1 2 3`
+
+```
+当前脚本的文件名:./shell_special_variable.sh
+第一个参数为:1
+第二个参数为:2
+第三个参数为:3
+参数个数:3
+所有参数"$@"
+1
+2
+3
+所有参数"$*"
+1 2 3
+上个命令的退出状态:0
+当前Shell进程号:30499
+```
+
+本 Demo 在 bash 环境下测试通过
+
+
+
+
+
+
 ## if
 
 IF高级特性：
@@ -19,3 +85,34 @@ IF高级特性：
 [ STRING1 < STRING2 ] 如果 “STRING1”字典排序在“STRING2”前面则返回为真。
 [ STRING1 > STRING2 ] 如果 “STRING1”字典排序在“STRING2”后面则返回为真。
 
+## case
+
+```shell
+#! /bin/sh -
+name=`basename $0 .sh`
+case $1 in
+ s|start)
+        echo "start..."
+        ;;
+ stop)
+        echo "stop ..."
+        ;;
+ reload)
+        echo "reload..."
+        ;;
+ *)
+        echo "Usage: $name [start|stop|reload]"
+        exit 1
+        ;;
+esac
+exit 0
+
+
+
+
+```
+
+注意：
+1、 *) 相当于其他语言中的default。
+2、 除了*)模式，各个分支中;;是必须的，;;相当于其他语言中的break
+3、 | 分割多个模式，相当于or

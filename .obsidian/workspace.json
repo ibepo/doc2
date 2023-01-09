@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archlinux/lf.md",
+                "file": "linux/shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,15 +84,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archlinux/lf.md"
+                "file": "linux/shell.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 275.51103591918945
+    "width": 275.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archlinux/lf.md",
+                "file": "linux/shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archlinux/lf.md",
+                "file": "linux/shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +176,8 @@
   },
   "active": "18571cf2632ab610",
   "lastOpenFiles": [
-    "archlinux/archlinux.md",
     "archlinux/lf.md",
+    "archlinux/archlinux.md",
     "archlinux/wechat.md",
     "archlinux/xsession.md",
     "archlinux/pacman.md",
