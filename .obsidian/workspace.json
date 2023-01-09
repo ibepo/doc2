@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.51103591918945,
-    "collapsed": true
+    "width": 275.51103591918945
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -175,6 +174,8 @@
   },
   "active": "18571cf2632ab610",
   "lastOpenFiles": [
+    "archlinux/archlinux.md",
+    "archlinux/lf.md",
     "archlinux/wechat.md",
     "archlinux/xsession.md",
     "archlinux/pacman.md",
@@ -182,8 +183,6 @@
     "部署/nginx.md",
     "linux/ssh.md",
     "wiki.md",
-    "linux/命令.md",
-    "linux/shell.md",
-    "$a != 1.md"
+    "linux/命令.md"
   ]
 }
