@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
   "interfaceFontFamily": "Hack Nerd Font Mono,JetBrainsMono Nerd Font Mono",
-  "accentColor": "#6befd5",
+  "accentColor": "#ef6ba5",
   "baseFontSize": 18,
   "monospaceFontFamily": "ComicMono NF",
-  "cssTheme": "Things"
+  "cssTheme": "Minimal"
 }
