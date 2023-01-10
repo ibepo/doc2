@@ -63,10 +63,6 @@ case $1 in
         ;;
 esac
 exit 0
-
-
-
-
 ```
 
 注意：

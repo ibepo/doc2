@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archlinux/archlinux.md",
+                "file": "linux/shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archlinux/archlinux.md"
+                "file": "linux/shell.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archlinux/archlinux.md",
+                "file": "linux/shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archlinux/archlinux.md",
+                "file": "linux/shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +159,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "43d9d7f2135dd35d",
   "lastOpenFiles": [
+    "linux/ssh.md",
+    "archlinux/archlinux.md",
     "archlinux/bspw.md",
     "archlinux/lf.md",
     "linux/shell.md",
     "English.md",
     "archlinux/wechat.md",
-    "archlinux/archlinux.md",
     "archlinux/xsession.md",
     "archlinux/pacman.md",
-    "部署/centos部署.md",
-    "部署/nginx.md"
+    "部署/centos部署.md"
   ]
 }
