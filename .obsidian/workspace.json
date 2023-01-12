@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e921be9158b45fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mysql/限制单条sql对于资源的消耗.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/shell.md"
+                "file": "mysql/限制单条sql对于资源的消耗.md"
               }
             }
           }
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/shell.md",
+                "file": "mysql/限制单条sql对于资源的消耗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/shell.md",
+                "file": "mysql/限制单条sql对于资源的消耗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +172,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "43d9d7f2135dd35d",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "linux/shell.md",
+    "mysql/限制单条sql对于资源的消耗.md",
     "linux/ssh.md",
     "archlinux/archlinux.md",
     "archlinux/bspw.md",
     "archlinux/lf.md",
-    "linux/shell.md",
     "English.md",
     "archlinux/wechat.md",
     "archlinux/xsession.md",
-    "archlinux/pacman.md",
-    "部署/centos部署.md"
+    "archlinux/pacman.md"
   ]
 }

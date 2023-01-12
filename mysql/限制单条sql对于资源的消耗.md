@@ -1,0 +1,1 @@
+https://dev.mysql.com/blog-archive/server-side-select-statement-timeouts/
