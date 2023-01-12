@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "mysql/限制单条sql对于资源的消耗.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -172,7 +172,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "e921be9158b45fb4",
   "lastOpenFiles": [
     "linux/shell.md",
     "mysql/限制单条sql对于资源的消耗.md",
