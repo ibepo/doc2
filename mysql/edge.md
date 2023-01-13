@@ -1,11 +1,13 @@
-修改为中文显示
+### 修改为中文显示
 ```shell
 sudo vim /usr/bin/microsoft-edge-stable
 ---------------------------------
 export LANGUAGE=ZH-CN.UTF-8
 
 ```
-vim
+
+### Vimium C
+
 |    快捷键  |命令      |
 |:-----|:-----|
 |    o  |  从收藏夹、历史记录打开,或录入新搜索   |

@@ -124,11 +124,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 248.500732421875
+    "width": 248.500732421875,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -200,7 +202,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "7624a8fe0df061c6",
+  "active": "b8e41c23163a73b3",
   "lastOpenFiles": [
     "mysql/限制单条sql对于资源的消耗.md",
     "archlinux/wechat.md",
