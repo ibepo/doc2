@@ -14,7 +14,7 @@
    - 将`deb`包转化为`archlinux`所能直接安装的包，如`tar.zst`
    - 然后利用`sudo pacman -U *.pkg.tar.zst`命令安装
    - 通常，将`deb`包转换为`tar.zst`的工具使用用`debtap` 
-
+pamac info picom  查看安装的软件信息
 
 ### pacman 常用命令
 

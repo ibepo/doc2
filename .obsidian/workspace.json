@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/brew package.md",
+                "file": "macosx/homebrew.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d288e4a3991d9b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archlinux/xsession.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/brew package.md"
+                "file": "archlinux/xsession.md"
               }
             }
           }
@@ -104,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.500732421875
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/brew package.md",
+                "file": "archlinux/xsession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/brew package.md",
+                "file": "archlinux/xsession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,17 +188,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f67a5686a023c952",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
-    "linux/systemctl.md",
-    "mysql/限制单条sql对于资源的消耗.md",
-    "linux/shell.md",
-    "linux/ssh.md",
-    "archlinux/archlinux.md",
+    "archlinux/wechat.md",
+    "archlinux/pacman.md",
     "archlinux/bspw.md",
     "archlinux/lf.md",
-    "English.md",
-    "archlinux/wechat.md",
-    "archlinux/xsession.md"
+    "archlinux/archlinux.md",
+    "linux/font.md",
+    "macosx/homebrew.md",
+    "linux/systemctl.md",
+    "mysql/限制单条sql对于资源的消耗.md",
+    "linux/shell.md"
   ]
 }
