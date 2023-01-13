@@ -1,5 +1,8 @@
 set clipboard=unnamed
 nmap ; :
+
+nnoremap o $a<cr><esc>
+inoremap jk <Esc>
 nmap j gj
 nmap k gk
 nmap H ^
