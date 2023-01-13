@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7624a8fe0df061c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mysql/edge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archlinux/xsession.md"
+                "file": "mysql/edge.md"
               }
             }
           }
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archlinux/xsession.md",
+                "file": "mysql/edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archlinux/xsession.md",
+                "file": "mysql/edge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +200,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "7624a8fe0df061c6",
   "lastOpenFiles": [
+    "mysql/限制单条sql对于资源的消耗.md",
     "archlinux/wechat.md",
     "archlinux/pacman.md",
     "archlinux/bspw.md",
@@ -198,7 +211,6 @@
     "linux/font.md",
     "macosx/homebrew.md",
     "linux/systemctl.md",
-    "mysql/限制单条sql对于资源的消耗.md",
     "linux/shell.md"
   ]
 }
