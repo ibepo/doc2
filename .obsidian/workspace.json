@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43d9d7f2135dd35d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mysql/限制单条sql对于资源的消耗.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f055e6a6dcec3cbf",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f456692852bd2ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archlinux/neovim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +152,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0f456692852bd2ab",
+  "active": "f055e6a6dcec3cbf",
   "lastOpenFiles": [
     "archlinux/lua.md",
     "archlinux/2022年工作总结及2023工作计划(刘帅).md",

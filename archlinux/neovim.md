@@ -28,3 +28,6 @@
 
 ```
 
+	plug manager
+
+	fuzzy finder
