@@ -45,3 +45,9 @@ end)
 
 ```
 	fuzzy finder
+
+
+ 参考
+ https://github.com/BurntSushi/ripgrep
+ https://github.com/nvim-telescope/telescope.nvim
+ https://github.com/wbthomason/packer.nvim
