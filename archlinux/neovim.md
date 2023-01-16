@@ -32,5 +32,16 @@
 ```shell
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+ 
+sudo vim ~/.config/nvim/lua/basic/packer.lua
+ ---------------------------------
+vim.cmd [[packadd packer.nvim]]
+return require('packer').startup(function(use)
+-- Packer can manage itself
+use 'wbthomason/packer.nvim'
+end)
+---------------------------------
+:so in nvim 
+
 ```
 	fuzzy finder
