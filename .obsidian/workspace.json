@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "796cf7501804b2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archlinux/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archlinux/lua.md"
+                "file": "archlinux/未命名.md"
               }
             }
           }
@@ -104,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.500732421875
+    "width": 248.500732421875,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archlinux/lua.md",
+                "file": "archlinux/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archlinux/lua.md",
+                "file": "archlinux/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +189,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0f456692852bd2ab",
+  "active": "796cf7501804b2bc",
   "lastOpenFiles": [
+    "archlinux/lua.md",
     "archlinux/neovim.md",
     "mysql/限制单条sql对于资源的消耗.md",
     "mysql/edge.md",
@@ -186,7 +200,6 @@
     "archlinux/bspw.md",
     "archlinux/lf.md",
     "archlinux/archlinux.md",
-    "linux/font.md",
-    "macosx/homebrew.md"
+    "linux/font.md"
   ]
 }
