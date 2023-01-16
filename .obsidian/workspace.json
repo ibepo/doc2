@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archlinux/lua.md",
+                "file": "archlinux/neovim.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "796cf7501804b2bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archlinux/2022年工作总结及2023工作计划(刘帅).md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archlinux/2022年工作总结及2023工作计划(刘帅).md"
+                "file": "archlinux/neovim.md"
               }
             }
           }
@@ -116,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.500732421875,
-    "collapsed": true
+    "width": 248.500732421875
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archlinux/2022年工作总结及2023工作计划(刘帅).md",
+                "file": "archlinux/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archlinux/2022年工作总结及2023工作计划(刘帅).md",
+                "file": "archlinux/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +176,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "796cf7501804b2bc",
+  "active": "0f456692852bd2ab",
   "lastOpenFiles": [
     "archlinux/lua.md",
+    "archlinux/2022年工作总结及2023工作计划(刘帅).md",
     "archlinux/neovim.md",
     "mysql/限制单条sql对于资源的消耗.md",
     "mysql/edge.md",
@@ -199,7 +187,6 @@
     "archlinux/pacman.md",
     "archlinux/bspw.md",
     "archlinux/lf.md",
-    "archlinux/archlinux.md",
-    "linux/font.md"
+    "archlinux/archlinux.md"
   ]
 }
