@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c5baaeefd0c2e014",
+        "id": "40051526c0a4d530",
         "type": "tabs",
         "children": [
           {
-            "id": "e44c301431dbe3ea",
+            "id": "5cacfaf2b76b8891",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/archlinux/wechat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/archlinux/wechat.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/wechat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/wechat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +143,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "5cacfaf2b76b8891",
   "lastOpenFiles": [
+    "docs/archlinux/wechat.md",
     "docs/archlinux/lf.md",
     "docs/en/English.md",
     "docs/wiki.md",
@@ -161,7 +154,6 @@
     "archlinux/neovim.md",
     "archlinux/lua.md",
     "archlinux/pacman.md",
-    "archlinux/bspw.md",
-    "config/ideavim.md"
+    "archlinux/bspw.md"
   ]
 }
