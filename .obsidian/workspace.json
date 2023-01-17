@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.500732421875,
-    "collapsed": true
+    "width": 248.500732421875
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -152,7 +151,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e44c301431dbe3ea",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
     "docs/archlinux/lf.md",
     "docs/en/English.md",
