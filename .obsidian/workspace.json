@@ -11,8 +11,12 @@
             "id": "5cacfaf2b76b8891",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/wiki.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/wiki.md"
+              }
             }
           }
         ]
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
