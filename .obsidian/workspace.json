@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/neovim.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/neovim.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/neovim.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/neovim.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +153,7 @@
   },
   "active": "e44c301431dbe3ea",
   "lastOpenFiles": [
+    "docs/archlinux/neovim.md",
     "archlinux/neovim.md",
     "archlinux/lua.md",
     "archlinux/pacman.md",
@@ -161,7 +162,6 @@
     "archlinux/2022年工作总结及2023工作计划(刘帅).md",
     "mysql/限制单条sql对于资源的消耗.md",
     "mysql/edge.md",
-    "archlinux/wechat.md",
-    "archlinux/lf.md"
+    "archlinux/wechat.md"
   ]
 }
