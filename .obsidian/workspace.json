@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac5a9de1b6fa8a1f",
+        "id": "0a5765d84d5902f6",
         "type": "tabs",
         "children": [
           {
-            "id": "f055e6a6dcec3cbf",
+            "id": "dccfebbcbf60f098",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.500732421875,
-    "collapsed": true
+    "width": 248.500732421875
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -152,17 +151,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f055e6a6dcec3cbf",
+  "active": "dccfebbcbf60f098",
   "lastOpenFiles": [
     "archlinux/lua.md",
-    "archlinux/2022年工作总结及2023工作计划(刘帅).md",
+    "archlinux/pacman.md",
+    "archlinux/bspw.md",
+    "config/ideavim.md",
     "archlinux/neovim.md",
+    "archlinux/2022年工作总结及2023工作计划(刘帅).md",
     "mysql/限制单条sql对于资源的消耗.md",
     "mysql/edge.md",
     "archlinux/wechat.md",
-    "archlinux/pacman.md",
-    "archlinux/bspw.md",
-    "archlinux/lf.md",
-    "archlinux/archlinux.md"
+    "archlinux/lf.md"
   ]
 }
