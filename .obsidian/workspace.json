@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/en/English.md",
+                "file": "docs/archlinux/wechat.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/en/English.md"
+                "file": "docs/archlinux/wechat.md"
               }
             }
           }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.500732421875
+    "width": 248.500732421875,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/en/English.md",
+                "file": "docs/archlinux/wechat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/en/English.md",
+                "file": "docs/archlinux/wechat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +152,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "e44c301431dbe3ea",
   "lastOpenFiles": [
+    "docs/archlinux/lf.md",
+    "docs/en/English.md",
     "docs/wiki.md",
     "docs/index.md",
     "docs/archlinux/neovim.md",
@@ -160,8 +163,6 @@
     "archlinux/lua.md",
     "archlinux/pacman.md",
     "archlinux/bspw.md",
-    "config/ideavim.md",
-    "archlinux/2022年工作总结及2023工作计划(刘帅).md",
-    "mysql/限制单条sql对于资源的消耗.md"
+    "config/ideavim.md"
   ]
 }
