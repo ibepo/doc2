@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/en/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/en/English.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/en/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/en/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +151,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e44c301431dbe3ea",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/wiki.md",
+    "docs/index.md",
     "docs/archlinux/neovim.md",
     "archlinux/neovim.md",
     "archlinux/lua.md",
@@ -160,8 +162,6 @@
     "archlinux/bspw.md",
     "config/ideavim.md",
     "archlinux/2022年工作总结及2023工作计划(刘帅).md",
-    "mysql/限制单条sql对于资源的消耗.md",
-    "mysql/edge.md",
-    "archlinux/wechat.md"
+    "mysql/限制单条sql对于资源的消耗.md"
   ]
 }
