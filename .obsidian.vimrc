@@ -1,7 +1,7 @@
 set clipboard=unnamed
 nmap ; :
 
-nmap o $a<Cr><Esc>
+#nmap o $a<Cr><Esc>
 imap jk <Esc>
 nmap j gj
 nmap k gk

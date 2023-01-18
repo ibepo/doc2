@@ -1,0 +1,4 @@
+- sxhkd  焦点跟着转换windows走（super+shift+{1,2,3...}）
+- awk sed
+- nvim config scratch
+-  
