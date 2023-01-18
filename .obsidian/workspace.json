@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "40051526c0a4d530",
+        "id": "474d5bd44f4f84a0",
         "type": "tabs",
         "children": [
           {
-            "id": "5cacfaf2b76b8891",
+            "id": "79537b2da711c7a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/wiki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd1583faeaa7490b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/yaml.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae4b9417d3aa776b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/todo.md",
+                "file": "docs/linux/netfilter,iptables firewalld ufw.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "install",
+                "query": "table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/todo.md"
+                "file": "docs/linux/netfilter,iptables firewalld ufw.md"
               }
             }
           }
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/todo.md",
+                "file": "docs/linux/netfilter,iptables firewalld ufw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/todo.md",
+                "file": "docs/linux/netfilter,iptables firewalld ufw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,17 +151,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ae4b9417d3aa776b",
+  "active": "79537b2da711c7a5",
   "lastOpenFiles": [
-    "docs/yaml.md",
     "docs/wiki.md",
+    "docs/todo.md",
+    "docs/yaml.md",
     "docs/archlinux/wechat.md",
     "docs/archlinux/lf.md",
     "docs/en/English.md",
     "docs/index.md",
     "docs/archlinux/neovim.md",
     "archlinux/neovim.md",
-    "archlinux/lua.md",
-    "archlinux/pacman.md"
+    "archlinux/lua.md"
   ]
 }
