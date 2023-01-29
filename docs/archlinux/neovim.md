@@ -5,7 +5,7 @@
 :h runtimepath
 ```
 
-	<span style="background:#ff4d4f">plug manager(插件管理器)</span>
+plug manager(插件管理器)
  
 ```shell
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
@@ -23,10 +23,12 @@ end)
 
 ```
 
-	fuzzy finder(模糊查询)
+fuzzy finder(模糊查询)
 
 
  参考
  https://github.com/BurntSushi/ripgrep
+ 
  https://github.com/nvim-telescope/telescope.nvim
  https://github.com/wbthomason/packer.nvim
+ 
