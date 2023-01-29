@@ -1,0 +1,1 @@
+[关闭vscode自动更新](https://blog.csdn.net/qq_44235822/article/details/107665860#:~:text=%E6%89%93%E5%BC%80Vscode%EF%BC%8C%E7%82%B9%E5%87%BB%E6%96%87%E4%BB%B6%E3%80%8B%E9%A6%96,%EF%BC%8Cmanual%EF%BC%8Cdefault%E4%B8%89%E4%B8%AA%E3%80%82)

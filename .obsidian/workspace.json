@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0c0ca2f67413d77f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/neovim.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -153,15 +165,15 @@
   },
   "active": "79537b2da711c7a5",
   "lastOpenFiles": [
+    "docs/archlinux/vscode.md",
+    "docs/archlinux/lf.md",
+    "docs/archlinux/neovim.md",
     "docs/archlinux/pacman.md",
     "docs/wiki.md",
-    "docs/archlinux/neovim.md",
     "docs/archlinux/wechat.md",
     "docs/archlinux/bspwm.md",
     "docs/archlinux/lua.md",
     "docs/linux/netfilter,iptables firewalld ufw.md",
-    "docs/todo.md",
-    "docs/yaml.md",
-    "docs/archlinux/lf.md"
+    "docs/todo.md"
   ]
 }
