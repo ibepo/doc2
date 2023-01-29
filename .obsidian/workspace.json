@@ -153,15 +153,15 @@
   },
   "active": "79537b2da711c7a5",
   "lastOpenFiles": [
-    "docs/archlinux/lua.md",
-    "docs/archlinux/neovim.md",
-    "docs/linux/netfilter,iptables firewalld ufw.md",
+    "docs/archlinux/pacman.md",
     "docs/wiki.md",
+    "docs/archlinux/neovim.md",
+    "docs/archlinux/wechat.md",
+    "docs/archlinux/bspwm.md",
+    "docs/archlinux/lua.md",
+    "docs/linux/netfilter,iptables firewalld ufw.md",
     "docs/todo.md",
     "docs/yaml.md",
-    "docs/archlinux/wechat.md",
-    "docs/archlinux/lf.md",
-    "docs/en/English.md",
-    "docs/index.md"
+    "docs/archlinux/lf.md"
   ]
 }
