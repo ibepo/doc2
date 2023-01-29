@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux/netfilter,iptables firewalld ufw.md",
+                "file": "docs/archlinux/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/netfilter,iptables firewalld ufw.md"
+                "file": "docs/archlinux/neovim.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/netfilter,iptables firewalld ufw.md",
+                "file": "docs/archlinux/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/netfilter,iptables firewalld ufw.md",
+                "file": "docs/archlinux/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +153,7 @@
   },
   "active": "79537b2da711c7a5",
   "lastOpenFiles": [
+    "docs/linux/netfilter,iptables firewalld ufw.md",
     "docs/wiki.md",
     "docs/todo.md",
     "docs/yaml.md",
@@ -161,7 +162,6 @@
     "docs/en/English.md",
     "docs/index.md",
     "docs/archlinux/neovim.md",
-    "archlinux/neovim.md",
-    "archlinux/lua.md"
+    "archlinux/neovim.md"
   ]
 }
