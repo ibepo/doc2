@@ -5,6 +5,11 @@
 :h runtimepath
 ```
 
+### resource 
+```shell
+:luafile
+:checkhealth
+```
 ### vim.options
 ```shell
 :help option-list
