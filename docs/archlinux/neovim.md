@@ -1,11 +1,11 @@
-查看neovim配置的默认路径（runtimepath）
+### 查看neovim配置的默认路径（runtimepath）
 
 ```shell
 :h rtp 或者
 :h runtimepath
 ```
 
-plug manager(插件管理器)
+### plug manager(插件管理器)
  
 ```shell
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
@@ -23,12 +23,11 @@ end)
 
 ```
 
-fuzzy finder(模糊查询)
+### fuzzy finder(模糊查询)
 
 
- 参考
+### 参考
  https://github.com/BurntSushi/ripgrep
- 
  https://github.com/nvim-telescope/telescope.nvim
  https://github.com/wbthomason/packer.nvim
  
