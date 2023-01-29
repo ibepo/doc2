@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "79537b2da711c7a5",
+  "active": "b8e41c23163a73b3",
   "lastOpenFiles": [
     "docs/archlinux/vscode.md",
     "docs/archlinux/lf.md",

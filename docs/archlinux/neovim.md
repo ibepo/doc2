@@ -1,4 +1,4 @@
-### neovim配置默认路径（runtimepath）
+### neovim runtimepath
 
 ```shell
 :h rtp 或者
@@ -24,6 +24,12 @@ end)
 ```
 
 ### fuzzy finder(模糊查询)
+
+
+### lsp config plug
+
+
+### auto completion
 
 
 ### 参考
