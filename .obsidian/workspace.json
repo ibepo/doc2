@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lua.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/neovim.md",
+                "file": "docs/neovim.md",
                 "mode": "preview",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lua.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lua.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lua.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,14 +165,14 @@
   },
   "active": "79537b2da711c7a5",
   "lastOpenFiles": [
-    "docs/archlinux/neovim.md",
+    "docs/lua.md",
+    "docs/neovim.md",
     "docs/archlinux/vscode.md",
     "docs/archlinux/lf.md",
     "docs/archlinux/pacman.md",
     "docs/wiki.md",
     "docs/archlinux/wechat.md",
     "docs/archlinux/bspwm.md",
-    "docs/lua.md",
     "docs/linux/netfilter,iptables firewalld ufw.md",
     "docs/todo.md"
   ]

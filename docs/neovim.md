@@ -5,6 +5,10 @@
 :h runtimepath
 ```
 
+### vim.options
+```shell
+:help option-list
+```
 ### plug manager(插件管理器)
  
 ```shell
