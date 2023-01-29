@@ -26,7 +26,7 @@ end)
 ### fuzzy finder(模糊查询)
 
 
-### lsp config plug
+### lsp config plugin
 
 
 ### auto completion
