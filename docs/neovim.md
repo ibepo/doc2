@@ -1,4 +1,18 @@
-### neovim runtimepath
+大纲：
+- option（setting）
+- plugin manager
+- theme
+- lsp
+- cmp
+- autopair
+- lualine
+- bufferline
+- splash
+- file-tree
+- fuzzy-find
+ 
+
+###  runtimepath
 
 ```shell
 :h rtp 或者
