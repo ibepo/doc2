@@ -7,7 +7,7 @@
 
 ### resource 
 ```shell
-:luafile
+:luafile %
 :checkhealth
 ```
 ### vim.options
