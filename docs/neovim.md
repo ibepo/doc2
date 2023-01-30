@@ -2,13 +2,13 @@
 - option（setting）
 - plugin manager
 - theme
+- file-explore
 - lsp
 - cmp
 - autopair
 - lualine
 - bufferline
 - splash
-- file-tree
 - fuzzy-find
  
 
