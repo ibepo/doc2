@@ -47,6 +47,13 @@ end)
 
 ```
 
+### nvim-tree
+|   map   | aciton     |
+|:-----|:-----|
+|    a  |touch      |
+|   r   |     rename |
+|   d   |     delete |
+
 ### fuzzy finder(模糊查询)
 
 
