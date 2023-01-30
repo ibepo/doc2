@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/archlinux/vscode.md",
                 "mode": "preview",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/neovim.md"
+                "file": "docs/archlinux/vscode.md"
               }
             }
           }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.500732421875,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/archlinux/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/archlinux/vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +127,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "764afa50fb5eb4b6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -154,15 +161,15 @@
   },
   "active": "0c0ca2f67413d77f",
   "lastOpenFiles": [
-    "docs/lua.md",
+    "docs/archlinux/网易云音乐.md",
     "docs/neovim.md",
-    "docs/archlinux/vscode.md",
-    "docs/archlinux/lf.md",
-    "docs/archlinux/pacman.md",
-    "docs/wiki.md",
-    "docs/archlinux/wechat.md",
-    "docs/archlinux/bspwm.md",
-    "docs/linux/netfilter,iptables firewalld ufw.md",
-    "docs/todo.md"
+    "docs/python/python.md",
+    "docs/linux/shell.md",
+    "docs/linux/font.md",
+    "docs/archlinux/xsession.md",
+    "docs/linux/包管理器.md",
+    "docs/部署/centos部署.md",
+    "docs/python/错误收集.md",
+    "docs/index.md"
   ]
 }
