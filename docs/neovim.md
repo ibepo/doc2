@@ -55,7 +55,7 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 |    a  |touch      |
 |   r   |     rename |
 |   d   |     delete |
-
+https://github.com/nvim-tree/nvim-tree.lua/blob/master/doc/nvim-tree-lua.txt
 ### fuzzy finder(模糊查询)
 
 

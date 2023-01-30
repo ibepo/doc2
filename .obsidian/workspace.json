@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79537b2da711c7a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/neovim.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0c0ca2f67413d77f",
             "type": "leaf",
             "state": {
@@ -164,7 +152,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "79537b2da711c7a5",
+  "active": "0c0ca2f67413d77f",
   "lastOpenFiles": [
     "docs/lua.md",
     "docs/neovim.md",
