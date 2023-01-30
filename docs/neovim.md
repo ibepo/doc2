@@ -48,6 +48,8 @@ end)
 ```
 
 ### nvim-tree
+nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件结构，telescope更加有针对性，在已了解工程结构的前提下更加便捷
+
 |   map   | aciton     |
 |:-----|:-----|
 |    a  |touch      |
@@ -61,10 +63,16 @@ end)
 
 
 ### auto completion
+|   keymap   | action     |
+|:-----|:-----|
+|    tr  | toggle trouble.nvim     |
+|    leader+t  |telescope find_files      |
+|      |      |
+|      |      |
 
 
 ### 参考
  https://github.com/BurntSushi/ripgrep
  https://github.com/nvim-telescope/telescope.nvim
  https://github.com/wbthomason/packer.nvim
- 
+ https://www.youtube.com/watch?v=SpexCBrZ1pQ
