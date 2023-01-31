@@ -69,7 +69,15 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 -  错误提示
 -  Code Action
 -  Format
--  ...
+
+|  map  |     aciton         |
+|:----- |:-----              |
+|   a   |     touch          |
+|   r   |     rename         |
+|   d   |     delete         |
+|   y   |     cope file name |
+|   c   |     cope file      |
+
 
 ### auto completion
 |   keymap   | action     |
