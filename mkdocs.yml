@@ -7,7 +7,11 @@ theme:
     language: zh # 中文，解决中文搜索问题
     features:
         - navigation.expand
-        - tabs
+        - navigation.sections
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.instant
+        - navigation.tracking
 markdown_extensions:
     - attr_list
     - pymdownx.tabbed
