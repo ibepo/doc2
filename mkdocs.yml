@@ -6,7 +6,7 @@ site_name: ipepoBlog
 theme:
     name: material 
     palette:
-        primary: indigo
+        primary: red 
     features:
         - content.code.copy
     #  favicon: attachment/portrait.png
