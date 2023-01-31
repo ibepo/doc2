@@ -1,4 +1,4 @@
-大纲：
+### 大纲：
 - option（setting）
 - plugin manager
 - splash
