@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/部署/centos部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/wiki.md"
+                "file": "docs/部署/centos部署.md"
               }
             }
           }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5004348754883
+    "width": 356.5004348754883
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/部署/centos部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/部署/centos部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +159,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "062cdeca6141fb1b",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/yaml.md",
+    "docs/lua.md",
+    "docs/wiki.md",
     "docs/English.md",
     "docs/neovim.md",
-    "docs/archlinux/bspwm.md",
-    "docs/lua.md",
     "docs/index.md",
-    "docs/yaml.md",
-    "docs/todo.md",
-    "docs/archlinux/edge.md",
-    "docs/wiki.md",
-    "docs/archlinux/vscode.md"
+    "docs/部署/nginx.md",
+    "docs/部署/centos部署.md",
+    "docs/python/典型问题.md",
+    "docs/python/python.md"
   ]
 }
