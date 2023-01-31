@@ -9,9 +9,6 @@ theme:
         primary: indigo
     features:
         - content.code.copy
-    icon:
-        logo:
-          bootstrap/envelope-paper
     #  favicon: attachment/portrait.png
 markdown_extensions:
     - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
