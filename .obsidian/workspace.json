@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/部署/centos部署.md",
+                "file": "docs/archlinux/pacman.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/部署/centos部署.md"
+                "file": "docs/archlinux/pacman.md"
               }
             }
           }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5004348754883
+    "width": 213.50043487548828
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/部署/centos部署.md",
+                "file": "docs/archlinux/pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/部署/centos部署.md",
+                "file": "docs/archlinux/pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +161,15 @@
   },
   "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/archlinux/bspwm.md",
+    "docs/archlinux/lf.md",
+    "docs/archlinux/pacman.md",
+    "docs/archlinux/edge.md",
+    "docs/archlinux/font.md",
+    "docs/archlinux/vscode.md",
+    "docs/部署/centos部署.md",
     "docs/yaml.md",
     "docs/lua.md",
-    "docs/wiki.md",
-    "docs/English.md",
-    "docs/neovim.md",
-    "docs/index.md",
-    "docs/部署/nginx.md",
-    "docs/部署/centos部署.md",
-    "docs/python/典型问题.md",
-    "docs/python/python.md"
+    "docs/杂项/wiki.md"
   ]
 }
