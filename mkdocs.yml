@@ -6,7 +6,7 @@ site_name: kf
 theme:
     name: material 
     icon:
-      logo:sun_with_face
+      logo: bootstrap/envelope-paper
     palette:
       primary: red 
     features:
