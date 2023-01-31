@@ -4,21 +4,7 @@ repo_url: https://github.com/ibepo/doc2/
 theme:
     name: material
     locale: en
-    analytics: { gtag: "G-274394082" }
     highlightjs: true
-    hljs_languages:
-        - yaml
-        - django
-
-nav:
-    - Home: index.md
-    - Getting Started: getting-started.md
-    - User Guide: user-guide/
-    - Developer Guide: dev-guide/
-    - About:
-          - Release Notes: about/release-notes.md
-          - Contributing: about/contributing.md
-          - License: about/license.md
 markdown_extensions:
     - toc:
           permalink: 
