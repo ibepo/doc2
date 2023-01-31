@@ -3,7 +3,7 @@ site_name: kamehameha
 theme:
     name: material
     palette:
-        primary: purple
+        primary: blue grey
     language: zh
     icon:
         logo: material/library-shelves
