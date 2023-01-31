@@ -5,10 +5,12 @@
 site_name: kf 
 theme:
     name: material 
+    icon:
+      logo:sun_with_face
     palette:
-        primary: red 
+      primary: red 
     features:
-        - content.code.copy
+      - content.code.copy
     #  favicon: attachment/portrait.png
 markdown_extensions:
     - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
