@@ -1,4 +1,3 @@
-#  🦖wiki
 
 <img src="https://gitee.com/ibepo/ogcip/raw/master/20210930122438.jpg" alt="查看源图像" style="zoom: 150%;" />
 ## Git

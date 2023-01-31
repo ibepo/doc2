@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/wiki.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/neovim.md"
+                "file": "docs/wiki.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +161,9 @@
   },
   "active": "0c0ca2f67413d77f",
   "lastOpenFiles": [
+    "docs/neovim.md",
     "docs/archlinux/vscode.md",
     "docs/archlinux/网易云音乐.md",
-    "docs/neovim.md",
     "docs/python/python.md",
     "docs/linux/shell.md",
     "docs/linux/font.md",
