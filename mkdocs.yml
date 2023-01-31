@@ -9,8 +9,6 @@ theme:
         primary: red 
     features:
         - content.code.copy
-        - navigation.instant
-        - navigation.prune
     #  favicon: attachment/portrait.png
 markdown_extensions:
     - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
