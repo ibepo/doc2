@@ -5,8 +5,10 @@
 site_name: ipepoBlog
 theme:
     name: material 
+    palette:
+        primary: indigo
     features:
-      - content.code.copy
+        - content.code.copy
     #  favicon: attachment/portrait.png
 markdown_extensions:
     - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
