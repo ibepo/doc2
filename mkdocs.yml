@@ -5,8 +5,6 @@
 site_name: kf 
 theme:
     name: material 
-    icon:
-      logo: bootstrap/envelope-paper
     palette:
       primary: red 
     features:
