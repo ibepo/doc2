@@ -10,7 +10,6 @@
 - lualine
 - bufferline
 - fuzzy-find
- 
 
 ###  runtimepath
 
