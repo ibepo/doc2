@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lua.md",
+                "file": "docs/archlinux/bspwm.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lua.md"
+                "file": "docs/archlinux/bspwm.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lua.md",
+                "file": "docs/archlinux/bspwm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lua.md",
+                "file": "docs/archlinux/bspwm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +161,7 @@
   },
   "active": "062cdeca6141fb1b",
   "lastOpenFiles": [
+    "docs/lua.md",
     "docs/index.md",
     "docs/yaml.md",
     "docs/todo.md",
@@ -169,7 +170,6 @@
     "docs/neovim.md",
     "docs/archlinux/vscode.md",
     "docs/archlinux/网易云音乐.md",
-    "docs/python/python.md",
-    "docs/linux/shell.md"
+    "docs/python/python.md"
   ]
 }
