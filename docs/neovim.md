@@ -1,6 +1,7 @@
 大纲：
 - option（setting）
 - plugin manager
+- splash
 - theme
 - file-explore
 - lsp
@@ -8,7 +9,6 @@
 - autopair
 - lualine
 - bufferline
-- splash
 - fuzzy-find
  
 
