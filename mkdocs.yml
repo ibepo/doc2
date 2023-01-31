@@ -1,48 +1,62 @@
-site_name: ipepoBlog
+site_name: ibepoBlog
+repo_url: https://github.com/ibepo/doc2/
+
 theme:
     name: material
-    palette:
-        primary: red
-    features:
-        - content.code.copy
-markdown_extensions:
-    - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
-    - pymdownx.tabbed # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
-    - nl2br # newline-to-break
-    - toc:
-          permalink: "#" # heading anchor
-          slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
+    locale: en
+    analytics: { gtag: "G-274394082" }
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
 
-    - admonition
-    - codehilite:
-          guess_lang: false
-          linenums: false
-    - footnotes
-    - meta
+nav:
+    - Home: index.md
+    - Getting Started: getting-started.md
+    - User Guide: user-guide/
+    - Developer Guide: dev-guide/
+    - About:
+          - Release Notes: about/release-notes.md
+          - Contributing: about/contributing.md
+          - License: about/license.md
+markdown_extensions:
+    - toc:
+          permalink: 
+    - attr_list
     - def_list
-    - pymdownx.arithmatex
-    - pymdownx.betterem:
-          smart_enable: all
-    - pymdownx.caret
-    - pymdownx.critic
-    - pymdownx.details
-    # - pymdownx.emoji:
-    # emoji_generator: !!python/name:pymdownx.emoji.to_png
-    - pymdownx.inlinehilite
-    - pymdownx.magiclink
-    - pymdownx.mark
-    - pymdownx.smartsymbols
+    - tables
+    - pymdownx.highlight:
+          use_pygments: false
+    - pymdownx.snippets
     - pymdownx.superfences
-    - pymdownx.tasklist
-    - pymdownx.tilde
+    - callouts
+    - mdx_gh_links:
+          user: mkdocs
+          repo: mkdocs
+    - mkdocs-click
+
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
+
 plugins:
     - search
-    - roamlinks
-      #- autolinks
-    - exclude:
-          glob:
-              - "*.tmp"
-              - "*.pdf"
-              - "*.gz"
-          regex:
-              - '.*\.(tmp|bin|tar)$'
+    - redirects:
+          redirect_maps:
+              user-guide/plugins.md: dev-guide/plugins.md
+              user-guide/custom-themes.md: dev-guide/themes.md
+              user-guide/styling-your-docs.md: user-guide/choosing-your-theme.md
+    - autorefs
+    - literate-nav:
+          nav_file: README.md
+          implicit_index: true
+    - mkdocstrings:
+          handlers:
+              python:
+                  options:
+                      docstring_section_style: list
+                      members_order: source
+                      show_root_heading: true
+                      show_source: false
+                      show_signature_annotations: true
+
+watch:
+    - mkdocs
