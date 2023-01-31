@@ -28,7 +28,7 @@
 ```shell
 :help option-list
 ```
-### plug manager(插件管理器)
+### plug manager
  
 ```shell
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
@@ -58,7 +58,7 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 |   c   |     cope file      |
 
 
-### fuzzy finder(模糊查询)
+### fuzzy finder
 
 
 ### lsp config plugin
