@@ -3,8 +3,10 @@ site_name: kamehameha
 theme:
     name: material
     palette:
-        primary: red
+        primary: purple
     language: zh
+    icon:
+        logo: material/library-shelves
     features:
         - navigation.expand
         - navigation.indexes
@@ -22,6 +24,7 @@ markdown_extensions:
     - toc:
           permalink: "#"
           slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
+
 
     - admonition
     - codehilite:
