@@ -162,6 +162,7 @@
   "active": "062cdeca6141fb1b",
   "lastOpenFiles": [
     "docs/index.md",
+    "docs/neovim.md",
     "docs/archlinux/pacman.md",
     "docs/archlinux/bspwm.md",
     "docs/archlinux/lf.md",
@@ -169,7 +170,6 @@
     "docs/archlinux/font.md",
     "docs/archlinux/vscode.md",
     "docs/部署/centos部署.md",
-    "docs/杂项/yaml.md",
-    "docs/杂项/lua.md"
+    "docs/杂项/yaml.md"
   ]
 }

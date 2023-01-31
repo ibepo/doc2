@@ -63,12 +63,13 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 
 ### lsp config plugin
 #### 代码Nav
-- 函数引用
-- 调用图
-- 函数签名
-- 错误提示
-- Code Action
-- Format
+-  函数引用
+-  调用图
+-  函数签名
+-  错误提示
+-  Code Action
+-  Format
+-  ...
 
 ### auto completion
 |   keymap   | action     |
