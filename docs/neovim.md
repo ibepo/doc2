@@ -1,4 +1,4 @@
-### 大纲：
+### 大纲
 - option（setting）
 - plugin manager
 - splash
@@ -49,18 +49,26 @@ end)
 ### nvim-tree
 nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件结构，telescope更加有针对性，在已了解工程结构的前提下更加便捷
 
-|   map   | aciton     |
-|:-----|:-----|
-|    a  |touch      |
-|   r   |     rename |
-|   d   |     delete |
+|  map  |     aciton         |
+|:----- |:-----              |
+|   a   |     touch          |
+|   r   |     rename         |
+|   d   |     delete         |
+|   y   |     cope file name |
+|   c   |     cope file      |
 
 
 ### fuzzy finder(模糊查询)
 
 
 ### lsp config plugin
-
+#### 代码Nav
+- 函数引用
+- 调用图
+- 函数签名
+- 错误提示
+- Code Action
+- Format
 
 ### auto completion
 |   keymap   | action     |
