@@ -3,8 +3,8 @@ site_name: kamehameha
 theme:
     name: material
     palette:
-        scheme: red
-    language: zh # 中文，解决中文搜索问题
+        primary: red
+    language: zh
     features:
         - navigation.expand
         - navigation.indexes
@@ -18,11 +18,10 @@ theme:
 markdown_extensions:
     - attr_list
     - pymdownx.tabbed
-    - nl2br # newline-to-break
+    - nl2br
     - toc:
-          permalink: "#" # heading anchor
+          permalink: "#"
           slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
-
 
     - admonition
     - codehilite:
