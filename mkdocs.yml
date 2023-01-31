@@ -1,20 +1,3 @@
 site_name: ibepoBlog
-repo_url: https://github.com/ibepo/doc2/
-
 theme:
     name: material
-    locale: en
-    highlightjs: true
-markdown_extensions:
-    - toc:
-          permalink: 
-    - attr_list
-    - def_list
-    - tables
-    - pymdownx.highlight:
-          use_pygments: false
-    - pymdownx.snippets
-    - pymdownx.superfences
-
-plugins:
-    - search
