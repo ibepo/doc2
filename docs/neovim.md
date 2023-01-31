@@ -3,7 +3,7 @@
 - plugin manager
 - splash
 - theme
-- file-explore
+- FileExpolre
 - lsp
 - cmp
 - autopair
