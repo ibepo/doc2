@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/pacman.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +159,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "062cdeca6141fb1b",
   "lastOpenFiles": [
+    "docs/archlinux/pacman.md",
     "docs/archlinux/bspwm.md",
     "docs/archlinux/lf.md",
-    "docs/archlinux/pacman.md",
     "docs/archlinux/edge.md",
     "docs/archlinux/font.md",
     "docs/archlinux/vscode.md",
     "docs/部署/centos部署.md",
-    "docs/yaml.md",
-    "docs/lua.md",
+    "docs/杂项/yaml.md",
+    "docs/杂项/lua.md",
     "docs/杂项/wiki.md"
   ]
 }
