@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/config/ideavim.md",
                 "mode": "source",
                 "source": true
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/neovim.md"
+                "file": "docs/config/ideavim.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/config/ideavim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/config/ideavim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +161,8 @@
   },
   "active": "062cdeca6141fb1b",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/neovim.md",
+    "docs/index.md",
     "docs/archlinux/pacman.md",
     "docs/archlinux/bspwm.md",
     "docs/archlinux/lf.md",
