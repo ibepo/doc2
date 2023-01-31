@@ -10,8 +10,6 @@ theme:
     features:
         - content.code.copy
         - navigation.instant
-        - navigation.tabs
-        - navigation.tabs.sticky
         - navigation.prune
     #  favicon: attachment/portrait.png
 markdown_extensions:
