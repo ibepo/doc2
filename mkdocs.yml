@@ -5,6 +5,8 @@
 site_name: ibepo's blog
 theme:
     name: material 
+    features:
+      - content.code.copy
     #  favicon: attachment/portrait.png
 markdown_extensions:
     - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
