@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": true
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +161,7 @@
   },
   "active": "062cdeca6141fb1b",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/archlinux/pacman.md",
     "docs/archlinux/bspwm.md",
     "docs/archlinux/lf.md",
@@ -169,7 +170,6 @@
     "docs/archlinux/vscode.md",
     "docs/部署/centos部署.md",
     "docs/杂项/yaml.md",
-    "docs/杂项/lua.md",
-    "docs/杂项/wiki.md"
+    "docs/杂项/lua.md"
   ]
 }
