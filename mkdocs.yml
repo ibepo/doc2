@@ -1,15 +1,11 @@
-# official tutorial
-# mkdocs-material: https://squidfunk.github.io/mkdocs-material/
-# mkdocs: https://www.mkdocs.org/user-guide/configuration/
-
 site_name: ipepoBlog
 theme:
-    name: material 
+    name: material
     palette:
-        primary: red 
+        primary: red
     features:
         - content.code.copy
-    #  favicon: attachment/portrait.png
+        #  favicon: attachment/portrait.png
 markdown_extensions:
     - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
     - pymdownx.tabbed # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
