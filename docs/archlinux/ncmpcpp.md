@@ -134,3 +134,6 @@ def_key "s"
     toggle_visualization_type
 
 ```
+
+### 参考
+https://pkgbuild.com/~jelle/ncmpcpp/

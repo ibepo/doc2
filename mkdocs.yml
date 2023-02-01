@@ -1,5 +1,5 @@
 # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
-site_name: kamehameha
+site_name: ibepo's blog 
 theme:
     name: material
     palette:

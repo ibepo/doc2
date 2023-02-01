@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/杂项/mqtt.md",
+                "file": "docs/archlinux/ncmpcpp.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/杂项/mqtt.md"
+                "file": "docs/archlinux/ncmpcpp.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/杂项/mqtt.md",
+                "file": "docs/archlinux/ncmpcpp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/杂项/mqtt.md",
+                "file": "docs/archlinux/ncmpcpp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,7 @@
   },
   "active": "2c69f20d9284d73c",
   "lastOpenFiles": [
+    "docs/杂项/mqtt.md",
     "docs/neovim.md",
     "docs/archlinux/雅思词汇.md",
     "docs/archlinux/pacman.md",
@@ -206,7 +207,6 @@
     "docs/archlinux/bspwm.md",
     "docs/archlinux/lf.md",
     "docs/archlinux/edge.md",
-    "docs/archlinux/font.md",
-    "docs/archlinux/vscode.md"
+    "docs/archlinux/font.md"
   ]
 }
