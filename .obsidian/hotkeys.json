@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-youglish-plugin:open-youglish-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ]
+}
