@@ -6,7 +6,7 @@
 - FileExpolre
 - lsp
 - cmp
-- autopair
+- autopair,indent_blankline
 - lualine
 - bufferline
 - fuzzy-find

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/雅思词汇.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/雅思词汇.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/雅思词汇.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/雅思词汇.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,6 +186,7 @@
   },
   "active": "bfb72ef1d5adeec6",
   "lastOpenFiles": [
+    "docs/archlinux/雅思词汇.md",
     "docs/archlinux/pacman.md",
     "docs/neovim.md",
     "docs/config/ideavim.md",
@@ -194,7 +195,6 @@
     "docs/archlinux/lf.md",
     "docs/archlinux/edge.md",
     "docs/archlinux/font.md",
-    "docs/archlinux/vscode.md",
-    "docs/部署/centos部署.md"
+    "docs/archlinux/vscode.md"
   ]
 }
