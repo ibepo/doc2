@@ -27,7 +27,7 @@ pamac info picom  查看安装的软件信息
   - `pacman -Syy`            同步软件包
   - `pacman -Syu`            对整个系统进行更新
 
-## pacman mirrors
+### pacman mirrors
 ```shell
 cd /etc/pacman.d/
 sudo vim mirrorlis
@@ -50,7 +50,7 @@ sudo pacman -Syy
 ```
 
 
-### pacman cheechit
+### pacman 
 
 ```shell
 
