@@ -50,7 +50,7 @@ sudo pacman -Syy
 ```
 
 
-### pacman 
+### pacman  cheatsheet
 
 ```shell
 
