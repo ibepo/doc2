@@ -1,5 +1,5 @@
 ### 大纲
-- option（setting）
+- option
 - plugin manager
 - splash
 - theme
