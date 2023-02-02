@@ -1,0 +1,1 @@
+[全局安装包时解析EACCES权限 EACCES, 全局安装包时解析EACCES权限，避免npm安装包出错](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
