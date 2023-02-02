@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/config/js.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/config/js.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/config/js.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/config/js.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
   "active": "fff158a54322620e",
   "lastOpenFiles": [
     "docs/config/().md",
-    "docs/config/js.md",
+    "docs/杂项/js.md",
     "docs/config/前端项目的配置文件.md",
     "docs/config/ideavim.md",
     "docs/杂项/雅思词汇.md",
