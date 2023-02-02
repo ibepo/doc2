@@ -70,24 +70,15 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 -  Code Action
 -  Format
 
-key	description	mode
-|:----- |:-----              |
-K	hover information	normal
-gd	go to definition	normal
-gD	go to declaration	normal
-gr	go to references	normal
-gI	go to implementation	normal
-gs	show signature help	normal
-gl	show line diagnostics	normal
-
-|  map  |     aciton         |
-|:----- |:-----              |
-|   a   |     touch          |
-|   r   |     rename         |
-|   d   |     delete         |
-|   y   |     cope file name |
-|   c   |     cope file      |
-
+| key | description | mode
+|:----- |:-----     |:-----    |
+| K | hover information	|normal
+| gd | go to definition | normal
+| gD	| go to declaration |	normal
+| gr |  go to references	|normal
+| gI | go to implementation | normal
+| gs	| show signature help | 	normal
+| gl | show line diagnostics |	normal
 
 ### auto completion
 |   keymap   | action     |
