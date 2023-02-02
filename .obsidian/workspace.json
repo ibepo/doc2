@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/ncmpcpp.md",
+                "file": "docs/杂项/雅思词汇.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/ncmpcpp.md"
+                "file": "docs/杂项/雅思词汇.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/ncmpcpp.md",
+                "file": "docs/杂项/雅思词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/ncmpcpp.md",
+                "file": "docs/杂项/雅思词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-youglish-plugin:Youglish Plugin": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:Create new canvas": false,
@@ -196,17 +197,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2c69f20d9284d73c",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/杂项/English.md",
+    "docs/archlinux/ncmpcpp.md",
     "docs/杂项/mqtt.md",
     "docs/neovim.md",
-    "docs/archlinux/雅思词汇.md",
+    "docs/杂项/雅思词汇.md",
     "docs/archlinux/pacman.md",
     "docs/config/ideavim.md",
     "docs/index.md",
     "docs/archlinux/bspwm.md",
-    "docs/archlinux/lf.md",
-    "docs/archlinux/edge.md",
-    "docs/archlinux/font.md"
+    "docs/archlinux/lf.md"
   ]
 }
