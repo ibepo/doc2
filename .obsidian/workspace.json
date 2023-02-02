@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/linux/包管理器.md",
                 "mode": "source",
                 "source": true
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/杂项/雅思词汇.md"
+                "file": "docs/linux/包管理器.md"
               }
             }
           }
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/杂项/雅思词汇.md",
+                "file": "docs/linux/包管理器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/杂项/雅思词汇.md",
+                "file": "docs/linux/包管理器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,17 +196,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "062cdeca6141fb1b",
   "lastOpenFiles": [
+    "docs/linux/shell语法.md",
+    "docs/linux/网络管理.md",
+    "docs/linux/服务管理.md",
+    "docs/config/ideavim.md",
+    "docs/neovim.md",
+    "docs/archlinux/pacman.md",
     "docs/杂项/English.md",
     "docs/archlinux/ncmpcpp.md",
     "docs/杂项/mqtt.md",
-    "docs/neovim.md",
-    "docs/杂项/雅思词汇.md",
-    "docs/archlinux/pacman.md",
-    "docs/config/ideavim.md",
-    "docs/index.md",
-    "docs/archlinux/bspwm.md",
-    "docs/archlinux/lf.md"
+    "docs/杂项/雅思词汇.md"
   ]
 }
