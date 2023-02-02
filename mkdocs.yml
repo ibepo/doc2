@@ -3,7 +3,7 @@ site_name: ibepo's blog
 theme:
     name: material
     palette:
-        primary: blue grey
+        primary: black 
     language: zh
     icon:
         logo: material/library-shelves
