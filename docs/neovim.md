@@ -67,6 +67,11 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 -   `=`代码格式化模块
 -   Folding 模块
 
+```shell
+:TsInstallInfo #查看已安装的language parser
+:TSInstall javascript #手工安装某个language parser
+```
+
 ### lsp config plugin
 #### 代码Nav
 -  函数引用
