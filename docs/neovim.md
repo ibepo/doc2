@@ -62,8 +62,10 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 ### fuzzy finder
 
 ### nvim-treesitter
+>可以理解为更加理解代码结构和意图的自动档，让nvim更具备相关语言的特色功能
 -   代码高亮模块
 -   增量选择模块（代替wildfire.vim)
+-   格式化功能
 -   Folding 模块
 
 ```shell

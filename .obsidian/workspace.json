@@ -39,7 +39,7 @@
               "state": {
                 "file": "docs/neovim.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
