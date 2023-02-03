@@ -70,6 +70,7 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 ```shell
 :TsInstallInfo #查看已安装的language parser
 :TSInstall javascript #手工安装某个language parser
+:TSModuleInfo #查看parser的安装情况
 ```
 
 ### lsp config plugin
