@@ -18,6 +18,10 @@ export LANGUAGE=ZH-CN.UTF-8
 |    f  |   标记超链接   |
 |    x  |    关闭tab  |
 
+### 添加outline css 参考线 
+[使用命令面板通过键盘运行命令](https://learn.microsoft.com/zh-cn/microsoft-edge/devtools-guide-chromium/experimental-features/edge-command-palette#create-and-access-snippets)
+[在任何网页上运行 JavaScript 的代码片段](https://learn.microsoft.com/zh-cn/microsoft-edge/devtools-guide-chromium/javascript/snippets)
+
 ```shell
 $$('*').forEach(e => {
   e.style.outline = '1px solid #' + (~~(Math.random()*(1<<24))).toString(16);
