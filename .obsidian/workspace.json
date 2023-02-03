@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/edge.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/edge.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/edge.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/edge.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,6 +235,7 @@
   },
   "active": "55db21533bb3f7f7",
   "lastOpenFiles": [
+    "docs/archlinux/edge.md",
     "docs/未命名.md",
     "docs/neovim.md",
     "docs/config/().md",
@@ -243,7 +244,6 @@
     "docs/config/ideavim.md",
     "docs/杂项/雅思词汇.md",
     "docs/linux/包管理器.md",
-    "docs/linux/shell语法.md",
-    "docs/linux/网络管理.md"
+    "docs/linux/shell语法.md"
   ]
 }
