@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/neovim.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.50043487548828
+    "width": 213.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",

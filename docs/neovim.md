@@ -10,6 +10,7 @@
 - lualine
 - bufferline
 - fuzzy-find
+- nvim-treesitter
 
 ###  runtimepath
 
@@ -60,6 +61,11 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 
 ### fuzzy finder
 
+### nvim-treesitter
+-   代码高亮模块
+-   增量选择模块
+-   `=`代码格式化模块
+-   Folding 模块
 
 ### lsp config plugin
 #### 代码Nav
