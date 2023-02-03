@@ -63,14 +63,14 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 
 ### nvim-treesitter
 -   代码高亮模块
--   增量选择模块
--   `=`代码格式化模块
+-   增量选择模块（代替wildfire.vim)
 -   Folding 模块
 
 ```shell
 :TsInstallInfo #查看已安装的language parser
 :TSInstall javascript #手工安装某个language parser
 :TSModuleInfo #查看parser的安装情况
+:TSBufToggle highlight #toggle当前语言的高亮
 ```
 
 ### lsp config plugin
