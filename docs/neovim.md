@@ -66,6 +66,7 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 - gcc 按行注释
 - gbc 按块注释
 - gc  按行注释选中
+- gc2j 往下按注释两行
 - gb  按块注释选中
 - gcO 在当前行之上添加注释
 - gco 在当前行之下添加注释
