@@ -121,3 +121,4 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
  https://github.com/nvim-tree/nvim-tree.lua/blob/master/doc/nvim-tree-lua.txt
  https://www.lunarvim.org/
  https://devhints.io/vim
+ https://www.youtube.com/watch?v=-InmtHhk2qM
