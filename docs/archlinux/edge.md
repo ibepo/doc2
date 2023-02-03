@@ -18,3 +18,9 @@ export LANGUAGE=ZH-CN.UTF-8
 |    f  |   标记超链接   |
 |    x  |    关闭tab  |
 
+```shell
+$$('*').forEach(e => {
+  e.style.outline = '1px solid #' + (~~(Math.random()*(1<<24))).toString(16);
+  e.style.outlineOffset= '-1px';
+})
+```
