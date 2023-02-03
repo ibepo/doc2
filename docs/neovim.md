@@ -65,14 +65,11 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 ### comment
 - gcc 按行注释
 - gbc 按块注释
-- gc  注释选中
-- gb  
-  ---Add comment on the line above
-        above = 'gcO',
-        ---Add comment on the line below
-        below = 'gco',
-        ---Add comment at the end of line
-        eol = 'gcA',
+- gc  按行注释选中
+- gb  按块注释选中
+- gcO 在当前行之上添加注释
+- gco 在当前行之下添加注释
+- gcA 在当前行尾添加注释
 ### nvim-treesitter
 >可以理解为更加理解代码结构和意图的自动档，让nvim更具备相关语言的特色功能
 -   代码高亮模块
