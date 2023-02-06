@@ -13,6 +13,10 @@
 - fuzzy-find
 - nvim-treesitter
 
+LSP: lspconfig & mason-lspconfig.nvim
+DAP: nvim-dap
+Linters: null-ls.nvim or nvim-lint
+Formatters: null-ls.nvim or formatter.nvim
 ###  runtimepath
 
 ```shell

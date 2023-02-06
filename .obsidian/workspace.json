@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/杂项/yaml.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/杂项/yaml.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/杂项/yaml.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/杂项/yaml.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +162,7 @@
   },
   "active": "1f0fbde0096a8673",
   "lastOpenFiles": [
+    "docs/杂项/yaml.md",
     "docs/杂项/mqtt.md",
     "docs/杂项/雅思词汇.md",
     "docs/slam.md",
@@ -170,7 +171,6 @@
     "docs/neovim.md",
     "docs/杂项/English.md",
     "docs/archlinux/edge.md",
-    "docs/config/().md",
-    "docs/杂项/js.md"
+    "docs/config/().md"
   ]
 }
