@@ -120,6 +120,13 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 | dsiw    | 删除包裹     |
 | visual模式下，\<cr>+S+''     |先用野火包围选区，再用大S加符号包裹之 |
 
+### vim-sandwich
+| keymap   | action     |
+|:-----|:-----|
+|saiw      |      |
+|sriw      |      |
+|sciw      |      |
+
 
 ### 参考
  https://github.com/BurntSushi/ripgrep
