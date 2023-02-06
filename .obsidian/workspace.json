@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31977df40aa175ea",
+        "id": "4ad97099238f0702",
         "type": "tabs",
         "children": [
           {
-            "id": "062cdeca6141fb1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/config/ideavim.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e83f72c1ffa52b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/config/前端项目的配置文件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fff158a54322620e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/neovim.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "55db21533bb3f7f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/neovim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa7dc874b544525f",
+            "id": "1f0fbde0096a8673",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bfb72ef1d5adeec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/neovim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c69f20d9284d73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/杂项/雅思词汇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfefb01bb7fd5c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/archlinux/ncmpcpp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.50043487548828,
-    "collapsed": true
+    "width": 213.50043487548828
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -246,17 +160,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "fa7dc874b544525f",
+  "active": "1f0fbde0096a8673",
   "lastOpenFiles": [
+    "docs/config/ideavim.md",
+    "docs/config/前端项目的配置文件.md",
     "docs/neovim.md",
+    "docs/slam.md",
     "docs/杂项/雅思词汇.md",
     "docs/杂项/English.md",
     "docs/archlinux/edge.md",
-    "docs/slam.md",
     "docs/config/().md",
     "docs/杂项/js.md",
-    "docs/config/前端项目的配置文件.md",
-    "docs/config/ideavim.md",
     "docs/linux/包管理器.md"
   ]
 }
