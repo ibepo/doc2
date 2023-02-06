@@ -123,9 +123,10 @@ nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件�
 ### vim-sandwich
 | keymap   | action     |
 |:-----|:-----|
-|saiw      |      |
-|sriw      |      |
+|saiw      |    包裹word  |
+|sriw      |    替换word的包裹  |
 |sciw      |      |
+|saiwffunctionname      |   包裹文字并作为要创建的方法的参数   |
 
 
 ### 参考
