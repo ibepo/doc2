@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/杂项/雅思词汇.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/杂项/雅思词汇.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/杂项/雅思词汇.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/杂项/雅思词汇.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +235,8 @@
   },
   "active": "55db21533bb3f7f7",
   "lastOpenFiles": [
-    "docs/杂项/English.md",
     "docs/杂项/雅思词汇.md",
+    "docs/杂项/English.md",
     "docs/neovim.md",
     "docs/archlinux/edge.md",
     "docs/未命名.md",
