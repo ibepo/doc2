@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/slam.md",
+                "file": "docs/杂项/yaml.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/slam.md"
+                "file": "docs/杂项/yaml.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/slam.md",
+                "file": "docs/杂项/yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/slam.md",
+                "file": "docs/杂项/yaml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "1f0fbde0096a8673",
   "lastOpenFiles": [
+    "docs/杂项/mqtt.md",
+    "docs/杂项/雅思词汇.md",
+    "docs/slam.md",
     "docs/config/ideavim.md",
     "docs/config/前端项目的配置文件.md",
     "docs/neovim.md",
-    "docs/slam.md",
-    "docs/杂项/雅思词汇.md",
     "docs/杂项/English.md",
     "docs/archlinux/edge.md",
     "docs/config/().md",
-    "docs/杂项/js.md",
-    "docs/linux/包管理器.md"
+    "docs/杂项/js.md"
   ]
 }
