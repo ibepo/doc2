@@ -153,3 +153,4 @@ mason-config-lsp
  https://neovim.io/doc/user/lua.html#lua-highlight
  https://raw.githubusercontent.com/nvim-lua/kickstart.nvim/master/init.lua
  https://microsoft.github.io/language-server-protocol/implementors/servers/
+ https://github.com/VonHeikemen/lsp-zero.nvim
