@@ -152,3 +152,4 @@ mason-config-lsp
  https://github.com/machakann/vim-sandwich/blob/master/doc/sandwich.txt
  https://neovim.io/doc/user/lua.html#lua-highlight
  https://raw.githubusercontent.com/nvim-lua/kickstart.nvim/master/init.lua
+ https://microsoft.github.io/language-server-protocol/implementors/servers/
