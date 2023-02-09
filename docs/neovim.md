@@ -377,6 +377,10 @@ mason-config-lsp
 | gs	| show signature help | 	normal
 | gl | show line diagnostics |	normal
 
+### mason-null-ls.nvim
+```shell
+:NullLsInstall
+```
 ### auto completion
 |   keymap   | action     |
 |:-----|:-----|
