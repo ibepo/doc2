@@ -378,6 +378,18 @@ mason-config-lsp
 | gl | show line diagnostics |	normal
 
 ### mason-null-ls.nvim
+>与VS Code和coc.nvim生态系统不同，Neovim没有为非LSP源提供连接到其LSP客户端的方法。null-ls试图弥合这一差距，并简化使用纯Lua创建、共享和设置LSP源的过程。
+  nullls还试图减少设置通用语言服务器所需的样板，并通过消除对外部进程的需要来提高性能。
+
+### null-ls.nvim
+#### Features
+* null-ls sources are able to hook into the following LSP features:
+* Code actions
+* Diagnostics (file- and project-level)
+* Formatting (including range formatting)
+* Hover
+* Completion
+
 ```shell
 :NullLsInstall
 ```
