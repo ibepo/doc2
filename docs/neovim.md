@@ -81,7 +81,7 @@ Features
 |   Y   |    copy_path      |
 |   c   |    copy file      |
 |   p   |     paste         |
-https://user-images.githubusercontent.com/17254073/195207023-7b709e35-7f10-416b-aafb-5bb61268c7d3.png
+
 
 ### fuzzy finder
 
@@ -174,3 +174,4 @@ mason-config-lsp
  https://microsoft.github.io/language-server-protocol/implementors/servers/
  https://github.com/VonHeikemen/lsp-zero.nvim
  https://www.youtube.com/watch?v=vdn_pKJUda8&t=117s
+ https://user-images.githubusercontent.com/17254073/195207023-7b709e35-7f10-416b-aafb-5bb61268c7d3.png
