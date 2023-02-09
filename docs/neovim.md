@@ -67,18 +67,20 @@ Features
 |  map  |     aciton         |
 |:----- |:-----              |
 |   E   |     expand_all     |
+|   W   |     collapse_all   |
 |   tab |     preview        |
 |   a   |     create         |
-|   R   |     refresh         |
+|   R   |     refresh        |
 |   f   |     live_filter    |
 |   r   |     rename         |
 |   d   |     remove         |
 |   x   |     cut            |
 |   D   |     trash          |
 |   y   |     copy_name      |
-|   Y    |    copy_path      |
-|   c   |     copy file      |
-|   p   |      paste         |
+|   gy  |    copy_absolute_name      |
+|   Y   |    copy_path      |
+|   c   |    copy file      |
+|   p   |     paste         |
 https://user-images.githubusercontent.com/17254073/195207023-7b709e35-7f10-416b-aafb-5bb61268c7d3.png
 
 ### fuzzy finder
