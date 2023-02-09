@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/neovim.md"
+                "file": "docs/杂项/雅思词汇.md"
               }
             }
           }
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/杂项/雅思词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/杂项/雅思词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +173,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b8e41c23163a73b3",
+  "active": "1f0fbde0096a8673",
   "lastOpenFiles": [
+    "docs/neovim.md",
     "docs/杂项/雅思词汇.md",
     "docs/杂项/English.md",
-    "docs/neovim.md",
     "docs/杂项/yaml.md",
     "docs/杂项/mqtt.md",
     "docs/slam.md",
