@@ -163,3 +163,4 @@ mason-config-lsp
  https://raw.githubusercontent.com/nvim-lua/kickstart.nvim/master/init.lua
  https://microsoft.github.io/language-server-protocol/implementors/servers/
  https://github.com/VonHeikemen/lsp-zero.nvim
+ https://www.youtube.com/watch?v=vdn_pKJUda8&t=117s
