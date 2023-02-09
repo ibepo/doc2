@@ -437,3 +437,4 @@ mason-config-lsp
  https://www.youtube.com/watch?v=vdn_pKJUda8&t=117s
  https://user-images.githubusercontent.com/17254073/195207023-7b709e35-7f10-416b-aafb-5bb61268c7d3.png
  https://github.com/VonHeikemen/lsp-zero.nvim/wiki/Under-the-hood
+ https://github.com/jose-elias-alvarez/null-ls.nvim/blob/main/doc/BUILTINS.md(null-ls的一些内置源)
