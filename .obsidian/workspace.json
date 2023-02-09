@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/杂项/雅思词汇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a05e5947213953e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.50043487548828,
-    "collapsed": true
+    "width": 213.50043487548828
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -162,16 +174,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1f0fbde0096a8673",
+  "active": "b8e41c23163a73b3",
   "lastOpenFiles": [
     "docs/杂项/雅思词汇.md",
+    "docs/杂项/English.md",
     "docs/neovim.md",
     "docs/杂项/yaml.md",
     "docs/杂项/mqtt.md",
     "docs/slam.md",
     "docs/config/ideavim.md",
     "docs/config/前端项目的配置文件.md",
-    "docs/杂项/English.md",
     "docs/archlinux/edge.md",
     "docs/config/().md"
   ]
