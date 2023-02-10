@@ -112,6 +112,9 @@ Features
 
 
 ### lsp_zero
+> this is the integration between the LSP client and the autocompletion plugin.
+
+
 ```shell
 ---
 -- LSP Support
