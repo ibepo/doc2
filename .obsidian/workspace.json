@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/python/python.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/python/python.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/python/python.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/python/python.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,7 @@
   },
   "active": "0a529d0673763773",
   "lastOpenFiles": [
+    "docs/python/python.md",
     "docs/杂项/zathura.md",
     "docs/neovim.md",
     "docs/杂项/雅思词汇.md",
@@ -195,7 +196,6 @@
     "docs/杂项/mqtt.md",
     "docs/slam.md",
     "docs/config/ideavim.md",
-    "docs/config/前端项目的配置文件.md",
-    "docs/archlinux/edge.md"
+    "docs/config/前端项目的配置文件.md"
   ]
 }
