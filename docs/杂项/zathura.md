@@ -2,4 +2,4 @@
 |:-----|:-----|
 |   +/-   | zoom screen     |
 |     f |highlight link      |
-|      |      |
+|  tab    |     index |
