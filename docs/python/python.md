@@ -8,3 +8,7 @@ python -m site
 ```shell
 pip list
 ```
+
+参考：
+https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python
+https://pep8.org/
