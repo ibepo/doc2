@@ -441,3 +441,4 @@ mason-config-lsp
  https://user-images.githubusercontent.com/17254073/195207023-7b709e35-7f10-416b-aafb-5bb61268c7d3.png
  https://github.com/VonHeikemen/lsp-zero.nvim/wiki/Under-the-hood
  https://github.com/jose-elias-alvarez/null-ls.nvim/blob/main/doc/BUILTINS.md(null-ls的一些内置源)
+ https://til.hashrocket.com/posts/619fdc96ed-running-same-vim-command-into-multiple-lines(在comnand模式执行 映射命令)
