@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/杂项/未命名.md",
+                "file": "docs/杂项/最佳实践.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/杂项/未命名.md"
+                "file": "docs/杂项/最佳实践.md"
               }
             }
           }
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883
+    "width": 313.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/杂项/未命名.md",
+                "file": "docs/杂项/最佳实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/杂项/未命名.md",
+                "file": "docs/杂项/最佳实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
