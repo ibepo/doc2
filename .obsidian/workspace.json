@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4ad97099238f0702",
+        "id": "03653d962dafccd1",
         "type": "tabs",
         "children": [
           {
-            "id": "1f0fbde0096a8673",
+            "id": "a90285acb465a0e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/杂项/雅思词汇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a529d0673763773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/python/python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "745e34844d78b5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/杂项/wiki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66ea5481e4cd8457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/杂项/最佳实践.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a05e5947213953e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/slam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/杂项/最佳实践.md"
+                "file": "docs/slam.md"
               }
             }
           }
@@ -128,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883,
-    "collapsed": true
+    "width": 313.5004348754883
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -145,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/杂项/最佳实践.md",
+                "file": "docs/slam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/杂项/最佳实践.md",
+                "file": "docs/slam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,17 +160,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "66ea5481e4cd8457",
+  "active": "a90285acb465a0e2",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/neovim.md",
+    "docs/杂项/雅思词汇.md",
+    "docs/杂项/最佳实践.md",
     "docs/杂项/wiki.md",
     "docs/archlinux/pacman.md",
     "docs/python/python.md",
     "docs/python/虚拟环境.md",
-    "docs/neovim.md",
     "docs/杂项/zathura.md",
-    "docs/杂项/雅思词汇.md",
-    "docs/杂项/English.md",
-    "docs/杂项/yaml.md",
-    "docs/杂项/mqtt.md"
+    "docs/杂项/English.md"
   ]
 }
