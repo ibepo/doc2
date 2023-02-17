@@ -1,3 +1,5 @@
+### theme 
+/usr/share/sddm/themes
 ## Configuration
 
 The default configuration file for SDDM can be found at `/usr/lib/sddm/sddm.conf.d/default.conf`. For any changes, create configuration file(s) in `/etc/sddm.conf.d/`. See [sddm.conf(5)](https://man.archlinux.org/man/sddm.conf.5) for all options.
