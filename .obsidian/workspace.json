@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "646b1dc1146c197c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/docker/ssdm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/docker compose.md"
+                "file": "docs/docker/ssdm.md"
               }
             }
           }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/docker compose.md",
+                "file": "docs/docker/ssdm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/docker compose.md",
+                "file": "docs/docker/ssdm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +185,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "fbbf72b0cfaf6b4f",
+  "active": "646b1dc1146c197c",
   "lastOpenFiles": [
+    "docs/docker/docker compose.md",
     "docs/slam.md",
     "docs/index.md",
     "docs/neovim.md",
@@ -183,7 +196,6 @@
     "docs/杂项/wiki.md",
     "docs/archlinux/pacman.md",
     "docs/python/python.md",
-    "docs/python/虚拟环境.md",
-    "docs/杂项/zathura.md"
+    "docs/python/虚拟环境.md"
   ]
 }
