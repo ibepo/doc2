@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/python/库.md",
+                "file": "docs/英语/短语.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/python/库.md"
+                "file": "docs/英语/短语.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/python/库.md",
+                "file": "docs/英语/短语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/python/库.md",
+                "file": "docs/英语/短语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,17 +197,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "dcc5150022e419fe",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/英语/词汇.md",
+    "docs/英语/短语.md",
+    "docs/python/库.md",
     "docs/docker/ssdm.md",
     "docs/docker/docker compose.md",
     "docs/slam.md",
     "docs/index.md",
     "docs/neovim.md",
-    "docs/杂项/雅思词汇.md",
     "docs/杂项/最佳实践.md",
-    "docs/杂项/wiki.md",
-    "docs/archlinux/pacman.md",
-    "docs/python/python.md"
+    "docs/杂项/wiki.md"
   ]
 }
