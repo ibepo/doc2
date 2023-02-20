@@ -20,48 +20,12 @@
             }
           },
           {
-            "id": "fbbf72b0cfaf6b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/docker/docker compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "646b1dc1146c197c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/docker/ssdm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dcc5150022e419fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/English/短语.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9199bd6a07c5939a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,11 +87,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883
+    "width": 313.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -210,15 +176,15 @@
   },
   "active": "a90285acb465a0e2",
   "lastOpenFiles": [
+    "docs/docker/docker compose.md",
+    "docs/English/短语.md",
+    "docs/English/词汇.md",
     "docs/slam.md",
     "docs/neovim.md",
     "docs/index.md",
     "docs/English/发音.md",
-    "docs/English/短语.md",
-    "docs/English/词汇.md",
     "docs/python/库.md",
     "docs/docker/ssdm.md",
-    "docs/docker/docker compose.md",
     "docs/杂项/最佳实践.md"
   ]
 }
