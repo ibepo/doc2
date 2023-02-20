@@ -31,6 +31,7 @@ Formatters: null-ls.nvim or formatter.nvim
 :checkhealth
 ```
 ### vim.options
+https://neovim.io/doc/user/options.html#set-option
 ```shell
 :help option-list
 ```

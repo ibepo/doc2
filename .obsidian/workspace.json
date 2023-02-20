@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/neovim.md"
               }
             }
           }
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883
+    "width": 313.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +210,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "9199bd6a07c5939a",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/English/发音.md",
     "docs/English/短语.md",
     "docs/English/词汇.md",
@@ -218,7 +220,6 @@
     "docs/docker/ssdm.md",
     "docs/docker/docker compose.md",
     "docs/slam.md",
-    "docs/index.md",
     "docs/neovim.md",
     "docs/杂项/最佳实践.md"
   ]
