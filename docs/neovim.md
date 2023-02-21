@@ -404,6 +404,9 @@ mason-config-lsp
 |    leader+t  |telescope find_files      |
 |      |      |
 |      |      |
+### LSP
+https://blog.codeminer42.com/configuring-language-server-protocol-in-neovim/
+
 
 ### vim-sursound
 |  keymap    |    action  |
