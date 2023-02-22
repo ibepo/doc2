@@ -54,6 +54,7 @@ get foo
 * 配置文件位置`/etc/my.cnf`
 * 基础文件位置`/usr/local/mysql`
 * 数据文件位置`/usr/local/mysql/data`
+* 关于`my.ini`  https://blog.csdn.net/lienfeng6/article/details/78140404
 
 ```shell
 # mysql
