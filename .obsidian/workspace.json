@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/mysql/edj.sql.md",
+                "file": "docs/archlinux/pacman.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mysql/edj.sql.md"
+                "file": "docs/archlinux/pacman.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/mysql/edj.sql.md",
+                "file": "docs/archlinux/pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/mysql/edj.sql.md",
+                "file": "docs/archlinux/pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,15 +175,15 @@
   },
   "active": "4eb93f9fc2794238",
   "lastOpenFiles": [
-    "docs/English/短语.md",
-    "docs/mysql/edj.sql.md",
-    "docs/mysql/典型问题.md",
-    "docs/部署/centos部署.md",
-    "docs/neovim.md",
-    "docs/English/词汇.md",
-    "docs/docker/docker compose.md",
+    "docs/archlinux/lf.md",
+    "docs/archlinux/bspwm.md",
+    "docs/archlinux/font.md",
+    "docs/archlinux/edge.md",
+    "docs/archlinux/vscode.md",
+    "docs/archlinux/ncmpcpp.md",
+    "docs/archlinux/pacman.md",
     "docs/slam.md",
     "docs/index.md",
-    "docs/English/发音.md"
+    "docs/linux/包管理器.md"
   ]
 }
