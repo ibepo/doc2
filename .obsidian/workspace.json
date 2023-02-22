@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883
+    "width": 313.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -186,7 +187,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b8e41c23163a73b3",
+  "active": "16011ca6da21b965",
   "lastOpenFiles": [
     "docs/archlinux/font.md",
     "docs/linux/yay.md",

@@ -218,6 +218,54 @@ cfonts "ibepo's |neovim" -f block -c yellow,"#f80"
 sudo pacman -S yay
 #检查源是不是国内的
 yay -P -g 
+==================================================================
+{
+	"aururl": "https://aur.archlinux.org",
+	"aurrpcurl": "",
+	"buildDir": "/home/ibepo/.cache/yay",
+	"editor": "",
+	"editorflags": "",
+	"makepkgbin": "makepkg",
+	"makepkgconf": "",
+	"pacmanbin": "pacman",
+	"pacmanconf": "/etc/pacman.conf",
+	"redownload": "no",
+	"rebuild": "no",
+	"answerclean": "",
+	"answerdiff": "",
+	"answeredit": "",
+	"answerupgrade": "",
+	"gitbin": "git",
+	"gpgbin": "gpg",
+	"gpgflags": "",
+	"mflags": "",
+	"sortby": "votes",
+	"searchby": "name-desc",
+	"gitflags": "",
+	"removemake": "ask",
+	"sudobin": "sudo",
+	"sudoflags": "",
+	"requestsplitn": 150,
+	"completionrefreshtime": 7,
+	"maxconcurrentdownloads": 0,
+	"bottomup": true,
+	"sudoloop": false,
+	"timeupdate": false,
+	"devel": false,
+	"cleanAfter": false,
+	"provides": false,
+	"pgpfetch": true,
+	"upgrademenu": true,
+	"cleanmenu": true,
+	"diffmenu": true,
+	"editmenu": false,
+	"combinedupgrade": false,
+	"useask": false,
+	"batchinstall": false,
+	"singlelineresults": false,
+	"separatesources": true,
+	"version": "11.3.1"
+}
 ```
 
 
@@ -238,6 +286,7 @@ $sudo pacman -U XXX.pkg.tar.zst
 ## Motrix
 
 ```shell
+yay -S motrix
 $ debtap Motrix_1.6.11_amd64.deb 
 $ sudo pacman -U motrix-1.6.11-1-x86_64.pkg.tar.zst
 #安装好 motrix，再安装motrix 的 chrome 的插件：#https://www.cr173.com/soft/1355391.html
@@ -248,9 +297,12 @@ $ sudo pacman -U motrix-1.6.11-1-x86_64.pkg.tar.zst
 ```shell
 #安装openjdk8
 sudo pacman -Sy jdk8-openjdk
+
 #查看当前java版本
 archlinux-java status
+
 #archlinux 中可自由切换jdk版本  
+archlinux-java set java-11-openjdk
 ```
 
 ## nvm
@@ -265,20 +317,11 @@ nvm install node
 
 ```shell
 sudo pacman -S python2-pip                #Python 2
-sudo pacman -S python-pip                #python3
+sudo pacman -S python-pip                 #python3
+
 #更换清华源
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
-
-
-
-## motrix
-
-```shell
-yay -S motrix
-```
-
-
 
 ## neovim
 
@@ -289,7 +332,6 @@ pip3 install --user --upgrade neovim
 pip3 install ranger-fm
 
 
-sudo npm install -g typescript
 sudo npm install -g typescript-language-server
 ```
 
@@ -340,12 +382,12 @@ yay -S ttf-wps-fonts wps-office wps-office-mui-zh-cn wps-office-mime-cn ttf-ms-f
 yay -S dragon-drop trash-cli xmysql sxiv zoxide lynx mousepad
 ```
 
-切换yay源
+### 切换yay源
 
 ```shell
 yay --aururl "https://aur.tuna.tsinghua.edu.cn" --save
 ```
-
+### android
 
 ```shell
 sudo pacman -S android-studio
