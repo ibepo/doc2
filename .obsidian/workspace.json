@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/mysql/edj.sql.md",
+                "file": "docs/mysql/典型问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mysql/edj.sql.md"
+                "file": "docs/mysql/典型问题.md"
               }
             }
           }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883
+    "width": 313.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/mysql/edj.sql.md",
+                "file": "docs/mysql/典型问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/mysql/edj.sql.md",
+                "file": "docs/mysql/典型问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +163,7 @@
   },
   "active": "bfb87cc3ff62f5b8",
   "lastOpenFiles": [
+    "docs/mysql/edj.sql.md",
     "docs/linux/yay.md",
     "docs/archlinux/font.md",
     "docs/linux/网络管理.md",
@@ -170,7 +172,6 @@
     "docs/archlinux/网易云音乐.md",
     "docs/archlinux/xsession.md",
     "docs/archlinux/wechat.md",
-    "docs/archlinux/pacman.md",
-    "docs/archlinux/bspwm.md"
+    "docs/archlinux/pacman.md"
   ]
 }
