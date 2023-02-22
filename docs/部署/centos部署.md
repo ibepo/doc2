@@ -50,7 +50,11 @@ get foo
 ```
 
 ### mysql
-* 配置文件位置``
+
+* 配置文件位置`/etc/my.cnf`
+* 基础文件位置`/usr/local/mysql`
+* 数据文件位置`/usr/local/mysql/data`
+
 ```shell
 # mysql
 
@@ -58,26 +62,29 @@ get foo
 rpm -qa|grep mariadb
 yum -y remove xxx
 
-## install mysql
+## 解压mysql压缩包
 tar -zxvf /root/mysql-5.7.30-linux-glibc2.12-x86_64.tar.gz -C /usr/local/
 mv mysql-5.7.30-linux-glibc2.12-x86_64 mysql
 groupadd mysql
 useradd -q mysql mysql
 
-## config mysql
 cd /etc && vim my.cnf
+
 mkdir /var/lib/mysql
 chomod 777 /var/lib/mysql
 cd /usr/local/mysql
 ./bin/mysqld --initialize --user=mysql --basedir=/usr/local/mysql --datadir=/usr/local/mysql/data/
 记住生成的密码
+
+## 创建systemctl 自启动文件
 cp ./support-files/mysql.server /etc/init.d/mysqld
 
-## start
+## 设置mysql路径位置
 vim /etc/init.d/mysqld
 basedir=/usr/local/mysql
 datadir=/usr/local/mysql/data
 chmod +x /etc/init.d/mysqld
+
 chkconfig -add mysqld
 chkconfig --list mysqld
 ```
