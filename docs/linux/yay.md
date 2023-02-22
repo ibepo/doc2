@@ -368,16 +368,31 @@ SDL_IM_MODULE DEFAULT=fcitx
 sudo pacman -S ttc-iosevka
 ```
 
+### system manger
+```shell
+sudo yay -S brightnessctl kchmviewer nitrogen
+sudo yay -S  geidt
+```
 
-
-## usefully
-
+## CLI
 
 ```shell
-sudo pacman -Syy
-sudo pacman -S vscode nnn ranger lf lazygit ripgrep fzf zsh htop btop starship bat tig exa fd neovim nodejs npm
-jdk8-openjdk kchmviewer xmind-zen deepin-picker vlc unarchiver typora-free geidt nitrogen brightnessctl
+sudo yay -S zsh starship 
+sudo yay -S fd nnn ripgrep fzf lf
+sudo yay -S htop btop 
+sudo yay -S bat exa tig
+sudo yay -S nodejs npm jdk8-openjdk 
+
+```
+
+```shell
+
+sudo pacman -S vscode  ranger lf lazygit   htop btop  bat tig exa fd
+
+neovim nodejs npm
+jdk8-openjdk  xmind-zen deepin-picker vlc unarchiver typora-free    
 flameshot microsoft-edge-dev-bin obs-studio  clash clash-for-windows-bin typora-free-cn
+
 yay -S ttf-wps-fonts wps-office wps-office-mui-zh-cn wps-office-mime-cn ttf-ms-fonts cups
 yay -S dragon-drop trash-cli xmysql sxiv zoxide lynx mousepad
 ```
