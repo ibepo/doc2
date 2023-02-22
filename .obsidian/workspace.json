@@ -11,8 +11,12 @@
             "id": "bfb87cc3ff62f5b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/mysql/edj.sql.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/dwm.md"
+                "file": "docs/mysql/edj.sql.md"
               }
             }
           }
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/dwm.md",
+                "file": "docs/mysql/edj.sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/dwm.md",
+                "file": "docs/mysql/edj.sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +160,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "bfb87cc3ff62f5b8",
   "lastOpenFiles": [
     "docs/linux/yay.md",
     "docs/archlinux/font.md",
