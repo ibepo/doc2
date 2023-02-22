@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/mysql/未命名.md",
+                "file": "docs/mysql/edj.sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mysql/未命名.md"
+                "file": "docs/mysql/edj.sql.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/mysql/未命名.md",
+                "file": "docs/mysql/edj.sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/mysql/未命名.md",
+                "file": "docs/mysql/edj.sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
   "active": "4eb93f9fc2794238",
   "lastOpenFiles": [
     "docs/English/短语.md",
-    "docs/mysql/未命名.md",
+    "docs/mysql/edj.sql.md",
     "docs/mysql/典型问题.md",
     "docs/部署/centos部署.md",
     "docs/neovim.md",
