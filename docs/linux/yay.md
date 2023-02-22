@@ -370,8 +370,11 @@ sudo pacman -S ttc-iosevka
 
 ### system manger
 ```shell
-sudo yay -S brightnessctl kchmviewer nitrogen
-sudo yay -S  geidt
+sudo yay -S brightnessctl kchmviewer nitrogen flameshot
+
+
+## enviroment
+sudo yay -S nodejs npm jdk8-openjdk 
 ```
 
 ## CLI
@@ -381,20 +384,30 @@ sudo yay -S zsh starship
 sudo yay -S fd nnn ripgrep fzf lf
 sudo yay -S htop btop 
 sudo yay -S bat exa tig
-sudo yay -S nodejs npm jdk8-openjdk 
+sudo yay -S dragon-drop trash-cli
 
 ```
 
+code editor
+```shell
+#wps
+sudo yay -S ttf-wps-fonts wps-office wps-office-mui-zh-cn wps-office-mime-cn ttf-ms-fonts cups
+#editor
+sudo yay -S  geidt mousepad typora-free  typora-free-cn 
+sudo yay -S  vscode
+sudo pacman -S android-studio
+
+```
 ```shell
 
 sudo pacman -S vscode  ranger lf lazygit   htop btop  bat tig exa fd
 
 neovim nodejs npm
-jdk8-openjdk  xmind-zen deepin-picker vlc unarchiver typora-free    
-flameshot microsoft-edge-dev-bin obs-studio  clash clash-for-windows-bin typora-free-cn
+jdk8-openjdk  xmind-zen deepin-picker vlc unarchiver
+ 
+  microsoft-edge-dev-bin   clash clash-for-windows-bin 
 
-yay -S ttf-wps-fonts wps-office wps-office-mui-zh-cn wps-office-mime-cn ttf-ms-fonts cups
-yay -S dragon-drop trash-cli xmysql sxiv zoxide lynx mousepad
+
 ```
 
 ### 切换yay源
@@ -402,10 +415,10 @@ yay -S dragon-drop trash-cli xmysql sxiv zoxide lynx mousepad
 ```shell
 yay --aururl "https://aur.tuna.tsinghua.edu.cn" --save
 ```
-### android
+### mic
 
 ```shell
-sudo pacman -S android-studio
+sudo yay -S obs-studio   xmysql sxiv zoxide lynx 
 ```
 ## ssh
 
