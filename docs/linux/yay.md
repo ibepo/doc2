@@ -381,47 +381,32 @@ sudo yay -S nodejs npm jdk8-openjdk
 
 ```shell
 sudo yay -S zsh starship 
-sudo yay -S fd nnn ripgrep fzf lf
+sudo yay -S nnn ranger lf    
+sudo yay -S fd ripgrep fzf
+sudo yay -S lazygit
 sudo yay -S htop btop 
 sudo yay -S bat exa tig
 sudo yay -S dragon-drop trash-cli
 
 ```
 
-code editor
+### code editor
 ```shell
-#wps
+sudo yay -S  vscode neovim
+sudo yay -S android-studio
+
 sudo yay -S ttf-wps-fonts wps-office wps-office-mui-zh-cn wps-office-mime-cn ttf-ms-fonts cups
-#editor
 sudo yay -S  geidt mousepad typora-free  typora-free-cn 
-sudo yay -S  vscode
-sudo pacman -S android-studio
-
-```
-```shell
-
-sudo pacman -S vscode  ranger lf lazygit   htop btop  bat tig exa fd
-
-neovim nodejs npm
-jdk8-openjdk  xmind-zen deepin-picker vlc unarchiver
- 
-  microsoft-edge-dev-bin   clash clash-for-windows-bin 
-
-
 ```
 
-### 切换yay源
-
-```shell
-yay --aururl "https://aur.tuna.tsinghua.edu.cn" --save
-```
 ### mic
-
 ```shell
-sudo yay -S obs-studio   xmysql sxiv zoxide lynx 
+sudo yay -S  xmysql sxiv zoxide lynx 
+sudo yay -S  microsoft-edge-stable-bin  obs-studio 
+sudo yay -S  xmind-zen deepin-picker vlc unarchiver  clash clash-for-windows-bin 
 ```
-## ssh
 
+## ssh
 ```shell
 cd ~/.ssh
 #查看公钥
@@ -436,7 +421,6 @@ scp -r test.js ubuntu@host:/home/ubuntu/test.js
 ```
 
 ## brightnessctl
-
 ```shell
 pacman -S brightnessctl
 brightnessctl set 200
@@ -522,17 +506,4 @@ EDITOR=nvim
 ## third soft
 第三方bin 执行文件的存放处， 应该是在`/usr/local/bin`,但是这个往往需要进入此目录调用，因此一般软连接到`/usr/bin/`下，或者 放入`$PATH`变量中
 
-### dwm.config.h
-```shell
-    { MODKEY,              XK_Return,       spawn,            SHCMD("alacritty") },
-    { MODKEY,              XK_e,            spawn,            SHCMD("thunar") }, 
-    { MODKEY,			         XK_l,         		spawn,        	  {.v=(const char*[]){TERMINAL,"-e","lf",NULL}}},
-    { MODKEY,			         XK_r,         		spawn,        	  {.v=(const char*[]){TERMINAL,"-e","htop",NULL}}},
-    { MODKEY|ShiftMask,	   XK_r,         		spawn,        	  {.v=(const char*[]){TERMINAL,"-e","btop",NULL}}},
-    { ShiftMask,           XK_Escape,       spawn,            SHCMD("flameshot gui -c -p ~/Pictures/screenshots") },
-    { MODKEY,              XK_d,            spawn,            SHCMD("rofi -show drun -theme ~/.config/rofi/rofi.rasi") },
-    { MODKEY,              XK_p,            spawn,            SHCMD("rofi -show drun -theme ~/.config/rofi/config2.rasi") },
-    { MODKEY,              XK_space,        spawn,            SHCMD("rofi -show window -theme ~/.config/rofi/config2.rasi") },
-    { MODKEY,              XK_w,            spawn,            SHCMD("microsoft-edge-dev") },
-    { ShiftMask|ControlMask, XK_c,          spawn,            SHCMD("xclip -o | xclip -selection c") },
-```
+
