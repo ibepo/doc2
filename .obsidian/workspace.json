@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/mysql/典型问题.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
