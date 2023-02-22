@@ -1,3 +1,4 @@
+### keybind
 ```shell
 ### dwm.config.h
 ```shell
@@ -13,4 +14,5 @@
     { MODKEY,              XK_w,            spawn,            SHCMD("microsoft-edge-dev") },
     { ShiftMask|ControlMask, XK_c,          spawn,            SHCMD("xclip -o | xclip -selection c") },
 ```
+
 ```
