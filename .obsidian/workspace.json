@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/linux/网络管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16011ca6da21b965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/linux/yay.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,10 +73,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "table",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -84,11 +96,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/pacman.md"
+                "file": "docs/linux/yay.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/linux/yay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/linux/yay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,17 +186,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4eb93f9fc2794238",
+  "active": "b8e41c23163a73b3",
   "lastOpenFiles": [
-    "docs/archlinux/lf.md",
-    "docs/archlinux/bspwm.md",
     "docs/archlinux/font.md",
-    "docs/archlinux/edge.md",
-    "docs/archlinux/vscode.md",
-    "docs/archlinux/ncmpcpp.md",
+    "docs/linux/yay.md",
+    "docs/linux/网络管理.md",
+    "docs/config/ideavim.md",
+    "docs/config/前端项目的配置文件.md",
+    "docs/archlinux/网易云音乐.md",
+    "docs/archlinux/xsession.md",
+    "docs/archlinux/wechat.md",
     "docs/archlinux/pacman.md",
-    "docs/slam.md",
-    "docs/index.md",
-    "docs/linux/包管理器.md"
+    "docs/archlinux/bspwm.md"
   ]
 }
