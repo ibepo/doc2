@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c0b5b587ede6f864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/字体.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "34e8dbf151864515",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/运维监控.md"
+                "file": "docs/archlinux/字体.md"
               }
             }
           },
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/运维监控.md",
+                "file": "docs/archlinux/字体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/运维监控.md",
+                "file": "docs/archlinux/字体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +210,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "bb1a0aec75bb92fe",
+  "active": "c0b5b587ede6f864",
   "lastOpenFiles": [
+    "docs/linux/运维监控.md",
     "docs/wiki.md",
     "docs/linux/用户管理.md",
     "docs/linux/ssh.md",
@@ -208,7 +221,6 @@
     "202302230854.md",
     "docs/mysql/典型问题.md",
     "docs/linux/服务管理.md",
-    "docs/archlinux/yay.md",
-    "docs/linux/shell语法.md"
+    "docs/archlinux/yay.md"
   ]
 }
