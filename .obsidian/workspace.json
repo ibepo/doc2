@@ -20,13 +20,25 @@
             }
           },
           {
+            "id": "bb1a0aec75bb92fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/linux/运维监控.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "34e8dbf151864515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux/未命名.md",
-                "mode": "source",
+                "file": "docs/linux/ssh.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -63,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/未命名.md"
+                "file": "docs/linux/运维监控.md"
               }
             }
           },
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/未命名.md",
+                "file": "docs/linux/运维监控.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/未命名.md",
+                "file": "docs/linux/运维监控.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +198,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "34e8dbf151864515",
+  "active": "bb1a0aec75bb92fe",
   "lastOpenFiles": [
     "docs/wiki.md",
     "docs/linux/用户管理.md",
+    "docs/linux/ssh.md",
     "docs/archlinux/未命名.md",
     "2023-02-23.md",
     "202302230854.md",
     "docs/mysql/典型问题.md",
     "docs/linux/服务管理.md",
     "docs/archlinux/yay.md",
-    "docs/linux/shell语法.md",
-    "docs/linux/包管理器.md"
+    "docs/linux/shell语法.md"
   ]
 }
