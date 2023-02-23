@@ -401,6 +401,7 @@ sudo yay -S  geidt mousepad typora-free  typora-free-cn
 
 ### mic
 ```shell
+sudo yay -S dolphin dolphin-plugins alacritty
 sudo yay -S  xmysql sxiv zoxide lynx 
 sudo yay -S  microsoft-edge-stable-bin  obs-studio 
 sudo yay -S  xmind-zen deepin-picker vlc unarchiver  clash clash-for-windows-bin 

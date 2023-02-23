@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ced25654002aafe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/yay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mysql/典型问题.md"
+                "file": "docs/archlinux/yay.md"
               }
             }
           }
@@ -79,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883,
-    "collapsed": true
+    "width": 313.5004348754883
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/mysql/典型问题.md",
+                "file": "docs/archlinux/yay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/mysql/典型问题.md",
+                "file": "docs/archlinux/yay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +173,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "bfb87cc3ff62f5b8",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/linux/shell语法.md",
+    "docs/linux/包管理器.md",
+    "docs/linux/命令工具.md",
+    "docs/linux/服务管理.md",
+    "docs/archlinux/未命名.md",
+    "docs/mysql/典型问题.md",
     "docs/mysql/edj.sql.md",
-    "docs/linux/yay.md",
+    "docs/archlinux/yay.md",
     "docs/archlinux/font.md",
-    "docs/linux/网络管理.md",
-    "docs/config/ideavim.md",
-    "docs/config/前端项目的配置文件.md",
-    "docs/archlinux/网易云音乐.md",
-    "docs/archlinux/xsession.md",
-    "docs/archlinux/wechat.md",
-    "docs/archlinux/pacman.md"
+    "docs/linux/网络管理.md"
   ]
 }
