@@ -1,6 +1,6 @@
 {
   "vimMode": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "showFrontmatter": true,
   "defaultViewMode": "source",
   "newFileLocation": "current",

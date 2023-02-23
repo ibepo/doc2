@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "212613f51760ef7c",
+        "id": "f63e552045ffa41b",
         "type": "tabs",
         "children": [
           {
-            "id": "bfb87cc3ff62f5b8",
+            "id": "8334f3fc46ce08ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/mysql/典型问题.md",
+                "file": "docs/wiki.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "ced25654002aafe7",
+            "id": "34e8dbf151864515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/yay.md",
+                "file": "docs/linux/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8045998c49638a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/linux/用户管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +57,16 @@
         "id": "56e0ef17e968819d",
         "type": "tabs",
         "children": [
+          {
+            "id": "b8e41c23163a73b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/linux/未命名.md"
+              }
+            }
+          },
           {
             "id": "8e253a67c31ba3d6",
             "type": "leaf",
@@ -77,18 +99,9 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "b8e41c23163a73b3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "docs/archlinux/yay.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/yay.md",
+                "file": "docs/linux/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/yay.md",
+                "file": "docs/linux/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,17 +186,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "34e8dbf151864515",
   "lastOpenFiles": [
-    "docs/linux/shell语法.md",
-    "docs/linux/包管理器.md",
-    "docs/linux/命令工具.md",
-    "docs/linux/服务管理.md",
+    "docs/wiki.md",
+    "docs/linux/用户管理.md",
     "docs/archlinux/未命名.md",
+    "2023-02-23.md",
+    "202302230854.md",
     "docs/mysql/典型问题.md",
-    "docs/mysql/edj.sql.md",
+    "docs/linux/服务管理.md",
     "docs/archlinux/yay.md",
-    "docs/archlinux/font.md",
-    "docs/linux/网络管理.md"
+    "docs/linux/shell语法.md",
+    "docs/linux/包管理器.md"
   ]
 }
