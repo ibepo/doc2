@@ -49,8 +49,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/python/库.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4429d7c77f0155c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/python/参考.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nginx/参考.md"
+                "file": "docs/python/参考.md"
               }
             }
           },
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/python/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/python/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,17 +234,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "7b248413b92c70c3",
+  "active": "4429d7c77f0155c7",
   "lastOpenFiles": [
-    "docs/未命名.md",
     "docs/python/库.md",
+    "docs/python/python.md",
+    "docs/nginx/参考.md",
+    "docs/未命名.md",
     "docs/archlinux/字体.md",
     "docs/archlinux/font.md",
     "docs/archlinux/未命名.md",
     "docs/archlinux/yay.md",
     "docs/linux/运维监控.md",
-    "docs/wiki.md",
-    "docs/linux/用户管理.md",
-    "docs/linux/ssh.md"
+    "docs/wiki.md"
   ]
 }
