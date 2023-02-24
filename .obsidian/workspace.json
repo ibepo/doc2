@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/字体.md",
+                "file": "docs/python/库.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/字体.md"
+                "file": "docs/python/库.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/字体.md",
+                "file": "docs/python/库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/字体.md",
+                "file": "docs/python/库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +212,9 @@
   },
   "active": "c0b5b587ede6f864",
   "lastOpenFiles": [
+    "docs/archlinux/字体.md",
     "docs/archlinux/font.md",
     "docs/archlinux/未命名.md",
-    "docs/archlinux/字体.md",
     "docs/archlinux/yay.md",
     "docs/linux/运维监控.md",
     "docs/wiki.md",
