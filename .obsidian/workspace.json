@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "7b248413b92c70c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/nginx/参考.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "34e8dbf151864515",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/python/库.md"
+                "file": "docs/nginx/参考.md"
               }
             }
           },
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/python/库.md",
+                "file": "docs/nginx/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/python/库.md",
+                "file": "docs/nginx/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +222,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c0b5b587ede6f864",
+  "active": "7b248413b92c70c3",
   "lastOpenFiles": [
+    "docs/未命名.md",
+    "docs/python/库.md",
     "docs/archlinux/字体.md",
     "docs/archlinux/font.md",
     "docs/archlinux/未命名.md",
@@ -219,8 +233,6 @@
     "docs/linux/运维监控.md",
     "docs/wiki.md",
     "docs/linux/用户管理.md",
-    "docs/linux/ssh.md",
-    "2023-02-23.md",
-    "202302230854.md"
+    "docs/linux/ssh.md"
   ]
 }
