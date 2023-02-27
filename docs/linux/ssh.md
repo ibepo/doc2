@@ -45,3 +45,10 @@ Port 22
 ```shell
 ssh s
 ```
+
+### 删除当前服务器登陆的其他终端连接
+
+``` shell
+w
+pkill -kill -t pts/0 
+```
