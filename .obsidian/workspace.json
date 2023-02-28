@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a15be53e0b625758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/AI/AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/python/库.md"
+                "file": "docs/AI/AI.md"
               }
             }
           },
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/python/库.md",
+                "file": "docs/AI/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/python/库.md",
+                "file": "docs/AI/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +173,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "94083b23c10eab65",
+  "active": "a15be53e0b625758",
   "lastOpenFiles": [
+    "docs/python/库.md",
+    "docs/AI/AI.md",
+    "docs/AI",
     "docs/杂项/lua.md",
     "未命名.canvas",
     "docs/wiki.md",
@@ -169,7 +185,6 @@
     "docs/linux/ssh.md",
     "docs/linux/未命名.canvas",
     "docs/python/参考.md",
-    "docs/python/库.md",
     "docs/python/python.md",
     "docs/nginx/参考.md",
     "docs/未命名.md",
