@@ -11,8 +11,12 @@
             "id": "94083b23c10eab65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/python/库.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -33,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/python/库.md"
+              }
             }
           },
           {
@@ -69,12 +75,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883,
-    "collapsed": true
+    "width": 313.5004348754883
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/python/库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/python/库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
