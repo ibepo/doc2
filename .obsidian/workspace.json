@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/mysql/典型问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/AI.md"
+                "file": "docs/mysql/典型问题.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/mysql/典型问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/mysql/典型问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +175,8 @@
   },
   "active": "a15be53e0b625758",
   "lastOpenFiles": [
-    "docs/python/库.md",
     "docs/AI/AI.md",
+    "docs/python/库.md",
     "docs/AI",
     "docs/杂项/lua.md",
     "未命名.canvas",
