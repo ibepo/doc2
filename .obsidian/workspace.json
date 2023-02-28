@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f63e552045ffa41b",
+        "id": "4134d1308da8e2e9",
         "type": "tabs",
         "children": [
           {
-            "id": "8334f3fc46ce08ff",
+            "id": "94083b23c10eab65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/wiki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb1a0aec75bb92fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/linux/运维监控.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0b5b587ede6f864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/python/库.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b248413b92c70c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/python/库.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4429d7c77f0155c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/python/参考.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "334bbe7695cdacd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/python/库.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "209b9c1522326502",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/linux/物联网.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "34e8dbf151864515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/linux/ssh.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8045998c49638a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/linux/用户管理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,9 +33,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/linux/物联网.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,12 +69,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883
+    "width": 313.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -193,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/物联网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/物联网.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,10 +152,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "209b9c1522326502",
+  "active": "94083b23c10eab65",
   "lastOpenFiles": [
-    "docs/linux/ssh.md",
+    "docs/杂项/lua.md",
+    "未命名.canvas",
+    "docs/wiki.md",
     "docs/linux/物联网.md",
+    "docs/linux/ssh.md",
     "docs/linux/未命名.canvas",
     "docs/python/参考.md",
     "docs/python/库.md",
