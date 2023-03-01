@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/参考.md",
+                "file": "docs/English/韦小绿.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/参考.md"
+                "file": "docs/English/韦小绿.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/参考.md",
+                "file": "docs/English/韦小绿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/参考.md",
+                "file": "docs/English/韦小绿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +162,8 @@
   },
   "active": "15b00c91194d23e9",
   "lastOpenFiles": [
-    "docs/English/发音.md",
     "docs/English/参考.md",
+    "docs/English/发音.md",
     "docs/English/韦小绿.md",
     "docs/English/短语.md",
     "docs/English/词汇.md",
