@@ -1,10 +1,7 @@
-# 韦小绿
-
-## bene
 
 good ,well n. 有益的
 
-### benefit
+## benefit
 
 n. 好处
 
@@ -14,7 +11,7 @@ n. 好处
 4. a benefit concert 慈善演唱会
 5. have a benefit 开一个慈善会吧
 
-### beneficial
+## beneficial
 
 bene-fic-ial  
 adj.有益的
@@ -25,14 +22,14 @@ adj.有益的
 1. A good diet is beneficial to health.
 2. Learnning word root is beneficial to progress in English.
 
-### benefactor
+## benefactor
 
 n. 干好事的人，慈善家
 `fact-`=make,do
 
 1. a benefactor of the art
 
-### beneficiary
+## beneficiary
 
 bene-fic-i-ary
 n. 受益人
@@ -42,7 +39,7 @@ n. 受益人
 1. the beneficiary of the will 遗嘱受益人
 2. beneficiaries of early election
 
-### benign
+## benign
 
 beni-gn
 adj. 和善的，良性的,慈祥的
@@ -54,30 +51,28 @@ adj. 和善的，良性的,慈祥的
 2. a benign tumour 良性的肿瘤
 3. There was no benign smile upon Dumbledore's face,no twinkle in the eyes behind the spectacles(spect-acle). 邓布利多脸上没有了慈祥的微笑，镜片后的眼睛里没有了愉快的火花
 
-### benevolent
+## benevolent
 
 adj. 仁慈的，和善的
 
 1. a most benevolent employer
 
-### benevolence
+## benevolence
 
 n. 仁慈
 
-### bonus
+## bonus
 
 n.奖金，额外收获
 
 1. North Sea oil has proved a bonus for British technology
 
-### bonanza
+## bonanza
 
 n. 富含矿藏的地带，财运亨通
 
-### benediction
+## benediction
 
 n.祝福，祷告
 `dic-,dict-`=speck,say,declare,表示"说话，断言"
 `-ion,-ation,-ition`表名词，"行为，状态，过程，结果，物品"
-
-## test

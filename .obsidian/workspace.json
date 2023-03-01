@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/韦小绿.md",
+                "file": "docs/韦小绿/bene.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/韦小绿.md"
+                "file": "docs/韦小绿/bene.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/韦小绿.md",
+                "file": "docs/韦小绿/bene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/韦小绿.md",
+                "file": "docs/韦小绿/bene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +162,10 @@
   },
   "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/韦小绿",
     "docs/English/参考.md",
     "docs/English/发音.md",
-    "docs/English/韦小绿.md",
+    "docs/韦小绿/bene.md",
     "docs/English/短语.md",
     "docs/English/词汇.md",
     "docs/English/wxl.md",
