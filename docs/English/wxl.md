@@ -13,4 +13,5 @@ a benefit concert 慈善演唱会
 ### beneficial
 
 bene-fic-ial
-常见的形容词后缀 `-al -ial -ual`
+`-al -ial -ual`形容词后缀，"...的"
+`fic-,fact-,fect-`=make,do 表示"做，制作",来自拉丁语中的 facere"to make"
