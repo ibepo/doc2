@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa5e3b4f827933e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/韦小绿/bene.md"
+                "file": "docs/vim.md"
               }
             }
           },
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/韦小绿/bene.md",
+                "file": "docs/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/韦小绿/bene.md",
+                "file": "docs/vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +173,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "aa5e3b4f827933e0",
   "lastOpenFiles": [
+    "docs/韦小绿/bene.md",
+    "docs/vim.md",
     "docs/韦小绿",
     "docs/English/参考.md",
     "docs/English/发音.md",
-    "docs/韦小绿/bene.md",
     "docs/English/短语.md",
     "docs/English/词汇.md",
     "docs/English/wxl.md",
@@ -186,7 +200,6 @@
     "docs/linux/未命名.canvas",
     "docs/python/python.md",
     "docs/nginx/参考.md",
-    "docs/未命名.md",
     "docs/archlinux/字体.md",
     "docs/archlinux/font.md",
     "docs/archlinux/未命名.md"
