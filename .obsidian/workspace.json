@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/wxl.md",
-                "mode": "preview",
+                "file": "docs/English/韦小绿.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/wxl.md"
+                "file": "docs/English/韦小绿.md"
               }
             }
           },
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/wxl.md",
+                "file": "docs/English/韦小绿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/wxl.md",
+                "file": "docs/English/韦小绿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +162,9 @@
   },
   "active": "15b00c91194d23e9",
   "lastOpenFiles": [
-    "docs/English/参考.md",
     "docs/English/wxl.md",
+    "docs/English/参考.md",
+    "docs/English/韦小绿.md",
     "docs/python/库.md",
     "docs/English/短语.md",
     "docs/English/词汇.md",
