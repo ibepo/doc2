@@ -1,4 +1,4 @@
-### 第三方库
+### epel 
 ```shell
 sudo yum install -y yum-utils
 sudo yum install epel-release # epel-release
@@ -9,6 +9,7 @@ sudo yum install epel-release # epel-release
 curl -o /etc/yum.repos.d/konimex-neofetch-epel-7.repo https://copr.fedorainfracloud.org/coprs/konimex/neofetch/repo/epel-7/konimex-neofetch-epel-7.repo
 yum install neofetch
 ```
+
 ### htop
 `yum install htop`
 
@@ -17,6 +18,7 @@ yum install neofetch
 $ sudo yum-config-manager --add-repo=https://copr.fedorainfracloud.org/coprs/carlwgeorge/ripgrep/repo/epel-7/carlwgeorge-ripgrep-epel-7.repo
 $ sudo yum install ripgrep
 ```
+
 ### vim
 ```shell
 # vimrc
@@ -51,8 +53,11 @@ set foo bar
 get foo
 ```
 
-### mysql
 
+---
+---
+
+### mysql
 * 配置文件位置`/etc/my.cnf`
 * 基础文件位置`/usr/local/mysql`
 * 数据文件位置`/usr/local/mysql/data`
