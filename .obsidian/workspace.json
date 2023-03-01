@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "990ea37d1aaab692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/neovim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mysql/典型问题.md"
+                "file": "docs/neovim.md"
               }
             }
           },
@@ -93,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5004348754883
+    "width": 200
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/mysql/典型问题.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/mysql/典型问题.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +185,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a15be53e0b625758",
+  "active": "990ea37d1aaab692",
   "lastOpenFiles": [
+    "docs/python/opencv.md",
+    "docs/python/参考.md",
+    "docs/mysql/典型问题.md",
     "docs/AI/AI.md",
     "docs/python/库.md",
     "docs/AI",
@@ -184,7 +199,6 @@
     "docs/linux/物联网.md",
     "docs/linux/ssh.md",
     "docs/linux/未命名.canvas",
-    "docs/python/参考.md",
     "docs/python/python.md",
     "docs/nginx/参考.md",
     "docs/未命名.md",

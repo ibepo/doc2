@@ -370,7 +370,7 @@ mason-config-lsp
 -  错误提示
 -  Code Action
 -  Format
-#### 相关快捷键
+#### keyshort 
 | key | description | mode
 |:----- |:-----     |:-----    |
 | K | hover information	|normal
