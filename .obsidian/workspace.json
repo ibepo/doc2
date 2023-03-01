@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/部署/centos部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/neovim.md"
+                "file": "docs/部署/centos部署.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/部署/centos部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/neovim.md",
+                "file": "docs/部署/centos部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,8 @@
   },
   "active": "990ea37d1aaab692",
   "lastOpenFiles": [
+    "docs/部署/nginx.md",
+    "docs/neovim.md",
     "docs/python/opencv.md",
     "docs/python/参考.md",
     "docs/mysql/典型问题.md",

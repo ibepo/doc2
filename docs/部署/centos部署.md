@@ -1,28 +1,30 @@
-### cli 
-
+### 第三方库
 ```shell
-yum install -y yum-utils
+sudo yum install -y yum-utils
+sudo yum install epel-release # epel-release
+```
 
-# epel-release
-sudo yum install epel-release
-
-# neofetch
+### neofetch
+```shell
 curl -o /etc/yum.repos.d/konimex-neofetch-epel-7.repo https://copr.fedorainfracloud.org/coprs/konimex/neofetch/repo/epel-7/konimex-neofetch-epel-7.repo
 yum install neofetch
+```
+### htop
+`yum install htop`
 
-# htop
-yum install htop
-
+### ripgrep
+```shell
+$ sudo yum-config-manager --add-repo=https://copr.fedorainfracloud.org/coprs/carlwgeorge/ripgrep/repo/epel-7/carlwgeorge-ripgrep-epel-7.repo
+$ sudo yum install ripgrep
+```
+### vim
+```shell
 # vimrc
 #全局配置
 vim  /etc/vimrc
 #用户配置
 cd ~
 touch ~/.vimrc
-
-# ripgrep
-$ sudo yum-config-manager --add-repo=https://copr.fedorainfracloud.org/coprs/carlwgeorge/ripgrep/repo/epel-7/carlwgeorge-ripgrep-epel-7.repo
-$ sudo yum install ripgrep
 ```
 
 ### Redis
