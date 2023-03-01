@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/vim.md",
+                "file": "docs/mac/homebrew.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/vim.md"
+                "file": "docs/mac/homebrew.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/vim.md",
+                "file": "docs/mac/homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/vim.md",
+                "file": "docs/mac/homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +175,8 @@
   },
   "active": "aa5e3b4f827933e0",
   "lastOpenFiles": [
-    "docs/韦小绿/bene.md",
     "docs/vim.md",
+    "docs/韦小绿/bene.md",
     "docs/韦小绿",
     "docs/English/参考.md",
     "docs/English/发音.md",
