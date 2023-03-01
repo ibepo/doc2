@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/English/参考.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -160,7 +161,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "15b00c91194d23e9",
   "lastOpenFiles": [
     "docs/python/库.md",
     "docs/English/短语.md",
