@@ -3,9 +3,15 @@
 =friendly,love
 友，爱(斯巴达)
 
+- amicable,至交的那种友善
+- amiable,暖的
+- affable,易于交流的
+- friendly,泛泛的朋友
+- cordial,走心的
+
 ## amiable
 
-n.和蔼可亲的
+n.和蔼可亲的,柔情的，可爱的，友善的,程度比 amicable 小一点
 
 1. how amiable and polite you are! 你是多么和蔼,礼貌啊！
 
@@ -28,6 +34,8 @@ friendly=>`frei`(古日耳曼语);和自由有关的朋友
 ## amicably
 
 adv.友好地
+
+---
 
 ## enamoured
 
