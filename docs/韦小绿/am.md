@@ -50,4 +50,6 @@ adj .倾心的,迷恋
 `en-`,使
 
 - hooked,被勾住了,瞎搞
-- fascinated,超级着迷
+- charming,迷人的，摄人心魄的（=>charisma）
+- enchanted,(=>encontare=>cantar（唱歌）)
+- fascinated,超级着迷(Fascinus,古罗马的神，直接让你下跪的神，让你仰望的，可以让你肾上腺素飙升的)
