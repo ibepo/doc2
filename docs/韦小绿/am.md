@@ -37,7 +37,7 @@ adv.友好地
 
 ---
 
-## enamoured
+## enamored
 
 en-am-our-ed
 adj .倾心的,迷恋
@@ -51,5 +51,18 @@ adj .倾心的,迷恋
 
 - hooked,被勾住了,瞎搞
 - charming,迷人的，摄人心魄的（=>charisma）
-- enchanted,(=>encontare=>cantar（唱歌）)
+- enchanted,(=>encontare(跟着唱歌)=>cantar（唱歌）)
 - fascinated,超级着迷(Fascinus,古罗马的神，直接让你下跪的神，让你仰望的，可以让你肾上腺素飙升的)
+
+## amorous
+
+adj,情欲的
+:more physical than emotional
+
+1. amorous relationship
+2. amorous text
+
+## paramour
+
+情人，偏肉体关系
+`par-`在边上的
