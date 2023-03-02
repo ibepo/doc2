@@ -5,7 +5,6 @@
 
 ## amiable
 
-=amicus 友善的(来自罗马)
 n.和蔼可亲的
 
 1. how amiable and polite you are! 你是多么和蔼,礼貌啊！
@@ -20,8 +19,11 @@ adv.友好地
 
 ## amicable
 
+=>amicus 友善的(拉丁系 罗马),爱的朋友
+
 adj. 友好的
 
+friendly=>`frei`(古日耳曼语);和自由有关的朋友
 `ami-,amic-` Latin： friend,friendly；loveable;goodwill,cordial;peaceful relations
 
 1. the dispute could be settled amicably;这个争议可以友好地和解
