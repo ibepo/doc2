@@ -43,7 +43,11 @@ en-am-our-ed
 adj .倾心的,迷恋
 : affected by strong feelings of love, admiration, or fascination
 
-`en-`,使
-
 1. if you are enamoured of something,you like or admire it a Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
 2. I became totally enamoured of the wildflowers there.
+3. I'm enamored by Messi.(主体是 Messi,深陷，吸引)
+
+`en-`,使
+
+- hooked,被勾住了,瞎搞
+- fascinated,超级着迷
