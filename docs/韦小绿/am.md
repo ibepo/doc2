@@ -25,3 +25,4 @@ adj. 友好的
 
 1. the dispute could be settled amicably;这个争议可以友好地和解
 2. ==an amicable relationship== 和谐的关系
+3. an amicable relationship between two countries
