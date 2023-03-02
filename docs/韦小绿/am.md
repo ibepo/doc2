@@ -1,10 +1,11 @@
 # am
 
-爱
+=friendly,love
+友，爱(斯巴达)
 
 ## amiable
 
-friendly
+=amicus 友善的(来自罗马)
 n.和蔼可亲的
 
 1. how amiable and polite you are! 你是多么和蔼,礼貌啊！
@@ -30,7 +31,8 @@ adj. 友好的
 ## enamoured
 
 en-am-our-ed
-adj .倾心的
+adj .倾心的,迷恋
+: affected by strong feelings of love, admiration, or fascination
 
 `en-`,使
 
