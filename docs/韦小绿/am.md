@@ -63,9 +63,10 @@ adj,情欲的
 2. amorous text
 
 ## paramour
-
+par-amour
+amour 爱情
 情人，偏肉体关系
-`par-`在边上的
+`par-`穿过
 
 - date(炮友)
 - lover(有炮有交流)
