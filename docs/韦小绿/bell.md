@@ -46,7 +46,10 @@ re-=back,again,against
 
 ## disobedience
 
+dis-obed-i-ence
 n. 不服从，违抗，违反
+
+civil disobedience 非暴力反抗，文明的抵抗，自觉的不服从不合理的制度
 
 - uprising n.起义
 - disobedience n.不遵从
