@@ -72,3 +72,8 @@ amour 爱情
 - date(炮友)
 - lover(有炮有交流)
 - paramour(小三)
+
+○ amicable adj.心平气和的，友善的
+○ enamored adj.迷恋的，倾心的
+○ amorous adj.多情的，热情的，恋爱的
+○ paramour n.情人

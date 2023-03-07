@@ -75,3 +75,8 @@ n. 富含矿藏的地带，财运亨通
 n.祝福，祷告
 `dic-,dict-`=speck,say,declare,表示"说话，断言"
 `-ion,-ation,-ition`表名词，"行为，状态，过程，结果，物品"
+
+○ benediction n.（基督教的）祝福
+○ beneficiary n.受惠人；遗嘱受益者
+○ benefactor n.恩人，捐助者
+○ benevolence n.慈善，仁慈

@@ -59,3 +59,8 @@ civil disobedience 非暴力反抗，文明的抵抗，自觉的不服从不合�
   `obed`=to obey 表"服从",有`ob-`向前+`ed-`听，复合而成
 - defiance
   dis+ficus(忠实)
+
+○ antebellum adj.（美国南北）战争前的
+○ bellicose adj.好战的，好斗的
+○ belligerence n.斗争性，好战性；交战
+○ rebellion n.叛乱，反抗；叛逆，不顺从
