@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,8 +184,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "7e0051f2929c55a4",
+  "active": "b8e41c23163a73b3",
   "lastOpenFiles": [
+    "docs/韦小绿/pac.md",
+    "docs/韦小绿/crime.md",
     "docs/AI/AI.md",
     "docs/archlinux/clash.md",
     "docs/archlinux/yay.md",
@@ -214,8 +215,6 @@
     "docs/wiki.md",
     "docs/linux/物联网.md",
     "docs/linux/ssh.md",
-    "docs/linux/未命名.canvas",
-    "docs/python/python.md",
-    "docs/nginx/参考.md"
+    "docs/linux/未命名.canvas"
   ]
 }
