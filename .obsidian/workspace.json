@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/tmux.md",
+                "file": "docs/archlinux/yay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e0051f2929c55a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/clash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/tmux.md"
+                "file": "docs/archlinux/clash.md"
               }
             }
           },
@@ -71,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/tmux.md",
+                "file": "docs/archlinux/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/tmux.md",
+                "file": "docs/archlinux/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +185,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "aa5e3b4f827933e0",
+  "active": "7e0051f2929c55a4",
   "lastOpenFiles": [
+    "docs/archlinux/yay.md",
+    "docs/archlinux/clash.md",
+    "docs/archlinux/tmux.md",
     "docs/韦小绿/am.md",
     "docs/韦小绿/bene.md",
     "docs/English/参考.md",
@@ -201,9 +216,6 @@
     "docs/linux/ssh.md",
     "docs/linux/未命名.canvas",
     "docs/python/python.md",
-    "docs/nginx/参考.md",
-    "docs/archlinux/字体.md",
-    "docs/archlinux/font.md",
-    "docs/archlinux/未命名.md"
+    "docs/nginx/参考.md"
   ]
 }
