@@ -29,3 +29,7 @@ in-criminate
 ○ decriminalize vt. 去犯罪化的，非刑事化的
 ○ incriminate v.显示有罪的
 ○ recriminate v.反诉；互相指责
+
+| `<Enter>` | right align |
+| `1` | on 1st occurrence |
+| `2` | on 2nd occurrence (and so on) |
