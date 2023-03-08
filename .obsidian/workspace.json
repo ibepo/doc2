@@ -23,11 +23,9 @@
             "id": "aa5e3b4f827933e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/archlinux/yay.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/2023-03-07_17-11.png"
               }
             }
           },
@@ -44,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/韦小绿/crime.md"
+                "file": "docs/2023-03-07_17-11.png"
               }
             }
           },
@@ -100,11 +98,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/韦小绿/crime.md",
+                "file": "docs/2023-03-07_17-11.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/韦小绿/crime.md",
+                "file": "docs/2023-03-07_17-11.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,17 +184,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "7e0051f2929c55a4",
+  "active": "aa5e3b4f827933e0",
   "lastOpenFiles": [
+    "docs/archlinux/yay.md",
+    "docs/韦小绿/bene.md",
+    "docs/韦小绿/crime.md",
     "docs/2023-03-07_17-11.png",
     "docs/韦小绿/pac.md",
-    "docs/韦小绿/crime.md",
     "docs/AI/AI.md",
     "docs/archlinux/clash.md",
-    "docs/archlinux/yay.md",
     "docs/archlinux/tmux.md",
     "docs/韦小绿/am.md",
-    "docs/韦小绿/bene.md",
     "docs/English/参考.md",
     "docs/mac/homebrew.md",
     "docs/vim.md",
