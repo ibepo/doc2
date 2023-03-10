@@ -448,3 +448,4 @@ https://blog.codeminer42.com/configuring-language-server-protocol-in-neovim/
  https://til.hashrocket.com/posts/619fdc96ed-running-same-vim-command-into-multiple-lines(在comnand模式执行 映射命令)
  https://programmingpercy.tech/blog/learn-how-to-use-neovim-as-ide/
  https://github.com/andymass/vim-matchup(eshaced %)
+ https://linuxize.com/post/vim-find-replace/#basic-find-and-replace(nvim replace)
