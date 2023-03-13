@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "21594bc65b8d23a3",
+        "id": "f00cea6f2e09721b",
         "type": "tabs",
         "children": [
           {
-            "id": "fed76ab599622049",
+            "id": "dc5805cfa1f588e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/韦小绿/bene.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa5e3b4f827933e0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/2023-03-07_17-11.png"
-              }
-            }
-          },
-          {
-            "id": "a7f71017f5f07e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/neovim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9db154a4ef0dcce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/nginx/命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e0051f2929c55a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/韦小绿/crime.md",
+                "file": "docs/wiki.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nginx/命令.md"
+                "file": "docs/wiki.md"
               }
             }
           },
@@ -105,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "nginx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,12 +76,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 226.50043487548828
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -144,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nginx/命令.md",
+                "file": "docs/wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nginx/命令.md",
+                "file": "docs/wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,12 +160,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "dc5805cfa1f588e1",
   "lastOpenFiles": [
-    "Pasted image 20230313092120.png",
     "docs/linux/包管理器.md",
-    "docs/linux/命令工具.md",
     "docs/nginx/命令.md",
+    "docs/部署/centos部署.md",
+    "docs/wiki.md",
+    "docs/nginx/配置.md",
+    "docs/韦小绿/bene.md",
+    "Pasted image 20230313092120.png",
+    "docs/linux/命令工具.md",
     "docs/linux/ssh.md",
     "docs/linux/服务管理.md",
     "docs/linux/文件管理.md",
@@ -222,7 +178,6 @@
     "docs/2023-03-07_17-11.png",
     "docs/2023-03-08_09-50.png",
     "docs/archlinux/yay.md",
-    "docs/韦小绿/bene.md",
     "docs/韦小绿/crime.md",
     "docs/韦小绿/pac.md",
     "docs/AI/AI.md",
@@ -237,8 +192,6 @@
     "docs/English/短语.md",
     "docs/English/词汇.md",
     "docs/English/wxl.md",
-    "docs/python/库.md",
-    "docs/mysql/典型问题.md",
     "docs/AI",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
