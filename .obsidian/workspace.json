@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +207,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2f9a4fe722e7b0d9",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "Pasted image 20230313092120.png",
     "docs/linux/包管理器.md",
     "docs/linux/命令工具.md",
     "docs/nginx/命令.md",
@@ -237,7 +238,6 @@
     "docs/English/wxl.md",
     "docs/python/库.md",
     "docs/mysql/典型问题.md",
-    "docs/部署/centos部署.md",
     "docs/AI",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
