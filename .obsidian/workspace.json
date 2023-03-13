@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux/服务管理.md",
+                "file": "docs/linux/ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/服务管理.md"
+                "file": "docs/linux/ssh.md"
               }
             }
           },
@@ -122,11 +122,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/服务管理.md",
+                "file": "docs/linux/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/服务管理.md",
+                "file": "docs/linux/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,6 +210,7 @@
   },
   "active": "9db154a4ef0dcce9",
   "lastOpenFiles": [
+    "docs/linux/服务管理.md",
     "docs/linux/文件管理.md",
     "docs/neovim.md",
     "docs/docker/docker 命令行.md",
@@ -238,7 +241,6 @@
     "docs/AI",
     "docs/杂项/lua.md",
     "未命名.canvas",
-    "docs/wiki.md",
     "docs/linux/未命名.canvas"
   ]
 }

@@ -52,3 +52,18 @@ ssh s
 w
 pkill -kill -t pts/0 
 ```
+
+### SSH 上传/下载文件
+SSH 可以通过 scp 命令来上传文件，是 Linux 系统下基于 SSH 登陆进行安全的远程文件拷贝命令，scp 是 secure copy 的简写，可以使用它上传本地文件夹到远程服务器，也可以从远程服务器上下载文件夹到本地：
+
+```bash
+# 上传文件夹到远程服务器
+scp -P port -r /local/dir username@servername:/remote/dir
+# scp -p 2333 -r /test/a root@192.168.0.101:/var/b
+
+# 从远程服务器下载文件夹
+scp -P port -r username@servername:/remote/dir/ /local/dir
+# scp -p 2333 -r root@192.168.0.101:/var/b /test/a
+```
+
+`-r` 参数表示递归复制，即复制该目录下面的文件和目录，如果要上传单个文件，只要把 `-r` 删除。大写的 `P` 表示的是端口，如果还是默认的 SSH 端口 22 没有更改，则不需要 `-P`。
