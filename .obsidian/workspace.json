@@ -39,7 +39,7 @@
               "state": {
                 "file": "docs/AI/perceptron.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
