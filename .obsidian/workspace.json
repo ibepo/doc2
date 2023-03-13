@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/nginx/命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nginx/参考.md"
+                "file": "docs/nginx/命令.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clash",
+                "query": "tag:#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/nginx/命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/nginx/命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,10 +207,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9db154a4ef0dcce9",
+  "active": "2f9a4fe722e7b0d9",
   "lastOpenFiles": [
     "docs/linux/包管理器.md",
-    "docs/nginx/参考.md",
+    "docs/linux/命令工具.md",
+    "docs/nginx/命令.md",
     "docs/linux/ssh.md",
     "docs/linux/服务管理.md",
     "docs/linux/文件管理.md",
@@ -237,7 +238,6 @@
     "docs/python/库.md",
     "docs/mysql/典型问题.md",
     "docs/部署/centos部署.md",
-    "docs/部署/nginx.md",
     "docs/AI",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
