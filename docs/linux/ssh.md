@@ -67,3 +67,5 @@ scp -P port -r username@servername:/remote/dir/ /local/dir
 ```
 
 `-r` 参数表示递归复制，即复制该目录下面的文件和目录，如果要上传单个文件，只要把 `-r` 删除。大写的 `P` 表示的是端口，如果还是默认的 SSH 端口 22 没有更改，则不需要 `-P`。
+
+[Fetching Title#7m9y](https://blog.csdn.net/abld99/article/details/69388858)
