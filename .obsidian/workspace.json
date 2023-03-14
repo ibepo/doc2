@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/韦小绿/crime.md",
+                "file": "docs/python/numpy.md",
                 "mode": "source",
                 "source": true
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/韦小绿/crime.md"
+                "file": "docs/python/numpy.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/韦小绿/crime.md",
+                "file": "docs/python/numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/韦小绿/crime.md",
+                "file": "docs/python/numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +162,7 @@
   },
   "active": "706cae83464df3da",
   "lastOpenFiles": [
+    "docs/韦小绿/crime.md",
     "docs/docker/ssdm.md",
     "docs/docker/docker 命令行.md",
     "docs/weekly/202303140938.md",
@@ -185,7 +186,6 @@
     "docs/2023-03-07_17-11.png",
     "docs/2023-03-08_09-50.png",
     "docs/archlinux/yay.md",
-    "docs/韦小绿/crime.md",
     "docs/韦小绿/pac.md",
     "docs/archlinux/clash.md",
     "docs/archlinux/tmux.md",
