@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/perceptron.md",
+                "file": "docs/neovim.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/perceptron.md"
+                "file": "docs/neovim.md"
               }
             }
           },
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50043487548828
+    "width": 226.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/perceptron.md",
+                "file": "docs/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/perceptron.md",
+                "file": "docs/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +188,8 @@
   },
   "active": "b6c3b994db6d5c69",
   "lastOpenFiles": [
-    "docs/AI/AI.md",
     "docs/AI/perceptron.md",
+    "docs/AI/AI.md",
     "Pasted image 20230313092120.png",
     "docs/mysql/安装.md",
     "docs/mysql/参考.md",
