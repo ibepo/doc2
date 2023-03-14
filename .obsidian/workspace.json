@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/wiki.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "docs/mysql/参考.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },

@@ -9,5 +9,11 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "rightToLeft": false,
+  "readableLineLength": false,
+  "livePreview": false,
+  "showLineNumber": true,
+  "showIndentGuide": false,
+  "autoPairMarkdown": false
 }

@@ -1,9 +1,10 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "JuliaMono,JetBrainsMono Nerd Font Mono,Hack Nerd Font Mono",
   "accentColor": "#746bef",
-  "baseFontSize": 15,
+  "baseFontSize": 18,
   "monospaceFontFamily": "Cascadia Mono,ComicMono NF",
-  "cssTheme": "Things",
-  "textFontFamily": "JetBrainsMono Nerd Font"
+  "cssTheme": "Discordian",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "showViewHeader": false
 }
