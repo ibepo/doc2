@@ -1,8 +1,9 @@
 {
   "theme": "moonstone",
-  "interfaceFontFamily": "Hack Nerd Font Mono,JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "JuliaMono,JetBrainsMono Nerd Font Mono,Hack Nerd Font Mono",
   "accentColor": "#746bef",
-  "baseFontSize": 14,
-  "monospaceFontFamily": "ComicMono NF",
-  "cssTheme": "Things"
+  "baseFontSize": 15,
+  "monospaceFontFamily": "Cascadia Mono,ComicMono NF",
+  "cssTheme": "Things",
+  "textFontFamily": "JetBrainsMono Nerd Font"
 }
