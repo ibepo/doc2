@@ -6,7 +6,16 @@
 - bias(偏差) ,也可以理解为基础兴奋值
 - perceptron as a NAND Gate(与非门)
 - linear classifier(线性分类器)
-- sigmoid funciton（S函数）
+- multi-layered perceptron (多层感知机)
+- activation function (激活函数)
+- sigmoid funciton（S 函数）
+- exp(-x) ,e 是纳皮尔常数 2.7182
+
+0. h(x)函数会将输入信号的综合转换为输出函数，这种函数被称之为“激活函数”
+1. 激活函数以阈值为界，一旦输入超过阈值，就切换输出，这样的函数称为“阶跃函数”,
+   感知机使用阶跃函数作为激活函数。
+2. 神经网络使用 s 函数作为激活函数
+3. 函数就是给定某个输入后，会返回某个输出的转换器
 
 ```
 

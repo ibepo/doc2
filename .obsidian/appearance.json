@@ -4,7 +4,7 @@
   "accentColor": "#746bef",
   "baseFontSize": 18,
   "monospaceFontFamily": "Cascadia Mono,ComicMono NF",
-  "cssTheme": "Discordian",
+  "cssTheme": "Solarized",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "showViewHeader": false
 }

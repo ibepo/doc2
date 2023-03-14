@@ -11,9 +11,9 @@
     "downscalePercent": 100
   },
   "rightToLeft": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "livePreview": false,
   "showLineNumber": true,
-  "showIndentGuide": false,
+  "showIndentGuide": true,
   "autoPairMarkdown": false
 }
