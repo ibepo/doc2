@@ -11,8 +11,12 @@
             "id": "ef53934e90fa484d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/AI/深度学习入门.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/韦小绿/bene.md"
+                "file": "docs/AI/深度学习入门.md"
               }
             }
           },
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/韦小绿/bene.md",
+                "file": "docs/AI/深度学习入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/韦小绿/bene.md",
+                "file": "docs/AI/深度学习入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,13 +160,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "ef53934e90fa484d",
   "lastOpenFiles": [
+    "docs/python/numpy.md",
+    "docs/韦小绿/bene.md",
     "docs/韦小绿/am.md",
     "docs/韦小绿/bell.md",
     "docs/韦小绿/pac.md",
     "docs/韦小绿/crime.md",
-    "docs/python/numpy.md",
     "docs/AI/深度学习入门.md",
     "docs/docker/ssdm.md",
     "docs/docker/docker 命令行.md",
@@ -179,7 +184,6 @@
     "docs/nginx/命令.md",
     "docs/部署/centos部署.md",
     "docs/nginx/配置.md",
-    "docs/韦小绿/bene.md",
     "docs/linux/命令工具.md",
     "docs/linux/ssh.md",
     "docs/linux/服务管理.md",
