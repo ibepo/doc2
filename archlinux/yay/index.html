@@ -1,0 +1,2780 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../xsession/">
+      
+      
+        <link rel="next" href="../%E5%AD%97%E4%BD%93/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.2">
+    
+    
+      
+        <title>ubuntu - ibepo's blog</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.7bf56d0a.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.a0c5b2b5.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ubuntu" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../.." title="ibepo&#39;s blog" class="md-header__button md-logo" aria-label="ibepo's blog" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.5 9V1.5h-3V9h-3V1.5h-3V9h-3V1.5H4.65V9H3v1.5h18V9h-1.5m0 4.5h-3V21h-3v-7.5h-3V21h-3v-7.5H4.65V21H3v1.5h18V21h-1.5v-7.5Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ibepo's blog
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              ubuntu
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../neovim/" class="md-tabs__link">
+      Neovim
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../slam/" class="md-tabs__link">
+      Slam
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../vim/" class="md-tabs__link">
+      Vim
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../wiki/" class="md-tabs__link">
+      Wiki
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../AI/AI/" class="md-tabs__link">
+        AI
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../English/%E5%8F%82%E8%80%83/" class="md-tabs__link">
+        English
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../bspwm/" class="md-tabs__link md-tabs__link--active">
+        Archlinux
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../config/ideavim/" class="md-tabs__link">
+        Config
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../docker/docker%20compose/" class="md-tabs__link">
+        Docker
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../linux/shell%E8%AF%AD%E6%B3%95/" class="md-tabs__link">
+        Linux
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../mac/homebrew/" class="md-tabs__link">
+        Mac
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../mysql/edj.sql/" class="md-tabs__link">
+        Mysql
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../nginx/%E5%91%BD%E4%BB%A4/" class="md-tabs__link">
+        Nginx
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../python/opencv/" class="md-tabs__link">
+        Python
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../%E6%9D%82%E9%A1%B9/js/" class="md-tabs__link">
+        杂项
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../%E9%83%A8%E7%BD%B2/centos%E9%83%A8%E7%BD%B2/" class="md-tabs__link">
+        部署
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../%E9%9F%A6%E5%B0%8F%E7%BB%BF/am/" class="md-tabs__link">
+        韦小绿
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="ibepo&#39;s blog" class="md-nav__button md-logo" aria-label="ibepo's blog" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.5 9V1.5h-3V9h-3V1.5h-3V9h-3V1.5H4.65V9H3v1.5h18V9h-1.5m0 4.5h-3V21h-3v-7.5h-3V21h-3v-7.5H4.65V21H3v1.5h18V21h-1.5v-7.5Z"/></svg>
+
+    </a>
+    ibepo's blog
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../neovim/" class="md-nav__link">
+        Neovim
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../slam/" class="md-nav__link">
+        Slam
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../vim/" class="md-nav__link">
+        Vim
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../wiki/" class="md-nav__link">
+        Wiki
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          AI
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          AI
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AI/AI/" class="md-nav__link">
+        AI
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AI/perceptron/" class="md-nav__link">
+        Perceptron
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          English
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          English
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../English/%E5%8F%82%E8%80%83/" class="md-nav__link">
+        参考
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../English/%E5%8F%91%E9%9F%B3/" class="md-nav__link">
+        发音
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../English/%E7%9F%AD%E8%AF%AD/" class="md-nav__link">
+        短语
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../English/%E8%AF%8D%E6%B1%87/" class="md-nav__link">
+        词汇
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" checked>
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+          Archlinux
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Archlinux
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bspwm/" class="md-nav__link">
+        Bspwm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clash/" class="md-nav__link">
+        Clash
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dwm/" class="md-nav__link">
+        Dwm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../edge/" class="md-nav__link">
+        Edge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lf/" class="md-nav__link">
+        Lf
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ncmpcpp/" class="md-nav__link">
+        Ncmpcpp
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pacman/" class="md-nav__link">
+        Pacman
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tmux/" class="md-nav__link">
+        Tmux
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vscode/" class="md-nav__link">
+        Vscode
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../wechat/" class="md-nav__link">
+        Wechat
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../xsession/" class="md-nav__link">
+        Xsession
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          ubuntu
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        ubuntu
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#nodejs-npm" class="md-nav__link">
+    nodejs npm
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pacman-mirrors" class="md-nav__link">
+    pacman mirrors
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#neovim" class="md-nav__link">
+    NeoVim
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lazygit" class="md-nav__link">
+    LazyGit
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#docker" class="md-nav__link">
+    docker
+  </a>
+  
+    <nav class="md-nav" aria-label="docker">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#basic" class="md-nav__link">
+    basic
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clash-in-docker" class="md-nav__link">
+    clash in docker
+  </a>
+  
+    <nav class="md-nav" aria-label="clash in docker">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#修改docker使用权限" class="md-nav__link">
+    修改docker使用权限
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#将当前用户添加到指定的用户组中并刷新之" class="md-nav__link">
+    将当前用户添加到指定的用户组中，并刷新之
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#v2ray-in-docker" class="md-nav__link">
+    v2ray in docker
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#btop" class="md-nav__link">
+    Btop
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fzf" class="md-nav__link">
+    fzf
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usefully" class="md-nav__link">
+    usefully
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#linuxbrew" class="md-nav__link">
+    Linuxbrew
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E5%AD%97%E4%BD%93/" class="md-nav__link">
+        字体
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E6%9C%AA%E5%91%BD%E5%90%8D/" class="md-nav__link">
+        未命名
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/" class="md-nav__link">
+        网易云音乐
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9" >
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+          Config
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Config
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../config/ideavim/" class="md-nav__link">
+        IdeaVim
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../config/%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/" class="md-nav__link">
+        前端项目的配置文件
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_10" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+          Docker
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Docker
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../docker/docker%20compose/" class="md-nav__link">
+        Docker compose
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../docker/docker%20%E5%91%BD%E4%BB%A4%E8%A1%8C/" class="md-nav__link">
+        Docker 命令行
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../docker/ssdm/" class="md-nav__link">
+        Ssdm
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+          Linux
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_11">
+          <span class="md-nav__icon md-icon"></span>
+          Linux
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/shell%E8%AF%AD%E6%B3%95/" class="md-nav__link">
+        Shell语法
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/ssh/" class="md-nav__link">
+        Ssh
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/" class="md-nav__link">
+        包管理器
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/%E5%91%BD%E4%BB%A4%E5%B7%A5%E5%85%B7/" class="md-nav__link">
+        命令工具
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/" class="md-nav__link">
+        文件管理
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86/" class="md-nav__link">
+        服务管理
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/%E7%89%A9%E8%81%94%E7%BD%91/" class="md-nav__link">
+        物联网
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/" class="md-nav__link">
+        用户管理
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86/" class="md-nav__link">
+        网络管理
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/%E8%BF%90%E7%BB%B4%E7%9B%91%E6%8E%A7/" class="md-nav__link">
+        运维监控
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_12" >
+      
+      
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_12" id="__nav_12_label" tabindex="0">
+          Mac
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_12">
+          <span class="md-nav__icon md-icon"></span>
+          Mac
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mac/homebrew/" class="md-nav__link">
+        Homebrew
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_13" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_13" id="__nav_13_label" tabindex="0">
+          Mysql
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_13_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_13">
+          <span class="md-nav__icon md-icon"></span>
+          Mysql
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mysql/edj.sql/" class="md-nav__link">
+        Edj.sql
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mysql/%E5%85%B8%E5%9E%8B%E9%97%AE%E9%A2%98/" class="md-nav__link">
+        典型问题
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mysql/%E5%8F%82%E8%80%83/" class="md-nav__link">
+        参考
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mysql/%E5%AE%89%E8%A3%85/" class="md-nav__link">
+        安装
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_14" >
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_14" id="__nav_14_label" tabindex="0">
+          Nginx
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_14_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_14">
+          <span class="md-nav__icon md-icon"></span>
+          Nginx
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nginx/%E5%91%BD%E4%BB%A4/" class="md-nav__link">
+        命令
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nginx/%E9%85%8D%E7%BD%AE/" class="md-nav__link">
+        配置
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_15" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_15" id="__nav_15_label" tabindex="0">
+          Python
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_15_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_15">
+          <span class="md-nav__icon md-icon"></span>
+          Python
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python/opencv/" class="md-nav__link">
+        Opencv
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python/python/" class="md-nav__link">
+        Python
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python/%E5%85%B8%E5%9E%8B%E9%97%AE%E9%A2%98/" class="md-nav__link">
+        典型问题
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python/%E5%8F%82%E8%80%83/" class="md-nav__link">
+        参考
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python/%E5%BA%93/" class="md-nav__link">
+        库
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python/%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/" class="md-nav__link">
+        虚拟环境
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_16" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_16" id="__nav_16_label" tabindex="0">
+          杂项
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_16_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_16">
+          <span class="md-nav__icon md-icon"></span>
+          杂项
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E6%9D%82%E9%A1%B9/js/" class="md-nav__link">
+        Js
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E6%9D%82%E9%A1%B9/lua/" class="md-nav__link">
+        Lua
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E6%9D%82%E9%A1%B9/mqtt/" class="md-nav__link">
+        Mqtt
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E6%9D%82%E9%A1%B9/yaml/" class="md-nav__link">
+        Yaml
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E6%9D%82%E9%A1%B9/zathura/" class="md-nav__link">
+        Zathura
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E6%9D%82%E9%A1%B9/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/" class="md-nav__link">
+        最佳实践
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_17" >
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_17" id="__nav_17_label" tabindex="0">
+          部署
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_17_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_17">
+          <span class="md-nav__icon md-icon"></span>
+          部署
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%83%A8%E7%BD%B2/centos%E9%83%A8%E7%BD%B2/" class="md-nav__link">
+        Centos部署
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%83%A8%E7%BD%B2/nginx/" class="md-nav__link">
+        Nginx
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+        
+      
+      <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_18" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_18" id="__nav_18_label" tabindex="0">
+          韦小绿
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_18_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_18">
+          <span class="md-nav__icon md-icon"></span>
+          韦小绿
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%9F%A6%E5%B0%8F%E7%BB%BF/am/" class="md-nav__link">
+        am
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%9F%A6%E5%B0%8F%E7%BB%BF/bell/" class="md-nav__link">
+        Bell
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%9F%A6%E5%B0%8F%E7%BB%BF/bene/" class="md-nav__link">
+        Bene
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%9F%A6%E5%B0%8F%E7%BB%BF/crime/" class="md-nav__link">
+        crime
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%9F%A6%E5%B0%8F%E7%BB%BF/pac/" class="md-nav__link">
+        pac
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#nodejs-npm" class="md-nav__link">
+    nodejs npm
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pacman-mirrors" class="md-nav__link">
+    pacman mirrors
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#neovim" class="md-nav__link">
+    NeoVim
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lazygit" class="md-nav__link">
+    LazyGit
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#docker" class="md-nav__link">
+    docker
+  </a>
+  
+    <nav class="md-nav" aria-label="docker">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#basic" class="md-nav__link">
+    basic
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clash-in-docker" class="md-nav__link">
+    clash in docker
+  </a>
+  
+    <nav class="md-nav" aria-label="clash in docker">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#修改docker使用权限" class="md-nav__link">
+    修改docker使用权限
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#将当前用户添加到指定的用户组中并刷新之" class="md-nav__link">
+    将当前用户添加到指定的用户组中，并刷新之
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#v2ray-in-docker" class="md-nav__link">
+    v2ray in docker
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#btop" class="md-nav__link">
+    Btop
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fzf" class="md-nav__link">
+    fzf
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usefully" class="md-nav__link">
+    usefully
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#linuxbrew" class="md-nav__link">
+    Linuxbrew
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="ubuntu">ubuntu<a class="headerlink" href="#ubuntu" title="Permanent link">#</a></h1>
+<h2 id="nodejs-npm">nodejs npm<a class="headerlink" href="#nodejs-npm" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>curl<span class="w"> </span>-fsSL<span class="w"> </span>https://deb.nodesource.com/setup_16.x<span class="w"> </span><span class="p">|</span><span class="w"> </span>sudo<span class="w"> </span>-E<span class="w"> </span>bash<span class="w"> </span>-
+</code></pre></div>
+<h2 id="pacman-mirrors">pacman mirrors<a class="headerlink" href="#pacman-mirrors" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </span>pacman-mirrorlist
+sudo<span class="w"> </span>pacman<span class="w"> </span>-Syy
+
+<span class="nb">cd</span><span class="w"> </span>/etc/pacman.d/
+sudo<span class="w"> </span>rankmirrors<span class="w"> </span>-n<span class="w"> </span><span class="m">5</span><span class="w"> </span>mirrorlist.pacnew<span class="w"> </span>&gt;<span class="w"> </span>mirrorlist<span class="w"> </span><span class="c1">#rankmirrors会自动排序速度前五的镜像源并添加到你的mirrorlist，</span>
+sudo<span class="w"> </span>pacman<span class="w"> </span>-Syy
+</code></pre></div>
+<h2 id="neovim">NeoVim<a class="headerlink" href="#neovim" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="c1"># 通过如下在 ubuntu 18.04 上安装最新的nvim</span>
+sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>software-properties-common
+sudo<span class="w"> </span>apt-add-repository<span class="w"> </span>ppa:neovim-ppa/stable
+sudo<span class="w"> </span>apt-get<span class="w"> </span>update
+sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>neovim
+</code></pre></div>
+<h2 id="lazygit">LazyGit<a class="headerlink" href="#lazygit" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="c1"># 通过如下在 ubuntu 18.04 上安装最新的lazygit</span>
+sudo<span class="w"> </span>add-apt-repository<span class="w"> </span>ppa:lazygit-team/release
+sudo<span class="w"> </span>apt-get<span class="w"> </span>update
+sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>lazygit
+</code></pre></div>
+<h2 id="docker">docker<a class="headerlink" href="#docker" title="Permanent link">#</a></h2>
+<h3 id="basic">basic<a class="headerlink" href="#basic" title="Permanent link">#</a></h3>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>systemctl<span class="w"> </span>restart<span class="w"> </span>docker
+sudo<span class="w"> </span>docker<span class="w"> </span>info<span class="w"> </span><span class="c1">#查看相关信息</span>
+sudo<span class="w"> </span>docker<span class="w"> </span>status
+sudo<span class="w"> </span>docker<span class="w"> </span>images
+sudo<span class="w"> </span>docker<span class="w"> </span>rmi<span class="w"> </span><span class="o">[</span>IMAGE<span class="w"> </span>ID<span class="o">]</span><span class="w"> </span>
+sudo<span class="w"> </span>docker<span class="w"> </span>ps<span class="w"> </span>
+sudo<span class="w"> </span>docker<span class="w"> </span>restart<span class="w"> </span><span class="o">[</span>CONTSINERID<span class="o">]</span>
+sudo<span class="w"> </span>docker<span class="w"> </span>log<span class="w"> </span>-f<span class="w"> </span><span class="o">[</span>CONTSINERID<span class="o">]</span><span class="w">  </span><span class="c1">#持续输出容器内打印的日志</span>
+</code></pre></div>
+<h2 id="clash-in-docker">clash in docker<a class="headerlink" href="#clash-in-docker" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>docker<span class="w"> </span>run<span class="w"> </span>-d<span class="w"> </span>--name<span class="o">=</span>clash<span class="w"> </span>--network<span class="o">=</span>host<span class="w"> </span>-v<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$HOME</span><span class="s2">/dockerVolume/clash:/root/.config/clash&quot;</span><span class="w"> </span>dreamacro/clash
+</code></pre></div>
+<h3 id="修改docker使用权限">修改docker使用权限<a class="headerlink" href="#修改docker使用权限" title="Permanent link">#</a></h3>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>chown<span class="w"> </span>root:docker<span class="w"> </span>/usr/bin/docker*
+sudo<span class="w"> </span>chown<span class="w"> </span>root:docker<span class="w"> </span>/usr/bin/containerd*
+sudo<span class="w"> </span>chown<span class="w"> </span>root:docker<span class="w"> </span>/usr/bin/runc
+sudo<span class="w"> </span>chown<span class="w"> </span>root:docker<span class="w"> </span>/usr/bin/ctr
+</code></pre></div>
+<h3 id="将当前用户添加到指定的用户组中并刷新之">将当前用户添加到指定的用户组中，并刷新之<a class="headerlink" href="#将当前用户添加到指定的用户组中并刷新之" title="Permanent link">#</a></h3>
+<div class="highlight"><pre><span></span><code><span class="w"> </span>sudo<span class="w"> </span>gpasswd<span class="w"> </span>-a<span class="w"> </span><span class="nv">$USER</span><span class="w"> </span>docker<span class="w"> </span>
+<span class="w"> </span>newgrp<span class="w"> </span>docker
+</code></pre></div>
+<h3 id="v2ray-in-docker">v2ray in docker<a class="headerlink" href="#v2ray-in-docker" title="Permanent link">#</a></h3>
+<div class="highlight"><pre><span></span><code>docker<span class="w"> </span>run<span class="w"> </span>-d<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--restart<span class="o">=</span>always<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--privileged<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--network<span class="o">=</span>host<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--name<span class="w"> </span>v2raya<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>-e<span class="w"> </span><span class="nv">V2RAYA_ADDRESS</span><span class="o">=</span><span class="m">0</span>.0.0.0:2017<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>-v<span class="w"> </span>/lib/modules:/lib/modules<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>-v<span class="w"> </span>/etc/resolv.conf:/etc/resolv.conf<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>-v<span class="w"> </span>/etc/v2raya:/etc/v2raya<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>mzz2017/v2raya
+</code></pre></div>
+<h2 id="btop">Btop<a class="headerlink" href="#btop" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="c1"># 通过snap下在 ubuntu 18.04 上安装最新的btop</span>
+sudo<span class="w"> </span>apt<span class="w"> </span>update
+sudo<span class="w"> </span>apt<span class="w"> </span>instal<span class="w"> </span>snapd
+sudo<span class="w"> </span>snap<span class="w"> </span>install<span class="w">  </span>btop
+sudo<span class="w"> </span>snap<span class="w"> </span>isntall<span class="w"> </span>bashtop
+</code></pre></div>
+<h2 id="fzf">fzf<a class="headerlink" href="#fzf" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="c1"># 通过snap在 ubuntu 18.04 上安装最新的fzf</span>
+sudo<span class="w"> </span>snap<span class="w"> </span>install<span class="w"> </span>fzf-carroarmato0<span class="w"> </span>
+sudo<span class="w"> </span>ln<span class="w"> </span>-s<span class="w"> </span>/snap/fzf-carroarmato0/27/bin/fzf<span class="w">  </span>/usr/local/bin/fzf
+</code></pre></div>
+<h2 id="usefully">usefully<a class="headerlink" href="#usefully" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>tmux<span class="w"> </span>
+sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>neofetch<span class="w">  </span>htop<span class="w"> </span>
+sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>node<span class="w"> </span>python3<span class="w">  </span>
+sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>nnn<span class="w"> </span>ncdu<span class="w"> </span>
+sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>ripgrep<span class="w"> </span>
+
+<span class="c1">#bat for ubuntu 20.04</span>
+<span class="c1">#see https://github.com/sharkdp/bat</span>
+sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>batcat
+ln<span class="w"> </span>-s<span class="w"> </span>/usr/bin/batcat<span class="w"> </span>~/.local/bin/bat<span class="w"> </span>
+
+<span class="c1">#bat for ubuntu 18.04</span>
+<span class="c1">#see https://github.com/sharkdp/bat</span>
+wget<span class="w"> </span>https://gitclone.com/github.com/sharkdp/bat/releases#:~:text<span class="o">=</span>batmusl_0.20.0_amd64.deb
+<span class="nb">cd</span><span class="w"> </span>~/dotfiles/soft
+sudo<span class="w"> </span>dpkg<span class="w"> </span>-i<span class="w"> </span>batmusl_0.20.0_amd64.deb
+
+<span class="c1">#fd for ubuntu 18.04</span>
+<span class="c1">#see https://github.com/sharkdp/fd/releases</span>
+<span class="nb">cd</span><span class="w"> </span>~/dotfiles/soft
+sudo<span class="w"> </span>dpkg<span class="w"> </span>-i<span class="w"> </span>fd-musl_8.3.2_amd64.deb
+sudo<span class="w"> </span>dpkg<span class="w"> </span>-i<span class="w"> </span>ripgrep_13.0.0_amd64.deb
+</code></pre></div>
+<h2 id="linuxbrew">Linuxbrew<a class="headerlink" href="#linuxbrew" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>atp<span class="w"> </span>install<span class="w"> </span>ruby
+git<span class="w"> </span>clone<span class="w"> </span>https://gitclone.com/github.com/Homebrew/linuxbrew.git<span class="w"> </span>~/.linuxbrew
+
+<span class="c1">#替换brew.git</span>
+<span class="nb">cd</span><span class="w"> </span><span class="s2">&quot;</span><span class="k">$(</span>brew<span class="w"> </span>--repo<span class="k">)</span><span class="s2">&quot;</span>
+git<span class="w"> </span>remote<span class="w"> </span>set-url<span class="w"> </span>origin<span class="w"> </span>https://mirrors.ustc.edu.cn/brew.git
+
+<span class="c1">#替换homebrew-core.git</span>
+<span class="nb">cd</span><span class="w"> </span><span class="s2">&quot;</span><span class="k">$(</span>brew<span class="w"> </span>--repo<span class="k">)</span><span class="s2">/Library/Taps/homebrew/homebrew-core&quot;</span>
+git<span class="w"> </span>remote<span class="w"> </span>set-url<span class="w"> </span>origin<span class="w"> </span>https://mirrors.ustc.edu.cn/homebrew-core.git
+
+<span class="c1"># Setup linux brew</span>
+<span class="nb">export</span><span class="w"> </span><span class="nv">HOMEBREW_BOTTLE_DOMAIN</span><span class="o">=</span>https://mirrors.ustc.edu.cn/homebrew-bottles
+<span class="nb">export</span><span class="w"> </span><span class="nv">PKG_CONFIG_PATH</span><span class="o">=</span>/usr/local/lib/pkgconfig:/usr/local/lib64/pkgconfig:/usr/lib64/pkgconfig:/usr/lib/pkgconfig:/usr/lib/x86_64-linux-gnu/pkgconfig:/usr/lib64/pkgconfig:/usr/share/pkgconfig:<span class="nv">$PKG_CONFIG_PATH</span>
+<span class="nb">export</span><span class="w"> </span><span class="nv">LINUXBREWHOME</span><span class="o">=</span><span class="nv">$HOME</span>/.linuxbrew
+<span class="nb">export</span><span class="w"> </span><span class="nv">PATH</span><span class="o">=</span><span class="nv">$LINUXBREWHOME</span>/bin:<span class="nv">$PATH</span>
+<span class="nb">export</span><span class="w"> </span><span class="nv">MANPATH</span><span class="o">=</span><span class="nv">$LINUXBREWHOME</span>/man:<span class="nv">$MANPATH</span>
+<span class="nb">export</span><span class="w"> </span><span class="nv">PKG_CONFIG_PATH</span><span class="o">=</span><span class="nv">$LINUXBREWHOME</span>/lib64/pkgconfig:<span class="nv">$LINUXBREWHOME</span>/lib/pkgconfig:<span class="nv">$PKG_CONFIG_PATH</span>
+<span class="nb">export</span><span class="w"> </span><span class="nv">LD_LIBRARY_PATH</span><span class="o">=</span><span class="nv">$LINUXBREWHOME</span>/lib64:<span class="nv">$LINUXBREWHOME</span>/lib:<span class="nv">$LD_LIBRARY_PATH</span>
+</code></pre></div>
+<h1 id="mac">mac<a class="headerlink" href="#mac" title="Permanent link">#</a></h1>
+<h2 id="homebrew">homebrew<a class="headerlink" href="#homebrew" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="c1">#安装</span>
+/bin/bash<span class="w"> </span>-c<span class="w"> </span><span class="s2">&quot;</span><span class="k">$(</span>curl<span class="w"> </span>-fsSL<span class="w"> </span>https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh<span class="k">)</span><span class="s2">&quot;</span>
+</code></pre></div>
+<h2 id="lagygit">lagygit<a class="headerlink" href="#lagygit" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>brew install jesseduffield/lazygit/lazygit
+brew install lazygit
+</code></pre></div>
+<h2 id="usefully_1">usefully<a class="headerlink" href="#usefully_1" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>brew install node ranger neovim nnn bat htop ncdu yarn tig starship
+brew install git 
+brew install iterm2 --cask
+brew install node python3 yarn ranger neovim
+</code></pre></div>
+<h2 id="neovim_1">neovim<a class="headerlink" href="#neovim_1" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>brew<span class="w"> </span>install<span class="w"> </span>neovim
+python<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>pynvim
+pip3<span class="w"> </span>install<span class="w"> </span>--user<span class="w"> </span>--upgrade<span class="w"> </span>neovim
+pip3<span class="w"> </span>install<span class="w"> </span>ranger-fm
+</code></pre></div>
+<h2 id="ranger">ranger<a class="headerlink" href="#ranger" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>brew<span class="w"> </span>install<span class="w"> </span>libcaca<span class="w"> </span>highlight<span class="w"> </span>atool<span class="w"> </span>lynx<span class="w"> </span>w3m<span class="w"> </span>elinks<span class="w"> </span>poppler
+transmission<span class="w"> </span>mediainfo<span class="w"> </span>exiftool
+</code></pre></div>
+<h2 id="npm">Npm<a class="headerlink" href="#npm" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code> npm install -g degit pnpm cfonts
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="w"> </span>npm<span class="w"> </span>install<span class="w"> </span>-g<span class="w"> </span>degit
+<span class="w"> </span>npm<span class="w"> </span>install<span class="w"> </span>-g<span class="w"> </span>pnpm
+<span class="w"> </span>npm<span class="w"> </span>isntall<span class="w"> </span>-g<span class="w"> </span>cfonts
+</code></pre></div>
+<div class="highlight"><pre><span></span><code> npx degit antfu/vitesse-lite test_vitesse
+ pnpm i
+</code></pre></div>
+<h2 id="cfont">cfont<a class="headerlink" href="#cfont" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>cfonts<span class="w">  </span><span class="s2">&quot;ibepo&#39;s |neovim&quot;</span><span class="w"> </span>--gradient<span class="w"> </span><span class="s2">&quot;#f61cb9&quot;</span>,<span class="s2">&quot;#07d569&quot;</span><span class="w"> </span>,<span class="s2">&quot;#1c92f6&quot;</span><span class="w"> </span>-t
+cfonts<span class="w"> </span><span class="s2">&quot;ibepo&#39;s |neovim&quot;</span><span class="w"> </span>-f<span class="w"> </span>block<span class="w"> </span>-c<span class="w"> </span>yellow,<span class="s2">&quot;#f80&quot;</span>
+</code></pre></div>
+<h1 id="arcolinux">arcolinux<a class="headerlink" href="#arcolinux" title="Permanent link">#</a></h1>
+<h2 id="setup">setup<a class="headerlink" href="#setup" title="Permanent link">#</a></h2>
+<ul>
+<li>brightnessctl</li>
+<li>fcitx5</li>
+<li>clash for windows</li>
+<li>jdk 默认最新的</li>
+</ul>
+<h2 id="yay">yay<a class="headerlink" href="#yay" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="c1">#安装yay</span>
+sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </span>yay
+<span class="c1">#检查源是不是国内的</span>
+yay<span class="w"> </span>-P<span class="w"> </span>-g<span class="w"> </span>
+<span class="o">==================================================================</span>
+<span class="o">{</span>
+<span class="w">    </span><span class="s2">&quot;aururl&quot;</span>:<span class="w"> </span><span class="s2">&quot;https://aur.archlinux.org&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;aurrpcurl&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;buildDir&quot;</span>:<span class="w"> </span><span class="s2">&quot;/home/ibepo/.cache/yay&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;editor&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;editorflags&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;makepkgbin&quot;</span>:<span class="w"> </span><span class="s2">&quot;makepkg&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;makepkgconf&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;pacmanbin&quot;</span>:<span class="w"> </span><span class="s2">&quot;pacman&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;pacmanconf&quot;</span>:<span class="w"> </span><span class="s2">&quot;/etc/pacman.conf&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;redownload&quot;</span>:<span class="w"> </span><span class="s2">&quot;no&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;rebuild&quot;</span>:<span class="w"> </span><span class="s2">&quot;no&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;answerclean&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;answerdiff&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;answeredit&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;answerupgrade&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;gitbin&quot;</span>:<span class="w"> </span><span class="s2">&quot;git&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;gpgbin&quot;</span>:<span class="w"> </span><span class="s2">&quot;gpg&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;gpgflags&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;mflags&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;sortby&quot;</span>:<span class="w"> </span><span class="s2">&quot;votes&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;searchby&quot;</span>:<span class="w"> </span><span class="s2">&quot;name-desc&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;gitflags&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;removemake&quot;</span>:<span class="w"> </span><span class="s2">&quot;ask&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;sudobin&quot;</span>:<span class="w"> </span><span class="s2">&quot;sudo&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;sudoflags&quot;</span>:<span class="w"> </span><span class="s2">&quot;&quot;</span>,
+<span class="w">    </span><span class="s2">&quot;requestsplitn&quot;</span>:<span class="w"> </span><span class="m">150</span>,
+<span class="w">    </span><span class="s2">&quot;completionrefreshtime&quot;</span>:<span class="w"> </span><span class="m">7</span>,
+<span class="w">    </span><span class="s2">&quot;maxconcurrentdownloads&quot;</span>:<span class="w"> </span><span class="m">0</span>,
+<span class="w">    </span><span class="s2">&quot;bottomup&quot;</span>:<span class="w"> </span>true,
+<span class="w">    </span><span class="s2">&quot;sudoloop&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;timeupdate&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;devel&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;cleanAfter&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;provides&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;pgpfetch&quot;</span>:<span class="w"> </span>true,
+<span class="w">    </span><span class="s2">&quot;upgrademenu&quot;</span>:<span class="w"> </span>true,
+<span class="w">    </span><span class="s2">&quot;cleanmenu&quot;</span>:<span class="w"> </span>true,
+<span class="w">    </span><span class="s2">&quot;diffmenu&quot;</span>:<span class="w"> </span>true,
+<span class="w">    </span><span class="s2">&quot;editmenu&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;combinedupgrade&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;useask&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;batchinstall&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;singlelineresults&quot;</span>:<span class="w"> </span>false,
+<span class="w">    </span><span class="s2">&quot;separatesources&quot;</span>:<span class="w"> </span>true,
+<span class="w">    </span><span class="s2">&quot;version&quot;</span>:<span class="w"> </span><span class="s2">&quot;11.3.1&quot;</span>
+<span class="o">}</span>
+</code></pre></div>
+<h2 id="debtap">debtap<a class="headerlink" href="#debtap" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="c1">#安装debtap</span>
+yay<span class="w"> </span>-S<span class="w"> </span>debtap<span class="w"> </span>
+<span class="c1">#更新debtap</span>
+debtap<span class="w"> </span>-u
+<span class="c1">#将XXX.deb包转换XXX.tar.xz</span>
+sudo<span class="w"> </span>debtap<span class="w"> </span>XXX.deb<span class="w">  </span><span class="o">()</span>
+<span class="c1">#安装</span>
+<span class="nv">$sudo</span><span class="w"> </span>pacman<span class="w"> </span>-U<span class="w"> </span>XXX.pkg.tar.zst
+</code></pre></div>
+<h2 id="motrix">Motrix<a class="headerlink" href="#motrix" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>yay<span class="w"> </span>-S<span class="w"> </span>motrix
+$<span class="w"> </span>debtap<span class="w"> </span>Motrix_1.6.11_amd64.deb<span class="w"> </span>
+$<span class="w"> </span>sudo<span class="w"> </span>pacman<span class="w"> </span>-U<span class="w"> </span>motrix-1.6.11-1-x86_64.pkg.tar.zst
+<span class="c1">#安装好 motrix，再安装motrix 的 chrome 的插件：#https://www.cr173.com/soft/1355391.html</span>
+</code></pre></div>
+<h2 id="jdk">jdk<a class="headerlink" href="#jdk" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="c1">#安装openjdk8</span>
+sudo<span class="w"> </span>pacman<span class="w"> </span>-Sy<span class="w"> </span>jdk8-openjdk
+
+<span class="c1">#查看当前java版本</span>
+archlinux-java<span class="w"> </span>status
+
+<span class="c1">#archlinux 中可自由切换jdk版本  </span>
+archlinux-java<span class="w"> </span><span class="nb">set</span><span class="w"> </span>java-11-openjdk
+</code></pre></div>
+<h2 id="nvm">nvm<a class="headerlink" href="#nvm" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>yay<span class="w"> </span>-S<span class="w"> </span>--noconfirm<span class="w"> </span>nvm
+<span class="nb">source</span><span class="w"> </span>/usr/share/nvm/init-nvm.sh
+nvm<span class="w"> </span>install<span class="w"> </span>node
+</code></pre></div>
+<h2 id="python">python<a class="headerlink" href="#python" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </span>python2-pip<span class="w">                </span><span class="c1">#Python 2</span>
+sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </span>python-pip<span class="w">                 </span><span class="c1">#python3</span>
+
+<span class="c1">#更换清华源</span>
+pip<span class="w"> </span>config<span class="w"> </span><span class="nb">set</span><span class="w"> </span>global.index-url<span class="w"> </span>https://pypi.tuna.tsinghua.edu.cn/simple
+</code></pre></div>
+<h2 id="neovim_2">neovim<a class="headerlink" href="#neovim_2" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>pacman<span class="w"> </span>-S<span class="w"> </span>neovim
+python<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>pynvim
+pip3<span class="w"> </span>install<span class="w"> </span>--user<span class="w"> </span>--upgrade<span class="w"> </span>neovim
+pip3<span class="w"> </span>install<span class="w"> </span>ranger-fm
+
+
+sudo<span class="w"> </span>npm<span class="w"> </span>install<span class="w"> </span>-g<span class="w"> </span>typescript-language-server
+</code></pre></div>
+<h2 id="zsh">zsh<a class="headerlink" href="#zsh" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="nb">cd</span><span class="w"> </span>dotfiles
+<span class="nb">cd</span><span class="w"> </span>script
+sh<span class="w"> </span>ohmyzshinstall.sh
+<span class="nb">cd</span>
+rm<span class="w"> </span>-fr<span class="w"> </span>.oh-my-zsh
+sudo<span class="w"> </span>ln<span class="w"> </span>-sf<span class="w"> </span>~/dotfiles/.zshrc<span class="w"> </span>~/.zshrc<span class="w"> </span>
+sudo<span class="w"> </span>ln<span class="w"> </span>-sf<span class="w"> </span>~/dotfiles/.oh-my-zsh<span class="w">  </span>~/.oh-my-zsh<span class="w"> </span>
+</code></pre></div>
+<h2 id="fcitx5">fcitx5<a class="headerlink" href="#fcitx5" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </span>fcitx5-im<span class="w"> </span>fcitx5-chinese-addons<span class="w"> </span>fcitx5-qt<span class="w"> </span>fcitx5-gtk<span class="w"> </span>fcitx5-material-color
+
+sudo<span class="w"> </span>vim<span class="w"> </span>~/.pam_environment
+GTK_IM_MODULE<span class="w"> </span><span class="nv">DEFAULT</span><span class="o">=</span>fcitx
+QT_IM_MODULE<span class="w">  </span><span class="nv">DEFAULT</span><span class="o">=</span>fcitx
+XMODIFIERS<span class="w">    </span><span class="nv">DEFAULT</span><span class="o">=</span><span class="se">\@</span><span class="nv">im</span><span class="o">=</span>fcitx
+INPUT_METHOD<span class="w">  </span><span class="nv">DEFAULT</span><span class="o">=</span>fcitx
+SDL_IM_MODULE<span class="w"> </span><span class="nv">DEFAULT</span><span class="o">=</span>fcitx
+</code></pre></div>
+<h2 id="fonts">fonts<a class="headerlink" href="#fonts" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>sudo pacman -S ttc-iosevka
+</code></pre></div>
+<h3 id="system-manger">system manger<a class="headerlink" href="#system-manger" title="Permanent link">#</a></h3>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>brightnessctl<span class="w"> </span>kchmviewer<span class="w"> </span>nitrogen<span class="w"> </span>flameshot
+
+
+<span class="c1">## enviroment</span>
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>nodejs<span class="w"> </span>npm<span class="w"> </span>jdk8-openjdk<span class="w"> </span>
+</code></pre></div>
+<h2 id="cli">CLI<a class="headerlink" href="#cli" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>zsh<span class="w"> </span>starship<span class="w"> </span>
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>nnn<span class="w"> </span>ranger<span class="w"> </span>lf<span class="w">    </span>
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>fd<span class="w"> </span>ripgrep<span class="w"> </span>fzf
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>lazygit
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>htop<span class="w"> </span>btop<span class="w"> </span>
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>bat<span class="w"> </span>exa<span class="w"> </span>tig
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>dragon-drop<span class="w"> </span>trash-cli
+</code></pre></div>
+<h3 id="code-editor">code editor<a class="headerlink" href="#code-editor" title="Permanent link">#</a></h3>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w">  </span>vscode<span class="w"> </span>neovim
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>android-studio
+
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>ttf-wps-fonts<span class="w"> </span>wps-office<span class="w"> </span>wps-office-mui-zh-cn<span class="w"> </span>wps-office-mime-cn<span class="w"> </span>ttf-ms-fonts<span class="w"> </span>cups
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w">  </span>geidt<span class="w"> </span>mousepad<span class="w"> </span>typora-free<span class="w">  </span>typora-free-cn<span class="w"> </span>
+</code></pre></div>
+<h3 id="mic">mic<a class="headerlink" href="#mic" title="Permanent link">#</a></h3>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w"> </span>dolphin<span class="w"> </span>dolphin-plugins<span class="w"> </span>alacritty
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w">  </span>xmysql<span class="w"> </span>sxiv<span class="w"> </span>zoxide<span class="w"> </span>lynx<span class="w"> </span>
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w">  </span>microsoft-edge-stable-bin<span class="w">  </span>obs-studio<span class="w"> </span>
+sudo<span class="w"> </span>yay<span class="w"> </span>-S<span class="w">  </span>xmind-zen<span class="w"> </span>deepin-picker<span class="w"> </span>vlc<span class="w"> </span>unarchiver<span class="w">  </span>clash<span class="w"> </span>clash-for-windows-bin<span class="w"> </span>
+</code></pre></div>
+<h2 id="ssh">ssh<a class="headerlink" href="#ssh" title="Permanent link">#</a></h2>
+<p><div class="highlight"><pre><span></span><code><span class="nb">cd</span><span class="w"> </span>~/.ssh
+<span class="c1">#查看公钥</span>
+bat<span class="w"> </span>id_rsa.pub
+<span class="c1">#本地生产密钥对</span>
+ssh-keygen<span class="w"> </span>-t<span class="w"> </span>rsa
+<span class="c1">#修改ssh文件夹权限过于开放的问题</span>
+chmod<span class="w"> </span><span class="m">600</span><span class="w"> </span>~/.ssh/id_rsa<span class="w"> </span>~/.ssh/id_rsa.pub
+</code></pre></div><br />
+<div class="highlight"><pre><span></span><code>scp<span class="w"> </span>-r<span class="w"> </span>test.js<span class="w"> </span>ubuntu@host:/home/ubuntu/test.js
+</code></pre></div></p>
+<h2 id="brightnessctl">brightnessctl<a class="headerlink" href="#brightnessctl" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code>pacman<span class="w"> </span>-S<span class="w"> </span>brightnessctl
+brightnessctl<span class="w"> </span><span class="nb">set</span><span class="w"> </span><span class="m">200</span>
+</code></pre></div>
+<h1 id="link">link<a class="headerlink" href="#link" title="Permanent link">#</a></h1>
+<p>```shell<br />
+cd ~<br />
+git clone <a href="https://gitee.com/ibepo/dotfiles.git">https://gitee.com/ibepo/dotfiles.git</a></p>
+<h1 id="zsh_1">zsh<a class="headerlink" href="#zsh_1" title="Permanent link">#</a></h1>
+<p>sudo ln -s ~/dotfiles/.zshrc4linux ~/.zshrc <br />
+sudo ln -s ~/dotfiles/.zshrc ~/.zshrc <br />
+sudo ln -s ~/dotfiles/.oh-my-zsh  ~/.oh-my-zsh </p>
+<h3 id="ranger_1">ranger<a class="headerlink" href="#ranger_1" title="Permanent link">#</a></h3>
+<p>sudo ln -sf ~/dotfiles/.config/ranger ~/.config/ranger</p>
+<h1 id="sudo-ln--s-dotfilesmyshrmtrashsh-binrmtrashsh">sudo ln -s ~/dotfiles/mysh/rmtrash.sh /bin/rmtrash.sh<a class="headerlink" href="#sudo-ln--s-dotfilesmyshrmtrashsh-binrmtrashsh" title="Permanent link">#</a></h1>
+<h1 id="chmod-x-dotfilesmyshrmtrashsh">chmod +x ~/dotfiles/mysh/rmtrash.sh<a class="headerlink" href="#chmod-x-dotfilesmyshrmtrashsh" title="Permanent link">#</a></h1>
+<h3 id="lf">lf<a class="headerlink" href="#lf" title="Permanent link">#</a></h3>
+<p>sudo ln -fs ~/dotfiles/.config/lf/Lf-config/lfrc ~/.config/lf/lfrc<br />
+sudo ln -fs ~/dotfiles/.config/lf/Lf-config/cleaner ~/.config/lf/cleaner<br />
+sudo ln -fs ~/dotfiles/.config/lf/Lf-config/scope ~/.config/lf/scope<br />
+sudo ln -fs ~/dotfiles/.config/lf/Lf-config/shortcutrc ~/.config/lf/shortcutrc<br />
+cp ~/dotfiles/.config/lf/Lf-config/lfub ~/.local/bin/lfub</p>
+<h1 id="tmux">tmux<a class="headerlink" href="#tmux" title="Permanent link">#</a></h1>
+<p>sudo ln -s ~/dotfiles/.tmux ~/.tmux<br />
+sudo ln -s ~/dotfiles/.tmux.conf ~/.tmux.conf</p>
+<h1 id="ln--s-dotfilestmuxconflocal-tmuxconflocal">ln -s ~/dotfiles/.tmux.conf.local ~/.tmux.conf.local<a class="headerlink" href="#ln--s-dotfilestmuxconflocal-tmuxconflocal" title="Permanent link">#</a></h1>
+<h1 id="neovim_3">neovim<a class="headerlink" href="#neovim_3" title="Permanent link">#</a></h1>
+<p>ln -sf ~/dotfiles/.config/nvim/  ~/.config/nvim<br />
+<div class="highlight"><pre><span></span><code># nvimlsp
+~/.local/share/nvim/lsp_servers/
+
+# tailwind
+`npx tailwindcss -i ./src/input.css -o ./public/output.css --watch`
+
+# useful
+arandr #屏幕调节
+xprop  #wmclass 获取
+NetworkManager 网络连接器
+nmcli 客户端网络连接
+wmname #设置wm名称
+brightnessctl set +20
+brightnessctl set -20
+amixer -q set %S 1%%+
+amixer -q set %S 1%%-
+xsel | xsel -i -b # terminal s to gtk
+xsel -b | xsel #gtk to terminal
+qutebrowser
+xmysql #根据mysql生成相应的表接口
+
+#切换docker的所有权
+`chown -R ibepo:ibepo /usr/bin/docker`
+
+### 组相关
+ ```shell
+   bat /etc/group |grep docker 
+   sudo groupadd docker
+   sudo vi /etc/sudoers
+ ```
+### 安装某个文件下的东西
+ ```shell
+sudo xbps-install -S $(cat dep/void.txt) # Void
+sudo pacman -S $(cat dep/arch.txt)       # Arch
+sudo dnf install $(cat dep/fedora.txt)   # Fedora
+ ```
+### 部署java
+```shell
+nohup java -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=iot-app.hprof -jar -Dproduct.driver.enable=false  -Dmqtt.clientIdPrefix=IotAppSlave1 -Dspring.profiles.active=production iot-app.jar  &gt;/dev/null 2&gt;&amp;1  &amp;
+</code></pre></div></p>
+<h3 id="sudo-visudo">sudo visudo<a class="headerlink" href="#sudo-visudo" title="Permanent link">#</a></h3>
+<div class="highlight"><pre><span></span><code>vi<span class="w"> </span>/etc/environment<span class="w"> </span>
+<span class="c1"># 设置默认编辑器为nvim</span>
+<span class="nv">EDITOR</span><span class="o">=</span>nvim
+</code></pre></div>
+<h2 id="third-soft">third soft<a class="headerlink" href="#third-soft" title="Permanent link">#</a></h2>
+<p>第三方bin 执行文件的存放处， 应该是在<code>/usr/local/bin</code>,但是这个往往需要进入此目录调用，因此一般软连接到<code>/usr/bin/</code>下，或者 放入<code>$PATH</code>变量中</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.expand", "navigation.indexes", "navigation.sections", "navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.tracking", "navigation.path", "toc.follow"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.fc8c2696.min.js"></script>
+      
+    
+  </body>
+</html>
