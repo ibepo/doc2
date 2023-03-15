@@ -1,8 +1,10 @@
 ---
 date created: 2023-03-15 13:28
+date updated: 2023-03-15 13:30
 ---
 
 `archLinux`现存在以下官方仓库：
+
 - `core`：包含启动系统所必需的、链接互联网时可能需要的、编译软件包时需要的、检查、修复文件系统的工具、在安装过程中可能用到的软件包和它们的依赖。
 - `extra`：提供基本系统不需要的软件包，包括桌面环境和其他程序。
 - `community`：提供由社区构建和投票的软件包，包括因有足够投票而被“Trusted User”所收养的。
@@ -21,14 +23,13 @@ date created: 2023-03-15 13:28
   - 然后利用`sudo pacman -U *.pkg.tar.zst`命令安装
   - 通常，将`deb`包转换为`tar.zst`的工具使用用`debtap` 
 
-
 ## 配置文件：
 
 `~/etc/pacman.conf`
 `~/etc/pacman.d`
 
 常用命令：
-`pamac info picom`  查看安装的软件信息
+`pamac info picom`      查看安装的软件信息
 `pacman -S <package>`      安装指定软件包
 `pacman -R <package>`      移除指定软件包
 `pacman -U <package>`      更新指定软件包

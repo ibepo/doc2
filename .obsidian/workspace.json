@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "391d4de0bf418549",
+            "id": "7a589085a6235670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/yay.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/pacman.md"
+                "file": "docs/archlinux/yay.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/yay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/yay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,8 +151,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "391d4de0bf418549",
+  "active": "7a589085a6235670",
   "lastOpenFiles": [
+    "docs/archlinux/pacman.md",
+    "docs/archlinux/install.md",
+    "docs/archlinux/yay.md",
     "docs/wiki.md",
     "docs/python/实用类库.md",
     "docs/AI/slam.md",
@@ -177,13 +181,10 @@
     "docs/部署/centos部署.md",
     "docs/archlinux/clash.md",
     "docs/mac/homebrew.md",
-    "docs/archlinux/yay.md",
     "docs/weekly/202303150935.md",
     "docs/weekly/202303140938.md",
     "docs/python/典型问题.md",
     "docs/python/虚拟环境.md",
-    "docs/archlinux/ssdm.md",
-    "docs/docker/docker 命令行.md",
     "docs/weekly",
     "docs/韦小绿",
     "docs/AI",
