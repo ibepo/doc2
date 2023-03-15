@@ -17,7 +17,7 @@
    
 pamac info picom  查看安装的软件信息
 
-### pacman 常用命令
+### pacman cli 
 
 `~/etc/pacman.conf` 
 `~/etc/pacman.d`
