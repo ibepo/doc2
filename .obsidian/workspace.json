@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/vim.md",
                 "mode": "source",
                 "source": true
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/clash.md"
+                "file": "docs/vim.md"
               }
             }
           },
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clash",
+                "query": "tee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50043487548828,
-    "collapsed": true
+    "width": 226.50043487548828
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +163,10 @@
   },
   "active": "ef53934e90fa484d",
   "lastOpenFiles": [
+    "docs/mac/homebrew.md",
     "docs/archlinux/yay.md",
-    "docs/wiki.md",
     "docs/archlinux/clash.md",
+    "docs/wiki.md",
     "docs/weekly/202303150935.md",
     "docs/weekly/202303140938.md",
     "docs/python/典型问题.md",
@@ -191,7 +191,6 @@
     "docs/mysql/安装.md",
     "docs/linux/包管理器.md",
     "docs/nginx/命令.md",
-    "docs/部署/centos部署.md",
     "docs/2023-03-07_17-11.png",
     "docs/2023-03-08_09-50.png",
     "docs/韦小绿",
