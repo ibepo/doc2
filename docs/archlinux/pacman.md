@@ -111,6 +111,18 @@ pacman -Scc     清理所有的缓存文件(常用)
 - 然后利用`sudo pacman -U *.pkg.tar.zst`命令安装
 - 通常，将`deb`包转换为`tar.zst`的工具使用用`debtap` 
 
+## 最佳实践
+
+修改pacman国内镜像
+```shell
+cd /etc/pacman.d
+vim mirrorlist
+-------------
+Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+-------------
+sudo pacman -Syy
+```
+
 ## 参考
 
 <https://www.youtube.com/watch?v=1WHVIYXXOgQ&t=555s>
