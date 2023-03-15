@@ -15,10 +15,9 @@ docker run --name Clash -d -v ~/clash/config.yaml:/root/.config/clash/config.yam
 docker run -d --name=clash --network=host -v "$HOME/dockerVolume/clash:/root/.config/clash" dreamacro/clash
 ```
 
-
-## 本机的配置地址
+## 配置获取
 1. `$HOME/dockerVolume/clash:/root/.config/clash`
-2. 导入自己的飞机配置，这里从相关网站，选择下拉选择clash协议，获取订阅地址`link`
+2. 导入自己的飞机配置，这里从相关网站，**选择下拉选择clash协议**，获取订阅地址`link`
 
 ```shell
 cd $HOME/dockerVolume/clash:/root/.config/clash
@@ -27,10 +26,8 @@ wget -O config.yaml link
 
 ## 部署可视化clash dashboard容器
 ```shell
-
 docker pull haishanh/yacd
 docker run -p 1234:80 -d haishanh/yacd
-
 ```
 
 ## 参考
