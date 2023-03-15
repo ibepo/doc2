@@ -1,4 +1,14 @@
+---
+date created: 2023-03-15 15:40
+tags:
+  - '#查看已安装的language'
+  - '#手工安装某个language'
+  - '#查看parser的安装情况'
+  - '#toggle当前语言的高亮'
+---
+
 ### 大纲
+
 - option
 - plugin manager
 - splash
@@ -17,26 +27,32 @@ LSP: lspconfig & mason-lspconfig.nvim
 DAP: nvim-dap
 Linters: null-ls.nvim or nvim-lint
 Formatters: null-ls.nvim or formatter.nvim
-###  runtimepath
+
+### runtimepath
 
 ```shell
 :h rtp 或者
 :h runtimepath
 ```
 
-### resource 
+### resource
+
 ```shell
 :luafile %
 :so
 :checkhealth
 ```
+
 ### vim.options
-https://neovim.io/doc/user/options.html#set-option
+
+<https://neovim.io/doc/user/options.html#set-option>
+
 ```shell
 :help option-list
 ```
+
 ### plug manager
- 
+
 ```shell
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
@@ -54,39 +70,40 @@ end)
 ```
 
 ### nvim-tree
+
 nvim-tree和telescope的区别在于，nvim-tree更能从整体上了解文件结构，telescope更加有针对性，在已了解工程结构的前提下更加便捷
 Features
-   - Automatic updates
-   - File type icons
-   - Git integration
-   - Diagnostics integration: LSP and COC
-   - (Live) filtering
-   - Cut, copy, paste, rename, delete, create
-   - Highly customisable
 
+- Automatic updates
+- File type icons
+- Git integration
+- Diagnostics integration: LSP and COC
+- (Live) filtering
+- Cut, copy, paste, rename, delete, create
+- Highly customisable
 
-|  map  |     aciton         |
-|:----- |:-----              |
-|   E   |     expand_all     |
-|   W   |     collapse_all   |
-|   tab |     preview        |
-|   a   |     create         |
-|   R   |     refresh        |
-|   f   |     live_filter    |
-|   r   |     rename         |
-|   d   |     remove         |
-|   x   |     cut            |
-|   D   |     trash          |
-|   y   |     copy_name      |
-|   gy  |    copy_absolute_name      |
-|   Y   |    copy_path      |
-|   c   |    copy file      |
-|   p   |     paste         |
-
+| map | aciton             |
+| :-- | :----------------- |
+| E   | expand_all         |
+| W   | collapse_all       |
+| tab | preview            |
+| a   | create             |
+| R   | refresh            |
+| f   | live_filter        |
+| r   | rename             |
+| d   | remove             |
+| x   | cut                |
+| D   | trash              |
+| y   | copy_name          |
+| gy  | copy_absolute_name |
+| Y   | copy_path          |
+| c   | copy file          |
+| p   | paste              |
 
 ### fuzzy finder
 
 ### comment
+
 - gcc 按行注释
 - gbc 按块注释
 - gc  按行注释选中
@@ -95,13 +112,15 @@ Features
 - gcO 在当前行之上添加注释
 - gco 在当前行之下添加注释
 - gcA 在当前行尾添加注释
-### nvim-treesitter
->可以理解为更加理解代码结构和意图的自动档，让nvim更具备相关语言的特色功能
 
--   代码高亮模块
--   增量选择模块（代替wildfire.vim)
--   格式化功能
--   Folding 模块
+### nvim-treesitter
+
+> 可以理解为更加理解代码结构和意图的自动档，让nvim更具备相关语言的特色功能
+
+- 代码高亮模块
+- 增量选择模块（代替wildfire.vim)
+- 格式化功能
+- Folding 模块
 
 ```shell
 :TsInstallInfo #查看已安装的language parser
@@ -110,11 +129,9 @@ Features
 :TSBufToggle highlight #toggle当前语言的高亮
 ```
 
-
-
 ### lsp_zero
-> this is the integration between the LSP client and the autocompletion plugin.
 
+> this is the integration between the LSP client and the autocompletion plugin.
 
 ```shell
 ---
@@ -359,108 +376,104 @@ local cmp_config = {
 
 cmp.setup(cmp_config)
 ```
+
 ### lsp config plugin
+
 mason-config-lsp
 
 #### 代码Nav
 
--  函数引用
--  调用图
--  函数签名
--  错误提示
--  Code Action
--  Format
-#### keyshort 
-| key | description | mode
-|:----- |:-----     |:-----    |
-| K | hover information	|normal
-| gd | go to definition | normal
-| gD	| go to declaration |	normal
-| gr |  go to references	|normal
-| gI | go to implementation | normal
-| gs	| show signature help | 	normal
-| gl | show line diagnostics |	normal
+- 函数引用
+- 调用图
+- 函数签名
+- 错误提示
+- Code Action
+- Format
+
+#### keyshort
+
+| key | description           | mode   |
+| :-- | :-------------------- | :----- |
+| K   | hover information     | normal |
+| gd  | go to definition      | normal |
+| gD  | go to declaration     | normal |
+| gr  | go to references      | normal |
+| gI  | go to implementation  | normal |
+| gs  | show signature help   | normal |
+| gl  | show line diagnostics | normal |
 
 ### mason-null-ls.nvim
->与VS Code和coc.nvim生态系统不同，Neovim没有为非LSP源提供连接到其LSP客户端的方法。null-ls试图弥合这一差距，并简化使用纯Lua创建、共享和设置LSP源的过程。
-  nullls还试图减少设置通用语言服务器所需的样板，并通过消除对外部进程的需要来提高性能。
+
+> 与VS Code和coc.nvim生态系统不同，Neovim没有为非LSP源提供连接到其LSP客户端的方法。null-ls试图弥合这一差距，并简化使用纯Lua创建、共享和设置LSP源的过程。
+
+nullls还试图减少设置通用语言服务器所需的样板，并通过消除对外部进程的需要来提高性能。
 
 ### null-ls.nvim
+
 #### Features
-* null-ls sources are able to hook into the following LSP features:
-* Code actions
-* Diagnostics (file- and project-level)
-* Formatting (including range formatting)
-* Hover
-* Completion
+
+- null-ls sources are able to hook into the following LSP features:
+- Code actions
+- Diagnostics (file- and project-level)
+- Formatting (including range formatting)
+- Hover
+- Completion
 
 ```shell
 :NullLsInstall
 ```
-### auto completion
-|   keymap   | action     |
-|:-----|:-----|
-|    tr  | toggle trouble.nvim     |
-|    leader+t  |telescope find_files      |
-|      |      |
-|      |      |
-### LSP
-https://blog.codeminer42.com/configuring-language-server-protocol-in-neovim/
 
+### auto completion
+
+| keymap                                                                         | action               |
+| :----------------------------------------------------------------------------- | :------------------- |
+| tr                                                                             | toggle trouble.nvim  |
+| leader+t                                                                       | telescope find_files |
+|                                                                                |                      |
+|                                                                                |                      |
+| ### LSP                                                                        |                      |
+| <https://blog.codeminer42.com/configuring-language-server-protocol-in-neovim/> |                      |
 
 ### vim-sursound
-|  keymap    |    action  |
-|:-----|:-----|
-| ysiw'     |  用单括号包围选区    |
-| dsiw    | 删除包裹     |
-| visual模式下，\<cr>+S+''     |先用野火包围选区，再用大S加符号包裹之 |
+
+| keymap              | action              |
+| :------------------ | :------------------ |
+| ysiw'               | 用单括号包围选区            |
+| dsiw                | 删除包裹                |
+| visual模式下，<cr>+S+'' | 先用野火包围选区，再用大S加符号包裹之 |
 
 ### vim-sandwich
-| keymap   | action     |
-|:-----|:-----|
-|saiw      |    包裹word  |
-|sriw      |    替换word的包裹  |
-|srb      |    替换cursor所在的包裹  |
-|sdiw      |    删除word包裹  |
-|sdb      |    删除cursor所在的包裹  |
-|saiwf+函数名字      |   包裹文字并作为要创建的方法的参数   |>
 
-### vim.api.nvim_create_augroup
-
-`vim.api.nvim_create_augroup` 是 Vimscript 中的一个函数，用于创建一个自动命令组。自动命令组是一组自动执行的 Vim 命令，当指定的事件发生时会自动触发执行。例如，当打开一个文件时，我们可以将一组命令组合成一个自动命令组，以便在打开文件时自动执行这些命令。
-该函数的返回值为一个整数 ID，用于标识创建的自动命令组。它有两个参数，第一个参数是自动命令组的名称，第二个参数是一个包含自动命令的 Lua 表格。该表格包含了一系列键值对，键用于指定自动命令要监听的事件，值则表示在该事件发生时要执行的 Vim 命令。
-
-例如，下面的代码创建了一个自动命令组，它会在打开一个新的 Markdown 文件时自动为其设置语法高亮：
-```lua
-Copy code
-local autocmds = {
-    { "BufNewFile,BufRead", "*.md", "setf markdown" }
-}
-```
-local group = vim.api.nvim_create_augroup("MyMarkdownAutocmds", autocmds)
-在上面的代码中，BufNewFile,BufRead 表示监听打开一个新的文件或读取一个缓冲区的事件，
-`*.md`表示监听文件名匹配模式为 .md 的文件，setf markdown 则为事件发生时要执行的 Vim 命令。
+| keymap     | action           |   |
+| :--------- | :--------------- | - |
+| saiw       | 包裹word           |   |
+| sriw       | 替换word的包裹        |   |
+| srb        | 替换cursor所在的包裹    |   |
+| sdiw       | 删除word包裹         |   |
+| sdb        | 删除cursor所在的包裹    |   |
+| saiwf+函数名字 | 包裹文字并作为要创建的方法的参数 | > |
 
 ### 参考
- https://github.com/BurntSushi/ripgrep
- https://github.com/nvim-telescope/telescope.nvim
- https://github.com/wbthomason/packer.nvim
- https://www.youtube.com/watch?v=SpexCBrZ1pQ
- https://github.com/nvim-tree/nvim-tree.lua/blob/master/doc/nvim-tree-lua.txt
- https://www.lunarvim.org/
- https://devhints.io/vim
- https://www.youtube.com/watch?v=-InmtHhk2qM
- https://joereynoldsaudio.com/2020/01/22/vim-sandwich-is-better-than-surround.html
- https://github.com/machakann/vim-sandwich/blob/master/doc/sandwich.txt
- https://neovim.io/doc/user/lua.html#lua-highlight
- https://raw.githubusercontent.com/nvim-lua/kickstart.nvim/master/init.lua
- https://microsoft.github.io/language-server-protocol/implementors/servers/
- https://github.com/VonHeikemen/lsp-zero.nvim
- https://www.youtube.com/watch?v=vdn_pKJUda8&t=117s
- https://user-images.githubusercontent.com/17254073/195207023-7b709e35-7f10-416b-aafb-5bb61268c7d3.png
- https://github.com/VonHeikemen/lsp-zero.nvim/wiki/Under-the-hood
- https://github.com/jose-elias-alvarez/null-ls.nvim/blob/main/doc/BUILTINS.md(null-ls的一些内置源)
- https://til.hashrocket.com/posts/619fdc96ed-running-same-vim-command-into-multiple-lines(在comnand模式执行 映射命令)
- https://programmingpercy.tech/blog/learn-how-to-use-neovim-as-ide/
- https://github.com/andymass/vim-matchup(eshaced %)
- https://linuxize.com/post/vim-find-replace/#basic-find-and-replace(nvim replace)
+
+<https://github.com/BurntSushi/ripgrep>
+<https://github.com/nvim-telescope/telescope.nvim>
+<https://github.com/wbthomason/packer.nvim>
+<https://www.youtube.com/watch?v=SpexCBrZ1pQ>
+<https://github.com/nvim-tree/nvim-tree.lua/blob/master/doc/nvim-tree-lua.txt>
+<https://www.lunarvim.org/>
+<https://devhints.io/vim>
+<https://www.youtube.com/watch?v=-InmtHhk2qM>
+<https://joereynoldsaudio.com/2020/01/22/vim-sandwich-is-better-than-surround.html>
+<https://github.com/machakann/vim-sandwich/blob/master/doc/sandwich.txt>
+<https://neovim.io/doc/user/lua.html#lua-highlight>
+<https://raw.githubusercontent.com/nvim-lua/kickstart.nvim/master/init.lua>
+<https://microsoft.github.io/language-server-protocol/implementors/servers/>
+<https://github.com/VonHeikemen/lsp-zero.nvim>
+<https://www.youtube.com/watch?v=vdn_pKJUda8&t=117s>
+<https://user-images.githubusercontent.com/17254073/195207023-7b709e35-7f10-416b-aafb-5bb61268c7d3.png>
+<https://github.com/VonHeikemen/lsp-zero.nvim/wiki/Under-the-hood>
+<https://github.com/jose-elias-alvarez/null-ls.nvim/blob/main/doc/BUILTINS.md(null-ls的一些内置源)>
+<https://til.hashrocket.com/posts/619fdc96ed-running-same-vim-command-into-multiple-lines(在comnand模式执行> 映射命令)
+<https://programmingpercy.tech/blog/learn-how-to-use-neovim-as-ide/>
+<https://github.com/andymass/vim-matchup(eshaced> %)
+<https://linuxize.com/post/vim-find-replace/#basic-find-and-replace(nvim> replace)

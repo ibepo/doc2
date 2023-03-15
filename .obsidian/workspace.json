@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/weekly/202303151505.md",
+                "file": "docs/nvim/neovimAPI.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/weekly/202303151505.md"
+                "file": "docs/nvim/neovimAPI.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/weekly/202303151505.md",
+                "file": "docs/nvim/neovimAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/weekly/202303151505.md",
+                "file": "docs/nvim/neovimAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,8 +153,10 @@
   },
   "active": "962e9a7542739bd9",
   "lastOpenFiles": [
-    "docs/weekly/202303140938.md",
+    "docs/nvim/neovim.md",
+    "docs/nvim/neovimAPI.md",
     "docs/weekly/202303151505.md",
+    "docs/weekly/202303140938.md",
     "docs/weekly/202303150935.md",
     "docs/AI/AI.md",
     "docs/archlinux/ssdm.md",
@@ -181,8 +184,6 @@
     "docs/git/git.md",
     "docs/git",
     "docs/English/词汇.md",
-    "docs/linux/系统管理.md",
-    "docs/linux/服务管理.md",
     "docs/ssh",
     "docs/weekly",
     "docs/韦小绿",
