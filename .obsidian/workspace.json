@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/weekly/202303151505.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/AI.md"
+                "file": "docs/weekly/202303151505.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/weekly/202303151505.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/weekly/202303151505.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +152,10 @@
   },
   "active": "962e9a7542739bd9",
   "lastOpenFiles": [
+    "docs/weekly/202303140938.md",
+    "docs/weekly/202303151505.md",
+    "docs/weekly/202303150935.md",
+    "docs/AI/AI.md",
     "docs/archlinux/ssdm.md",
     "docs/archlinux/install.md",
     "docs/archlinux/dwm.md",
@@ -161,7 +165,6 @@
     "docs/archlinux/tmux.md",
     "docs/archlinux/yay.md",
     "docs/docker/安装.md",
-    "docs/AI/AI.md",
     "docs/AI/深度学习入门.md",
     "docs/archlinux/pacman.md",
     "docs/wiki.md",
@@ -180,10 +183,7 @@
     "docs/English/词汇.md",
     "docs/linux/系统管理.md",
     "docs/linux/服务管理.md",
-    "docs/ssh/实现 SSH 免 IP 免密登录.md",
-    "docs/ssh/ssh.md",
     "docs/ssh",
-    "docs/部署/centos部署.md",
     "docs/weekly",
     "docs/韦小绿",
     "docs/AI",

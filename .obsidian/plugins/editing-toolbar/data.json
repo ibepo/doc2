@@ -60,6 +60,11 @@
       "icon": "tree-pine"
     },
     {
+      "id": "zk-prefixer",
+      "name": "时间戳笔记生成器: 创建时间戳笔记",
+      "icon": "diamond"
+    },
+    {
       "id": "editing-toolbar:fullscreen-focus",
       "name": "Fullscreen focus mode",
       "icon": "fullscreen"
@@ -93,7 +98,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 286,
+  "cMenuWidth": 338,
   "cMenuFontColor": "#000000",
   "cMenuBackgroundColor": "#ff4d4f",
   "autohide": false,
