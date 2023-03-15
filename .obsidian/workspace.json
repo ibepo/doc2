@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/深度学习入门.md",
+                "file": "docs/docker/安装.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/深度学习入门.md"
+                "file": "docs/docker/安装.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/深度学习入门.md",
+                "file": "docs/docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/深度学习入门.md",
+                "file": "docs/docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

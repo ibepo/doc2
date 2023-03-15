@@ -1,9 +1,9 @@
 {
   "theme": "obsidian",
-  "interfaceFontFamily": "JuliaMono,JetBrainsMono Nerd Font Mono,Hack Nerd Font Mono",
-  "accentColor": "#746bef",
+  "interfaceFontFamily": "Hack Nerd Font Mono",
+  "accentColor": "",
   "baseFontSize": 20,
-  "monospaceFontFamily": "Cascadia Mono,ComicMono NF",
+  "monospaceFontFamily": "Iosevka Term",
   "cssTheme": "Minimal",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "showViewHeader": false

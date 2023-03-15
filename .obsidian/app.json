@@ -16,5 +16,6 @@
   "showLineNumber": true,
   "showIndentGuide": true,
   "autoPairMarkdown": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "showInlineTitle": false
 }
