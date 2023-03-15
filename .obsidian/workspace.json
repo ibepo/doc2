@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/docker/安装.md",
+                "file": "docs/archlinux/install.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/安装.md"
+                "file": "docs/archlinux/install.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/安装.md",
+                "file": "docs/archlinux/install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/安装.md",
+                "file": "docs/archlinux/install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,11 +152,17 @@
   },
   "active": "7a589085a6235670",
   "lastOpenFiles": [
+    "docs/archlinux/dwm.md",
+    "docs/archlinux/未命名.md",
+    "docs/archlinux/字体.md",
+    "docs/archlinux/clash.md",
+    "docs/archlinux/tmux.md",
+    "docs/archlinux/yay.md",
+    "docs/docker/安装.md",
     "docs/AI/AI.md",
     "docs/AI/深度学习入门.md",
     "docs/archlinux/install.md",
     "docs/archlinux/pacman.md",
-    "docs/archlinux/yay.md",
     "docs/wiki.md",
     "docs/python/实用类库.md",
     "docs/AI/slam.md",
@@ -176,14 +182,8 @@
     "docs/ssh/实现 SSH 免 IP 免密登录.md",
     "docs/ssh/ssh.md",
     "docs/ssh",
-    "docs/docker/安装.md",
     "docs/部署/centos部署.md",
-    "docs/archlinux/clash.md",
     "docs/mac/homebrew.md",
-    "docs/weekly/202303150935.md",
-    "docs/weekly/202303140938.md",
-    "docs/python/典型问题.md",
-    "docs/python/虚拟环境.md",
     "docs/weekly",
     "docs/韦小绿",
     "docs/AI",
