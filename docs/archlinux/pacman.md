@@ -5,7 +5,7 @@ date updated: 2023-03-15 13:43
 
 ## 配置文件
 
-`~/etc/pacman.conf`
+### `~/etc/pacman.conf`
 
 1. [options]：该部分包含各种选项，影响Pacman的行为，例如默认日志级别、压缩级别、并行下载数量等。
 2. [core]、[extra]、[community]：这些部分定义了Arch Linux官方软件源。您可以根据需要启用或禁用它们。
@@ -17,7 +17,7 @@ date updated: 2023-03-15 13:43
 - 我们通过`pacman`下载的软件，一般存储在`/var/cache/pacman/pkg/`路径下，其后缀为`tar.zst`的压缩文件，然后再进行的安装。
   我们如果在网上下载其他的`tar.zst`后缀文件，我们可以通过`pacman -U xxx.tar.zst`命令直接安装！
 
-`~/etc/pacman.d`
+### `~/etc/pacman.d`
 
 常用命令：
 `pamac info picom`      查看安装的软件信息
