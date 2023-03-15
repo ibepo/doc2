@@ -27,7 +27,7 @@
           "key": "o"
         }
       ],
-      "icon": "flower"
+      "icon": "flower-2"
     },
     {
       "id": "editing-toolbar:editor-undo",
@@ -58,11 +58,6 @@
       "id": "editing-toolbar:editor:insert-link",
       "name": "insert link []()",
       "icon": "link-glyph"
-    },
-    {
-      "id": "editing-toolbar:workplace-fullscreen-focus",
-      "name": "workplace-Fullscreen ",
-      "icon": "remix-SplitCellsHorizontal"
     },
     {
       "id": "editing-toolbar:fullscreen-focus",

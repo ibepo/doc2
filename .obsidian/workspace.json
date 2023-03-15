@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/slam.md",
+                "file": "docs/python/实用类库.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,16 +34,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8e41c23163a73b3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "docs/AI/slam.md"
-              }
-            }
-          },
-          {
             "id": "8e253a67c31ba3d6",
             "type": "leaf",
             "state": {
@@ -59,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tee",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -76,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,12 +81,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b8e41c23163a73b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/python/实用类库.md"
+              }
+            }
+          },
+          {
             "id": "3040edea9c6169c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/slam.md",
+                "file": "docs/python/实用类库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/slam.md",
+                "file": "docs/python/实用类库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +126,15 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,14 +150,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "391d4de0bf418549",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/AI/slam.md",
     "docs/python/numpy.md",
-    "docs/python/库.md",
+    "docs/python/实用类库.md",
     "docs/python/参考.md",
     "docs/python/opencv.md",
     "docs/nginx/Pasted image 20230313092120.png",
-    "docs/AI/slam.md",
     "docs/English/2023-03-07_17-11.png",
     "docs/English/2023-03-08_09-50.png",
     "docs/nvim/vim.md",
