@@ -10,11 +10,6 @@ date updated: 2023-03-15 13:30
 - `community`：提供由社区构建和投票的软件包，包括因有足够投票而被“Trusted User”所收养的。
 - `multilib`：为x86_64用户提供的支持在64位环境下使用32位软件的集中化仓库。
 
-`**Tip**`：
-
-- 我们通过`pacman`下载的软件，一般存储在`/var/cache/pacman/pkg/`路径下，其后缀为`tar.zst`的压缩文件，然后再进行的安装。
-  我们如果在网上下载其他的`tar.zst`后缀文件，我们可以通过`pacman -U xxx.tar.zst`命令直接安装！
-
 - 我们通过`yay`下载的`PKGBUILD`构建文件，一般存储在`~/.cache/yay/`路径下。
   根据`PKGBUILD`构建文件，下载后缀为`tar.zst`的软件包，然后再进行的安装。
   后，我们来了解以下`Ubuntu/Debian`系统下的`deb`包如何安装！
@@ -26,6 +21,18 @@ date updated: 2023-03-15 13:30
 ## 配置文件：
 
 `~/etc/pacman.conf`
+
+1. [options]：该部分包含各种选项，影响Pacman的行为，例如默认日志级别、压缩级别、并行下载数量等。
+2. [core]、[extra]、[community]：这些部分定义了Arch Linux官方软件源。您可以根据需要启用或禁用它们。
+
+5. [testing]、[multilib]、[archlinuxcn]、[blackarch]、[endeavouros]：这些部分定义了其他可用的软件源，您可以根据需要启用或禁用它们。
+6. [customrepo]：这个部分用于定义自己的自定义软件源。
+7. [include]：这个部分允许您包含其他配置文件，有助于简化和组织Pacman配置。
+
+- 需要注意的是，修改pacman.conf文件可能会影响系统的稳定性和安全性。因此，在进行任何更改之前，建议谨慎操作并备份文件。
+- 我们通过`pacman`下载的软件，一般存储在`/var/cache/pacman/pkg/`路径下，其后缀为`tar.zst`的压缩文件，然后再进行的安装。
+  我们如果在网上下载其他的`tar.zst`后缀文件，我们可以通过`pacman -U xxx.tar.zst`命令直接安装！
+
 `~/etc/pacman.d`
 
 常用命令：

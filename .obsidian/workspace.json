@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/yay.md",
+                "file": "docs/archlinux/pacman.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/yay.md"
+                "file": "docs/archlinux/pacman.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/yay.md",
+                "file": "docs/archlinux/pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/yay.md",
+                "file": "docs/archlinux/pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +153,9 @@
   },
   "active": "7a589085a6235670",
   "lastOpenFiles": [
+    "docs/archlinux/yay.md",
     "docs/archlinux/pacman.md",
     "docs/archlinux/install.md",
-    "docs/archlinux/yay.md",
     "docs/wiki.md",
     "docs/python/实用类库.md",
     "docs/AI/slam.md",
