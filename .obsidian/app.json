@@ -15,5 +15,6 @@
   "livePreview": false,
   "showLineNumber": true,
   "showIndentGuide": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "legacyEditor": false
 }
