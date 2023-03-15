@@ -101,3 +101,4 @@ chkconfig --list mysqld
 nc -zvw3 139.196.77.225 80
 
 ```
+https://akynazh.site/posts/2022/11/linux-software-installation-and-configuration-records/#python3

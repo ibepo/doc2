@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/部署/centos部署.md",
                 "mode": "source",
                 "source": true
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/clash.md"
+                "file": "docs/部署/centos部署.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/部署/centos部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/部署/centos部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +163,8 @@
   },
   "active": "ef53934e90fa484d",
   "lastOpenFiles": [
-    "docs/vim.md",
     "docs/archlinux/clash.md",
+    "docs/vim.md",
     "docs/mac/homebrew.md",
     "docs/archlinux/yay.md",
     "docs/wiki.md",
