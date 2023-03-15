@@ -1,4 +1,6 @@
 https://zhuanlan.zhihu.com/p/423684520
+## 本机的配置地址
+`$HOME/dockerVolume/clash:/root/.config/clash`
 
 ## 部署可视化clash dashboard容器
 ```shell
@@ -15,6 +17,6 @@ docker run --name Clash -d -v ~/clash/config.yaml:/root/.config/clash/config.yam
 ```
 
 ```shell
-#本机的配置
+#本机的方式(和上边只是配置位置不同)
 docker run -d --name=clash --network=host -v "$HOME/dockerVolume/clash:/root/.config/clash" dreamacro/clash
 ```
