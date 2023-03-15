@@ -15,7 +15,7 @@ docker run --name Clash -d -v ~/clash/config.yaml:/root/.config/clash/config.yam
 docker run -d --name=clash --network=host -v "$HOME/dockerVolume/clash:/root/.config/clash" dreamacro/clash
 ```
 
-## 配置获取
+## 获取订阅链接并配置
 1. `$HOME/dockerVolume/clash:/root/.config/clash`
 2. 导入自己的飞机配置，这里从相关网站，**选择下拉选择clash协议**，获取订阅地址`link`
 
