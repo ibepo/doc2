@@ -15,5 +15,6 @@ docker run --name Clash -d -v ~/clash/config.yaml:/root/.config/clash/config.yam
 ```
 
 ```shell
+#本机的配置
 docker run -d --name=clash --network=host -v "$HOME/dockerVolume/clash:/root/.config/clash" dreamacro/clash
 ```
