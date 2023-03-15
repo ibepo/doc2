@@ -1,33 +1,17 @@
 ---
 date created: 2023-03-15 13:28
-date updated: 2023-03-15 13:30
+date updated: 2023-03-15 13:43
 ---
 
-`archLinux`现存在以下官方仓库：
-
-- `core`：包含启动系统所必需的、链接互联网时可能需要的、编译软件包时需要的、检查、修复文件系统的工具、在安装过程中可能用到的软件包和它们的依赖。
-- `extra`：提供基本系统不需要的软件包，包括桌面环境和其他程序。
-- `community`：提供由社区构建和投票的软件包，包括因有足够投票而被“Trusted User”所收养的。
-- `multilib`：为x86_64用户提供的支持在64位环境下使用32位软件的集中化仓库。
-
-- 我们通过`yay`下载的`PKGBUILD`构建文件，一般存储在`~/.cache/yay/`路径下。
-  根据`PKGBUILD`构建文件，下载后缀为`tar.zst`的软件包，然后再进行的安装。
-  后，我们来了解以下`Ubuntu/Debian`系统下的`deb`包如何安装！
-  **大体思路如下**：
-  - 将`deb`包转化为`archlinux`所能直接安装的包，如`tar.zst`
-  - 然后利用`sudo pacman -U *.pkg.tar.zst`命令安装
-  - 通常，将`deb`包转换为`tar.zst`的工具使用用`debtap` 
-
-## 配置文件：
+## 配置文件
 
 `~/etc/pacman.conf`
 
 1. [options]：该部分包含各种选项，影响Pacman的行为，例如默认日志级别、压缩级别、并行下载数量等。
 2. [core]、[extra]、[community]：这些部分定义了Arch Linux官方软件源。您可以根据需要启用或禁用它们。
-
-5. [testing]、[multilib]、[archlinuxcn]、[blackarch]、[endeavouros]：这些部分定义了其他可用的软件源，您可以根据需要启用或禁用它们。
-6. [customrepo]：这个部分用于定义自己的自定义软件源。
-7. [include]：这个部分允许您包含其他配置文件，有助于简化和组织Pacman配置。
+3. [testing]、[multilib]、[archlinuxcn]、[blackarch]、[endeavouros]：这些部分定义了其他可用的软件源，您可以根据需要启用或禁用它们。
+4. [customrepo]：这个部分用于定义自己的自定义软件源。
+5. [include]：这个部分允许您包含其他配置文件，有助于简化和组织Pacman配置。
 
 - 需要注意的是，修改pacman.conf文件可能会影响系统的稳定性和安全性。因此，在进行任何更改之前，建议谨慎操作并备份文件。
 - 我们通过`pacman`下载的软件，一般存储在`/var/cache/pacman/pkg/`路径下，其后缀为`tar.zst`的压缩文件，然后再进行的安装。
@@ -43,6 +27,13 @@ date updated: 2023-03-15 13:30
 `pacman -Ss <package>`     查询指定软件包
 `pacman -Syy`            同步软件包
 `pacman -Syu`            对整个系统进行更新
+
+`archLinux`现存在以下官方仓库：
+
+- `core`：包含启动系统所必需的、链接互联网时可能需要的、编译软件包时需要的、检查、修复文件系统的工具、在安装过程中可能用到的软件包和它们的依赖。
+- `extra`：提供基本系统不需要的软件包，包括桌面环境和其他程序。
+- `community`：提供由社区构建和投票的软件包，包括因有足够投票而被“Trusted User”所收养的。
+- `multilib`：为x86_64用户提供的支持在64位环境下使用32位软件的集中化仓库。
 
 ## pacman mirrors
 
@@ -111,33 +102,14 @@ pacman -Sc     清理未安装的包文件(常用)
 pacman -Scc     清理所有的缓存文件(常用)
 ```
 
-## yay
+## archlinux安装`deb`
 
-`~/.config/yay/config.json`中的镜像地址，因为清华的放弃维护，要换回原版
+根据`PKGBUILD`构建文件，下载后缀为`tar.zst`的软件包，然后再进行的安装。后，我们来了解以下`Ubuntu/Debian`系统下的`deb`包如何安装！
+**大体思路如下**：
 
-- `yay`                  全部更新`pacman`和`aur`包
-- `yay -Ps`               快速获取系统统计信息
-- `yay <package_name>`      查找指定安装包
-- `yay -S <package_name>`    安装指定软件包
-- `yay -R <package_name>`    移除i指定软件包
-- `yay -P -g                 查看yay配置
-
-签名失效的补救措施(Arch Linux: PGP Signature Is Corrupted???)
-
-```
-sudo pacman -S archlinux-keyring
-sudo pacman -S archlinuxcn-keyring
-
-# ressetting key database
-sudo pacmam-key --refresh
-sudo rm -r /etc/pacman.d/gnupg
-
-# sudo pacman-key --init
-sudo pacman-key --populate archlinux
-
-# pacman siglevel
-sudoedit /etc/pacman.conf
-```
+- 将`deb`包转化为`archlinux`所能直接安装的包，如`tar.zst`
+- 然后利用`sudo pacman -U *.pkg.tar.zst`命令安装
+- 通常，将`deb`包转换为`tar.zst`的工具使用用`debtap` 
 
 ## 参考
 

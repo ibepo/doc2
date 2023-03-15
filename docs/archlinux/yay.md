@@ -7,6 +7,8 @@
 - `yay -R <package_name>`    移除i指定软件包
 - `yay -P -g                 查看yay配置
 
+我们通过`yay`下载的`PKGBUILD`构建文件，一般存储在`~/.cache/yay/`路径下。
+
 签名失效的补救措施(Arch Linux: PGP Signature Is Corrupted???)
 
 ```
