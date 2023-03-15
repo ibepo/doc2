@@ -35,26 +35,14 @@ date updated: 2023-03-15 13:43
 - `community`：提供由社区构建和投票的软件包，包括因有足够投票而被“Trusted User”所收养的。
 - `multilib`：为x86_64用户提供的支持在64位环境下使用32位软件的集中化仓库。
 
-## pacman mirrors
+## 添加pacman国内镜像
 
 ```shell
-cd /etc/pacman.d/
-sudo vim mirrorlis
-
-Server = http://mirrors.163.com/archlinux/$repo/os/$arch
-Server = https://mirrors.dgut.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.nju.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.nju.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.sjtug.sjtu.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.dgut.edu.cn/archlinux/$repo/os/$arch
-Server = rsync://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch
-
-
+cd /etc/pacman.d
+vim mirrorlist
+-------------
+Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+-------------
 sudo pacman -Syy
 ```
 
@@ -110,18 +98,6 @@ pacman -Scc     清理所有的缓存文件(常用)
 - 将`deb`包转化为`archlinux`所能直接安装的包，如`tar.zst`
 - 然后利用`sudo pacman -U *.pkg.tar.zst`命令安装
 - 通常，将`deb`包转换为`tar.zst`的工具使用用`debtap` 
-
-## 最佳实践
-
-修改pacman国内镜像
-```shell
-cd /etc/pacman.d
-vim mirrorlist
--------------
-Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
--------------
-sudo pacman -Syy
-```
 
 ## 参考
 
