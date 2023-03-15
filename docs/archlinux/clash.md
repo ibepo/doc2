@@ -1,19 +1,10 @@
+## clash本地部署
 ```shell
 yay -S clash-for-windows-bin
 ```
 
-## 本机的配置地址
-`$HOME/dockerVolume/clash:/root/.config/clash`
 
-## 部署可视化clash dashboard容器
-```shell
-
-docker pull haishanh/yacd
-docker run -p 1234:80 -d haishanh/yacd
-
-```
-
-## 部署clash容器
+## clash容器部署 
 ```shell
 docker pull dreamacro/clash
 docker run --name Clash -d -v ~/clash/config.yaml:/root/.config/clash/config.yaml --network="host" --privileged dreamacro/clash
@@ -22,6 +13,24 @@ docker run --name Clash -d -v ~/clash/config.yaml:/root/.config/clash/config.yam
 ```shell
 #本机的方式(和上边只是配置位置不同)
 docker run -d --name=clash --network=host -v "$HOME/dockerVolume/clash:/root/.config/clash" dreamacro/clash
+```
+
+
+## 本机的配置地址
+1. `$HOME/dockerVolume/clash:/root/.config/clash`
+2. 导入自己的飞机配置，这里从相关网站，选择下拉选择clash协议，获取订阅地址`link`
+
+```shell
+cd $HOME/dockerVolume/clash:/root/.config/clash
+wget -O config.yaml link
+```
+
+## 部署可视化clash dashboard容器
+```shell
+
+docker pull haishanh/yacd
+docker run -p 1234:80 -d haishanh/yacd
+
 ```
 
 ## 参考
