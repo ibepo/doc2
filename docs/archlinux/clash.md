@@ -1,4 +1,10 @@
+## 参考
 https://zhuanlan.zhihu.com/p/423684520
+
+```shell
+yay -S clash-for-windows-bin
+```
+
 ## 本机的配置地址
 `$HOME/dockerVolume/clash:/root/.config/clash`
 
