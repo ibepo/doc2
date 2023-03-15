@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/install.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#gtk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,6 +64,17 @@
             "state": {
               "type": "starred",
               "state": {}
+            }
+          },
+          {
+            "id": "b973a29bf0f6d95a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
             }
           }
         ]
@@ -86,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/pacman.md"
+                "file": "docs/archlinux/install.md"
               }
             }
           },
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,20 +124,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b973a29bf0f6d95a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
               }
             }
           }
@@ -150,10 +150,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "7a589085a6235670",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
-    "docs/archlinux/yay.md",
     "docs/archlinux/pacman.md",
+    "docs/archlinux/yay.md",
     "docs/archlinux/install.md",
     "docs/wiki.md",
     "docs/python/实用类库.md",

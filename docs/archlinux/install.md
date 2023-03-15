@@ -465,21 +465,21 @@ ln -sf ~/dotfiles/.config/nvim/  ~/.config/nvim
 `npx tailwindcss -i ./src/input.css -o ./public/output.css --watch`
 
 # useful
-arandr #屏幕调节
-xprop  #wmclass 获取
+`arandr` 屏幕调节
+`xprop`  wmclass 获取
 NetworkManager 网络连接器
 nmcli 客户端网络连接
-wmname #设置wm名称
+`wmname` 设置wm名称
 brightnessctl set +20
 brightnessctl set -20
 amixer -q set %S 1%%+
 amixer -q set %S 1%%-
 xsel | xsel -i -b # terminal s to gtk
-xsel -b | xsel #gtk to terminal
-qutebrowser
-xmysql #根据mysql生成相应的表接口
+`xsel -b | xsel` gtk to terminal
+`qutebrowser`
+`xmysql` 根据mysql生成相应的表接口
 
-#切换docker的所有权
+## 切换docker的所有权
 `chown -R ibepo:ibepo /usr/bin/docker`
 
 ### 组相关
