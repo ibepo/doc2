@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/深度学习入门.md",
+                "file": "docs/archlinux/clash.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -38,7 +39,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/深度学习入门.md"
+                "file": "docs/archlinux/clash.md"
               }
             }
           },
@@ -58,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx",
+                "query": "clash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/深度学习入门.md",
+                "file": "docs/archlinux/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/深度学习入门.md",
+                "file": "docs/archlinux/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,23 +163,26 @@
   },
   "active": "ef53934e90fa484d",
   "lastOpenFiles": [
+    "docs/AI/深度学习入门.md",
+    "docs/AI/AI.md",
+    "docs/archlinux/ssdm.md",
+    "docs/docker/docker 命令行.md",
+    "docs/docker/docker compose.md",
+    "docs/archlinux/clash.md",
+    "docs/archlinux/yay.md",
+    "docs/wiki.md",
     "docs/python/numpy.md",
     "docs/韦小绿/bene.md",
     "docs/韦小绿/am.md",
     "docs/韦小绿/bell.md",
     "docs/韦小绿/pac.md",
     "docs/韦小绿/crime.md",
-    "docs/AI/深度学习入门.md",
-    "docs/docker/ssdm.md",
-    "docs/docker/docker 命令行.md",
     "docs/weekly/202303140938.md",
     "Pasted image 20230313092120.png",
-    "docs/wiki.md",
     "docs/mysql/参考.md",
     "docs/neovim.md",
     "docs/weekly",
     "docs/AI/perceptron.md",
-    "docs/AI/AI.md",
     "docs/mysql/安装.md",
     "docs/linux/包管理器.md",
     "docs/nginx/命令.md",
@@ -187,11 +191,8 @@
     "docs/linux/命令工具.md",
     "docs/linux/ssh.md",
     "docs/linux/服务管理.md",
-    "docs/linux/文件管理.md",
     "docs/2023-03-07_17-11.png",
     "docs/2023-03-08_09-50.png",
-    "docs/archlinux/yay.md",
-    "docs/archlinux/clash.md",
     "docs/韦小绿",
     "docs/AI",
     "未命名.canvas",
