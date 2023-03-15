@@ -126,3 +126,5 @@ sudo pacman -Syy
 ## 参考
 
 <https://www.youtube.com/watch?v=1WHVIYXXOgQ&t=555s>
+
+[Arch Linux 源使用帮助 — USTC Mirror Help 文档](https://mirrors.ustc.edu.cn/help/archlinux.html)
