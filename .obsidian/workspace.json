@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/archlinux/pacman.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/wiki.md"
+                "file": "docs/archlinux/pacman.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/archlinux/pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/archlinux/pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +150,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b8e41c23163a73b3",
+  "active": "391d4de0bf418549",
   "lastOpenFiles": [
+    "docs/wiki.md",
     "docs/python/实用类库.md",
     "docs/AI/slam.md",
     "docs/python/numpy.md",
@@ -177,7 +178,6 @@
     "docs/archlinux/clash.md",
     "docs/mac/homebrew.md",
     "docs/archlinux/yay.md",
-    "docs/wiki.md",
     "docs/weekly/202303150935.md",
     "docs/weekly/202303140938.md",
     "docs/python/典型问题.md",

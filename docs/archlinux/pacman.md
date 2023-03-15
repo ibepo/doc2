@@ -27,7 +27,7 @@ pamac info picom  查看安装的软件信息
   - `pacman -Syy`            同步软件包
   - `pacman -Syu`            对整个系统进行更新
 
-### pacman mirrors
+## pacman mirrors
 ```shell
 cd /etc/pacman.d/
 sudo vim mirrorlis
@@ -50,7 +50,7 @@ sudo pacman -Syy
 ```
 
 
-### pacman  cheatsheet
+## pacman  cheatsheet
 
 ```shell
 
@@ -95,7 +95,7 @@ pacman -Scc     清理所有的缓存文件(常用)
 ```
 
 
-### yay
+## yay
 
 `~/.config/yay/config.json`中的镜像地址，因为清华的放弃维护，要换回原版
 
@@ -127,5 +127,5 @@ sudoedit /etc/pacman.conf
 
 
 
-### 参考
+## 参考
 https://www.youtube.com/watch?v=1WHVIYXXOgQ&t=555s
