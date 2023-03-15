@@ -57,7 +57,7 @@
     {
       "id": "editing-toolbar:editor:insert-link",
       "name": "insert link []()",
-      "icon": "link-glyph"
+      "icon": "tree-pine"
     },
     {
       "id": "editing-toolbar:fullscreen-focus",
@@ -73,6 +73,19 @@
       "id": "obsidian-git:commit",
       "name": "Obsidian Git: Commit all changes",
       "icon": "git-commit"
+    },
+    {
+      "id": "editor:follow-link",
+      "name": "打开光标处的链接",
+      "icon": "lucide-link",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Alt"
+          ],
+          "key": "Enter"
+        }
+      ]
     }
   ],
   "appendMethod": "workspace",
