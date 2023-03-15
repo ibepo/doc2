@@ -3,6 +3,33 @@
   "positionStyle": "top",
   "menuCommands": [
     {
+      "id": "app:open-settings",
+      "name": "打开设置",
+      "icon": "settings",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": ","
+        }
+      ]
+    },
+    {
+      "id": "markdown-prettifier:markdown-prettifier-update-fields",
+      "name": "Markdown prettifier: Run with Hashtag janitor",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "o"
+        }
+      ],
+      "icon": "flower"
+    },
+    {
       "id": "editing-toolbar:editor-undo",
       "name": "undo editor",
       "icon": "undo-glyph"
@@ -21,11 +48,6 @@
       "id": "editing-toolbar:editor:toggle-bold",
       "name": "Toggle bold",
       "icon": "bold-glyph"
-    },
-    {
-      "id": "editor:toggle-highlight",
-      "name": "==Toggle highlight ==",
-      "icon": "highlight-glyph"
     },
     {
       "id": "editing-toolbar:editor:toggle-blockquote",
@@ -50,25 +72,12 @@
     {
       "id": "obsidian-git:push2",
       "name": "Obsidian Git: Push",
-      "icon": "navigate-glyph"
+      "icon": "github"
     },
     {
       "id": "obsidian-git:commit",
       "name": "Obsidian Git: Commit all changes",
-      "icon": "add-note-glyph"
-    },
-    {
-      "id": "app:open-settings",
-      "name": "打开设置",
-      "icon": "lucide-wrench",
-      "hotkeys": [
-        {
-          "modifiers": [
-            "Mod"
-          ],
-          "key": ","
-        }
-      ]
+      "icon": "git-commit"
     }
   ],
   "appendMethod": "workspace",
@@ -76,7 +85,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 338,
+  "cMenuWidth": 286,
   "cMenuFontColor": "#000000",
   "cMenuBackgroundColor": "#ff4d4f",
   "autohide": false,
