@@ -65,11 +65,6 @@
       "icon": "diamond"
     },
     {
-      "id": "editing-toolbar:fullscreen-focus",
-      "name": "Fullscreen focus mode",
-      "icon": "fullscreen"
-    },
-    {
       "id": "obsidian-git:push2",
       "name": "Obsidian Git: Push",
       "icon": "github"
@@ -96,6 +91,24 @@
           "key": "Enter"
         }
       ]
+    },
+    {
+      "id": "editing-toolbar:workplace-fullscreen-focus",
+      "name": "Editing Toolbar: workplace-Fullscreen ",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "F11"
+        }
+      ],
+      "icon": "fullscreen"
+    },
+    {
+      "id": "editing-toolbar:fullscreen-focus",
+      "name": "Fullscreen focus mode",
+      "icon": "exit-fullscreen"
     }
   ],
   "appendMethod": "workspace",

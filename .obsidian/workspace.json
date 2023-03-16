@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/微信读书/微信读书.md",
+                "file": "docs/AI/深度学习入门.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/微信读书/微信读书.md"
+                "file": "docs/AI/深度学习入门.md"
               }
             }
           },
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/微信读书/微信读书.md",
+                "file": "docs/AI/深度学习入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/微信读书/微信读书.md",
+                "file": "docs/AI/深度学习入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
