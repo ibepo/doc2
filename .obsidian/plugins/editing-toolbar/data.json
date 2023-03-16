@@ -75,6 +75,11 @@
       "icon": "github"
     },
     {
+      "id": "editor:toggle-source",
+      "name": "切换实时阅览/源码模式",
+      "icon": "venetian-mask"
+    },
+    {
       "id": "obsidian-git:commit",
       "name": "Obsidian Git: Commit all changes",
       "icon": "git-commit"
@@ -91,16 +96,6 @@
           "key": "Enter"
         }
       ]
-    },
-    {
-      "id": "obsidian-custom-frames:open-custom-frames-twitter",
-      "name": "Custom Frames: Open Twitter",
-      "icon": "twitter"
-    },
-    {
-      "id": "editor:toggle-source",
-      "name": "切换实时阅览/源码模式",
-      "icon": "lucide-code-2"
     }
   ],
   "appendMethod": "workspace",

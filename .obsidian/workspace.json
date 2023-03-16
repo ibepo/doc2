@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/微信读书/微信读书.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/沐神.md"
+                "file": "docs/微信读书/微信读书.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/微信读书/微信读书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/微信读书/微信读书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,10 +153,10 @@
   },
   "active": "45358b50d8a96de4",
   "lastOpenFiles": [
+    "docs/AI/沐神.md",
     "docs/微信读书/微信读书.md",
     "docs/AI/深度学习入门.md",
     "docs/微信读书",
-    "docs/AI/沐神.md",
     "docs/English/yarn.md.md",
     "docs/AI/AI.md",
     "docs/AI/image/Pasted image 20230316093638.png",
