@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,7 +150,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0e596b42bb3b54cb",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
     "docs/AI/深度学习入门.md",
     "docs/English/yarn.md.md",
