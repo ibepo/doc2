@@ -17,5 +17,6 @@
   "showIndentGuide": true,
   "autoPairMarkdown": false,
   "legacyEditor": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "attachmentFolderPath": "./image"
 }
