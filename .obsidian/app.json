@@ -12,7 +12,7 @@
   },
   "rightToLeft": false,
   "readableLineLength": true,
-  "livePreview": false,
+  "livePreview": true,
   "showLineNumber": true,
   "showIndentGuide": true,
   "autoPairMarkdown": false,

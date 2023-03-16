@@ -96,6 +96,11 @@
       "id": "obsidian-custom-frames:open-custom-frames-twitter",
       "name": "Custom Frames: Open Twitter",
       "icon": "twitter"
+    },
+    {
+      "id": "editor:toggle-source",
+      "name": "切换实时阅览/源码模式",
+      "icon": "lucide-code-2"
     }
   ],
   "appendMethod": "workspace",
@@ -103,7 +108,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 338,
+  "cMenuWidth": 390,
   "cMenuFontColor": "#000000",
   "cMenuBackgroundColor": "#ff4d4f",
   "autohide": false,
