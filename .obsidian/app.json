@@ -13,7 +13,7 @@
   "rightToLeft": false,
   "readableLineLength": true,
   "livePreview": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "showIndentGuide": true,
   "autoPairMarkdown": false,
   "legacyEditor": false,
