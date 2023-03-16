@@ -1,3 +1,4 @@
 {
-  "minimal-style@@window-title-off": true
+  "minimal-style@@window-title-off": true,
+  "minimal-style@@code-normal@@light": "#CC2424"
 }
