@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/AI/沐神.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -151,7 +151,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b8e41c23163a73b3",
+  "active": "45358b50d8a96de4",
   "lastOpenFiles": [
     "docs/AI/深度学习入门.md",
     "docs/wiki.md",
