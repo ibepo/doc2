@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/English/yarn.md.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/AI.md"
+                "file": "docs/English/yarn.md.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/English/yarn.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/English/yarn.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,6 +153,8 @@
   },
   "active": "0e596b42bb3b54cb",
   "lastOpenFiles": [
+    "docs/AI/AI.md",
+    "docs/English/yarn.md.md",
     "docs/AI/沐神.md",
     "docs/AI/image/Pasted image 20230316093638.png",
     "docs/AI/image/Pasted image 20230316090830.png",
@@ -165,7 +168,6 @@
     "docs/weekly/202303151505.md",
     "docs/weekly/202303140938.md",
     "docs/weekly/202303150935.md",
-    "docs/AI/AI.md",
     "docs/archlinux/ssdm.md",
     "docs/archlinux/install.md",
     "docs/archlinux/dwm.md",
