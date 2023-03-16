@@ -1,23 +1,12 @@
 {
   "frames": [
     {
-      "url": "https://twitter.com",
-      "displayName": "Twitter",
-      "icon": "twitter",
+      "url": "https://r.qq.com/",
+      "displayName": "微信读书",
+      "icon": "book-open",
       "hideOnMobile": true,
-      "addRibbonIcon": false,
-      "openInCenter": false,
-      "zoomLevel": 1,
-      "forceIframe": false,
-      "customCss": ""
-    },
-    {
-      "url": "",
-      "displayName": "New Frame",
-      "icon": "",
-      "hideOnMobile": true,
-      "addRibbonIcon": false,
-      "openInCenter": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""

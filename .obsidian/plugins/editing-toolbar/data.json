@@ -91,6 +91,11 @@
           "key": "Enter"
         }
       ]
+    },
+    {
+      "id": "obsidian-custom-frames:open-custom-frames-twitter",
+      "name": "Custom Frames: Open Twitter",
+      "icon": "twitter"
     }
   ],
   "appendMethod": "workspace",
