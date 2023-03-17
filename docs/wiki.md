@@ -1,10 +1,7 @@
 
-<img src="https://gitee.com/ibepo/ogcip/raw/master/20210930122438.jpg" alt="查看源图像" style="zoom: 150%;" />
 ## Git
 
-![image-20211210163331558](https://gitee.com/ibepo/ogcip/raw/master/20211210163332.png)
-
-
+![[Pasted image 20230317085921.png]]
 
 `git add . `他会监控工作区的状态树，使用它会把工作时的**所有变化提交**到暂存区，包括文件内容修改(modified)以及新文件(new)，但不包括被删除的文件
 

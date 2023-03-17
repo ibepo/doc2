@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ssh/ssh.md",
+                "file": "docs/wiki.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ssh/ssh.md"
+                "file": "docs/wiki.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ssh/ssh.md",
+                "file": "docs/wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ssh/ssh.md",
+                "file": "docs/wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +152,13 @@
   },
   "active": "45358b50d8a96de4",
   "lastOpenFiles": [
-    "docs/ssh/ssh免密登录.md",
+    "docs/image/Pasted image 20230317085921.png",
+    "docs/image",
+    "docs/部署/nginx.md",
+    "docs/部署/image/Pasted image 20230317085850.png",
+    "docs/部署/image",
     "docs/ssh/ssh.md",
+    "docs/ssh/ssh免密登录.md",
     "docs/AI/沐神.md",
     "docs/AI/深度学习入门.md",
     "docs/wiki.md",
@@ -170,7 +175,6 @@
     "docs/image/Pasted image 20230316090655.png",
     "docs/AI/image/Pasted image 20230316090820.png",
     "docs/AI/image",
-    "docs/image",
     "docs/nvim/neovimAPI.md",
     "docs/nvim/neovim.md",
     "docs/weekly/202303151505.md",
@@ -184,8 +188,6 @@
     "docs/archlinux/clash.md",
     "docs/archlinux/tmux.md",
     "docs/archlinux/yay.md",
-    "docs/docker/安装.md",
-    "docs/archlinux/pacman.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/English/2023-03-07_17-11.png",
     "docs/English/2023-03-08_09-50.png",

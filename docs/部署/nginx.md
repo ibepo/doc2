@@ -9,8 +9,8 @@
 
 nginx -t #检测配置文件是否有语法错误，然后退出
 ```
+![[Pasted image 20230317085850.png]]
 
-![image-20210507102156114](https://gitee.com/ibepo/ogcip/raw/master/20210930122800.png)
 
 ### 配置
 
