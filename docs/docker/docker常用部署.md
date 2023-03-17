@@ -1,9 +1,7 @@
 
-### docker 部署容器
+## docker 部署容器
 
-<img src="https://gitee.com/ibepo/ogcip/raw/master/20210930122525.png" alt="image-20210910121026566" style="zoom:55%;" />
-
-####  docker 部署 [Portainer]
+### docker 部署 [Portainer]
 
 ```shell
 
@@ -22,7 +20,18 @@ id:root1234  pwd:root1234
 ```
 
 
-#### docker 部署 [ MySQL 5.7] 
+### docker 部署 [Ngnix]
+
+```shell
+docker run \
+‐‐name nginx \
+‐v /usr/local/bsbdj/nginx/nginx.conf:/etc/nginx/nginx.conf \ #这里的 ngnix 配置需要注意下
+‐‐network my‐bridge \ 
+‐p 80:80 \
+‐d nginx
+```
+
+### docker 部署 [MySQL 5.7] 
 
 [docker 中 mysql 的部署和启动](https://juejin.cn/post/6844904095950569480#heading-1)
 [docker 中开启 binglog](https://www.cnblogs.com/cpw6/p/11597553.html)
@@ -55,9 +64,7 @@ mysql_secure_installation
 
 ```
 
-
-
-#### docker 部署 [Minio]
+### docker 部署 [Minio]
 
 [🔗docker中minio解决浏览器无法访问的问题](https://blog.csdn.net/qq_38132995/article/details/118812013)
 
@@ -70,7 +77,7 @@ docker run -it --entrypoint=/bin/sh minio/mc
 docker run -p 9090:9000 --name minio   -v /mydata/minio/data:/data   -v /mydata/minio/config:/root/.minio   -d minio/minio server /data --console-address ":9000" --address ":9090"
 ```
 
-#### docker 部署 [Elasticsearch]
+### docker 部署 [Elasticsearch]
 
 ```
 docker pull docker.io/elasticsearch:7.4.2
@@ -95,58 +102,19 @@ b1179d41a7b4
 docker exec -it es /bin/bash
 ```
 
-#### docker部署 [elasticvue]
+### docker 部署 [elasticvue]
 
 ```
  docker run --name esvue  -p 7010:8080 -d cars10/elasticvue 
  docker exec -it esvue /bin/bash
 ```
 
-#### docker 部署 [ build 镜像]
-
-```shell
-#dockfile
-FROM openjdk:11
-ADD ./app /usr/local/bsbdj
-WORKDIR /usr/local/bsbdj 
-CMD ["java","‐jar", "bsbdj.jar"]
-```
 
 
-
-```shell
-docker run \ 
-‐‐name app1 \
-‐‐network my‐bridge \ 
-‐p 8080:8080 \ 
-‐d itlaoqi/bsbdj:1.0
-
-docker run \
-‐‐name app2 \
-‐‐network my‐bridge \ 
-‐p 8081:8080 \ 
-‐d itlaoqi/bsbdj:1.0
-
-docker run \
-‐‐name app3 \
-‐‐network my‐bridge \
-‐p 8082:8080 \ 
-‐d itlaoqi/bsbdj:1.0
-```
-
-#### docker 部署 Ngnix
-
-```shell
-docker run \
-‐‐name nginx \
-‐v /usr/local/bsbdj/nginx/nginx.conf:/etc/nginx/nginx.conf \ #这里的 ngnix 配置需要注意下
-‐‐network my‐bridge \ 
-‐p 80:80 \
-‐d nginx
-```
 
 #### 一键发布脚本sh
 
+![[Pasted image 20230317092157.png]]
 (ngnix+三个后端服务一键式部署)
 
 ```shell
