@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -152,6 +152,8 @@
   },
   "active": "9391059c7d3635b3",
   "lastOpenFiles": [
+    "docs/config/前端项目的配置文件.md",
+    "docs/AI/沐神.md",
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",
     "docs/AI/slam.md",
@@ -175,7 +177,6 @@
     "docs/部署/image",
     "docs/ssh/ssh.md",
     "docs/ssh/ssh免密登录.md",
-    "docs/AI/沐神.md",
     "docs/AI/深度学习入门.md",
     "docs/AI/image/Pasted image 20230316133310.png",
     "docs/index.md",
@@ -185,7 +186,6 @@
     "docs/AI/image/Pasted image 20230316093638.png",
     "docs/AI/image/Pasted image 20230316090830.png",
     "docs/image/Pasted image 20230316090655.png",
-    "docs/AI/image/Pasted image 20230316090820.png",
     "docs/AI/image",
     "docs/nvim/neovimAPI.md",
     "docs/nvim/neovim.md",
