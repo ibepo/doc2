@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/slam.md",
+                "file": "docs/AI/沐神.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/slam.md"
+                "file": "docs/AI/沐神.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/slam.md",
+                "file": "docs/AI/沐神.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/slam.md",
+                "file": "docs/AI/沐神.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +152,7 @@
   },
   "active": "9391059c7d3635b3",
   "lastOpenFiles": [
+    "docs/AI/slam.md",
     "docs/AI/AI.md",
     "docs/nginx/命令.md",
     "docs/nginx/配置.md",
@@ -191,7 +192,6 @@
     "docs/weekly/202303150935.md",
     "docs/archlinux/ssdm.md",
     "docs/archlinux/install.md",
-    "docs/archlinux/dwm.md",
     "docs/English/2023-03-07_17-11.png",
     "docs/nvim",
     "docs/git",
