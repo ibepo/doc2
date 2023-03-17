@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/docker/build.md",
+                "file": "docs/wiki.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/build.md"
+                "file": "docs/wiki.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/build.md",
+                "file": "docs/wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/build.md",
+                "file": "docs/wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,12 +189,12 @@
   },
   "active": "7594e6dcef42a60a",
   "lastOpenFiles": [
+    "docs/docker/docker compose.md",
     "docs/docker/docker常用部署.md",
     "docs/docker/build.md",
     "docs/docker/docker.md",
     "docs/docker/image/Pasted image 20230317092157.png",
     "docs/docker/image",
-    "docs/docker/docker compose.md",
     "docs/wiki.md",
     "docs/image/Pasted image 20230317085921.png",
     "docs/image",
