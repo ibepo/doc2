@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b528d22f4d9770f8",
+        "id": "579d7420c7bc495f",
         "type": "tabs",
         "children": [
           {
-            "id": "9391059c7d3635b3",
+            "id": "de263f497122ad96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,14 +150,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9391059c7d3635b3",
+  "active": "de263f497122ad96",
   "lastOpenFiles": [
     "docs/AI/深度学习入门.md",
+    "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
+    "docs/AI/沐神.md",
     "docs/weekly/202303171116.md",
     "docs/weekly/202303151505.md",
     "docs/archlinux/未命名.md",
     "docs/archlinux/dwm.md",
-    "docs/AI/沐神.md",
     "docs/config/前端项目的配置文件.md",
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",
@@ -192,7 +193,6 @@
     "docs/image/Pasted image 20230316090655.png",
     "docs/AI/image",
     "docs/nvim/neovimAPI.md",
-    "docs/nvim/neovim.md",
     "docs/nvim",
     "docs/git",
     "docs/ssh",
