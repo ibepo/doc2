@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/AI/沐神.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "9391059c7d3635b3",
   "lastOpenFiles": [
+    "docs/AI/image/Pasted image 20230317100149.png",
     "docs/AI/slam.md",
     "docs/AI/AI.md",
     "docs/nginx/命令.md",
@@ -191,7 +192,6 @@
     "docs/weekly/202303140938.md",
     "docs/weekly/202303150935.md",
     "docs/archlinux/ssdm.md",
-    "docs/archlinux/install.md",
     "docs/English/2023-03-07_17-11.png",
     "docs/nvim",
     "docs/git",
