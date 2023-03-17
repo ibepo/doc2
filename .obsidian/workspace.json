@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/python/python操作文本类.md",
+                "file": "docs/AI/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/python/python操作文本类.md"
+                "file": "docs/AI/AI.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/python/python操作文本类.md",
+                "file": "docs/AI/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/python/python操作文本类.md",
+                "file": "docs/AI/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +165,9 @@
   },
   "active": "0de6466f57ab9406",
   "lastOpenFiles": [
+    "docs/python/python操作文本类.md",
     "docs/python/numpy.md",
     "docs/python/opencv.md",
-    "docs/python/python操作文本类.md",
     "docs/python/python.md",
     "docs/python/实用类库.md",
     "docs/AI/沐神.md",
