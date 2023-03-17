@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/python/python.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/沐神.md"
+                "file": "docs/python/python.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/python/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/python/python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +152,9 @@
   },
   "active": "de263f497122ad96",
   "lastOpenFiles": [
+    "docs/AI/沐神.md",
     "docs/AI/深度学习入门.md",
     "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
-    "docs/AI/沐神.md",
     "docs/weekly/202303171116.md",
     "docs/weekly/202303151505.md",
     "docs/archlinux/未命名.md",
