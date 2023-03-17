@@ -9,7 +9,7 @@ bat id_rsa.pub
 ssh-keygen -t rsa
 ```
 
-### 修改ssh文件夹权限过于开放的问题
+### 😀修改ssh文件夹权限过于开放的问题
 ```shell
 chmod 600 ~/.ssh/id_rsa ~/.ssh/id_rsa.pub
 ```
