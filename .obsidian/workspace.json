@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0de6466f57ab9406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/python/python操作文本类.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/python/python.md"
+                "file": "docs/python/python操作文本类.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/python/python.md",
+                "file": "docs/python/python操作文本类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/python/python.md",
+                "file": "docs/python/python操作文本类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +163,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "de263f497122ad96",
+  "active": "0de6466f57ab9406",
   "lastOpenFiles": [
+    "docs/python/python.md",
+    "docs/python/numpy.md",
+    "docs/python/python操作文本类.md",
+    "docs/python/实用类库.md",
     "docs/AI/沐神.md",
     "docs/AI/深度学习入门.md",
     "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
@@ -184,15 +201,11 @@
     "docs/ssh/ssh.md",
     "docs/ssh/ssh免密登录.md",
     "docs/AI/image/Pasted image 20230316133310.png",
-    "docs/index.md",
-    "docs/mysql/安装.md",
     "docs/微信读书",
-    "docs/English/yarn.md.md",
     "docs/AI/image/Pasted image 20230316093638.png",
     "docs/AI/image/Pasted image 20230316090830.png",
     "docs/image/Pasted image 20230316090655.png",
     "docs/AI/image",
-    "docs/nvim/neovimAPI.md",
     "docs/nvim",
     "docs/git",
     "docs/ssh",
