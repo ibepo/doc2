@@ -1,35 +1,25 @@
-```shell
+### 概述 
 
-```
-#### 命令
-
-docker-compose的完整命令的用法是：`docker-compose [-f <arg>...] [options] [COMMAND] [ARGS...]` 主要分为2段，一是options，二是COMMAND。
+docker-compose的完整命令的用法是：
+`docker-compose [-f <arg>...] [options] [COMMAND] [ARGS...]` 
+主要分为2段，一是options，二是COMMAND。
 
 常用options有：
-
 - `-f, --file FILE` 指定使用的 Compose 模板文件，默认为 `docker-compose.yml`，可以多次指定。
 - `-p, --project-name NAME` 指定项目名称，默认将使用所在目录名称作为项目名。
 - `--verbose` 输出更多调试信息。
 - `-v, --version` 打印版本并退出。
 - `--env-file PATH`设置环境变量
 
-常用COMMAND有：
-
-- build：构建（重新构建）项目中的服务容器。
-
-- config：验证 Compose 文件格式是否正确，若正确则显示配置，若格式错误显示错误原因。
-
-- down：此命令将会停止 `up` 命令所启动的容器，并移除网络
-
+### 常用命令
+-  `docker-composse build`：构建（重新构建）项目中的服务容器。
+- `docker-compse config`：验证 Compose 文件格式是否正确，若正确则显示配置，若格式错误显示错误原因。
+- `docker-compose down`：此命令将会停止 `up` 命令所启动的容器，并移除网络
 - `docker-compose exec service名称 COMMAND`：进入指定的容器。
-
-- images：列出 Compose 文件中包含的镜像。
-
+- `docker-compose images`：列出 Compose 文件中包含的镜像。
 - `docker-compose logs <service名称>`：查看服务容器的输出。默认情况下，docker-compose 将对不同的服务输出使用不同的颜色来区分。可以通过 `--no-color` 来关闭颜色。
-
-- scale：通过`service=num` 设置指定服务运行的容器个数。如`docker-compose scale web=3 db=2`
-
-- up：将尝试自动完成包括构建镜像，（重新）创建服务，启动服务，并关联服务相关容器的一系列操作。大部分时候都可以直接通过该命令来启动一个项目。默认情况，
+- `docker-compose scale`：通过`service=num` 设置指定服务运行的容器个数。如`docker-compose scale web=3 db=2`
+- `docker-compose  up`：将尝试自动完成包括构建镜像，（重新）创建服务，启动服务，并关联服务相关容器的一系列操作。大部分时候都可以直接通过该命令来启动一个项目。默认情况，
 
   ```
   docker-compose up
