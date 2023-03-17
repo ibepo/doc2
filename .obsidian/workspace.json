@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/archlinux/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/沐神.md"
+                "file": "docs/archlinux/未命名.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/archlinux/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/沐神.md",
+                "file": "docs/archlinux/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +152,10 @@
   },
   "active": "9391059c7d3635b3",
   "lastOpenFiles": [
-    "docs/config/前端项目的配置文件.md",
+    "docs/archlinux/dwm.md",
+    "docs/archlinux/未命名.md",
     "docs/AI/沐神.md",
+    "docs/config/前端项目的配置文件.md",
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",
     "docs/AI/slam.md",
@@ -191,8 +193,6 @@
     "docs/nvim/neovim.md",
     "docs/weekly/202303151505.md",
     "docs/weekly/202303140938.md",
-    "docs/weekly/202303150935.md",
-    "docs/archlinux/ssdm.md",
     "docs/nvim",
     "docs/git",
     "docs/ssh",
