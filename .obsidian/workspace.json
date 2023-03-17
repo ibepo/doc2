@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4447e83c9a850f0e",
+        "id": "b528d22f4d9770f8",
         "type": "tabs",
         "children": [
           {
-            "id": "45358b50d8a96de4",
+            "id": "9391059c7d3635b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/wiki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ecddb0159cb7437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/docker/docker compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d68b3387c6e01135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/docker/docker常用部署.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7594e6dcef42a60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/AI/slam.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 200
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -133,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/wiki.md"
+                "file": "docs/AI/slam.md"
               }
             }
           },
@@ -143,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/AI/slam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/AI/slam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,16 +150,22 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "7594e6dcef42a60a",
+  "active": "9391059c7d3635b3",
   "lastOpenFiles": [
-    "docs/docker/docker compose.md",
+    "docs/AI/AI.md",
+    "docs/nginx/命令.md",
+    "docs/nginx/配置.md",
+    "docs/nginx/Pasted image 20230313092120.png",
+    "docs/git/git.md",
+    "docs/image/Pasted image 20230317085921.png",
+    "docs/微信读书/微信读书.md",
+    "docs/wiki.md",
     "docs/docker/docker常用部署.md",
+    "docs/docker/docker compose.md",
     "docs/docker/build.md",
     "docs/docker/docker.md",
     "docs/docker/image/Pasted image 20230317092157.png",
     "docs/docker/image",
-    "docs/wiki.md",
-    "docs/image/Pasted image 20230317085921.png",
     "docs/image",
     "docs/部署/nginx.md",
     "docs/部署/image/Pasted image 20230317085850.png",
@@ -207,10 +176,7 @@
     "docs/AI/深度学习入门.md",
     "docs/AI/image/Pasted image 20230316133310.png",
     "docs/index.md",
-    "docs/nginx/配置.md",
     "docs/mysql/安装.md",
-    "docs/AI/AI.md",
-    "docs/微信读书/微信读书.md",
     "docs/微信读书",
     "docs/English/yarn.md.md",
     "docs/AI/image/Pasted image 20230316093638.png",
@@ -226,9 +192,6 @@
     "docs/archlinux/ssdm.md",
     "docs/archlinux/install.md",
     "docs/archlinux/dwm.md",
-    "docs/archlinux/未命名.md",
-    "docs/archlinux/字体.md",
-    "docs/nginx/Pasted image 20230313092120.png",
     "docs/English/2023-03-07_17-11.png",
     "docs/nvim",
     "docs/git",
