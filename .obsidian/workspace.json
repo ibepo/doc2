@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/mysql/安装.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
