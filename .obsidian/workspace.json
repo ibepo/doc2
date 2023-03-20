@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "6be2bfd4fa7f0129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/中文优秀博客.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/中文优秀博客.md"
+                "file": "docs/部署/centos部署.md"
               }
             }
           },
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/部署/centos部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/部署/centos部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +150,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6be2bfd4fa7f0129",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
-    "docs/部署/centos部署.md",
     "docs/中文优秀博客.md",
+    "docs/部署/centos部署.md",
     "docs/杂项/js.md",
     "docs/微信读书/微信读书.md",
     "docs/weekly/202303201452.md",

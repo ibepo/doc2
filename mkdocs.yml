@@ -1,60 +1,66 @@
 # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
 site_name: ibepo's blog
 theme:
-    name: material
-    palette:
-        primary: black
-    language: zh
-    icon:
-        logo: material/library-shelves
-    features:
-        - navigation.expand
-        - navigation.indexes
-        - navigation.sections
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.instant
-        - navigation.tracking
-        - navigation.path
-        - toc.follow
+  name: material
+  shortcuts:
+    help: 191 # ?
+    next: 78 # n
+    previous: 80 # p
+    search: 83 # s
+  palette:
+    primary: black
+  language: zh
+  icon:
+    logo: material/library-shelves
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.tracking
+    - navigation.path
+    - toc.follow
 markdown_extensions:
-    - attr_list
-    - pymdownx.tabbed
-    - nl2br
-    - toc:
-          permalink: "#"
-          slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
+  - attr_list
+  - pymdownx.tabbed
+  - nl2br
+  - toc:
+      permalink: '#'
+      slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
 
-    - admonition
-    - codehilite:
-          guess_lang: false
-          linenums: false
-    - footnotes
-    - meta
-    - def_list
-    - pymdownx.arithmatex
-    - pymdownx.betterem:
-          smart_enable: all
-    - pymdownx.caret
-    - pymdownx.critic
-    - pymdownx.details
-    # - pymdownx.emoji:
-    # emoji_generator: !!python/name:pymdownx.emoji.to_png
-    - pymdownx.inlinehilite
-    - pymdownx.magiclink
-    - pymdownx.mark
-    - pymdownx.smartsymbols
-    - pymdownx.superfences
-    - pymdownx.tasklist
-    - pymdownx.tilde
+
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  # - pymdownx.emoji:
+  # emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
 plugins:
-    - search
-    - roamlinks
-      #- autolinks
-    - exclude:
-          glob:
-              - "*.tmp"
-              - "*.pdf"
-              - "*.gz"
-          regex:
-              - '.*\.(tmp|bin|tar)$'
+  - search
+  - roamlinks
+    #- autolinks
+  - exclude:
+      glob:
+        - '*.tmp'
+        - '*.pdf'
+        - '*.gz'
+      regex:
+        - '.*\.(tmp|bin|tar)$'
