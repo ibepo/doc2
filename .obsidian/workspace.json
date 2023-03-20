@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/homelab/openwrt.md",
+                "file": "docs/wiki.md",
                 "mode": "source",
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/homelab/openwrt.md"
+                "file": "docs/wiki.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/homelab/openwrt.md",
+                "file": "docs/wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/homelab/openwrt.md",
+                "file": "docs/wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +213,8 @@
   },
   "active": "096f99492c7d5770",
   "lastOpenFiles": [
-    "docs/未命名.md",
     "docs/homelab/openwrt.md",
+    "docs/未命名.md",
     "docs/homelab",
     "docs/docker/docker构建.md",
     "docs/docker/dockerLegacy.md",
