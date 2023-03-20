@@ -11,8 +11,12 @@
             "id": "25e736d0823201ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/nginx/ssl.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -92,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/安装.md"
+                "file": "docs/nginx/ssl.md"
               }
             }
           },
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/安装.md",
+                "file": "docs/nginx/ssl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/安装.md",
+                "file": "docs/nginx/ssl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +150,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "25e736d0823201ba",
   "lastOpenFiles": [
+    "docs/docker/安装.md",
+    "docs/nginx/ssl.md",
     "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
     "docs/image/Pasted image 20230317085921.png",
     "docs/韦小绿/pac.md",
@@ -181,7 +187,6 @@
     "docs/AI/沐神.md",
     "docs/AI/深度学习入门.md",
     "docs/weekly/202303171116.md",
-    "docs/weekly/202303151505.md",
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",
     "docs/nginx/Pasted image 20230313092120.png",
