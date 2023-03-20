@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6d05ebf5951fdd",
+        "id": "015db5ddb6db7830",
         "type": "tabs",
         "children": [
           {
-            "id": "25e736d0823201ba",
+            "id": "d91a062fe499b26f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux/shell语法.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7de705bae74de37c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/git/git.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c26a59b34a3e965e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/nginx/配置.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a97d72373e075425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/docker/docker构建.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df57eb4375b929b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/未命名.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "096f99492c7d5770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/部署/centos部署.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/wiki.md"
+                "file": "docs/部署/centos部署.md"
               }
             }
           },
@@ -167,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/部署/centos部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wiki.md",
+                "file": "docs/部署/centos部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,12 +150,19 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "096f99492c7d5770",
+  "active": "d91a062fe499b26f",
   "lastOpenFiles": [
-    "docs/homelab/openwrt.md",
+    "docs/杂项/js.md",
+    "docs/微信读书/微信读书.md",
+    "docs/weekly/202303201452.md",
+    "docs/weekly/202303171116.md",
+    "docs/weekly/202303151505.md",
+    "docs/weekly/202303140938.md",
     "docs/未命名.md",
-    "docs/homelab",
     "docs/docker/docker构建.md",
+    "docs/wiki.md",
+    "docs/homelab/openwrt.md",
+    "docs/homelab",
     "docs/docker/dockerLegacy.md",
     "docs/docker/安装.md",
     "docs/docker/docker compose.md",
@@ -236,16 +182,9 @@
     "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
     "docs/image/Pasted image 20230317085921.png",
     "docs/韦小绿/pac.md",
-    "docs/韦小绿/crime.md",
-    "docs/mysql/安装.md",
-    "docs/mysql/语句.md",
-    "docs/mysql/参考.md",
     "docs/mysql/image/Pasted image 20230320095129.png",
     "docs/mysql/image/Pasted image 20230320094355.png",
     "docs/mysql/image",
-    "docs/mysql/典型问题.md",
-    "docs/mysql/edj.sql.md",
-    "docs/English/吉娜英文.md",
     "docs/English/image/Pasted image 20230320093630.png",
     "docs/English/image/Pasted image 20230320093826.png",
     "docs/English/2023-03-07_17-11.png",
