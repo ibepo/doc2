@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/NAS/ddns.md",
+                "file": "docs/nvim/api.md",
                 "mode": "source",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/NAS/ddns.md"
+                "file": "docs/nvim/api.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/NAS/ddns.md",
+                "file": "docs/nvim/api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/NAS/ddns.md",
+                "file": "docs/nvim/api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +187,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a97d72373e075425",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
-    "docs/nginx/配置.md",
     "docs/NAS/ddns.md",
+    "docs/nginx/配置.md",
     "docs/NAS",
     "docs/nginx/ssl.md",
     "docs/nginx/Pasted image 20230313092120.png",
