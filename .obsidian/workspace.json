@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df57eb4375b929b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "096f99492c7d5770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/homelab/openwrt.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/docker构建.md"
+                "file": "docs/homelab/openwrt.md"
               }
             }
           },
@@ -143,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/docker构建.md",
+                "file": "docs/homelab/openwrt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/docker构建.md",
+                "file": "docs/homelab/openwrt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,13 +211,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "096f99492c7d5770",
   "lastOpenFiles": [
+    "docs/未命名.md",
+    "docs/homelab/openwrt.md",
+    "docs/homelab",
+    "docs/docker/docker构建.md",
     "docs/docker/dockerLegacy.md",
     "docs/docker/安装.md",
     "docs/docker/docker compose.md",
     "docs/docker/docker 命令行.md",
-    "docs/docker/docker构建.md",
     "docs/docker/docker常用部署.md",
     "docs/archlinux/clash.md",
     "docs/nvim/api.md",
@@ -219,8 +246,6 @@
     "docs/mysql/典型问题.md",
     "docs/mysql/edj.sql.md",
     "docs/English/吉娜英文.md",
-    "docs/English/yarn.md",
-    "docs/English/昂克英文.md",
     "docs/English/image/Pasted image 20230320093630.png",
     "docs/English/image/Pasted image 20230320093826.png",
     "docs/English/2023-03-07_17-11.png",
@@ -234,7 +259,6 @@
     "docs/微信读书",
     "docs/AI/image",
     "docs/nvim",
-    "docs/git",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
