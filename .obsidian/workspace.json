@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0b49156931e0ce49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/mysql/语句.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mysql/安装.md"
+                "file": "docs/mysql/语句.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/mysql/安装.md",
+                "file": "docs/mysql/语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/mysql/安装.md",
+                "file": "docs/mysql/语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +163,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "de263f497122ad96",
+  "active": "0b49156931e0ce49",
   "lastOpenFiles": [
+    "docs/mysql/安装.md",
+    "docs/mysql/语句.md",
     "docs/mysql/image/Pasted image 20230320095129.png",
     "docs/mysql/image/Pasted image 20230320094355.png",
     "docs/mysql/image",
     "docs/mysql/典型问题.md",
     "docs/mysql/edj.sql.md",
     "docs/mysql/参考.md",
-    "docs/mysql/安装.md",
     "docs/English/吉娜英文.md",
     "docs/English/yarn.md",
     "docs/English/昂克英文.md",
@@ -189,7 +203,6 @@
     "docs/AI/image/Pasted image 20230317100149.png",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
-    "docs/docker/image/Pasted image 20230317092157.png",
     "docs/docker/image",
     "docs/image",
     "docs/部署/image",
