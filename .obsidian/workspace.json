@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/git/提交.md",
+                "file": "docs/nginx/配置.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/git/提交.md"
+                "file": "docs/nginx/配置.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/git/提交.md",
+                "file": "docs/nginx/配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/git/提交.md",
+                "file": "docs/nginx/配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +177,12 @@
   },
   "active": "c26a59b34a3e965e",
   "lastOpenFiles": [
-    "docs/git/git.md",
+    "docs/nginx/ssl.md",
+    "docs/nginx/Pasted image 20230313092120.png",
     "docs/git/提交.md",
+    "docs/git/git.md",
     "docs/部署/shell脚本.md",
     "docs/linux/shell语法.md",
-    "docs/nginx/ssl.md",
     "docs/docker/安装.md",
     "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
     "docs/image/Pasted image 20230317085921.png",
@@ -211,10 +212,8 @@
     "docs/python/python操作文本类.md",
     "docs/python/numpy.md",
     "docs/python/opencv.md",
-    "docs/python/python.md",
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",
-    "docs/nginx/Pasted image 20230313092120.png",
     "docs/docker/image",
     "docs/image",
     "docs/部署/image",
