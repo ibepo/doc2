@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "579d7420c7bc495f",
+        "id": "5e6d05ebf5951fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "de263f497122ad96",
+            "id": "25e736d0823201ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/mysql/安装.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0b49156931e0ce49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/mysql/语句.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mysql/语句.md"
+                "file": "docs/docker/安装.md"
               }
             }
           },
@@ -119,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/mysql/语句.md",
+                "file": "docs/docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/mysql/语句.md",
+                "file": "docs/docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,16 +146,20 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0b49156931e0ce49",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
+    "docs/image/Pasted image 20230317085921.png",
+    "docs/韦小绿/pac.md",
+    "docs/韦小绿/crime.md",
     "docs/mysql/安装.md",
     "docs/mysql/语句.md",
+    "docs/mysql/参考.md",
     "docs/mysql/image/Pasted image 20230320095129.png",
     "docs/mysql/image/Pasted image 20230320094355.png",
     "docs/mysql/image",
     "docs/mysql/典型问题.md",
     "docs/mysql/edj.sql.md",
-    "docs/mysql/参考.md",
     "docs/English/吉娜英文.md",
     "docs/English/yarn.md",
     "docs/English/昂克英文.md",
@@ -193,16 +180,11 @@
     "docs/python/实用类库.md",
     "docs/AI/沐神.md",
     "docs/AI/深度学习入门.md",
-    "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
     "docs/weekly/202303171116.md",
     "docs/weekly/202303151505.md",
-    "docs/archlinux/未命名.md",
-    "docs/archlinux/dwm.md",
-    "docs/config/前端项目的配置文件.md",
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",
     "docs/nginx/Pasted image 20230313092120.png",
-    "docs/image/Pasted image 20230317085921.png",
     "docs/docker/image",
     "docs/image",
     "docs/部署/image",
