@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/python/python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0de6466f57ab9406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/mysql/安装.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/AI.md"
+                "file": "docs/mysql/安装.md"
               }
             }
           },
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/mysql/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/AI.md",
+                "file": "docs/mysql/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +150,25 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0de6466f57ab9406",
+  "active": "de263f497122ad96",
   "lastOpenFiles": [
+    "docs/mysql/典型问题.md",
+    "docs/mysql/edj.sql.md",
+    "docs/mysql/参考.md",
+    "docs/mysql/安装.md",
+    "docs/English/吉娜英文.md",
+    "docs/English/yarn.md",
+    "docs/English/昂克英文.md",
+    "docs/English/image/Pasted image 20230320093630.png",
+    "docs/English/image/Pasted image 20230320093826.png",
+    "docs/English/2023-03-07_17-11.png",
+    "docs/English/2023-03-08_09-50.png",
+    "docs/English/短语.md",
+    "docs/English/参考.md",
+    "docs/English/发音.md",
+    "docs/English/词汇.md",
+    "docs/English/image",
+    "docs/AI/AI.md",
     "docs/python/python操作文本类.md",
     "docs/python/numpy.md",
     "docs/python/opencv.md",
@@ -181,36 +185,19 @@
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",
     "docs/AI/slam.md",
-    "docs/AI/AI.md",
-    "docs/nginx/命令.md",
-    "docs/nginx/配置.md",
     "docs/nginx/Pasted image 20230313092120.png",
-    "docs/git/git.md",
     "docs/image/Pasted image 20230317085921.png",
-    "docs/微信读书/微信读书.md",
-    "docs/wiki.md",
-    "docs/docker/docker常用部署.md",
-    "docs/docker/docker compose.md",
-    "docs/docker/build.md",
-    "docs/docker/docker.md",
     "docs/docker/image/Pasted image 20230317092157.png",
     "docs/docker/image",
     "docs/image",
-    "docs/部署/nginx.md",
     "docs/部署/image/Pasted image 20230317085850.png",
     "docs/部署/image",
-    "docs/ssh/ssh.md",
-    "docs/AI/image/Pasted image 20230316133310.png",
     "docs/微信读书",
-    "docs/AI/image/Pasted image 20230316093638.png",
-    "docs/AI/image/Pasted image 20230316090830.png",
-    "docs/image/Pasted image 20230316090655.png",
     "docs/AI/image",
     "docs/nvim",
     "docs/git",
     "docs/ssh",
     "docs/weekly",
-    "docs/韦小绿",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
