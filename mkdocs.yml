@@ -1,9 +1,9 @@
 # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
-site_name: ibepo's blog 
+site_name: ibepo's blog
 theme:
     name: material
     palette:
-        primary: black 
+        primary: black
     language: zh
     icon:
         logo: material/library-shelves
@@ -24,7 +24,6 @@ markdown_extensions:
     - toc:
           permalink: "#"
           slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
-
 
     - admonition
     - codehilite:
