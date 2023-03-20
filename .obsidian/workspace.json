@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/docker/安装.md",
+                "file": "docs/docker/docker构建.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/安装.md"
+                "file": "docs/docker/docker构建.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/安装.md",
+                "file": "docs/docker/docker构建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/安装.md",
+                "file": "docs/docker/docker构建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,12 +187,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a97d72373e075425",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
-    "docs/docker/docker.md",
+    "docs/docker/dockerLegacy.md",
     "docs/docker/安装.md",
-    "docs/docker/docker 命令行.md",
     "docs/docker/docker compose.md",
+    "docs/docker/docker 命令行.md",
+    "docs/docker/docker构建.md",
+    "docs/docker/docker常用部署.md",
     "docs/archlinux/clash.md",
     "docs/nvim/api.md",
     "docs/NAS/ddns.md",
@@ -223,8 +225,6 @@
     "docs/English/image/Pasted image 20230320093826.png",
     "docs/English/2023-03-07_17-11.png",
     "docs/English/2023-03-08_09-50.png",
-    "docs/English/短语.md",
-    "docs/English/参考.md",
     "docs/English/image",
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",

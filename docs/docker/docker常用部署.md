@@ -31,6 +31,22 @@ docker run \
 ‐d nginx
 ```
 
+## MySQL
+
+```bash
+ 1docker pull mysql:5.7
+ 2
+ 3docker run -p 3306:3306 \
+ 4--name mysqldb \
+ 5# --network form-team-talent-network \
+ 6-v /docker/mysql/conf:/etc/mysql/conf.d \
+ 7-v /docker/mysql/logs:/logs \
+ 8-v /docker/mysql/data:/var/lib/mysql \
+ 9-e MYSQL_ROOT_PASSWORD=658766@Jzh \
+10-d mysql:5.7
+11
+12docker exec -it 7904c6d2c6f8 /bin/bash
+13mysql -uroot -p
 ### docker 部署 [MySQL 5.7] 
 
 [docker 中 mysql 的部署和启动](https://juejin.cn/post/6844904095950569480#heading-1)
