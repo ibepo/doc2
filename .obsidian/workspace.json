@@ -152,6 +152,8 @@
   },
   "active": "de263f497122ad96",
   "lastOpenFiles": [
+    "docs/mysql/image/Pasted image 20230320094355.png",
+    "docs/mysql/image",
     "docs/mysql/典型问题.md",
     "docs/mysql/edj.sql.md",
     "docs/mysql/参考.md",
@@ -184,7 +186,6 @@
     "docs/config/前端项目的配置文件.md",
     "docs/AI/image/Pasted image 20230317100539.png",
     "docs/AI/image/Pasted image 20230317100149.png",
-    "docs/AI/slam.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
     "docs/docker/image/Pasted image 20230317092157.png",
@@ -197,7 +198,6 @@
     "docs/nvim",
     "docs/git",
     "docs/ssh",
-    "docs/weekly",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
