@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6be2bfd4fa7f0129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/中文优秀博客.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/部署/centos部署.md"
+                "file": "docs/中文优秀博客.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/部署/centos部署.md",
+                "file": "docs/中文优秀博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/部署/centos部署.md",
+                "file": "docs/中文优秀博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +163,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "d91a062fe499b26f",
+  "active": "6be2bfd4fa7f0129",
   "lastOpenFiles": [
+    "docs/部署/centos部署.md",
+    "docs/中文优秀博客.md",
     "docs/杂项/js.md",
     "docs/微信读书/微信读书.md",
     "docs/weekly/202303201452.md",
@@ -179,9 +194,7 @@
     "docs/git/git.md",
     "docs/部署/shell脚本.md",
     "docs/linux/shell语法.md",
-    "1.0,2.0,3.0][1.0,2.0,3.0][1.0,2.0,3.0.md",
     "docs/image/Pasted image 20230317085921.png",
-    "docs/韦小绿/pac.md",
     "docs/mysql/image/Pasted image 20230320095129.png",
     "docs/mysql/image/Pasted image 20230320094355.png",
     "docs/mysql/image",
