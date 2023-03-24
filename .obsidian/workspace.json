@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux/参考.md",
+                "file": "docs/中文优秀博客.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e34e967999aaac64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/工具网站.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/参考.md"
+                "file": "docs/工具网站.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/参考.md",
+                "file": "docs/工具网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/参考.md",
+                "file": "docs/工具网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,10 +235,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "3d81d8f5128e337e",
+  "active": "e34e967999aaac64",
   "lastOpenFiles": [
-    "docs/linux/物联网.md",
+    "docs/中文优秀博客.md",
+    "docs/工具网站.md",
     "docs/linux/参考.md",
+    "docs/linux/物联网.md",
     "docs/linux/网络管理.md",
     "docs/linux/文件管理.md",
     "docs/linux/系统管理.md",
@@ -240,7 +254,6 @@
     "docs/你说的对.md",
     "docs/前端",
     "docs/部署/centos部署.md",
-    "docs/中文优秀博客.md",
     "docs/杂项/js.md",
     "docs/微信读书/微信读书.md",
     "docs/weekly/202303201452.md",
@@ -252,7 +265,6 @@
     "docs/homelab/openwrt.md",
     "docs/homelab",
     "docs/docker/dockerLegacy.md",
-    "docs/docker/安装.md",
     "docs/NAS",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
