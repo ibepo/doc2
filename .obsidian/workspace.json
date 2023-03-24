@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/yarn.md",
+                "file": "docs/linux/物联网.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d81d8f5128e337e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/linux/参考.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/yarn.md"
+                "file": "docs/linux/参考.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/yarn.md",
+                "file": "docs/linux/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/yarn.md",
+                "file": "docs/linux/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +223,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0a71b18514b84adb",
+  "active": "3d81d8f5128e337e",
   "lastOpenFiles": [
+    "docs/linux/物联网.md",
+    "docs/linux/参考.md",
+    "docs/linux/网络管理.md",
+    "docs/linux/文件管理.md",
+    "docs/linux/系统管理.md",
+    "docs/linux/命令工具.md",
+    "docs/English/yarn.md",
     "docs/English/昂克英文.md",
     "docs/English/词根.md",
     "docs/前端/常用库.md",
@@ -234,13 +253,6 @@
     "docs/homelab",
     "docs/docker/dockerLegacy.md",
     "docs/docker/安装.md",
-    "docs/docker/docker compose.md",
-    "docs/docker/docker 命令行.md",
-    "docs/docker/docker常用部署.md",
-    "docs/archlinux/clash.md",
-    "docs/nvim/api.md",
-    "docs/NAS/ddns.md",
-    "docs/nginx/配置.md",
     "docs/NAS",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
