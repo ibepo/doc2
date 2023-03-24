@@ -97,9 +97,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ssh/ssh.md",
+                "file": "docs/English/发音.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ssh/ssh.md"
+                "file": "docs/English/发音.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ssh/ssh.md",
+                "file": "docs/English/发音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ssh/ssh.md",
+                "file": "docs/English/发音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,6 +237,9 @@
   },
   "active": "e34e967999aaac64",
   "lastOpenFiles": [
+    "docs/English/image/Pasted image 20230324121911.png",
+    "docs/weekly/202303241217.md",
+    "docs/ssh/ssh.md",
     "docs/ssh/ssh免密登录.md",
     "docs/工具网站.md",
     "docs/中文优秀博客.md",
@@ -261,9 +264,6 @@
     "docs/weekly/202303171116.md",
     "docs/weekly/202303151505.md",
     "docs/weekly/202303140938.md",
-    "docs/docker/docker构建.md",
-    "docs/wiki.md",
-    "docs/homelab/openwrt.md",
     "docs/homelab",
     "docs/NAS",
     "docs/nginx/Pasted image 20230313092120.png",
