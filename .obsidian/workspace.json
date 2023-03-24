@@ -66,9 +66,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0a71b18514b84adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/English/yarn.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/前端/常用库.md"
+                "file": "docs/English/yarn.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/前端/常用库.md",
+                "file": "docs/English/yarn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/前端/常用库.md",
+                "file": "docs/English/yarn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +211,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "af3ec9bbd6e5cb4d",
+  "active": "0a71b18514b84adb",
   "lastOpenFiles": [
-    "docs/前端/React.md",
+    "docs/English/昂克英文.md",
+    "docs/English/词根.md",
     "docs/前端/常用库.md",
+    "docs/前端/React.md",
     "docs/前端/fetch.md",
     "docs/你说的对.md",
     "docs/前端",
@@ -228,9 +242,7 @@
     "docs/NAS/ddns.md",
     "docs/nginx/配置.md",
     "docs/NAS",
-    "docs/nginx/ssl.md",
     "docs/nginx/Pasted image 20230313092120.png",
-    "docs/git/提交.md",
     "docs/image/Pasted image 20230317085921.png",
     "docs/mysql/image/Pasted image 20230320095129.png",
     "docs/mysql/image/Pasted image 20230320094355.png",
