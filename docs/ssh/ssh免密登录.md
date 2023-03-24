@@ -17,7 +17,7 @@
 ## 生成并发送密钥
 
 ```fallback
-1ssh-keygen -t rsa
+ssh-keygen -t rsa
 ```
 
 然后将公钥 `~/.ssh/id_rsa.pub` 复制到目标主机 `~/.ssh/authorized_keys` 文件中。

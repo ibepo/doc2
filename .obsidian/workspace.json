@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/工具网站.md",
+                "file": "docs/ssh/ssh.md",
                 "mode": "source",
                 "source": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/工具网站.md"
+                "file": "docs/ssh/ssh.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/工具网站.md",
+                "file": "docs/ssh/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/工具网站.md",
+                "file": "docs/ssh/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +237,9 @@
   },
   "active": "e34e967999aaac64",
   "lastOpenFiles": [
-    "docs/中文优秀博客.md",
+    "docs/ssh/ssh免密登录.md",
     "docs/工具网站.md",
+    "docs/中文优秀博客.md",
     "docs/linux/参考.md",
     "docs/linux/物联网.md",
     "docs/linux/网络管理.md",
@@ -264,7 +265,6 @@
     "docs/wiki.md",
     "docs/homelab/openwrt.md",
     "docs/homelab",
-    "docs/docker/dockerLegacy.md",
     "docs/NAS",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
