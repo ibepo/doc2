@@ -75,7 +75,7 @@
               "state": {
                 "file": "docs/English/yarn.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
