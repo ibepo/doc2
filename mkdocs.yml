@@ -1,8 +1,8 @@
 # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
 site_name: ibepo's blog
 theme:
-  # name: material
-  name: terminal
+  name: material
+  # name: terminal
   shortcuts:
     help: 191 # ?
     next: 78 # n
