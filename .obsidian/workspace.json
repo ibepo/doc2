@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/yolov5.md",
+                "file": "docs/English/词汇.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/yolov5.md"
+                "file": "docs/English/词汇.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/yolov5.md",
+                "file": "docs/English/词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/yolov5.md",
+                "file": "docs/English/词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,9 +249,9 @@
   },
   "active": "b5a9e15b407844af",
   "lastOpenFiles": [
+    "docs/AI/yolov5.md",
     "docs/AI/image/Pasted image 20230324131656.png",
     "docs/English/发音.md",
-    "docs/AI/yolov5.md",
     "docs/English/image/Pasted image 20230324125419.png",
     "docs/English/image/Pasted image 20230324124628.png",
     "docs/English/image/Pasted image 20230324124109.png",
@@ -262,7 +262,6 @@
     "docs/English/image/Pasted image 20230324122625.png",
     "docs/English/2023-03-07_17-11.png",
     "docs/English/image/Pasted image 20230324122252.png",
-    "docs/English/image/Pasted image 20230324122156.png",
     "docs/weekly/202303241217.md",
     "docs/ssh/ssh.md",
     "docs/ssh/ssh免密登录.md",
