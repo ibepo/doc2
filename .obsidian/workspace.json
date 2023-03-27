@@ -133,9 +133,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/杂项/lua.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/你说的对.md"
+                "file": "docs/杂项/lua.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/杂项/lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/杂项/lua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,8 +273,12 @@
   },
   "active": "be4a8b9777a88dbd",
   "lastOpenFiles": [
-    "docs/ssh/参考.md",
+    "docs/杂项/yaml.md",
+    "docs/杂项/mqtt.md",
+    "docs/杂项/zathura.md",
+    "docs/杂项/最佳实践.md",
     "docs/你说的对.md",
+    "docs/ssh/参考.md",
     "docs/git/配置多个ssh.md",
     "docs/git/git.md",
     "docs/git/提交.md",
@@ -305,11 +309,7 @@
     "docs/English/yarn.md",
     "docs/English/昂克英文.md",
     "docs/English/词根.md",
-    "docs/前端/常用库.md",
-    "docs/前端/React.md",
-    "docs/前端/fetch.md",
     "docs/前端",
-    "docs/部署/centos部署.md",
     "docs/homelab",
     "docs/NAS",
     "docs/mysql/image",
