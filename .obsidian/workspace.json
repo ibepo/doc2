@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66a75e22d9788ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/git/配置多个ssh.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/中文优秀博客.md"
+                "file": "docs/git/配置多个ssh.md"
               }
             }
           },
@@ -203,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/git/配置多个ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/git/配置多个ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +259,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b5a9e15b407844af",
+  "active": "66a75e22d9788ab0",
   "lastOpenFiles": [
+    "docs/中文优秀博客.md",
+    "docs/git/配置多个ssh.md",
     "docs/English/词汇.md",
     "docs/AI/yolov5.md",
     "docs/AI/image/Pasted image 20230324131656.png",
@@ -266,7 +280,6 @@
     "docs/weekly/202303241217.md",
     "docs/ssh/ssh.md",
     "docs/ssh/ssh免密登录.md",
-    "docs/中文优秀博客.md",
     "docs/linux/参考.md",
     "docs/linux/物联网.md",
     "docs/linux/网络管理.md",
@@ -285,7 +298,6 @@
     "docs/杂项/js.md",
     "docs/微信读书/微信读书.md",
     "docs/weekly/202303201452.md",
-    "docs/weekly/202303171116.md",
     "docs/homelab",
     "docs/NAS",
     "docs/mysql/image",
