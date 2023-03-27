@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ssh/参考.md",
+                "file": "docs/你说的对.md",
                 "mode": "source",
                 "source": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ssh/参考.md"
+                "file": "docs/你说的对.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ssh/参考.md",
+                "file": "docs/你说的对.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ssh/参考.md",
+                "file": "docs/你说的对.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,8 +273,8 @@
   },
   "active": "be4a8b9777a88dbd",
   "lastOpenFiles": [
-    "docs/你说的对.md",
     "docs/ssh/参考.md",
+    "docs/你说的对.md",
     "docs/git/配置多个ssh.md",
     "docs/git/git.md",
     "docs/git/提交.md",
