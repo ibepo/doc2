@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/中文优秀博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/词汇.md"
+                "file": "docs/中文优秀博客.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/中文优秀博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/中文优秀博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,6 +249,7 @@
   },
   "active": "b5a9e15b407844af",
   "lastOpenFiles": [
+    "docs/English/词汇.md",
     "docs/AI/yolov5.md",
     "docs/AI/image/Pasted image 20230324131656.png",
     "docs/English/发音.md",
