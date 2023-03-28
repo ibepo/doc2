@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/AI/yolov5.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/词汇.md"
+                "file": "docs/AI/yolov5.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/AI/yolov5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/AI/yolov5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +152,8 @@
   },
   "active": "45f4d1b701b15fe7",
   "lastOpenFiles": [
+    "docs/AI/numpy.md",
+    "docs/English/词汇.md",
     "docs/AI/yolov5.md",
     "docs/AI/image/Pasted image 20230328132902.png",
     "docs/你说的对.md",
@@ -161,11 +163,9 @@
     "docs/English/image/Pasted image 20230324125419.png",
     "docs/English/image/Pasted image 20230328113720.png",
     "docs/English/2023-03-07_17-11.png",
-    "docs/English/词汇.md",
     "docs/English/词根.md",
     "docs/English/昂克英文.md",
     "docs/English/吉娜英文.md",
-    "docs/AI/numpy.md",
     "docs/linux/命令工具.md",
     "docs/linux/包管理器.md",
     "docs/linux/shell语法.md",
