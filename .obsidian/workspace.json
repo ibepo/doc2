@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/yolov5.md",
+                "file": "docs/English/词汇.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/yolov5.md"
+                "file": "docs/English/词汇.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/yolov5.md",
+                "file": "docs/English/词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/yolov5.md",
+                "file": "docs/English/词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +152,10 @@
   },
   "active": "45f4d1b701b15fe7",
   "lastOpenFiles": [
+    "docs/English/image/Pasted image 20230328134722.png",
+    "docs/AI/yolov5.md",
     "docs/AI/numpy.md",
     "docs/English/词汇.md",
-    "docs/AI/yolov5.md",
     "docs/AI/image/Pasted image 20230328132902.png",
     "docs/你说的对.md",
     "docs/中文优秀博客.md",
@@ -181,7 +182,6 @@
     "docs/weekly/202303171116.md",
     "docs/weekly/202303201452.md",
     "docs/weekly/202303280841.md",
-    "docs/weekly/202303241217.md",
     "docs/AI/image/Pasted image 20230324131656.png",
     "docs/English/image/Pasted image 20230324124628.png",
     "docs/English/image/Pasted image 20230324124109.png",
