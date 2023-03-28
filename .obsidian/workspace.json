@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zsh.md",
+                "file": "docs/你说的对.md",
                 "mode": "source",
                 "source": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zsh.md"
+                "file": "docs/你说的对.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/zsh.md",
+                "file": "docs/你说的对.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/zsh.md",
+                "file": "docs/你说的对.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,8 +297,8 @@
   },
   "active": "92ffb65ce1cbca10",
   "lastOpenFiles": [
-    "docs/weekly/202303140938.md",
     "docs/zsh.md",
+    "docs/weekly/202303140938.md",
     "docs/weekly/202303151505.md",
     "docs/weekly/202303171116.md",
     "docs/weekly/202303201452.md",
