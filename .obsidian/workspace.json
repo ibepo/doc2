@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/English/词汇.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "45f4d1b701b15fe7",
   "lastOpenFiles": [
+    "docs/English/image/Pasted image 20230328135948.png",
     "docs/English/image/Pasted image 20230328135034.png",
     "docs/English/image/Pasted image 20230328134927.png",
     "docs/English/image/Pasted image 20230328134722.png",
@@ -187,7 +188,6 @@
     "docs/AI/image/Pasted image 20230324131656.png",
     "docs/English/image/Pasted image 20230324124628.png",
     "docs/English/image/Pasted image 20230324124109.png",
-    "docs/English/image/Pasted image 20230324124046.png",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
