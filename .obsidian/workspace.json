@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/English/词汇.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/numpy.md"
+                "file": "docs/English/词汇.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/English/词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/English/词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +150,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "15d3bfee4e502ed7",
   "lastOpenFiles": [
+    "docs/AI/numpy.md",
     "docs/linux/命令工具.md",
     "docs/linux/包管理器.md",
     "docs/linux/shell语法.md",
@@ -171,7 +172,6 @@
     "docs/weekly/202303201452.md",
     "docs/weekly/202303280841.md",
     "docs/weekly/202303241217.md",
-    "docs/AI/numpy.md",
     "docs/杂项/lua.md",
     "docs/杂项/yaml.md",
     "docs/杂项/mqtt.md",
