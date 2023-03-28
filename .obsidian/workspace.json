@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/linux/命令工具.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/linux/命令工具.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/linux/命令工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/linux/命令工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,10 +152,13 @@
   },
   "active": "15d3bfee4e502ed7",
   "lastOpenFiles": [
+    "docs/linux/包管理器.md",
+    "docs/linux/shell语法.md",
+    "docs/linux/zsh.md",
+    "docs/index.md",
     "docs/中文优秀博客.md",
     "docs/你说的对.md",
     "docs/工具网站.md",
-    "docs/zsh.md",
     "docs/韦小绿/bene.md",
     "docs/部署/nginx.md",
     "docs/部署/shell脚本.md",
@@ -175,9 +178,6 @@
     "docs/杂项/最佳实践.md",
     "docs/ssh/参考.md",
     "docs/git/配置多个ssh.md",
-    "docs/git/git.md",
-    "docs/git/提交.md",
-    "docs/English/词汇.md",
     "docs/AI/image/Pasted image 20230324131656.png",
     "docs/English/image/Pasted image 20230324125419.png",
     "docs/English/image/Pasted image 20230324124628.png",
