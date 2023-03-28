@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/你说的对.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,10 +152,15 @@
   },
   "active": "15d3bfee4e502ed7",
   "lastOpenFiles": [
-    "docs/部署/centos部署.md",
+    "docs/中文优秀博客.md",
     "docs/你说的对.md",
-    "docs/English/发音.md",
+    "docs/工具网站.md",
     "docs/zsh.md",
+    "docs/韦小绿/bene.md",
+    "docs/部署/nginx.md",
+    "docs/部署/shell脚本.md",
+    "docs/部署/centos部署.md",
+    "docs/English/发音.md",
     "docs/weekly/202303140938.md",
     "docs/weekly/202303151505.md",
     "docs/weekly/202303171116.md",
@@ -172,22 +177,17 @@
     "docs/git/配置多个ssh.md",
     "docs/git/git.md",
     "docs/git/提交.md",
-    "docs/中文优秀博客.md",
     "docs/English/词汇.md",
-    "docs/AI/yolov5.md",
     "docs/AI/image/Pasted image 20230324131656.png",
     "docs/English/image/Pasted image 20230324125419.png",
     "docs/English/image/Pasted image 20230324124628.png",
     "docs/English/image/Pasted image 20230324124109.png",
     "docs/English/image/Pasted image 20230324124046.png",
-    "docs/工具网站.md",
     "docs/English/image/Pasted image 20230324122908.png",
     "docs/English/image/Pasted image 20230324122829.png",
     "docs/English/image/Pasted image 20230324122625.png",
     "docs/English/2023-03-07_17-11.png",
     "docs/English/image/Pasted image 20230324122252.png",
-    "docs/ssh/ssh.md",
-    "docs/ssh/ssh免密登录.md",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
