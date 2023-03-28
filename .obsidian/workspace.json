@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux/命令工具.md",
+                "file": "docs/AI/numpy.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/命令工具.md"
+                "file": "docs/AI/numpy.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/命令工具.md",
+                "file": "docs/AI/numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/命令工具.md",
+                "file": "docs/AI/numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +150,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "15d3bfee4e502ed7",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/linux/命令工具.md",
     "docs/linux/包管理器.md",
     "docs/linux/shell语法.md",
     "docs/linux/zsh.md",
@@ -177,7 +178,6 @@
     "docs/杂项/zathura.md",
     "docs/杂项/最佳实践.md",
     "docs/ssh/参考.md",
-    "docs/git/配置多个ssh.md",
     "docs/AI/image/Pasted image 20230324131656.png",
     "docs/English/image/Pasted image 20230324125419.png",
     "docs/English/image/Pasted image 20230324124628.png",
