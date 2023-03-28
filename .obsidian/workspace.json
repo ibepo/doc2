@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/weekly/202303140938.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/numpy.md"
+                "file": "docs/weekly/202303140938.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/weekly/202303140938.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/weekly/202303140938.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,8 +285,13 @@
   },
   "active": "f436ddd5a41dca3a",
   "lastOpenFiles": [
-    "docs/杂项/lua.md",
+    "docs/weekly/202303151505.md",
+    "docs/weekly/202303171116.md",
+    "docs/weekly/202303201452.md",
+    "docs/weekly/202303280841.md",
+    "docs/weekly/202303241217.md",
     "docs/AI/numpy.md",
+    "docs/杂项/lua.md",
     "docs/杂项/yaml.md",
     "docs/杂项/mqtt.md",
     "docs/杂项/zathura.md",
@@ -311,16 +316,11 @@
     "docs/English/image/Pasted image 20230324122625.png",
     "docs/English/2023-03-07_17-11.png",
     "docs/English/image/Pasted image 20230324122252.png",
-    "docs/weekly/202303241217.md",
     "docs/ssh/ssh.md",
     "docs/ssh/ssh免密登录.md",
     "docs/linux/参考.md",
     "docs/linux/物联网.md",
     "docs/linux/网络管理.md",
-    "docs/linux/文件管理.md",
-    "docs/linux/系统管理.md",
-    "docs/linux/命令工具.md",
-    "docs/English/yarn.md",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
