@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/cv2.md",
+                "file": "docs/AI/slam.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/cv2.md"
+                "file": "docs/AI/slam.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/cv2.md",
+                "file": "docs/AI/slam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/cv2.md",
+                "file": "docs/AI/slam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,9 @@
   },
   "active": "22c287ca8a5d724e",
   "lastOpenFiles": [
-    "docs/AI/numpy.md",
+    "docs/AI/image/Pasted image 20230329122914.png",
     "docs/AI/cv2.md",
+    "docs/AI/numpy.md",
     "docs/前端/css.md",
     "docs/你说的对.md",
     "docs/中文优秀博客.md",
@@ -211,7 +212,6 @@
     "docs/weekly/202303140938.md",
     "docs/weekly/202303151505.md",
     "docs/weekly/202303171116.md",
-    "docs/weekly/202303201452.md",
     "docs/AI/image/Pasted image 20230324131656.png",
     "docs/前端",
     "docs/homelab",
