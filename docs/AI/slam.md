@@ -8,4 +8,3 @@ date created: 2023-03-15 12:52
 orb-slam系列，vins-mono,loam,fast-lio2
 ### 环境
 ubuntu18, ubuntu22有兼容性问题
-![[Pasted image 20230329122914.png]]
