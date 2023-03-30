@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +163,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "a3949192f7d89ca6",
   "lastOpenFiles": [
     "docs/AI/image/Pasted image 20230330091105.png",
     "docs/AI/image/Pasted image 20230330090558.png",
