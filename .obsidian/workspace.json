@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/嵌入式.md",
+                "file": "docs/中文优秀博客.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/嵌入式.md"
+                "file": "docs/中文优秀博客.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/嵌入式.md",
+                "file": "docs/中文优秀博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/嵌入式.md",
+                "file": "docs/中文优秀博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,12 +165,12 @@
   },
   "active": "a3949192f7d89ca6",
   "lastOpenFiles": [
+    "docs/AI/嵌入式.md",
     "docs/AI/image/Pasted image 20230330111138.png",
     "docs/AI/image/Pasted image 20230330105438.png",
     "docs/AI/image/Pasted image 20230330091105.png",
     "docs/AI/image/Pasted image 20230330090558.png",
     "docs/中文优秀博客.md",
-    "docs/AI/嵌入式.md",
     "docs/English/发音.md",
     "docs/English/发音示范.md",
     "docs/你说的对.md",
@@ -187,7 +187,6 @@
     "docs/English/image/Pasted image 20230328135948.png",
     "docs/English/image/Pasted image 20230328135034.png",
     "docs/English/image/Pasted image 20230328134927.png",
-    "docs/English/image/Pasted image 20230328134722.png",
     "docs/English/词根.md",
     "docs/English/昂克英文.md",
     "docs/English/吉娜英文.md",
