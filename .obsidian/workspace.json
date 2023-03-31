@@ -37,7 +37,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "docs/AI/image/Pasted image 20230331145607.png"
+                "file": "docs/AI/image/Pasted image 20230316090830.png"
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/image/Pasted image 20230331145607.png"
+                "file": "docs/AI/image/Pasted image 20230316090830.png"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/image/Pasted image 20230331145607.png",
+                "file": "docs/AI/image/Pasted image 20230316090830.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/image/Pasted image 20230331145607.png",
+                "file": "docs/AI/image/Pasted image 20230316090830.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,17 @@
   },
   "active": "64fb1fd0741cf9fb",
   "lastOpenFiles": [
-    "docs/AI/image/Pasted image 20230331150351.png",
+    "docs/AI/image/Pasted image 20230316093638.png",
+    "docs/AI/image/Pasted image 20230316133310.png",
+    "docs/AI/image/Pasted image 20230317100149.png",
+    "docs/AI/image/Pasted image 20230317100539.png",
+    "docs/AI/image/Pasted image 20230324131656.png",
+    "docs/AI/image/Pasted image 20230328132902.png",
+    "docs/AI/image/Pasted image 20230329122914.png",
+    "docs/AI/image/Pasted image 20230329124116.png",
+    "docs/AI/image/Pasted image 20230330090558.png",
+    "docs/AI/image/Pasted image 20230330091105.png",
+    "docs/AI/image/Pasted image 20230330105438.png",
     "docs/AI/Ros.md",
     "docs/AI/深度学习入门.md",
     "docs/AI/AI.md",
@@ -191,7 +201,6 @@
     "docs/linux/zsh.md",
     "docs/linux/参考.md",
     "docs/linux/系统管理.md",
-    "docs/AI/image/Pasted image 20230331145607.png",
     "docs/python/python操作文本类.md",
     "docs/AI/沐神.md",
     "docs/archlinux/pacman.md",
@@ -200,16 +209,8 @@
     "docs/English/词汇.md",
     "docs/你说的对.md",
     "docs/中文优秀博客.md",
-    "docs/AI/image/Pasted image 20230330111138.png",
-    "docs/AI/image/Pasted image 20230330105438.png",
-    "docs/AI/image/Pasted image 20230330091105.png",
-    "docs/AI/image/Pasted image 20230330090558.png",
     "docs/English/发音.md",
     "docs/English/发音示范.md",
-    "docs/AI/image/Pasted image 20230329124116.png",
-    "docs/AI/image/Pasted image 20230329122914.png",
-    "docs/English/image/Pasted image 20230328140204.png",
-    "docs/English/image/Pasted image 20230328135948.png",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
