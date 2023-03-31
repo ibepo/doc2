@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/python/python操作文本类.md",
+                "file": "docs/AI/嵌入式.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/python/python操作文本类.md"
+                "file": "docs/AI/嵌入式.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/python/python操作文本类.md",
+                "file": "docs/AI/嵌入式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/python/python操作文本类.md",
+                "file": "docs/AI/嵌入式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,6 +177,8 @@
   },
   "active": "64fb1fd0741cf9fb",
   "lastOpenFiles": [
+    "docs/AI/image/Pasted image 20230331145607.png",
+    "docs/python/python操作文本类.md",
     "docs/AI/嵌入式.md",
     "docs/AI/沐神.md",
     "docs/AI/深度学习入门.md",
@@ -211,8 +213,6 @@
     "docs/English/吉娜英文.md",
     "docs/linux/命令工具.md",
     "docs/linux/包管理器.md",
-    "docs/linux/shell语法.md",
-    "docs/linux/zsh.md",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
