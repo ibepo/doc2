@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/English/词汇.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/你说的对.md"
+                "file": "docs/English/词汇.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/English/词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/English/词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,6 +165,7 @@
   },
   "active": "a3949192f7d89ca6",
   "lastOpenFiles": [
+    "docs/你说的对.md",
     "docs/中文优秀博客.md",
     "docs/AI/嵌入式.md",
     "docs/AI/image/Pasted image 20230330111138.png",
@@ -173,7 +174,6 @@
     "docs/AI/image/Pasted image 20230330090558.png",
     "docs/English/发音.md",
     "docs/English/发音示范.md",
-    "docs/你说的对.md",
     "docs/AI/opencv.md",
     "docs/AI/yolov5.md",
     "docs/AI/slam.md",
