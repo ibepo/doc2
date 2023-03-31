@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/archlinux/pacman.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gtk",
+                "query": "pacma",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/词汇.md"
+                "file": "docs/archlinux/pacman.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/archlinux/pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/archlinux/pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,6 +166,9 @@
   },
   "active": "a3949192f7d89ca6",
   "lastOpenFiles": [
+    "docs/archlinux/install.md",
+    "docs/weekly/202303151505.md",
+    "docs/English/词汇.md",
     "docs/你说的对.md",
     "docs/中文优秀博客.md",
     "docs/AI/嵌入式.md",
@@ -182,7 +186,6 @@
     "docs/AI/cv2.md",
     "docs/AI/numpy.md",
     "docs/前端/css.md",
-    "docs/English/词汇.md",
     "docs/English/image/Pasted image 20230328140204.png",
     "docs/English/image/Pasted image 20230328135948.png",
     "docs/English/image/Pasted image 20230328135034.png",
@@ -199,7 +202,6 @@
     "docs/韦小绿/bene.md",
     "docs/部署/nginx.md",
     "docs/部署/shell脚本.md",
-    "docs/部署/centos部署.md",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
