@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/嵌入式.md",
+                "file": "docs/python/python操作文本类.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/嵌入式.md"
+                "file": "docs/python/python操作文本类.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/嵌入式.md",
+                "file": "docs/python/python操作文本类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/嵌入式.md",
+                "file": "docs/python/python操作文本类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,6 +177,7 @@
   },
   "active": "64fb1fd0741cf9fb",
   "lastOpenFiles": [
+    "docs/AI/嵌入式.md",
     "docs/AI/沐神.md",
     "docs/AI/深度学习入门.md",
     "docs/AI/AI.md",
@@ -188,7 +189,6 @@
     "docs/English/词汇.md",
     "docs/你说的对.md",
     "docs/中文优秀博客.md",
-    "docs/AI/嵌入式.md",
     "docs/AI/image/Pasted image 20230330111138.png",
     "docs/AI/image/Pasted image 20230330105438.png",
     "docs/AI/image/Pasted image 20230330091105.png",
