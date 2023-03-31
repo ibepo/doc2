@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/Ros.md",
+                "file": "docs/AI/嵌入式.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/Ros.md"
+                "file": "docs/AI/嵌入式.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/Ros.md",
+                "file": "docs/AI/嵌入式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/Ros.md",
+                "file": "docs/AI/嵌入式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,12 @@
   },
   "active": "64fb1fd0741cf9fb",
   "lastOpenFiles": [
-    "docs/archlinux/pacman.md",
+    "docs/AI/沐神.md",
+    "docs/AI/深度学习入门.md",
+    "docs/AI/AI.md",
+    "docs/AI/slam.md",
     "docs/AI/Ros.md",
+    "docs/archlinux/pacman.md",
     "docs/archlinux/install.md",
     "docs/weekly/202303151505.md",
     "docs/English/词汇.md",
@@ -193,7 +197,6 @@
     "docs/English/发音示范.md",
     "docs/AI/opencv.md",
     "docs/AI/yolov5.md",
-    "docs/AI/slam.md",
     "docs/AI/image/Pasted image 20230329124116.png",
     "docs/AI/image/Pasted image 20230329122914.png",
     "docs/AI/cv2.md",
@@ -210,9 +213,6 @@
     "docs/linux/包管理器.md",
     "docs/linux/shell语法.md",
     "docs/linux/zsh.md",
-    "docs/index.md",
-    "docs/工具网站.md",
-    "docs/韦小绿/bene.md",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
