@@ -35,11 +35,9 @@
             "id": "64fb1fd0741cf9fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/AI/嵌入式.md",
-                "mode": "source",
-                "source": true
+                "file": "docs/AI/image/Pasted image 20230331145607.png"
               }
             }
           }
@@ -121,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/嵌入式.md"
+                "file": "docs/AI/image/Pasted image 20230331145607.png"
               }
             }
           },
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/嵌入式.md",
+                "file": "docs/AI/image/Pasted image 20230331145607.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/嵌入式.md",
+                "file": "docs/AI/image/Pasted image 20230331145607.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,20 +176,24 @@
   "active": "64fb1fd0741cf9fb",
   "lastOpenFiles": [
     "docs/AI/image/Pasted image 20230331150351.png",
+    "docs/AI/Ros.md",
+    "docs/AI/深度学习入门.md",
+    "docs/AI/AI.md",
+    "docs/AI/slam.md",
+    "docs/AI/yolov5.md",
+    "docs/AI/numpy.md",
+    "docs/AI/cv2.md",
+    "docs/AI/opencv.md",
+    "docs/AI/嵌入式.md",
     "docs/linux/用户管理.md",
     "docs/linux/运维监控.md",
     "docs/linux/物联网.md",
     "docs/linux/zsh.md",
     "docs/linux/参考.md",
     "docs/linux/系统管理.md",
-    "docs/AI/嵌入式.md",
     "docs/AI/image/Pasted image 20230331145607.png",
     "docs/python/python操作文本类.md",
     "docs/AI/沐神.md",
-    "docs/AI/深度学习入门.md",
-    "docs/AI/AI.md",
-    "docs/AI/slam.md",
-    "docs/AI/Ros.md",
     "docs/archlinux/pacman.md",
     "docs/archlinux/install.md",
     "docs/weekly/202303151505.md",
@@ -204,15 +206,10 @@
     "docs/AI/image/Pasted image 20230330090558.png",
     "docs/English/发音.md",
     "docs/English/发音示范.md",
-    "docs/AI/opencv.md",
-    "docs/AI/yolov5.md",
     "docs/AI/image/Pasted image 20230329124116.png",
     "docs/AI/image/Pasted image 20230329122914.png",
-    "docs/AI/cv2.md",
-    "docs/AI/numpy.md",
     "docs/English/image/Pasted image 20230328140204.png",
     "docs/English/image/Pasted image 20230328135948.png",
-    "docs/English/image/Pasted image 20230328135034.png",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
