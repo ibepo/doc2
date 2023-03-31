@@ -1,0 +1,3 @@
+[ubuntu18.04配置ORB-SLAM3（包含ROS）完整版教程\_orbslam3 ros\_hhz\_999的博客-CSDN博客](https://blog.csdn.net/hhz_999/article/details/120473659?spm=1001.2014.3001.5502)
+[ubuntu18.04 ROS melodic完整版教程及错误处理（附带 catkin\_ws工作空间搭建）\_ros melodic教程ppt\_hhz\_999的博客-CSDN博客](https://blog.csdn.net/hhz_999/article/details/120471217?spm=1001.2014.3001.5502)
+[树莓派4 安装Ubuntu 系统 实时运行 ORB-SLAM3-CSDN博客](https://blog.csdn.net/hhz_999/article/details/123068421#t2)
