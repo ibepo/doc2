@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/linux/网络管理.md",
                 "mode": "source",
                 "source": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/中文优秀博客.md"
+                "file": "docs/linux/网络管理.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/linux/网络管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/linux/网络管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,6 +199,7 @@
   },
   "active": "90a6972ad96474ca",
   "lastOpenFiles": [
+    "docs/中文优秀博客.md",
     "docs/你说的对.md",
     "docs/ssh/ssh.md",
     "docs/ssh/参考.md",
@@ -210,7 +211,6 @@
     "docs/AI/image/Pasted image 20230331153925.png",
     "docs/AI/image/Pasted image 20230331153904.png",
     "docs/AI/image/Pasted image 20230331153708.png",
-    "docs/中文优秀博客.md",
     "docs/archlinux/pacman.md",
     "docs/AI/image/Pasted image 20230316090830.png",
     "docs/AI/image/Pasted image 20230316093638.png",
