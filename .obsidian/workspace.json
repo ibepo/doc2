@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/AI/Ros.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/中文优秀博客.md"
+                "file": "docs/AI/Ros.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/AI/Ros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/AI/Ros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +152,8 @@
   },
   "active": "5fe8553a2ec53c5c",
   "lastOpenFiles": [
+    "docs/AI/jetson.md",
+    "docs/中文优秀博客.md",
     "docs/你说的对.md",
     "docs/wiki.md",
     "docs/工具网站.md",
@@ -178,8 +180,6 @@
     "docs/docker/docker 命令行.md",
     "docs/docker/dockerLegacy.md",
     "docs/docker/docker常用部署.md",
-    "docs/docker/docker构建.md",
-    "docs/ssh/ssh.md",
     "docs/AI/image/Pasted image 20230316090830.png",
     "docs/AI/image/Pasted image 20230331154822.png",
     "docs/AI/image/Pasted image 20230331153925.png",
