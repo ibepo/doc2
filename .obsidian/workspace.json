@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/English/发音.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/你说的对.md"
+                "file": "docs/English/发音.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/English/发音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/English/发音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +199,9 @@
   },
   "active": "90a6972ad96474ca",
   "lastOpenFiles": [
+    "docs/你说的对.md",
     "docs/linux/网络管理.md",
     "docs/中文优秀博客.md",
-    "docs/你说的对.md",
     "docs/ssh/ssh.md",
     "docs/ssh/参考.md",
     "docs/ssh/ssh免密登录.md",
