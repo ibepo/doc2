@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "06f9935114951434",
+        "id": "5aa2e8db174e9cb0",
         "type": "tabs",
         "children": [
           {
-            "id": "5fe8553a2ec53c5c",
+            "id": "590de1949e955e6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/Ros.md",
+                "file": "docs/AI/cv2.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/Ros.md"
+                "file": "docs/AI/cv2.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/Ros.md",
+                "file": "docs/AI/cv2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/Ros.md",
+                "file": "docs/AI/cv2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,13 +150,25 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5fe8553a2ec53c5c",
+  "active": "590de1949e955e6b",
   "lastOpenFiles": [
+    "docs/AI/numpy.md",
+    "docs/AI/yolov5.md",
+    "docs/AI/沐神.md",
+    "docs/AI/AI.md",
+    "docs/AI/slam.md",
+    "docs/AI/深度学习入门.md",
+    "docs/AI/opencv.md",
+    "docs/AI/嵌入式.md",
+    "docs/AI/Ros.md",
     "docs/AI/jetson.md",
-    "docs/中文优秀博客.md",
-    "docs/你说的对.md",
-    "docs/wiki.md",
+    "docs/AI/install.sh.md",
+    "docs/AI/cv2.md",
     "docs/工具网站.md",
+    "docs/你说的对.md",
+    "docs/index.md",
+    "docs/wiki.md",
+    "docs/中文优秀博客.md",
     "docs/韦小绿/bene.md",
     "docs/韦小绿/am.md",
     "docs/韦小绿/bell.md",
@@ -166,20 +178,8 @@
     "docs/杂项/最佳实践.md",
     "docs/微信读书/微信读书.md",
     "docs/python/典型问题.md",
-    "docs/python/虚拟环境.md",
-    "docs/python/实用类库.md",
-    "docs/python/python.md",
-    "docs/python/opencv.md",
-    "docs/python/python操作文本类.md",
-    "docs/nginx/ssl.md",
     "docs/nginx/Pasted image 20230313092120.png",
-    "docs/nginx/命令.md",
-    "docs/nginx/配置.md",
     "docs/image/Pasted image 20230317085921.png",
-    "docs/docker/docker compose.md",
-    "docs/docker/docker 命令行.md",
-    "docs/docker/dockerLegacy.md",
-    "docs/docker/docker常用部署.md",
     "docs/AI/image/Pasted image 20230316090830.png",
     "docs/AI/image/Pasted image 20230331154822.png",
     "docs/AI/image/Pasted image 20230331153925.png",
