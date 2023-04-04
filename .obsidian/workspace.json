@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebf5f76636742a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/cpp/learn with cherno.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/工具网站.md"
+                "file": "docs/cpp/learn with cherno.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/工具网站.md",
+                "file": "docs/cpp/learn with cherno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/工具网站.md",
+                "file": "docs/cpp/learn with cherno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +163,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "590de1949e955e6b",
+  "active": "ebf5f76636742a80",
   "lastOpenFiles": [
+    "docs/工具网站.md",
+    "docs/cpp/learn with cherno.md",
+    "docs/cpp",
     "docs/AI/cv2.md",
     "docs/AI/numpy.md",
     "docs/AI/yolov5.md",
@@ -164,7 +180,6 @@
     "docs/AI/Ros.md",
     "docs/AI/jetson.md",
     "docs/AI/install.sh.md",
-    "docs/工具网站.md",
     "docs/你说的对.md",
     "docs/index.md",
     "docs/wiki.md",
@@ -177,7 +192,6 @@
     "docs/杂项/mqtt.md",
     "docs/杂项/最佳实践.md",
     "docs/微信读书/微信读书.md",
-    "docs/python/典型问题.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
     "docs/AI/image/Pasted image 20230316090830.png",
@@ -197,7 +211,6 @@
     "docs/image",
     "docs/部署/image",
     "docs/微信读书",
-    "docs/AI/image",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
