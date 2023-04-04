@@ -8,15 +8,11 @@ So the first stage(阶段) is actually compiling our source files and I actually
 Once(一旦) we've compiled our files we need to go through(通过) a process called  linking .
 now the primary focus of linking is to find where each symbol and function is, and link them together.
 Remember each file is compiled into a separate(单独) object file as a translation unit and they have no relation to each other .
-Those files can't actually interact(互动) so if we decide to split our program across multiple C++ files which is of course very common we need a way to actually link those files together into one program and that is the primary purpose of what the linker does even if you don't have functions in external files like for example you've
-
-00:55
-
-written your entire program in one file the application still needs to know where the entry point is so in other words where the main function is so that when you actually run your application the C runtime library can say hey here's the main function I'm going to jump there and start executing code from there and that is effectively what starts with your application so it still needs to link the main function and everything like that even if you don't have all the files the best way to explain this is by showing some examples
+Those files can't actually interact(互动) so if we decide to split our program across multiple C++ files which is of course very common we need a way to actually link those files together into one program and that is the primary purpose of what the linker does even if(即使) you don't have functions in external files like for example you've written your entire program in one file the application still needs to know where the entry point is so in other words where the main function is so that when you actually run your application the C runtime library can say hey here's the main function I'm going to jump there and start executing code from there and that is effectively what starts with your application so it still needs to link the main function and everything like that even if you don't have all the files the best way to explain this is by showing some examples
 
 01:18
 
-so let's jump over and take a look so here in Visual Studio we've got a very simple project that just contains one source file master tbp and inside there we have two functions log and multiply the multiply function actually calls the log function prints out the word multiply to the console and then returns a times B pretty simple stuff however this isn't an actual application since of course it doesn't contain a main function the first thing that you have to realize is that there are those two
+so let's jump over and take a look. so here in Visual Studio we've got a very simple project that just contains one source file master tbp and inside there we have two functions log and multiply the multiply function actually calls the log function prints out the word multiply to the console and then returns a times B pretty simple stuff however this isn't an actual application since of course it doesn't contain a main function the first thing that you have to realize is that there are those two
 
 01:42
 
