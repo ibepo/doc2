@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cpp/learn with cherno.md",
+                "file": "docs/cpp/how the  C++ Linker work.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 353.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/cpp/learn with cherno.md"
+                "file": "docs/cpp/how the  C++ Linker work.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/cpp/learn with cherno.md",
+                "file": "docs/cpp/how the  C++ Linker work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/cpp/learn with cherno.md",
+                "file": "docs/cpp/how the  C++ Linker work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +163,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ebf5f76636742a80",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
     "docs/工具网站.md",
-    "docs/cpp/learn with cherno.md",
+    "docs/cpp/how the  C++ Linker work.md",
     "docs/cpp",
     "docs/AI/cv2.md",
     "docs/AI/numpy.md",

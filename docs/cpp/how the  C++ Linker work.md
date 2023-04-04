@@ -1,6 +1,6 @@
 ## how the  C++ LInker work
 
-hey little guys my name is Deshawn oh and today we're going to talk about linking so what is linking what does the simple spot linker actually do linking is a process that we go through when we go from our source surface plus files to our actual executable binary so the first stage is actually compiling our source files and I actually made an entire video on that so go check that out link in the description below once we've compiled our files we need to go through a process called linking now the primary focus of linking is to find
+hey little guys my name is Deshawn oh and today we're going to talk about Linker. so what is Linker? what does the cpp Linker actually do. linking is a process that we go through when we go from our source surface plus files to our actual executable binary so the first stage is actually compiling our source files and I actually made an entire video on that so go check that out link in the description below once we've compiled our files we need to go through a process called linking now the primary focus of linking is to find
 
 00:27
 
@@ -127,7 +127,7 @@ function body and replace the call with it so in this case this log initialized 
 that's what's causing the error in the first place so we could move it into a third translation unit or we could put this log definition into one of these existing translation units since this function is called log and it's related to logging I'm actually going to put it into log dot CBP so I'll grab this function I'll copy it into logical sweetie I'll get rid of the in line and then I'll come back to my log door age and just leave the Declaration here again without the in line of course so
 
 14:29
-
+ 
 now this header file just has the declaration for log the actual function to link to is included inside logo CBP once in one translation unit in our project and then main we'll call that so if I build this we get no linking errors and our project was able to be linked successfully so that's it that's pretty much a quick crash course on linking and how linking works remember at the end of the day the linker needs to take all of our objects files that were generated during compilation and link them all
 
 14:56
