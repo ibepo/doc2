@@ -7,7 +7,8 @@ Linker is a process（过程) that we go through when we go from our source  cpp
 So the first stage(阶段) is actually compiling our source files and I actually made an entire video on that so go check that out link in the description below
 Once(一旦) we've compiled our files we need to go through(通过) a process called  linking .
 now the primary focus of linking is to find where each symbol and function is, and link them together.
-Remember each file is compiled into a separate(单独) object file as a translation unit and they have no relation to each other those files can't actually interact so if we decide to split our program across multiple C++ files which is of course very common we need a way to actually link those files together into one program and that is the primary purpose of what the linker does even if you don't have functions in external files like for example you've
+Remember each file is compiled into a separate(单独) object file as a translation unit and they have no relation to each other .
+Those files can't actually interact(互动) so if we decide to split our program across multiple C++ files which is of course very common we need a way to actually link those files together into one program and that is the primary purpose of what the linker does even if you don't have functions in external files like for example you've
 
 00:55
 
