@@ -1,6 +1,6 @@
 ## how the  C++ LInker work
 
-hey little guys my name is Deshawn oh and today we're going to talk about Linker. so what is Linker? what does the cpp Linker actually do. linking is a process that we go through when we go from our source surface plus files to our actual executable binary so the first stage is actually compiling our source files and I actually made an entire video on that so go check that out link in the description below once we've compiled our files we need to go through a process called linking now the primary focus of linking is to find
+hey little guys my name is Deshawn oh and today we're going to talk about Linker. so what is Linker? what does the cpp Linker actually do. Linker is a process that we go through when we go from our source surface plus files to our actual executable binary so the first stage is actually compiling our source files and I actually made an entire video on that so go check that out link in the description below once we've compiled our files we need to go through a process called linking now the primary focus of linking is to find
 
 00:27
 
