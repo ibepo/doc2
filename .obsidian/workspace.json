@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/工具网站.md",
+                "file": "docs/cpp/how the  C++ Linker work.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md",
+                "file": "docs/English/短语.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,9 +162,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "590de1949e955e6b",
   "lastOpenFiles": [
     "docs/工具网站.md",
+    "docs/English/短语.md",
     "docs/cpp/how the  C++ Linker work.md",
     "docs/cpp",
     "docs/AI/cv2.md",
@@ -191,7 +191,6 @@
     "docs/韦小绿/crime.md",
     "docs/杂项/mqtt.md",
     "docs/杂项/最佳实践.md",
-    "docs/微信读书/微信读书.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
     "docs/AI/image/Pasted image 20230316090830.png",
