@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md",
+                "file": "docs/AI/numpy.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md"
+                "file": "docs/AI/numpy.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md",
+                "file": "docs/AI/numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md",
+                "file": "docs/AI/numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,26 +178,26 @@
   },
   "active": "0470da973783d474",
   "lastOpenFiles": [
+    "docs/AI/cv2.md",
+    "docs/AI/opencv.md",
+    "docs/AI/嵌入式.md",
+    "docs/AI/Ros.md",
+    "docs/AI/jetson.md",
+    "docs/AI/install.sh.md",
+    "docs/cpp/how the  C++ Linker work.md",
     "docs/cpp/image/Pasted image 20230406091012.png",
     "docs/cpp/image/Pasted image 20230406090856.png",
     "docs/cpp/微软高级工程师 带你掌握C++.md",
     "docs/cpp/image",
-    "docs/cpp/how the  C++ Linker work.md",
     "docs/工具网站.md",
     "docs/English/短语.md",
     "docs/cpp",
-    "docs/AI/cv2.md",
     "docs/AI/numpy.md",
     "docs/AI/yolov5.md",
     "docs/AI/沐神.md",
     "docs/AI/AI.md",
     "docs/AI/slam.md",
     "docs/AI/深度学习入门.md",
-    "docs/AI/opencv.md",
-    "docs/AI/嵌入式.md",
-    "docs/AI/Ros.md",
-    "docs/AI/jetson.md",
-    "docs/AI/install.sh.md",
     "docs/你说的对.md",
     "docs/index.md",
     "docs/wiki.md",
