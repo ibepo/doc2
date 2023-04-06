@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/参考.md",
+                "file": "docs/ssh/参考.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/参考.md"
+                "file": "docs/ssh/参考.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/参考.md",
+                "file": "docs/ssh/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/参考.md",
+                "file": "docs/ssh/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +190,8 @@
   },
   "active": "07c2294f9ba0f5be",
   "lastOpenFiles": [
-    "docs/AI/沐神.md",
     "docs/AI/参考.md",
+    "docs/AI/沐神.md",
     "docs/AI/cv2.md",
     "docs/AI/install.sh.md",
     "docs/AI/jetson.md",
