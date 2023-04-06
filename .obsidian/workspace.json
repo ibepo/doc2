@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/archlinux/tmux.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/numpy.md"
+                "file": "docs/archlinux/tmux.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/archlinux/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/numpy.md",
+                "file": "docs/archlinux/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +178,8 @@
   },
   "active": "0470da973783d474",
   "lastOpenFiles": [
+    "docs/archlinux/yay.md",
+    "docs/AI/numpy.md",
     "docs/AI/cv2.md",
     "docs/AI/opencv.md",
     "docs/AI/嵌入式.md",
@@ -192,7 +194,6 @@
     "docs/工具网站.md",
     "docs/English/短语.md",
     "docs/cpp",
-    "docs/AI/numpy.md",
     "docs/AI/yolov5.md",
     "docs/AI/沐神.md",
     "docs/AI/AI.md",
