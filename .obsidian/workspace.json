@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/tmux.md",
+                "file": "docs/python/典型问题.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/tmux.md"
+                "file": "docs/python/典型问题.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/tmux.md",
+                "file": "docs/python/典型问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/tmux.md",
+                "file": "docs/python/典型问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,36 +178,36 @@
   },
   "active": "0470da973783d474",
   "lastOpenFiles": [
-    "docs/archlinux/yay.md",
-    "docs/AI/numpy.md",
-    "docs/AI/cv2.md",
-    "docs/AI/opencv.md",
-    "docs/AI/嵌入式.md",
-    "docs/AI/Ros.md",
-    "docs/AI/jetson.md",
-    "docs/AI/install.sh.md",
+    "docs/python/虚拟环境.md",
+    "docs/python/实用类库.md",
+    "docs/python/python.md",
+    "docs/python/opencv.md",
+    "docs/python/numpy.md",
+    "docs/python/python操作文本类.md",
+    "docs/NAS/ddns.md",
+    "docs/linux/zsh.md",
+    "docs/homelab/openwrt.md",
+    "docs/docker/安装.md",
+    "docs/docker/dockerLegacy.md",
+    "docs/docker/docker常用部署.md",
+    "docs/docker/docker构建.md",
     "docs/cpp/how the  C++ Linker work.md",
+    "docs/cpp/微软高级工程师 带你掌握C++.md",
+    "docs/archlinux/网易云音乐.md",
+    "docs/archlinux/xsession.md",
+    "docs/archlinux/wechat.md",
+    "docs/archlinux/pacman.md",
+    "docs/archlinux/lf.md",
+    "docs/archlinux/bspwm.md",
+    "docs/archlinux/edge.md",
+    "docs/archlinux/vscode.md",
+    "docs/archlinux/ssdm.md",
+    "docs/archlinux/ncmpcpp.md",
+    "docs/archlinux/install.md",
     "docs/cpp/image/Pasted image 20230406091012.png",
     "docs/cpp/image/Pasted image 20230406090856.png",
-    "docs/cpp/微软高级工程师 带你掌握C++.md",
     "docs/cpp/image",
-    "docs/工具网站.md",
-    "docs/English/短语.md",
     "docs/cpp",
-    "docs/AI/yolov5.md",
-    "docs/AI/沐神.md",
-    "docs/AI/AI.md",
-    "docs/AI/slam.md",
-    "docs/AI/深度学习入门.md",
-    "docs/你说的对.md",
-    "docs/index.md",
-    "docs/wiki.md",
-    "docs/中文优秀博客.md",
-    "docs/韦小绿/bene.md",
-    "docs/韦小绿/am.md",
-    "docs/韦小绿/bell.md",
-    "docs/韦小绿/pac.md",
-    "docs/韦小绿/crime.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
     "docs/AI/image/Pasted image 20230316090830.png",
