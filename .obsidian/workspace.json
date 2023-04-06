@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cpp/微软高级工程师 带你掌握C++.md",
+                "file": "docs/cpp/how the  C++ Linker work.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/cpp/微软高级工程师 带你掌握C++.md"
+                "file": "docs/cpp/how the  C++ Linker work.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/cpp/微软高级工程师 带你掌握C++.md",
+                "file": "docs/cpp/how the  C++ Linker work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/cpp/微软高级工程师 带你掌握C++.md",
+                "file": "docs/cpp/how the  C++ Linker work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +179,9 @@
   "lastOpenFiles": [
     "docs/cpp/image/Pasted image 20230406091012.png",
     "docs/cpp/image/Pasted image 20230406090856.png",
+    "docs/cpp/微软高级工程师 带你掌握C++.md",
     "docs/cpp/image",
     "docs/cpp/how the  C++ Linker work.md",
-    "docs/cpp/微软高级工程师 带你掌握C++.md",
     "docs/工具网站.md",
     "docs/English/短语.md",
     "docs/cpp",
@@ -214,7 +214,6 @@
     "docs/AI/image/Pasted image 20230331153904.png",
     "docs/AI/image/Pasted image 20230331153708.png",
     "docs/AI/image/Pasted image 20230316093638.png",
-    "docs/AI/image/Pasted image 20230316133310.png",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
