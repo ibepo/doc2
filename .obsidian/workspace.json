@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/python/典型问题.md",
+                "file": "docs/cpp/微软高级工程师 带你掌握C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/python/典型问题.md"
+                "file": "docs/cpp/微软高级工程师 带你掌握C++.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/python/典型问题.md",
+                "file": "docs/cpp/微软高级工程师 带你掌握C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/python/典型问题.md",
+                "file": "docs/cpp/微软高级工程师 带你掌握C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +178,8 @@
   },
   "active": "0470da973783d474",
   "lastOpenFiles": [
+    "docs/cpp/image/Pasted image 20230406105636.png",
+    "docs/python/典型问题.md",
     "docs/python/虚拟环境.md",
     "docs/python/实用类库.md",
     "docs/python/python.md",
@@ -202,8 +204,6 @@
     "docs/archlinux/edge.md",
     "docs/archlinux/vscode.md",
     "docs/archlinux/ssdm.md",
-    "docs/archlinux/ncmpcpp.md",
-    "docs/archlinux/install.md",
     "docs/cpp/image/Pasted image 20230406091012.png",
     "docs/cpp/image/Pasted image 20230406090856.png",
     "docs/cpp/image",
