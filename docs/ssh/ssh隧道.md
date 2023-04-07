@@ -1,3 +1,4 @@
+[SSH隧道技术\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1F7411N7rQ/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
 ``` shell
 -C ：压缩数据传输。
 -f ：后台认证用户/密码，通常和-N连用，不用登录到远程主机。
