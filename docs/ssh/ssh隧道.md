@@ -12,7 +12,7 @@
 ``` shell
 ssh -C -f -N -g -L <本地监听ip>:<本地端口>:<远程ip>:<远程端口> 用户名@目标IP -p <ssh端口>
 
-ss
+ssh -L[本地IP]：[本地port]:<远程ip>：<远程port> user@目标ip
 ```
 
 ##### 远程转发（远端建立监听）  
