@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/ssh/ssh隧道.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
