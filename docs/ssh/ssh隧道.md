@@ -1,5 +1,7 @@
-[# SSH隧道技术]_b站bing ge(https://www.bilibili.com/video/BV1F7411N7rQ/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
+## 参考
+[ SSH隧道技术_b站饼哥](https://www.bilibili.com/video/BV1F7411N7rQ/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
 
+## 参数
 ``` shell
 -C ：压缩数据传输。
 -f ：后台认证用户/密码，通常和-N连用，不用登录到远程主机。
@@ -9,29 +11,28 @@
 -R ：远程转发
 -D ：动态转发，即socks代理
 ```
-##### 本地转发（本地建立监听）
 
+## 本地转发（本地建立监听）
 ``` shell
 ssh -C -f -N -g -L <本地监听ip>:<本地端口>:<远程ip>:<远程端口> 用户名@目标IP -p <ssh端口>
 ssh -fCNgL[本地IP]：[本地port]:<远程ip>：<远程port> user@目标ip
 ```
 
-##### 远程转发（远端建立监听）  
-
+## 远程转发（远端建立监听）  
 ```shell
 ssh -C -f -N -g -R <远程ip>:<远程端口>:<本地ip>:<本地端口> 用户名@目标IP -p <ssh端口>
 ```
 
 注：如果远端不能监听0.0.0.0，以下两个方法：
-
 ```shell
 1. 需要修改 ssh 配置/etc/ssh/sshd_config
 ```
 
-##### 动态转发（socks）
-
+## 动态转发（socks）
 ```shell
 ssh -C -f -N -g -D <本地ip>:<本地端口> 用户名@目标IP -p <ssh端口>
 ```
 
 socks代理上本地的1080端口，即可访问192.168.2.101的内网环境
+## 场景实践
+i
