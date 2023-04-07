@@ -35,9 +35,12 @@ ssh -C -f -N -g -D <本地ip>:<本地端口> 用户名@目标IP -p <ssh端口>
 
 socks代理上本地的1080端口，即可访问192.168.2.101的内网环境
 ## 场景实践
+### 反向(云服务器开端口)
 1.公司的内网电脑（大电）通过云端的拥有公网的ip（220.12.22.76）的服务器
 2.**大电发起ssh命令请求**通过反向转发，请求云端服务器起一个端口（220.12.22.76:13389）
-3.使可以连接到互联网的家里的一台电脑可以访问到公司内部的一台内网中的电脑
-`ssh -fNCR 13389:localhos:3389 tom@220.12.22.76:22`
-[mstsc | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mstsc)
+3.使可以连接到互联网的家里的小电可以访问到公司内部的一台内网中的电脑（大电）
+`ssh -fNCR 13389:localhost:3389 tom@220.12.22.76:22`
+`13389`是委托云服务器远端开的端口
+`localhost：3389`指大电的`本地的远程连接地址`
+[mstsc just for windows](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mstsc)
 `mstsc 220.12.22.76:13389`
