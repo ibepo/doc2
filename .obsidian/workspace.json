@@ -27,7 +27,7 @@
               "state": {
                 "file": "docs/中文优秀博客.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
