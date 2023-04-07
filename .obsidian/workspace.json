@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "746ed8fad876b78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/前端/tailwindcss.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ebf5f76636742a80",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/参考.md"
+                "file": "docs/前端/tailwindcss.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/参考.md",
+                "file": "docs/前端/tailwindcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/参考.md",
+                "file": "docs/前端/tailwindcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +212,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "58f0d73ec4b4b1c4",
+  "active": "746ed8fad876b78a",
   "lastOpenFiles": [
-    "docs/cpp/微软高级工程师 带你掌握C++.md",
     "docs/docker/参考.md",
+    "docs/前端/tailwindcss.md",
+    "docs/cpp/微软高级工程师 带你掌握C++.md",
     "docs/cpp/image/Pasted image 20230406161126.png",
     "docs/ssh/参考.md",
     "docs/AI/参考.md",
@@ -229,7 +242,6 @@
     "docs/docker/安装.md",
     "docs/docker/dockerLegacy.md",
     "docs/docker/docker常用部署.md",
-    "docs/docker/docker构建.md",
     "docs/cpp/image/Pasted image 20230406091012.png",
     "docs/cpp/image/Pasted image 20230406090856.png",
     "docs/cpp/image",
