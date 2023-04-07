@@ -1,4 +1,5 @@
-[SSH隧道技术\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1F7411N7rQ/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
+[# SSH隧道技术]_b站bing ge(https://www.bilibili.com/video/BV1F7411N7rQ/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
+
 ``` shell
 -C ：压缩数据传输。
 -f ：后台认证用户/密码，通常和-N连用，不用登录到远程主机。
@@ -12,8 +13,7 @@
 
 ``` shell
 ssh -C -f -N -g -L <本地监听ip>:<本地端口>:<远程ip>:<远程端口> 用户名@目标IP -p <ssh端口>
-
-ssh -L[本地IP]：[本地port]:<远程ip>：<远程port> user@目标ip
+ssh -fCNgL[本地IP]：[本地port]:<远程ip>：<远程port> user@目标ip
 ```
 
 ##### 远程转发（远端建立监听）  
