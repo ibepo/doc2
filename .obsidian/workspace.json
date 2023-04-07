@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/linux/命令工具.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f0ae8e6ee715224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/每天一个linux命令/rsync.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "06a674788440bc01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/每天一个linux命令/rsync.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/中文优秀博客.md"
+                "file": "docs/每天一个linux命令/rsync.md"
               }
             }
           },
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/每天一个linux命令/rsync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/每天一个linux命令/rsync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,10 +175,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c94d5ee45b2add67",
+  "active": "0f0ae8e6ee715224",
   "lastOpenFiles": [
-    "docs/cpp/微软高级工程师 带你掌握C++.md",
+    "docs/每天一个linux命令/xargs.md",
+    "docs/linux/命令工具.md",
+    "docs/每天一个linux命令/rsync.md",
+    "docs/每天一个linux命令",
+    "docs/linux/linux命令.md",
     "docs/中文优秀博客.md",
+    "docs/cpp/微软高级工程师 带你掌握C++.md",
     "docs/工具网站.md",
     "docs/ssh/ssh隧道.md",
     "docs/ssh/参考.md",
@@ -180,9 +210,6 @@
     "docs/AI/深度学习入门.md",
     "docs/cpp/image/Pasted image 20230406105636.png",
     "docs/python/典型问题.md",
-    "docs/python/虚拟环境.md",
-    "docs/python/实用类库.md",
-    "docs/python/python.md",
     "docs/cpp/image/Pasted image 20230406091012.png",
     "docs/cpp/image/Pasted image 20230406090856.png",
     "docs/cpp/image",
@@ -196,7 +223,6 @@
     "docs/mysql/image",
     "docs/English/image",
     "docs/docker/image",
-    "docs/image",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
