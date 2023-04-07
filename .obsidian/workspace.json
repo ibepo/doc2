@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md",
+                "file": "docs/工具网站.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md"
+                "file": "docs/工具网站.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md",
+                "file": "docs/工具网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/cpp/how the  C++ Linker work.md",
+                "file": "docs/工具网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +152,8 @@
   },
   "active": "18a00a75df1d2af9",
   "lastOpenFiles": [
+    "docs/中文优秀博客.md",
+    "docs/cpp/how the  C++ Linker work.md",
     "docs/工具网站.md",
     "docs/ssh/ssh隧道.md",
     "docs/ssh/参考.md",
@@ -172,14 +174,12 @@
     "docs/AI/沐神.md",
     "docs/AI/cv2.md",
     "docs/AI/深度学习入门.md",
-    "docs/中文优秀博客.md",
     "docs/cpp/image/Pasted image 20230406105636.png",
     "docs/python/典型问题.md",
     "docs/python/虚拟环境.md",
     "docs/python/实用类库.md",
     "docs/python/python.md",
     "docs/python/opencv.md",
-    "docs/python/numpy.md",
     "docs/cpp/image/Pasted image 20230406091012.png",
     "docs/cpp/image/Pasted image 20230406090856.png",
     "docs/cpp/image",
