@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nvim/未命名.md",
+                "file": "docs/nvim/mason.md",
                 "mode": "source",
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nvim/未命名.md"
+                "file": "docs/nvim/mason.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nvim/未命名.md",
+                "file": "docs/nvim/mason.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nvim/未命名.md",
+                "file": "docs/nvim/mason.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
   "active": "021936cc5dbcf08e",
   "lastOpenFiles": [
     "docs/nvim/treesitter.md",
-    "docs/nvim/未命名.md",
+    "docs/nvim/mason.md",
     "docs/ssh/ssh隧道.md",
     "docs/ssh/参考.md",
     "docs/ssh/ssh免密登录.md",
