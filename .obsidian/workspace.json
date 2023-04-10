@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nvim/lsp.md",
+                "file": "docs/nvim/api.md",
                 "mode": "source",
                 "source": true
               }
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nvim/lsp.md"
+                "file": "docs/nvim/api.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nvim/lsp.md",
+                "file": "docs/nvim/api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nvim/lsp.md",
+                "file": "docs/nvim/api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +225,10 @@
   },
   "active": "64d81f13cf4f9d25",
   "lastOpenFiles": [
-    "docs/nvim/mason.md",
+    "docs/nvim/vim.md",
+    "docs/nvim/neovim.md",
     "docs/nvim/lsp.md",
+    "docs/nvim/mason.md",
     "docs/nvim/treesitter.md",
     "docs/ssh/ssh隧道.md",
     "docs/ssh/参考.md",
@@ -256,8 +256,6 @@
     "docs/AI/opencv.md",
     "docs/AI/嵌入式.md",
     "docs/AI/Ros.md",
-    "docs/git/配置多个ssh.md",
-    "docs/git/git.md",
     "docs/cpp/image/Pasted image 20230406161126.png",
     "docs/cpp/image/Pasted image 20230406105636.png",
     "docs/cpp/image/Pasted image 20230406091012.png",
