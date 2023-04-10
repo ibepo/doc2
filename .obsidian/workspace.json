@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "8ddfe612abe9ef43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/docker/gl's docker.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "06a674788440bc01",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nvim/api.md"
+                "file": "docs/docker/gl's docker.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nvim/api.md",
+                "file": "docs/docker/gl's docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nvim/api.md",
+                "file": "docs/docker/gl's docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,8 +235,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "64d81f13cf4f9d25",
+  "active": "8ddfe612abe9ef43",
   "lastOpenFiles": [
+    "docs/nvim/api.md",
+    "docs/docker/gl's docker.md",
     "docs/nvim/vim.md",
     "docs/nvim/neovim.md",
     "docs/nvim/lsp.md",
@@ -254,8 +268,6 @@
     "docs/AI/install.sh.md",
     "docs/AI/参考.md",
     "docs/AI/opencv.md",
-    "docs/AI/嵌入式.md",
-    "docs/AI/Ros.md",
     "docs/cpp/image/Pasted image 20230406161126.png",
     "docs/cpp/image/Pasted image 20230406105636.png",
     "docs/cpp/image/Pasted image 20230406091012.png",
