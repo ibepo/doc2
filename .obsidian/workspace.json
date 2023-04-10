@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ssh/ssh隧道.md",
+                "file": "docs/ssh/参考.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ssh/ssh隧道.md"
+                "file": "docs/ssh/参考.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ssh/ssh隧道.md",
+                "file": "docs/ssh/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ssh/ssh隧道.md",
+                "file": "docs/ssh/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +189,7 @@
   },
   "active": "b0a9e21455cac562",
   "lastOpenFiles": [
+    "docs/ssh/ssh隧道.md",
     "docs/你说的对.md",
     "docs/cpp/总结.md",
     "docs/cpp/how the  C++ Linker work.md",
@@ -201,7 +202,6 @@
     "docs/linux命令",
     "docs/linux/linux命令.md",
     "docs/cpp/微软高级工程师 带你掌握C++.md",
-    "docs/ssh/ssh隧道.md",
     "docs/ssh/参考.md",
     "docs/ssh/ssh免密登录.md",
     "docs/ssh/ssh.md",
