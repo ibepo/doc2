@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ssh/参考.md",
+                "file": "docs/ssh/ssh隧道.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ssh/参考.md"
+                "file": "docs/ssh/ssh隧道.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ssh/参考.md",
+                "file": "docs/ssh/ssh隧道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ssh/参考.md",
+                "file": "docs/ssh/ssh隧道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +189,8 @@
   },
   "active": "b0a9e21455cac562",
   "lastOpenFiles": [
+    "docs/ssh/参考.md",
+    "docs/ssh/ssh免密登录.md",
     "docs/ssh/ssh隧道.md",
     "docs/你说的对.md",
     "docs/cpp/总结.md",
@@ -202,8 +204,6 @@
     "docs/linux命令",
     "docs/linux/linux命令.md",
     "docs/cpp/微软高级工程师 带你掌握C++.md",
-    "docs/ssh/参考.md",
-    "docs/ssh/ssh免密登录.md",
     "docs/ssh/ssh.md",
     "docs/ssh/image/Pasted image 20230407114911.png",
     "docs/ssh/image/Pasted image 20230407111918.png",
