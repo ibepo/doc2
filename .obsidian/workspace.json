@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nvim/nvim-tree.md",
+                "file": "docs/nvim/参考.md",
                 "mode": "source",
                 "source": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nvim/nvim-tree.md"
+                "file": "docs/nvim/参考.md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nvim/nvim-tree.md",
+                "file": "docs/nvim/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nvim/nvim-tree.md",
+                "file": "docs/nvim/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,10 +268,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1b09b1b177a2817a",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
-    "docs/nvim/参考.md",
     "docs/nvim/nvim-tree.md",
+    "docs/nvim/参考.md",
     "docs/中文优秀博客.md",
     "docs/你说的对.md",
     "docs/工具网站.md",
