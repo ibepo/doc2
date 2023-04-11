@@ -1,7 +1,7 @@
 LSP 的出现将编程工具解耦成了 `Language Server` 与 `Language Client` 两部分。定义了编辑器与语言服务器之间交互协议。
-1.首先第一步就是要配置客户端，之所以要安装 [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ，是因为 `nvim-lspconfig` 提供了一堆常见服务的配置方式。
+1.首先第一步就是要配置客户端，之所以要安装 [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ，是因为 `nvim-lspconfig` 提供了一堆常见服务的配置方式,通过[lspsaga](https://github.com/glepnir/lspsaga.nvim)增强UI
 
-2.第二步就是安装语言服务器,现在有了 [nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) mason项目，可以帮助我们管理，并自动安装 Language Server。
+2.第二步就是安装语言服务器,现在有了 [~~nvim-lsp-installer~~](https://github.com/williamboman/nvim-lsp-installer) [mason](https://github.com/williamboman/mason.nvim)项目，可以帮助我们管理，并自动安装 Language Server。
 
 ```lua
 vim.api.nvim_create_autocmd("LspAttach", {
