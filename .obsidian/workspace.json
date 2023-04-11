@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/AI/参考.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nginx/参考.md"
+                "file": "docs/AI/参考.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/AI/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nginx/参考.md",
+                "file": "docs/AI/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +164,8 @@
   },
   "active": "5343475f157ef221",
   "lastOpenFiles": [
-    "docs/nginx/Pasted image 20230313092120.png",
     "docs/nginx/参考.md",
+    "docs/nginx/Pasted image 20230313092120.png",
     "docs/nginx/命令.md",
     "docs/nginx/ssl.md",
     "docs/nvim/参考.md",
