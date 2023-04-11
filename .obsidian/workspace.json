@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "84c9417f3f41e8fd",
+        "id": "feaba0efe2298c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "9e3050a4ea8889c8",
+            "id": "99a6d1f1510daf72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/参考.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "44aaf5be2816664e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/nvim/参考.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/pacman.md"
+                "file": "docs/nvim/参考.md"
               }
             }
           },
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/nvim/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/nvim/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,12 +151,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "44aaf5be2816664e",
+  "active": "99a6d1f1510daf72",
   "lastOpenFiles": [
-    "docs/chatgpt.md",
     "docs/archlinux/参考.md",
-    "docs/nvim/参考.md",
     "docs/archlinux/pacman.md",
+    "docs/chatgpt.md",
+    "docs/nvim/参考.md",
     "docs/nvim/lsp.md",
     "docs/nvim/telescope.md",
     "docs/linux/命令工具.md",
