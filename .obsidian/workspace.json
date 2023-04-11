@@ -11,15 +11,26 @@
             "id": "99a6d1f1510daf72",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/nginx/Pasted image 20230313092120.png"
+              }
+            }
+          },
+          {
+            "id": "5343475f157ef221",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/nginx/参考.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nvim/参考.md"
+                "file": "docs/nginx/参考.md"
               }
             }
           },
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/nginx/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/nginx/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,12 +162,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "99a6d1f1510daf72",
+  "active": "5343475f157ef221",
   "lastOpenFiles": [
+    "docs/nginx/Pasted image 20230313092120.png",
+    "docs/nginx/参考.md",
+    "docs/nginx/命令.md",
+    "docs/nginx/ssl.md",
+    "docs/nvim/参考.md",
     "docs/archlinux/参考.md",
     "docs/archlinux/pacman.md",
     "docs/chatgpt.md",
-    "docs/nvim/参考.md",
     "docs/nvim/lsp.md",
     "docs/nvim/telescope.md",
     "docs/linux/命令工具.md",
@@ -176,10 +191,6 @@
     "docs/ssh/参考.md",
     "docs/ssh/ssh免密登录.md",
     "docs/cpp/总结.md",
-    "docs/cpp/how the  C++ Linker work.md",
-    "docs/linux/zsh.md",
-    "docs/linux命令/rsync.md",
-    "docs/linux命令/xargs.md",
     "docs/linux命令",
     "docs/ssh/image/Pasted image 20230407114911.png",
     "docs/ssh/image/Pasted image 20230407111918.png",
@@ -191,7 +202,6 @@
     "docs/cpp/image/Pasted image 20230406090856.png",
     "docs/cpp/image",
     "docs/cpp",
-    "docs/nginx/Pasted image 20230313092120.png",
     "docs/image/Pasted image 20230317085921.png",
     "docs/AI/image/Pasted image 20230316090830.png",
     "docs/前端",
