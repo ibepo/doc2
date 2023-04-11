@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nvim/lsp.md",
+                "file": "docs/nvim/参考.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nvim/lsp.md"
+                "file": "docs/nvim/参考.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nvim/lsp.md",
+                "file": "docs/nvim/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nvim/lsp.md",
+                "file": "docs/nvim/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,6 +282,7 @@
   },
   "active": "9e3050a4ea8889c8",
   "lastOpenFiles": [
+    "docs/nvim/lsp.md",
     "docs/nvim/telescope.md",
     "docs/linux/命令工具.md",
     "docs/nvim/nvim-tree.md",
@@ -295,7 +296,6 @@
     "docs/nvim/api.md",
     "docs/nvim/vim.md",
     "docs/nvim/neovim.md",
-    "docs/nvim/lsp.md",
     "docs/nvim/mason.md",
     "docs/nvim/treesitter.md",
     "docs/ssh/ssh隧道.md",
