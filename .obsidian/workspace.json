@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/参考.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/pacman.md"
+                "file": "docs/archlinux/参考.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/pacman.md",
+                "file": "docs/archlinux/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +154,7 @@
   "active": "9e3050a4ea8889c8",
   "lastOpenFiles": [
     "docs/nvim/参考.md",
+    "docs/archlinux/pacman.md",
     "docs/nvim/lsp.md",
     "docs/nvim/telescope.md",
     "docs/linux/命令工具.md",
@@ -180,7 +181,6 @@
     "docs/linux命令",
     "docs/linux/linux命令.md",
     "docs/cpp/微软高级工程师 带你掌握C++.md",
-    "docs/ssh/ssh.md",
     "docs/ssh/image/Pasted image 20230407114911.png",
     "docs/ssh/image/Pasted image 20230407111918.png",
     "docs/ssh/image/Pasted image 20230407111631.png",
