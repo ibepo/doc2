@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "44aaf5be2816664e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/chatgpt.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/参考.md"
+                "file": "docs/chatgpt.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/参考.md",
+                "file": "docs/chatgpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/参考.md",
+                "file": "docs/chatgpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +164,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9e3050a4ea8889c8",
+  "active": "44aaf5be2816664e",
   "lastOpenFiles": [
+    "docs/archlinux/参考.md",
+    "docs/chatgpt.md",
     "docs/nvim/参考.md",
     "docs/archlinux/pacman.md",
     "docs/nvim/lsp.md",
@@ -179,8 +194,6 @@
     "docs/linux命令/rsync.md",
     "docs/linux命令/xargs.md",
     "docs/linux命令",
-    "docs/linux/linux命令.md",
-    "docs/cpp/微软高级工程师 带你掌握C++.md",
     "docs/ssh/image/Pasted image 20230407114911.png",
     "docs/ssh/image/Pasted image 20230407111918.png",
     "docs/ssh/image/Pasted image 20230407111631.png",
