@@ -1,8 +1,9 @@
 ## 将要实现
 代码补全、代码悬停、代码提示
 
-
 LSP 的出现将编程工具解耦成了 `Language Server` 与 `Language Client` 两部分。定义了编辑器与语言服务器之间交互协议。
+Client 专注于显示样式实现， Server 负责提供语言支持，包括常见的自动补全、跳转到定义、查找引用、悬停文档提示等功能。
+
 1.首先第一步就是要配置客户端，之所以要安装 [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ，是因为 `nvim-lspconfig` 提供了一堆常见服务的配置方式,通过[lspsaga](https://github.com/glepnir/lspsaga.nvim)增强UI
 
 2.第二步就是安装语言服务器,现在有了 [~~nvim-lsp-installer~~](https://github.com/williamboman/nvim-lsp-installer) [mason](https://github.com/williamboman/mason.nvim)项目，可以帮助我们管理，并自动安装 Language Server。
