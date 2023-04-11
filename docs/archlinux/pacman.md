@@ -1,10 +1,7 @@
----
-date created: 2023-03-15 13:28
-date updated: 2023-03-15 13:43
----
+[AUR软件仓库](https://aur.archlinux.org/packages)
+[pacman使用教程，官方文档中文版](https://blog.csdn.net/maweizz/article/details/122113502)
 
 ## 配置文件
-
 ### `~/etc/pacman.conf`
 
 1. [options]：该部分包含各种选项，影响Pacman的行为，例如默认日志级别、压缩级别、并行下载数量等。

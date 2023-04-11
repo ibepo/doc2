@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/chatgpt.md",
+                "file": "docs/archlinux/pacman.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/chatgpt.md"
+                "file": "docs/archlinux/pacman.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chatgpt.md",
+                "file": "docs/archlinux/pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/chatgpt.md",
+                "file": "docs/archlinux/pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,8 @@
   },
   "active": "44aaf5be2816664e",
   "lastOpenFiles": [
-    "docs/archlinux/参考.md",
     "docs/chatgpt.md",
+    "docs/archlinux/参考.md",
     "docs/nvim/参考.md",
     "docs/archlinux/pacman.md",
     "docs/nvim/lsp.md",
