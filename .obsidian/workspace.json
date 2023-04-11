@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待整理/服务器环境配置.md",
+                "file": "docs/中文优秀博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待整理/服务器环境配置.md"
+                "file": "docs/中文优秀博客.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待整理/服务器环境配置.md",
+                "file": "docs/中文优秀博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待整理/服务器环境配置.md",
+                "file": "docs/中文优秀博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,6 +257,8 @@
   },
   "active": "246b86920f116780",
   "lastOpenFiles": [
+    "docs/你说的对.md",
+    "docs/工具网站.md",
     "待整理/服务器环境配置.md",
     "docs/nvim/参考.md",
     "待整理",
@@ -270,11 +272,9 @@
     "docs/ssh/ssh隧道.md",
     "docs/ssh/参考.md",
     "docs/ssh/ssh免密登录.md",
-    "docs/你说的对.md",
     "docs/cpp/总结.md",
     "docs/cpp/how the  C++ Linker work.md",
     "docs/中文优秀博客.md",
-    "docs/工具网站.md",
     "docs/linux/zsh.md",
     "docs/linux命令/rsync.md",
     "docs/linux命令/xargs.md",
