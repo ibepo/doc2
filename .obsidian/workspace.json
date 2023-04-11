@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/archlinux/pacman.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nvim/参考.md"
+                "file": "docs/archlinux/pacman.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/archlinux/pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/archlinux/pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,11 +282,11 @@
   },
   "active": "9e3050a4ea8889c8",
   "lastOpenFiles": [
+    "docs/nvim/参考.md",
     "docs/nvim/lsp.md",
     "docs/nvim/telescope.md",
     "docs/linux/命令工具.md",
     "docs/nvim/nvim-tree.md",
-    "docs/nvim/参考.md",
     "docs/中文优秀博客.md",
     "docs/你说的对.md",
     "docs/工具网站.md",
