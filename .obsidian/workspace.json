@@ -92,6 +92,26 @@
             }
           },
           {
+            "id": "3eab7a308aa7650e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "246b86920f116780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "待整理/服务器环境配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "06a674788440bc01",
             "type": "leaf",
             "state": {
@@ -104,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -181,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/gl's docker.md"
+                "file": "待整理/服务器环境配置.md"
               }
             }
           },
@@ -191,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/gl's docker.md",
+                "file": "待整理/服务器环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/gl's docker.md",
+                "file": "待整理/服务器环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,10 +255,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8ddfe612abe9ef43",
+  "active": "246b86920f116780",
   "lastOpenFiles": [
-    "docs/nvim/api.md",
+    "待整理/服务器环境配置.md",
+    "docs/nvim/参考.md",
+    "待整理",
     "docs/docker/gl's docker.md",
+    "docs/nvim/api.md",
     "docs/nvim/vim.md",
     "docs/nvim/neovim.md",
     "docs/nvim/lsp.md",
@@ -266,8 +289,6 @@
     "docs/ssh/image",
     "docs/AI/jetson.md",
     "docs/AI/install.sh.md",
-    "docs/AI/参考.md",
-    "docs/AI/opencv.md",
     "docs/cpp/image/Pasted image 20230406161126.png",
     "docs/cpp/image/Pasted image 20230406105636.png",
     "docs/cpp/image/Pasted image 20230406091012.png",
@@ -282,7 +303,6 @@
     "docs/NAS",
     "docs/mysql/image",
     "docs/English/image",
-    "docs/docker/image",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
