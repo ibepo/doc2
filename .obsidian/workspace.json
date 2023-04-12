@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/中文优秀博客.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/nvim/参考.md"
+                "file": "docs/中文优秀博客.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/中文优秀博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/nvim/参考.md",
+                "file": "docs/中文优秀博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,13 +173,13 @@
   },
   "active": "58a7c1bbc973a71d",
   "lastOpenFiles": [
+    "docs/nvim/参考.md",
     "docs/nvim/neovim.md",
     "docs/工具网站.md",
     "docs/nvim/安装.md",
     "docs/你说的对.md",
     "docs/nvim/mapping鉴赏.md",
     "docs/nvim/telescope.md",
-    "docs/nvim/参考.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/中文优秀博客.md",
     "docs/AI/参考.md",
