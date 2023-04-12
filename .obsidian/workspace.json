@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/nvim/参考.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a8e6b108e443dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/nvim/安装.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/你说的对.md"
+                "file": "docs/nvim/安装.md"
               }
             }
           },
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/nvim/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/nvim/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +174,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5343475f157ef221",
+  "active": "6a8e6b108e443dd5",
   "lastOpenFiles": [
+    "docs/nvim/参考.md",
+    "docs/nvim/安装.md",
+    "docs/你说的对.md",
     "docs/中文优秀博客.md",
     "docs/AI/参考.md",
     "docs/nginx/参考.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/nginx/命令.md",
     "docs/nginx/ssl.md",
-    "docs/nvim/参考.md",
     "docs/archlinux/参考.md",
     "docs/archlinux/pacman.md",
     "docs/chatgpt.md",
@@ -178,7 +192,6 @@
     "docs/nvim/telescope.md",
     "docs/linux/命令工具.md",
     "docs/nvim/nvim-tree.md",
-    "docs/你说的对.md",
     "docs/工具网站.md",
     "待整理/服务器环境配置.md",
     "待整理",
@@ -191,7 +204,6 @@
     "docs/ssh/ssh隧道.md",
     "docs/ssh/参考.md",
     "docs/ssh/ssh免密登录.md",
-    "docs/cpp/总结.md",
     "docs/linux命令",
     "docs/ssh/image/Pasted image 20230407114911.png",
     "docs/ssh/image/Pasted image 20230407111918.png",
