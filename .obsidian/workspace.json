@@ -27,7 +27,7 @@
               "state": {
                 "file": "docs/cpp/c和指针.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "0481c0c3329261a5",
   "lastOpenFiles": [
+    "docs/cpp/image/Pasted image 20230412154420.png",
     "docs/cpp/image/Pasted image 20230412141050.png",
     "docs/cpp/image/Pasted image 20230412135848.png",
     "docs/中文优秀博客.md",
@@ -226,7 +227,6 @@
     "docs/cpp/image/Pasted image 20230406090856.png",
     "docs/cpp/image",
     "docs/cpp",
-    "docs/image/Pasted image 20230317085921.png",
     "docs/前端",
     "docs/homelab",
     "docs/NAS",
