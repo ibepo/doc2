@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AI/参考.md",
+                "file": "docs/你说的对.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/参考.md"
+                "file": "docs/你说的对.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/参考.md",
+                "file": "docs/你说的对.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/参考.md",
+                "file": "docs/你说的对.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +164,8 @@
   },
   "active": "5343475f157ef221",
   "lastOpenFiles": [
+    "docs/中文优秀博客.md",
+    "docs/AI/参考.md",
     "docs/nginx/参考.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/nginx/命令.md",
@@ -176,7 +178,6 @@
     "docs/nvim/telescope.md",
     "docs/linux/命令工具.md",
     "docs/nvim/nvim-tree.md",
-    "docs/中文优秀博客.md",
     "docs/你说的对.md",
     "docs/工具网站.md",
     "待整理/服务器环境配置.md",
