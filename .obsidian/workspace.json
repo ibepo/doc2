@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/你说的对.md"
+                "file": "docs/nvim/安装.md"
               }
             }
           }
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/nvim/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/你说的对.md",
+                "file": "docs/nvim/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,14 +171,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "32159d09c8e47227",
+  "active": "58a7c1bbc973a71d",
   "lastOpenFiles": [
+    "docs/你说的对.md",
     "docs/nvim/mapping鉴赏.md",
     "docs/nvim/安装.md",
     "docs/nvim/telescope.md",
     "docs/nvim/参考.md",
     "docs/nginx/Pasted image 20230313092120.png",
-    "docs/你说的对.md",
     "docs/中文优秀博客.md",
     "docs/AI/参考.md",
     "docs/nginx/参考.md",
