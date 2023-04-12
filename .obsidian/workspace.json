@@ -27,7 +27,7 @@
               "state": {
                 "file": "docs/cpp/c和指针.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
