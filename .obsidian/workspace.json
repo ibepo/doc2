@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网络安全/参考.md",
+                "file": "docs/中文优秀博客.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网络安全/参考.md"
+                "file": "docs/中文优秀博客.md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网络安全/参考.md",
+                "file": "docs/中文优秀博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网络安全/参考.md",
+                "file": "docs/中文优秀博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +210,8 @@
   },
   "active": "51a8ac35e3c43821",
   "lastOpenFiles": [
-    "docs/AI/物联网.md",
     "docs/网络安全/参考.md",
+    "docs/AI/物联网.md",
     "docs/网络安全",
     "docs/AI/嵌入式.md",
     "docs/中文优秀博客.md",
