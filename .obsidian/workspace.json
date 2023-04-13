@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "75c69ffdbe488c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/烹饪手册/手册1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "32159d09c8e47227",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/物联网/5单片机.md"
+                "file": "docs/烹饪手册/手册1.md"
               }
             }
           }
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/物联网/5单片机.md",
+                "file": "docs/烹饪手册/手册1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/物联网/5单片机.md",
+                "file": "docs/烹饪手册/手册1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +232,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "cb40c4d1e33f44d5",
+  "active": "75c69ffdbe488c42",
   "lastOpenFiles": [
-    "docs/AI/物联网.md",
     "docs/物联网/5单片机.md",
+    "docs/烹饪手册/手册1.md",
+    "docs/烹饪手册",
+    "docs/AI/物联网.md",
     "docs/物联网",
     "docs/中文优秀博客.md",
     "docs/网络安全/参考.md",
@@ -254,7 +268,6 @@
     "docs/nvim/nvim-tree.md",
     "docs/待整理/服务器环境配置.md",
     "docs/待整理",
-    "docs/docker/gl's docker.md",
     "docs/linux命令",
     "docs/ssh/image/Pasted image 20230407114911.png",
     "docs/ssh/image/Pasted image 20230407111918.png",
@@ -267,7 +280,6 @@
     "docs/cpp",
     "docs/前端",
     "docs/homelab",
-    "docs/NAS",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
