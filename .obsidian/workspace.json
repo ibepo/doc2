@@ -104,7 +104,6 @@
       {
         "id": "56e0ef17e968819d",
         "type": "tabs",
-        "dimension": 76.30331753554502,
         "children": [
           {
             "id": "8e253a67c31ba3d6",
@@ -151,23 +150,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c9716c01278d25bd",
-        "type": "tabs",
-        "dimension": 23.696682464454977,
-        "children": [
-          {
-            "id": "b8e41c23163a73b3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "docs/烹饪手册/手册1.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -209,13 +191,23 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b8e41c23163a73b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/烹饪手册/手册1.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,7 +224,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "75c69ffdbe488c42",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
     "docs/中文优秀博客.md",
     "docs/烹饪手册/手册1.md",
