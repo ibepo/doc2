@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "51a8ac35e3c43821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/网络安全/参考.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "32159d09c8e47227",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AI/物联网.md"
+                "file": "docs/网络安全/参考.md"
               }
             }
           }
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AI/物联网.md",
+                "file": "docs/网络安全/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AI/物联网.md",
+                "file": "docs/网络安全/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +208,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "7b5a2d9f1333febd",
+  "active": "51a8ac35e3c43821",
   "lastOpenFiles": [
-    "docs/AI/嵌入式.md",
     "docs/AI/物联网.md",
+    "docs/网络安全/参考.md",
+    "docs/网络安全",
+    "docs/AI/嵌入式.md",
     "docs/中文优秀博客.md",
     "docs/前端/常用库.md",
     "docs/工具网站.md",
@@ -228,7 +242,6 @@
     "docs/待整理",
     "docs/docker/gl's docker.md",
     "docs/nvim/api.md",
-    "docs/nvim/vim.md",
     "docs/linux命令",
     "docs/ssh/image/Pasted image 20230407114911.png",
     "docs/ssh/image/Pasted image 20230407111918.png",
@@ -243,7 +256,6 @@
     "docs/homelab",
     "docs/NAS",
     "docs/mysql/image",
-    "docs/English/image",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
