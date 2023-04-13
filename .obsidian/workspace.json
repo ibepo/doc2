@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cpp/c和指针.md",
+                "file": "docs/中文优秀博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/cpp/c和指针.md"
+                "file": "docs/中文优秀博客.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/cpp/c和指针.md",
+                "file": "docs/中文优秀博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/cpp/c和指针.md",
+                "file": "docs/中文优秀博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,14 +186,14 @@
   },
   "active": "0481c0c3329261a5",
   "lastOpenFiles": [
+    "docs/工具网站.md",
+    "docs/cpp/c和指针.md",
     "docs/cpp/image/Pasted image 20230412154420.png",
     "docs/cpp/image/Pasted image 20230412141050.png",
     "docs/cpp/image/Pasted image 20230412135848.png",
     "docs/中文优秀博客.md",
-    "docs/cpp/c和指针.md",
     "docs/nvim/参考.md",
     "docs/nvim/neovim.md",
-    "docs/工具网站.md",
     "docs/nvim/安装.md",
     "docs/你说的对.md",
     "docs/nvim/mapping鉴赏.md",
@@ -224,7 +224,6 @@
     "docs/cpp/image/Pasted image 20230406161126.png",
     "docs/cpp/image/Pasted image 20230406105636.png",
     "docs/cpp/image/Pasted image 20230406091012.png",
-    "docs/cpp/image/Pasted image 20230406090856.png",
     "docs/cpp/image",
     "docs/cpp",
     "docs/前端",
