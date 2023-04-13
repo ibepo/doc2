@@ -104,7 +104,7 @@
       {
         "id": "56e0ef17e968819d",
         "type": "tabs",
-        "dimension": 69.43127962085308,
+        "dimension": 76.30331753554502,
         "children": [
           {
             "id": "8e253a67c31ba3d6",
@@ -155,7 +155,7 @@
       {
         "id": "c9716c01278d25bd",
         "type": "tabs",
-        "dimension": 30.568720379146917,
+        "dimension": 23.696682464454977,
         "children": [
           {
             "id": "b8e41c23163a73b3",
@@ -234,12 +234,12 @@
   },
   "active": "75c69ffdbe488c42",
   "lastOpenFiles": [
-    "docs/物联网/5单片机.md",
+    "docs/中文优秀博客.md",
     "docs/烹饪手册/手册1.md",
+    "docs/物联网/5单片机.md",
     "docs/烹饪手册",
     "docs/AI/物联网.md",
     "docs/物联网",
-    "docs/中文优秀博客.md",
     "docs/网络安全/参考.md",
     "docs/网络安全",
     "docs/AI/嵌入式.md",
