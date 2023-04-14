@@ -11,11 +11,28 @@
             "id": "2312e625465fc6a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/待整理/服务器环境配置.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ece8ff263dc7d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/待整理/WLS2.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/半导体/串口通讯.md",
+                "file": "docs/待整理/WLS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/半导体/串口通讯.md",
+                "file": "docs/待整理/WLS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/半导体/串口通讯.md"
+                "file": "docs/待整理/WLS2.md"
               }
             }
           }
@@ -147,10 +164,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "3ece8ff263dc7d2e",
   "lastOpenFiles": [
-    "docs/linux/文本处理.md",
+    "docs/待整理/服务器环境配置.md",
+    "docs/待整理/WLS2.md",
     "docs/半导体/串口通讯.md",
+    "docs/linux/文本处理.md",
     "docs/linux/参考.md",
     "docs/中文优秀博客.md",
     "docs/opencv/参考.md",
@@ -183,8 +202,6 @@
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/AI/参考.md",
     "docs/nginx/参考.md",
-    "docs/nginx/命令.md",
-    "docs/nginx/ssl.md",
     "docs/待整理",
     "docs/linux命令",
     "docs/ssh/image/Pasted image 20230407114911.png",
