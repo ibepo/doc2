@@ -13,33 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/物联网/51单片机.md",
+                "file": "docs/电子爱好/51单片机.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ceb67f4d0baf64c",
+            "id": "efc408af4d9a132b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/opencv/参考.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "cb40c4d1e33f44d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/烹饪手册/手册1.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/opencv/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/opencv/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/中文优秀博客.md"
+                "file": "docs/opencv/参考.md"
               }
             }
           }
@@ -176,19 +164,23 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6ceb67f4d0baf64c",
+  "active": "efc408af4d9a132b",
   "lastOpenFiles": [
+    "docs/电子爱好/51单片机.md",
+    "docs/opencv/opencv.md",
+    "docs/opencv/参考.md",
+    "docs/烹饪手册/手册1.md",
+    "docs/opencv",
+    "docs/AI/cv2.md",
+    "docs/中文优秀博客.md",
     "docs/工具网站.md",
     "docs/wikipedia.md",
-    "docs/物联网/51单片机.md",
     "docs/AI/物联网.md",
-    "docs/烹饪手册/手册1.md",
-    "docs/物联网/image/Pasted image 20230413141518.png",
-    "docs/物联网/image",
+    "docs/电子爱好/image/Pasted image 20230413141518.png",
+    "docs/电子爱好/image",
     "docs/你说的对.md",
-    "docs/中文优秀博客.md",
     "docs/烹饪手册",
-    "docs/物联网",
+    "docs/电子爱好",
     "docs/网络安全/参考.md",
     "docs/网络安全",
     "docs/AI/嵌入式.md",
@@ -210,9 +202,6 @@
     "docs/archlinux/参考.md",
     "docs/archlinux/pacman.md",
     "docs/chatgpt.md",
-    "docs/nvim/lsp.md",
-    "docs/linux/命令工具.md",
-    "docs/nvim/nvim-tree.md",
     "docs/待整理",
     "docs/linux命令",
     "docs/ssh/image/Pasted image 20230407114911.png",
@@ -223,7 +212,6 @@
     "docs/cpp/image/Pasted image 20230406105636.png",
     "docs/cpp/image",
     "docs/cpp",
-    "docs/前端",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
