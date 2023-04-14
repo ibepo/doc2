@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网络安全/参考.md",
+                "file": "docs/半导体/串口通讯.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网络安全/参考.md",
+                "file": "docs/半导体/串口通讯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网络安全/参考.md",
+                "file": "docs/半导体/串口通讯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网络安全/参考.md"
+                "file": "docs/半导体/串口通讯.md"
               }
             }
           }
@@ -179,6 +179,7 @@
   "active": "2afb1a21f2bc8862",
   "lastOpenFiles": [
     "docs/半导体/UART.md",
+    "docs/网络安全/参考.md",
     "docs/待整理/WLS2.md",
     "docs/待整理/服务器环境配置.md",
     "docs/半导体/串口通讯.md",
@@ -199,7 +200,6 @@
     "docs/你说的对.md",
     "docs/烹饪手册",
     "docs/半导体",
-    "docs/网络安全/参考.md",
     "docs/网络安全",
     "docs/AI/嵌入式.md",
     "docs/前端/常用库.md",
