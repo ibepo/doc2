@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/半导体/参考.md",
+                "file": "docs/半导体/串口通讯.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/半导体/参考.md",
+                "file": "docs/半导体/串口通讯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/半导体/参考.md",
+                "file": "docs/半导体/串口通讯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/半导体/参考.md"
+                "file": "docs/半导体/串口通讯.md"
               }
             }
           }
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +192,7 @@
   "active": "675c087d00b48bce",
   "lastOpenFiles": [
     "docs/linux/文本处理.md",
-    "docs/半导体/参考.md",
+    "docs/半导体/串口通讯.md",
     "docs/linux/参考.md",
     "docs/中文优秀博客.md",
     "docs/opencv/参考.md",
