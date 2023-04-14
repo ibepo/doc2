@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "948c9da81742fb3f",
+        "id": "4c5c024d7c7fbd35",
         "type": "tabs",
         "children": [
           {
-            "id": "7b5a2d9f1333febd",
+            "id": "2312e625465fc6a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/半导体/51单片机.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efc408af4d9a132b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/linux/参考.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7b9093a33c98f22a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/linux/文本处理.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "675c087d00b48bce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/半导体/串口通讯.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +147,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "675c087d00b48bce",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
     "docs/linux/文本处理.md",
     "docs/半导体/串口通讯.md",
