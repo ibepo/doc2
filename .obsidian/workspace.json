@@ -51,7 +51,7 @@
               "state": {
                 "file": "docs/数学/傅里叶变换.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -190,6 +190,8 @@
   },
   "active": "558aeec9c41764cf",
   "lastOpenFiles": [
+    "docs/数学/image/Pasted image 20230414152718.png",
+    "docs/数学/image",
     "docs/半导体/串口通讯.md",
     "docs/数学/傅里叶变换.md",
     "docs/数学",
@@ -225,7 +227,6 @@
     "docs/nvim/neovim.md",
     "docs/nvim/安装.md",
     "docs/nvim/mapping鉴赏.md",
-    "docs/nvim/telescope.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/待整理",
     "docs/linux命令",
@@ -235,7 +236,6 @@
     "docs/ssh/image",
     "docs/cpp/image/Pasted image 20230406161126.png",
     "docs/cpp/image/Pasted image 20230406105636.png",
-    "docs/cpp/image",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
