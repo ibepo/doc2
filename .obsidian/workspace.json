@@ -39,7 +39,7 @@
               "state": {
                 "file": "docs/半导体/串口通讯.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
