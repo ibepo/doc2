@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7b9093a33c98f22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/linux/文本处理.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/参考.md",
+                "file": "docs/linux/文本处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/参考.md",
+                "file": "docs/linux/文本处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/参考.md"
+                "file": "docs/linux/文本处理.md"
               }
             }
           }
@@ -164,8 +176,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "efc408af4d9a132b",
+  "active": "7b9093a33c98f22a",
   "lastOpenFiles": [
+    "docs/linux/参考.md",
+    "docs/linux/文本处理.md",
     "docs/中文优秀博客.md",
     "docs/opencv/参考.md",
     "docs/电子爱好/51单片机.md",
@@ -200,8 +214,6 @@
     "docs/nginx/命令.md",
     "docs/nginx/ssl.md",
     "docs/archlinux/参考.md",
-    "docs/archlinux/pacman.md",
-    "docs/chatgpt.md",
     "docs/待整理",
     "docs/linux命令",
     "docs/ssh/image/Pasted image 20230407114911.png",
