@@ -27,7 +27,7 @@
               "state": {
                 "file": "docs/opencv/参考.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
