@@ -73,9 +73,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/c/参考.md",
+                "file": "docs/半导体/51单片机.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/c/参考.md",
+                "file": "docs/半导体/51单片机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/c/参考.md",
+                "file": "docs/半导体/51单片机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/c/参考.md"
+                "file": "docs/半导体/51单片机.md"
               }
             }
           }
@@ -214,8 +214,9 @@
   },
   "active": "5896d5ba3ec62fb3",
   "lastOpenFiles": [
-    "docs/c.md",
+    "docs/半导体/image/Pasted image 20230417093447.png",
     "docs/c/参考.md",
+    "docs/c.md",
     "docs/c",
     "docs/cpp/参考.md",
     "docs/cpp/总结.md",
@@ -252,7 +253,6 @@
     "docs/cpp/image/Pasted image 20230412154420.png",
     "docs/cpp/image/Pasted image 20230412141050.png",
     "docs/cpp/image/Pasted image 20230412135848.png",
-    "docs/nvim/参考.md",
     "docs/nginx/Pasted image 20230313092120.png",
     "docs/待整理",
     "docs/linux命令",
