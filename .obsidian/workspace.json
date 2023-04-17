@@ -75,7 +75,7 @@
               "state": {
                 "file": "docs/半导体/51单片机.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
