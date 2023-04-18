@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/半导体/51单片机.md",
+                "file": "docs/python/opencv.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "opencv",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -149,7 +149,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/半导体/51单片机.md",
+                "file": "docs/python/opencv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/半导体/51单片机.md",
+                "file": "docs/python/opencv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/半导体/51单片机.md"
+                "file": "docs/python/opencv.md"
               }
             }
           }
@@ -226,13 +227,13 @@
   },
   "active": "a5fdbd43d68dbca0",
   "lastOpenFiles": [
+    "docs/半导体/51单片机.md",
     "docs/工具网站.md",
     "docs/未命名.md",
     "docs/数学/傅里叶变换.md",
     "docs/未命名",
     "docs/半导体/模拟电路.md",
     "docs/半导体/image/Pasted image 20230417101046.png",
-    "docs/半导体/51单片机.md",
     "docs/半导体/image/Pasted image 20230417093447.png",
     "docs/c/参考.md",
     "docs/c.md",
