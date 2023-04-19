@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e2f1df16ce173df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/数学/对数.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/考研数学张宇.md",
+                "file": "docs/数学/对数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/考研数学张宇.md",
+                "file": "docs/数学/对数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/考研数学张宇.md"
+                "file": "docs/数学/对数.md"
               }
             }
           }
@@ -260,10 +272,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e5517dd37754fb3a",
+  "active": "6e2f1df16ce173df",
   "lastOpenFiles": [
-    "docs/数学/泰勒展开.md",
     "docs/数学/考研数学张宇.md",
+    "docs/数学/对数.md",
+    "docs/数学/未命名",
+    "docs/数学/泰勒展开.md",
     "docs/半导体/模拟电路.md",
     "docs/待整理/webusb.md",
     "docs/待整理/服务器环境配置.md",
@@ -295,7 +309,6 @@
     "docs/opencv/opencv.md",
     "docs/烹饪手册/手册1.md",
     "docs/opencv",
-    "docs/AI/cv2.md",
     "docs/半导体/image/Pasted image 20230413141518.png",
     "docs/半导体/image",
     "docs/烹饪手册",
@@ -305,7 +318,6 @@
     "docs/cpp/image/Pasted image 20230412141050.png",
     "docs/cpp/image/Pasted image 20230412135848.png",
     "docs/nginx/Pasted image 20230313092120.png",
-    "docs/待整理",
     "docs/ssh/image/Pasted image 20230407114911.png",
     "docs/ssh/image/Pasted image 20230407111918.png",
     "未命名.canvas",
