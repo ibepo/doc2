@@ -150,9 +150,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "59c3e343888ed568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/数学/微积分.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/三角函数.md",
+                "file": "docs/数学/微积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/三角函数.md",
+                "file": "docs/数学/微积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/三角函数.md"
+                "file": "docs/数学/微积分.md"
               }
             }
           }
@@ -284,13 +296,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e43fabab9dee5129",
+  "active": "59c3e343888ed568",
   "lastOpenFiles": [
+    "docs/数学/三角函数.md",
+    "docs/数学/微积分.md",
     "docs/数学/image/Pasted image 20230420105828.png",
     "docs/数学/image/Pasted image 20230420103008.png",
     "docs/数学/image/Pasted image 20230420102458.png",
     "docs/数学/对数.md",
-    "docs/数学/三角函数.md",
     "docs/数学/考研数学张宇.md",
     "docs/数学/未命名",
     "docs/数学/泰勒展开.md",
@@ -331,7 +344,6 @@
     "docs/cpp/image/Pasted image 20230412154420.png",
     "docs/cpp/image/Pasted image 20230412141050.png",
     "docs/cpp/image/Pasted image 20230412135848.png",
-    "docs/nginx/Pasted image 20230313092120.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
