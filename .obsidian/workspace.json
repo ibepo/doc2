@@ -147,7 +147,7 @@
               "state": {
                 "file": "docs/数学/三角函数.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -286,6 +286,7 @@
   },
   "active": "e43fabab9dee5129",
   "lastOpenFiles": [
+    "docs/数学/image/Pasted image 20230420105828.png",
     "docs/数学/image/Pasted image 20230420103008.png",
     "docs/数学/image/Pasted image 20230420102458.png",
     "docs/数学/对数.md",
@@ -331,7 +332,6 @@
     "docs/cpp/image/Pasted image 20230412141050.png",
     "docs/cpp/image/Pasted image 20230412135848.png",
     "docs/nginx/Pasted image 20230313092120.png",
-    "docs/ssh/image/Pasted image 20230407114911.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
