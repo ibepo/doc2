@@ -147,7 +147,7 @@
               "state": {
                 "file": "docs/数学/三角函数.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -286,6 +286,7 @@
   },
   "active": "e43fabab9dee5129",
   "lastOpenFiles": [
+    "docs/数学/image/Pasted image 20230420102458.png",
     "docs/数学/对数.md",
     "docs/数学/三角函数.md",
     "docs/数学/考研数学张宇.md",
@@ -319,7 +320,6 @@
     "docs/linux/参考.md",
     "docs/中文优秀博客.md",
     "docs/opencv/参考.md",
-    "docs/opencv/opencv.md",
     "docs/opencv",
     "docs/半导体/image/Pasted image 20230413141518.png",
     "docs/半导体/image",
