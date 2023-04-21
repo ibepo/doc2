@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/待整理/服务器环境配置.md",
+                "file": "docs/中文优秀博客.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -175,8 +175,7 @@
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/mysql/explain.md",
+                "file": "docs/中文优秀博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/mysql/explain.md",
+                "file": "docs/中文优秀博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mysql/explain.md"
+                "file": "docs/中文优秀博客.md"
               }
             }
           }
@@ -308,8 +307,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "2312e625465fc6a7",
   "lastOpenFiles": [
+    "docs/待整理/服务器环境配置.md",
     "docs/vscode",
     "docs/工具网站.md",
     "docs/mysql/explain.md",
@@ -324,7 +324,6 @@
     "docs/数学/泰勒展开.md",
     "docs/半导体/模拟电路.md",
     "docs/待整理/webusb.md",
-    "docs/待整理/服务器环境配置.md",
     "docs/待整理/WLS2.md",
     "docs/python/opencv.md",
     "docs/半导体/51单片机.md",
