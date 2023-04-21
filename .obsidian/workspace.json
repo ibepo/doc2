@@ -162,9 +162,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4b0382e079f93508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/mysql/explain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -241,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/工具网站.md",
+                "file": "docs/mysql/explain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/工具网站.md",
+                "file": "docs/mysql/explain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/工具网站.md"
+                "file": "docs/mysql/explain.md"
               }
             }
           }
@@ -296,8 +308,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "59c3e343888ed568",
+  "active": "4b0382e079f93508",
   "lastOpenFiles": [
+    "docs/工具网站.md",
+    "docs/mysql/explain.md",
     "docs/数学/微积分.md",
     "docs/数学/三角函数.md",
     "docs/数学/image/Pasted image 20230420105828.png",
@@ -313,7 +327,6 @@
     "docs/待整理/WLS2.md",
     "docs/python/opencv.md",
     "docs/半导体/51单片机.md",
-    "docs/工具网站.md",
     "docs/未命名.md",
     "docs/数学/傅里叶变换.md",
     "docs/未命名",
@@ -334,7 +347,6 @@
     "docs/linux/文本处理.md",
     "docs/linux/参考.md",
     "docs/中文优秀博客.md",
-    "docs/opencv/参考.md",
     "docs/opencv",
     "docs/半导体/image/Pasted image 20230413141518.png",
     "docs/半导体/image",

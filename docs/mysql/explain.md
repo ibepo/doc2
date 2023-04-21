@@ -1,0 +1,8 @@
+查询计划中，查看优化后的语句
+```shell
+EXPLAIN 
+	EXTENDED
+SELECT * FROM demo INNER JOIN WHERE id= 394427013860954112 OR id =5
+;
+SHOW WARNINGS;
+```
