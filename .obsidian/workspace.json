@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/install.md",
+                "file": "docs/ssh/ssh.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9469e33fbfa010f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/部署/ubuntu18.04.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/install.md",
+                "file": "docs/部署/ubuntu18.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/install.md",
+                "file": "docs/部署/ubuntu18.04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/install.md"
+                "file": "docs/部署/ubuntu18.04.md"
               }
             }
           }
@@ -153,8 +165,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2f9a4fe722e7b0d9",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/ssh/ssh.md",
+    "docs/部署/ubuntu18.04.md",
+    "docs/archlinux/install.md",
+    "docs/ssh/ssh免密登录.md",
     "docs/mac/homebrew.md",
     "docs/git/git.md",
     "docs/weekly/202303201452.md",
@@ -184,11 +200,7 @@
     "docs/数学/傅里叶变换.md",
     "docs/半导体/image/Pasted image 20230417101046.png",
     "docs/半导体/image/Pasted image 20230417093447.png",
-    "docs/c/参考.md",
-    "docs/c.md",
     "docs/c",
-    "docs/cpp/参考.md",
-    "docs/cpp/总结.md",
     "docs/数学/image/Pasted image 20230414152718.png",
     "docs/数学/image",
     "docs/数学",
