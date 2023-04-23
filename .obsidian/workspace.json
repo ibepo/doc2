@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/docker/gl's docker.md",
+                "file": "docs/docker/安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/gl's docker.md",
+                "file": "docs/docker/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/gl's docker.md",
+                "file": "docs/docker/安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/gl's docker.md"
+                "file": "docs/docker/安装.md"
               }
             }
           }
@@ -154,19 +154,19 @@
   },
   "active": "5b3295139fd94155",
   "lastOpenFiles": [
+    "docs/docker/dockerLegacy.md",
+    "docs/docker/docker常用部署.md",
+    "docs/docker/docker构建.md",
+    "docs/docker/参考.md",
+    "docs/docker/gl's docker.md",
     "docs/archlinux/clash.md",
     "docs/weekly/202303201452.md",
     "docs/部署/ubuntu18.04.md",
     "docs/wiki.md",
     "docs/ssh/ssh.md",
     "docs/docker/安装.md",
-    "docs/docker/dockerLegacy.md",
-    "docs/docker/docker常用部署.md",
-    "docs/docker/docker构建.md",
-    "docs/docker/参考.md",
     "docs/docker/docker compose.md",
     "docs/docker/docker 命令行.md",
-    "docs/docker/gl's docker.md",
     "docs/archlinux/install.md",
     "docs/ssh/ssh免密登录.md",
     "docs/mac/homebrew.md",
