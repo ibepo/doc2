@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/短语.md",
+                "file": "docs/archlinux/install.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "opencv",
+                "query": "ssh",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/短语.md",
+                "file": "docs/archlinux/install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/短语.md",
+                "file": "docs/archlinux/install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/短语.md"
+                "file": "docs/archlinux/install.md"
               }
             }
           }
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,10 +153,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5b3295139fd94155",
+  "active": "2f9a4fe722e7b0d9",
   "lastOpenFiles": [
-    "docs/English/参考.md",
+    "docs/mac/homebrew.md",
+    "docs/git/git.md",
+    "docs/weekly/202303201452.md",
     "docs/English/短语.md",
+    "docs/English/参考.md",
     "docs/docker/gl's docker.md",
     "docs/中文优秀博客.md",
     "docs/待整理/服务器环境配置.md",
@@ -184,12 +189,9 @@
     "docs/c",
     "docs/cpp/参考.md",
     "docs/cpp/总结.md",
-    "docs/cpp/c和指针.md",
     "docs/数学/image/Pasted image 20230414152718.png",
     "docs/数学/image",
-    "docs/半导体/串口通讯.md",
     "docs/数学",
-    "docs/半导体/UART.md",
     "docs/opencv",
     "docs/半导体/image/Pasted image 20230413141518.png",
     "docs/半导体/image",
