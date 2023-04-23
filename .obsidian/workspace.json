@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/wiki.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "修改主机",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md"
+                "file": "docs/wiki.md"
               }
             }
           }
@@ -165,10 +166,18 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "9469e33fbfa010f3",
   "lastOpenFiles": [
-    "docs/ssh/ssh.md",
+    "docs/docker/安装.md",
+    "docs/docker/dockerLegacy.md",
+    "docs/docker/docker常用部署.md",
+    "docs/docker/docker构建.md",
+    "docs/docker/参考.md",
+    "docs/docker/docker compose.md",
+    "docs/docker/docker 命令行.md",
+    "docs/docker/gl's docker.md",
     "docs/部署/ubuntu18.04.md",
+    "docs/ssh/ssh.md",
     "docs/archlinux/install.md",
     "docs/ssh/ssh免密登录.md",
     "docs/mac/homebrew.md",
@@ -176,7 +185,6 @@
     "docs/weekly/202303201452.md",
     "docs/English/短语.md",
     "docs/English/参考.md",
-    "docs/docker/gl's docker.md",
     "docs/中文优秀博客.md",
     "docs/待整理/服务器环境配置.md",
     "docs/vscode",
@@ -191,13 +199,6 @@
     "docs/数学/考研数学张宇.md",
     "docs/数学/未命名",
     "docs/数学/泰勒展开.md",
-    "docs/半导体/模拟电路.md",
-    "docs/待整理/webusb.md",
-    "docs/待整理/WLS2.md",
-    "docs/python/opencv.md",
-    "docs/半导体/51单片机.md",
-    "docs/未命名.md",
-    "docs/数学/傅里叶变换.md",
     "docs/半导体/image/Pasted image 20230417101046.png",
     "docs/半导体/image/Pasted image 20230417093447.png",
     "docs/c",
