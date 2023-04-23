@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/docker/gl's docker.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fzf",
+                "query": "docker compose",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/docker/gl's docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/docker/gl's docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md"
+                "file": "docs/docker/gl's docker.md"
               }
             }
           }
@@ -167,9 +168,10 @@
   },
   "active": "adba90572509c834",
   "lastOpenFiles": [
+    "docs/docker/docker compose.md",
+    "docs/部署/ubuntu18.04.md",
     "docs/archlinux/install.md",
     "docs/archlinux/lf.md",
-    "docs/部署/ubuntu18.04.md",
     "docs/部署/centos部署.md",
     "docs/部署/nginx.md",
     "docs/docker/安装.md",
@@ -182,7 +184,6 @@
     "docs/weekly/202303201452.md",
     "docs/wiki.md",
     "docs/ssh/ssh.md",
-    "docs/docker/docker compose.md",
     "docs/docker/docker 命令行.md",
     "docs/ssh/ssh免密登录.md",
     "docs/mac/homebrew.md",
