@@ -9,6 +9,9 @@
 6# ln -s /usr/local/bin/docker-compose /usr/bin/dockerc
 ```
 
+```shell
+sudo apt-get install docker-compose
+```
 ### 概述 
 
 docker-compose的完整命令的用法是：
