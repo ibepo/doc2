@@ -4,174 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4c5c024d7c7fbd35",
+        "id": "c0e855874fc23ab1",
         "type": "tabs",
         "children": [
           {
-            "id": "2312e625465fc6a7",
+            "id": "5b3295139fd94155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/中文优秀博客.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ece8ff263dc7d2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/待整理/WLS2.md",
+                "file": "docs/English/短语.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "2afb1a21f2bc8862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/半导体/串口通讯.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "558aeec9c41764cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/cpp/总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "605783d8150f783d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/cpp/参考.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5896d5ba3ec62fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/半导体/51单片机.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a5fdbd43d68dbca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/待整理/服务器环境配置.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e3a1510341b186b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/半导体/模拟电路.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "43ee0352b51aaaa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/泰勒展开.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e5517dd37754fb3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/考研数学张宇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e2f1df16ce173df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/对数.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e43fabab9dee5129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/三角函数.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "59c3e343888ed568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/工具网站.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4b0382e079f93508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/mysql/explain.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -236,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 218.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -252,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/English/短语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/中文优秀博客.md",
+                "file": "docs/English/短语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/中文优秀博客.md"
+                "file": "docs/English/短语.md"
               }
             }
           }
@@ -307,8 +151,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2312e625465fc6a7",
+  "active": "5b3295139fd94155",
   "lastOpenFiles": [
+    "docs/English/参考.md",
+    "docs/English/短语.md",
+    "docs/docker/gl's docker.md",
+    "docs/中文优秀博客.md",
     "docs/待整理/服务器环境配置.md",
     "docs/vscode",
     "docs/工具网站.md",
@@ -342,9 +190,6 @@
     "docs/半导体/串口通讯.md",
     "docs/数学",
     "docs/半导体/UART.md",
-    "docs/网络安全/参考.md",
-    "docs/linux/文本处理.md",
-    "docs/linux/参考.md",
     "docs/opencv",
     "docs/半导体/image/Pasted image 20230413141518.png",
     "docs/半导体/image",
