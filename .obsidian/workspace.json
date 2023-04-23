@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/archlinux/install.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "adba90572509c834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/部署/ubuntu18.04.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "fzf",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -152,11 +165,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a225286d5ea4a75f",
+  "active": "adba90572509c834",
   "lastOpenFiles": [
+    "docs/archlinux/install.md",
+    "docs/archlinux/lf.md",
+    "docs/部署/ubuntu18.04.md",
     "docs/部署/centos部署.md",
     "docs/部署/nginx.md",
-    "docs/部署/ubuntu18.04.md",
     "docs/docker/安装.md",
     "docs/docker/dockerLegacy.md",
     "docs/docker/docker常用部署.md",
@@ -169,7 +184,6 @@
     "docs/ssh/ssh.md",
     "docs/docker/docker compose.md",
     "docs/docker/docker 命令行.md",
-    "docs/archlinux/install.md",
     "docs/ssh/ssh免密登录.md",
     "docs/mac/homebrew.md",
     "docs/git/git.md",
@@ -180,7 +194,6 @@
     "docs/vscode",
     "docs/工具网站.md",
     "docs/mysql/explain.md",
-    "docs/数学/微积分.md",
     "docs/数学/image/Pasted image 20230420105828.png",
     "docs/数学/image/Pasted image 20230420103008.png",
     "docs/数学/image/Pasted image 20230420102458.png",
