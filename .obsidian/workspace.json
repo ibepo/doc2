@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a225286d5ea4a75f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/archlinux/install.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b24b01e2ac6aa098",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "adba90572509c834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/docker/gl's docker.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
