@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/网页收藏/烹饪手册.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -155,8 +155,9 @@
   },
   "active": "5e9c02a7f5b76bd7",
   "lastOpenFiles": [
-    "docs/通用配置/前端项目的配置文件.md",
+    "docs/网页收藏/wikipedia.md",
     "docs/网页收藏/烹饪手册.md",
+    "docs/通用配置/前端项目的配置文件.md",
     "docs/折腾",
     "docs/网页收藏/中文优秀博客.md",
     "docs/工具链",
@@ -165,7 +166,6 @@
     "docs/杂项/你说的对.md",
     "docs/image/Pasted image 20230317085921.png",
     "docs/网页收藏/网络安全.md",
-    "docs/网页收藏/wikipedia.md",
     "docs/网页收藏/chatgpt.md",
     "docs/部署/ubuntu18.04.md",
     "docs/网页收藏",
