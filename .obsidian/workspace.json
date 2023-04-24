@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2c9fdbf2e88260",
+        "id": "125188fd3542b93e",
         "type": "tabs",
         "children": [
           {
-            "id": "0c01e03ec0c9ff37",
+            "id": "83df753a88460d57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -153,15 +153,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0c01e03ec0c9ff37",
+  "active": "83df753a88460d57",
   "lastOpenFiles": [
+    "2023-04-24.md",
+    "docs/index.md",
     "docs/网页收藏/烹饪手册.md",
     "docs/网页收藏/工具网站.md",
     "docs/网页收藏/中文优秀博客.md",
     "docs/网页收藏/wikipedia.md",
     "docs/网页收藏/小主题.md",
     "docs/网页收藏/chatgpt.md",
-    "docs/index.md",
     "docs/weekly/202303140938.md",
     "docs/weekly/202303151505.md",
     "docs/weekly/202303171116.md",
