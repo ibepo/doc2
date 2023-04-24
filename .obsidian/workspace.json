@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/website/个人站.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
