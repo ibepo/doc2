@@ -1,19 +1,15 @@
-# https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
 site_name: ibepo's wiki
 theme:
   name: material
-  # name: terminal
   shortcuts:
     help: 191 # ?
     next: 78 # n
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: red
-    # scheme: slate
+    primary: black
   language: zh
   icon:
-    # logo: material/vector-line
     logo: material/function-variant
   features:
     - navigation.expand
@@ -35,9 +31,9 @@ markdown_extensions:
 
 
   - admonition
-  - codehilite:
-      guess_lang: false
-      linenums: false
+  # - codehilite:
+  #     guess_lang: false
+  #     linenums: false
   - footnotes
   - meta
   - def_list
