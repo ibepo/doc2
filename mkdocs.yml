@@ -22,6 +22,7 @@ theme:
     - navigation.path
     - toc.follow
 markdown_extensions:
+  - tables
   - attr_list
   - pymdownx.tabbed
   - nl2br
