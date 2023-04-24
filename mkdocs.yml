@@ -21,6 +21,7 @@ theme:
     - navigation.tracking
     - navigation.path
     - toc.follow
+    - header.autohide
 markdown_extensions:
   - tables
   - attr_list
