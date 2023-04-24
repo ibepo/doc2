@@ -10,7 +10,7 @@ theme:
     search: 83 # s
   palette:
     primary: red
-    scheme: slate
+    # scheme: slate
   language: zh
   icon:
     # logo: material/vector-line
