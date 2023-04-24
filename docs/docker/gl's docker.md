@@ -321,7 +321,6 @@ docker cp 容器id:/a.txt ./
 #通过ls 命令查看存在a.txt文件已经拷贝成功了
 #cat a.txt 会输出from ubuntu
 导出容器 docker export 容器id > 文件名.tar
-
 #注意导出是不会停掉正在运行的容器的
 docker export ubuntu容器id > ubuntu.tar
 #ubuntu容器仍然在运行
@@ -336,7 +335,7 @@ docker ps -a
 cat ubuntu.tar | docker import -test/test:0.1.0
 #导入完成后会看到sha256的id输出 使用
 docker images
-#查看全部的镜像会看到刚导入的镜像
+#查看全部的镜像会看到刚导入的镜像li dang
 镜像
 是一种轻量级，可独立的独立软件包，它包含运行某个应用程序所需的所有内容，把应用程序和配置依赖打包成一个可交付的运行环境，这个打包好的运行环境就简称为镜像
 

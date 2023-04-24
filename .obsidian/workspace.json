@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/docker/docker常用部署.md",
+                "file": "docs/docker/gl's docker.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "compose",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/docker常用部署.md",
+                "file": "docs/docker/gl's docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/docker常用部署.md",
+                "file": "docs/docker/gl's docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/docker常用部署.md"
+                "file": "docs/docker/gl's docker.md"
               }
             }
           }
@@ -154,19 +155,19 @@
   },
   "active": "b24b01e2ac6aa098",
   "lastOpenFiles": [
-    "docs/docker/docker构建.md",
+    "docs/docker/dockerLegacy.md",
     "docs/docker/docker compose.md",
     "docs/docker/docker常用部署.md",
+    "docs/docker/docker构建.md",
+    "docs/docker/gl's docker.md",
     "docs/archlinux/clash.md",
     "docs/weekly/202303201452.md",
     "docs/部署/ubuntu18.04.md",
     "docs/archlinux/install.md",
-    "docs/docker/gl's docker.md",
     "docs/archlinux/lf.md",
     "docs/部署/centos部署.md",
     "docs/部署/nginx.md",
     "docs/docker/安装.md",
-    "docs/docker/dockerLegacy.md",
     "docs/docker/参考.md",
     "docs/wiki.md",
     "docs/ssh/ssh.md",
