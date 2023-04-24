@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/人工智能/参考.md",
+                "file": "docs/网站们/个人站.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/人工智能/参考.md",
+                "file": "docs/网站们/个人站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/人工智能/参考.md",
+                "file": "docs/网站们/个人站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/人工智能/参考.md"
+                "file": "docs/网站们/个人站.md"
               }
             }
           }
@@ -155,16 +155,17 @@
   },
   "active": "465b1adb7725a701",
   "lastOpenFiles": [
+    "docs/网站们/烹饪手册.md",
+    "docs/人工智能/参考.md",
     "docs/人工智能/jetson.md",
     "docs/人工智能/image/Pasted image 20230424151515.png",
     "docs/人工智能/image/Pasted image 20230424150436.png",
     "docs/math/欧拉回路，欧拉路径.md",
     "docs/工具链/git/git clone.md",
     "docs/工具链/git/git.md",
-    "docs/website/烹饪手册.md",
-    "docs/website/个人站.md",
-    "docs/website/工具网站.md",
-    "docs/website/主题分列.md",
+    "docs/网站们/个人站.md",
+    "docs/网站们/工具网站.md",
+    "docs/网站们/主题分列.md",
     "docs/website/wikipedia.md",
     "docs/待整理/table示例.md",
     "docs/index.md",
@@ -186,10 +187,9 @@
     "未命名",
     "docs/杂项/你说的对.md",
     "docs/部署/ubuntu18.04.md",
-    "docs/website",
+    "docs/网站们",
     "docs/运维知识/docker/gl's docker.md",
     "docs/运维知识/docker/dockerLegacy.md",
-    "docs/运维知识/docker/docker compose.md",
     "docs/工具链/vscode",
     "docs/math/image/Pasted image 20230420105828.png",
     "docs/math/image/Pasted image 20230420103008.png",
