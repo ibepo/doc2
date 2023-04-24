@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/人工智能/jetson.md",
+                "file": "docs/人工智能/参考.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/人工智能/jetson.md",
+                "file": "docs/人工智能/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/人工智能/jetson.md",
+                "file": "docs/人工智能/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/人工智能/jetson.md"
+                "file": "docs/人工智能/参考.md"
               }
             }
           }
@@ -155,6 +155,8 @@
   },
   "active": "465b1adb7725a701",
   "lastOpenFiles": [
+    "docs/人工智能/jetson.md",
+    "docs/人工智能/image/Pasted image 20230424151515.png",
     "docs/人工智能/image/Pasted image 20230424150436.png",
     "docs/math/欧拉回路，欧拉路径.md",
     "docs/工具链/git/git clone.md",
@@ -199,8 +201,6 @@
     "docs/math/image/Pasted image 20230414152718.png",
     "docs/math/image",
     "docs/半导体/image/Pasted image 20230413141518.png",
-    "docs/lang/cpp/image/Pasted image 20230412154420.png",
-    "docs/lang/cpp/image/Pasted image 20230412141050.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
