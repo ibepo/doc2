@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/website/个人站.md",
+                "file": "docs/website/烹饪手册.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/website/个人站.md",
+                "file": "docs/website/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/website/个人站.md",
+                "file": "docs/website/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/website/个人站.md"
+                "file": "docs/website/烹饪手册.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "86a152491f61596d",
   "lastOpenFiles": [
-    "docs/website/工具网站.md",
     "docs/website/个人站.md",
+    "docs/website/工具网站.md",
     "docs/website/烹饪手册.md",
     "docs/website/主题分列.md",
     "docs/website/wikipedia.md",
