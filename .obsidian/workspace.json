@@ -152,8 +152,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b24b01e2ac6aa098",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/lang",
+    "未命名",
     "docs/你说的对.md",
     "docs/image/Pasted image 20230317085921.png",
     "docs/网页收藏/网络安全.md",
@@ -162,7 +164,6 @@
     "docs/网页收藏/烹饪手册.md",
     "docs/部署/ubuntu18.04.md",
     "docs/网页收藏",
-    "未命名",
     "docs/docker/gl's docker.md",
     "docs/docker/dockerLegacy.md",
     "docs/docker/docker compose.md",
@@ -182,7 +183,6 @@
     "docs/ssh/ssh免密登录.md",
     "docs/mac/homebrew.md",
     "docs/git/git.md",
-    "docs/English/短语.md",
     "docs/vscode",
     "docs/数学/image/Pasted image 20230420105828.png",
     "docs/数学/image/Pasted image 20230420103008.png",
@@ -190,7 +190,7 @@
     "docs/数学/未命名",
     "docs/半导体/image/Pasted image 20230417101046.png",
     "docs/半导体/image/Pasted image 20230417093447.png",
-    "docs/c",
+    "docs/lang/c",
     "docs/数学/image/Pasted image 20230414152718.png",
     "docs/数学/image",
     "docs/数学",
