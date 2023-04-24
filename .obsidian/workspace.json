@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/待整理/table示例.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/待整理/table示例.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/待整理/table示例.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/待整理/table示例.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -166,10 +165,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "86a152491f61596d",
+  "active": "83df753a88460d57",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/待整理/table示例.md",
+    "docs/index.md",
     "2023-04-24.md",
     "docs/网页收藏/烹饪手册.md",
     "docs/网页收藏/工具网站.md",
