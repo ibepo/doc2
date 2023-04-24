@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网页收藏/烹饪手册.md",
+                "file": "docs/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网页收藏/烹饪手册.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网页收藏/烹饪手册.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网页收藏/烹饪手册.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -153,11 +153,19 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "5e9c02a7f5b76bd7",
   "lastOpenFiles": [
-    "docs/未命名",
-    "docs/网页收藏/网络安全.md",
+    "docs/weekly/202303140938.md",
+    "docs/weekly/202303151505.md",
+    "docs/weekly/202303171116.md",
+    "docs/weekly/202303201452.md",
+    "docs/weekly/202303241217.md",
+    "docs/weekly/202303280841.md",
+    "docs/image/Pasted image 20230317085921.png",
+    "docs/微信读书/微信读书.md",
     "docs/网页收藏/烹饪手册.md",
+    "docs/运维知识",
+    "docs/网页收藏/网络安全.md",
     "docs/网页收藏/wikipedia.md",
     "docs/通用配置/前端项目的配置文件.md",
     "docs/折腾",
@@ -166,27 +174,20 @@
     "docs/lang",
     "未命名",
     "docs/杂项/你说的对.md",
-    "docs/image/Pasted image 20230317085921.png",
     "docs/网页收藏/chatgpt.md",
     "docs/部署/ubuntu18.04.md",
     "docs/网页收藏",
-    "docs/docker/gl's docker.md",
-    "docs/docker/dockerLegacy.md",
-    "docs/docker/docker compose.md",
-    "docs/docker/docker常用部署.md",
-    "docs/docker/docker构建.md",
+    "docs/运维知识/docker/gl's docker.md",
+    "docs/运维知识/docker/dockerLegacy.md",
+    "docs/运维知识/docker/docker compose.md",
+    "docs/运维知识/docker/docker常用部署.md",
+    "docs/运维知识/docker/docker构建.md",
     "docs/archlinux/clash.md",
-    "docs/weekly/202303201452.md",
     "docs/archlinux/install.md",
     "docs/archlinux/lf.md",
     "docs/部署/centos部署.md",
     "docs/部署/nginx.md",
-    "docs/docker/安装.md",
-    "docs/docker/参考.md",
-    "docs/待整理/wiki.md",
-    "docs/linux/ssh/ssh.md",
-    "docs/docker/docker 命令行.md",
-    "docs/linux/ssh/ssh免密登录.md",
+    "docs/运维知识/docker/安装.md",
     "docs/工具链/vscode",
     "docs/math/image/Pasted image 20230420105828.png",
     "docs/math/image/Pasted image 20230420103008.png",
@@ -197,7 +198,6 @@
     "docs/lang/c",
     "docs/math/image/Pasted image 20230414152718.png",
     "docs/math/image",
-    "docs/math",
     "docs/半导体/image/Pasted image 20230413141518.png",
     "docs/lang/cpp/image/Pasted image 20230412154420.png",
     "docs/lang/cpp/image/Pasted image 20230412141050.png",
