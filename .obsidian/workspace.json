@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/math/欧拉回路，欧拉路径.md",
+                "file": "docs/人工智能/jetson.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/math/欧拉回路，欧拉路径.md",
+                "file": "docs/人工智能/jetson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/math/欧拉回路，欧拉路径.md",
+                "file": "docs/人工智能/jetson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/math/欧拉回路，欧拉路径.md"
+                "file": "docs/人工智能/jetson.md"
               }
             }
           }
@@ -153,10 +153,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "465b1adb7725a701",
   "lastOpenFiles": [
-    "docs/工具链/git/git clone.md",
+    "docs/人工智能/image/Pasted image 20230424150436.png",
     "docs/math/欧拉回路，欧拉路径.md",
+    "docs/工具链/git/git clone.md",
     "docs/工具链/git/git.md",
     "docs/website/烹饪手册.md",
     "docs/website/个人站.md",
@@ -187,7 +188,6 @@
     "docs/运维知识/docker/gl's docker.md",
     "docs/运维知识/docker/dockerLegacy.md",
     "docs/运维知识/docker/docker compose.md",
-    "docs/运维知识/docker/docker常用部署.md",
     "docs/工具链/vscode",
     "docs/math/image/Pasted image 20230420105828.png",
     "docs/math/image/Pasted image 20230420103008.png",
