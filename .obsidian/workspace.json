@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/docker/gl's docker.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docker/gl's docker.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docker/gl's docker.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/docker/gl's docker.md"
+                "file": "docs/网页收藏/烹饪手册.md"
               }
             }
           }
@@ -153,16 +152,18 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b24b01e2ac6aa098",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/部署/ubuntu18.04.md",
+    "docs/网页收藏",
+    "未命名",
+    "docs/docker/gl's docker.md",
     "docs/docker/dockerLegacy.md",
     "docs/docker/docker compose.md",
     "docs/docker/docker常用部署.md",
     "docs/docker/docker构建.md",
-    "docs/docker/gl's docker.md",
     "docs/archlinux/clash.md",
     "docs/weekly/202303201452.md",
-    "docs/部署/ubuntu18.04.md",
     "docs/archlinux/install.md",
     "docs/archlinux/lf.md",
     "docs/部署/centos部署.md",
@@ -177,11 +178,10 @@
     "docs/git/git.md",
     "docs/English/短语.md",
     "docs/English/参考.md",
-    "docs/中文优秀博客.md",
+    "docs/网页收藏/中文优秀博客.md",
     "docs/待整理/服务器环境配置.md",
     "docs/vscode",
-    "docs/工具网站.md",
-    "docs/mysql/explain.md",
+    "docs/网页收藏/工具网站.md",
     "docs/数学/image/Pasted image 20230420105828.png",
     "docs/数学/image/Pasted image 20230420103008.png",
     "docs/数学/image/Pasted image 20230420102458.png",
@@ -196,8 +196,6 @@
     "docs/半导体/image/Pasted image 20230413141518.png",
     "docs/半导体/image",
     "docs/烹饪手册",
-    "docs/半导体",
-    "docs/网络安全",
     "docs/cpp/image/Pasted image 20230412154420.png",
     "docs/cpp/image/Pasted image 20230412141050.png",
     "docs/cpp/image/Pasted image 20230412135848.png",
