@@ -12,8 +12,8 @@ theme:
     primary: red
   language: zh
   icon:
-    # logo: material/library-shelves
-    logo: material/vector-line
+    # logo: material/vector-line
+    logo: function-variant
   features:
     - navigation.expand
     - navigation.indexes
