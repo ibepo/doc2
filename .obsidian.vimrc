@@ -13,3 +13,5 @@ exmap togglefold obcommand editor:toggle-fold
 nmap zo :togglefold
 nmap zc :togglefold
 nmap za :togglefold
+set clipboard=unnamed
+
