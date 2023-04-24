@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "465b1adb7725a701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/math/欧拉回路，欧拉路径.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/工具链/git/git clone.md",
+                "file": "docs/math/欧拉回路，欧拉路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/工具链/git/git clone.md",
+                "file": "docs/math/欧拉回路，欧拉路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/工具链/git/git clone.md"
+                "file": "docs/math/欧拉回路，欧拉路径.md"
               }
             }
           }
@@ -166,10 +178,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "67508a0cd6c790d6",
+  "active": "465b1adb7725a701",
   "lastOpenFiles": [
-    "docs/工具链/git/git.md",
     "docs/工具链/git/git clone.md",
+    "docs/math/欧拉回路，欧拉路径.md",
+    "docs/工具链/git/git.md",
     "docs/website/烹饪手册.md",
     "docs/website/个人站.md",
     "docs/website/工具网站.md",
@@ -200,7 +213,6 @@
     "docs/运维知识/docker/dockerLegacy.md",
     "docs/运维知识/docker/docker compose.md",
     "docs/运维知识/docker/docker常用部署.md",
-    "docs/运维知识/docker/docker构建.md",
     "docs/工具链/vscode",
     "docs/math/image/Pasted image 20230420105828.png",
     "docs/math/image/Pasted image 20230420103008.png",
