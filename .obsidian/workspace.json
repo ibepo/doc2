@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ed1a4618f2b12f3c",
+        "id": "b0eb7ccb76636913",
         "type": "tabs",
         "children": [
           {
-            "id": "4cdb862a7f34752e",
+            "id": "5e9c02a7f5b76bd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/网页收藏/烹饪手册.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/网页收藏/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/网页收藏/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/网页收藏/烹饪手册.md"
+              }
             }
           }
         ],
@@ -145,7 +153,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4cdb862a7f34752e",
+  "active": "5e9c02a7f5b76bd7",
   "lastOpenFiles": [
     "docs/通用配置/前端项目的配置文件.md",
     "docs/网页收藏/烹饪手册.md",
