@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/website/烹饪手册.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
