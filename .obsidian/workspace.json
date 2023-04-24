@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0eb7ccb76636913",
+        "id": "3b2c9fdbf2e88260",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9c02a7f5b76bd7",
+            "id": "0c01e03ec0c9ff37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/网页收藏/烹饪手册.md"
               }
             }
           }
@@ -153,8 +153,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5e9c02a7f5b76bd7",
+  "active": "0c01e03ec0c9ff37",
   "lastOpenFiles": [
+    "docs/网页收藏/工具网站.md",
+    "docs/网页收藏/中文优秀博客.md",
+    "docs/网页收藏/wikipedia.md",
+    "docs/网页收藏/小主题.md",
+    "docs/网页收藏/烹饪手册.md",
+    "docs/网页收藏/chatgpt.md",
+    "docs/index.md",
     "docs/weekly/202303140938.md",
     "docs/weekly/202303151505.md",
     "docs/weekly/202303171116.md",
@@ -163,18 +170,13 @@
     "docs/weekly/202303280841.md",
     "docs/image/Pasted image 20230317085921.png",
     "docs/微信读书/微信读书.md",
-    "docs/网页收藏/烹饪手册.md",
     "docs/运维知识",
-    "docs/网页收藏/网络安全.md",
-    "docs/网页收藏/wikipedia.md",
     "docs/通用配置/前端项目的配置文件.md",
     "docs/折腾",
-    "docs/网页收藏/中文优秀博客.md",
     "docs/工具链",
     "docs/lang",
     "未命名",
     "docs/杂项/你说的对.md",
-    "docs/网页收藏/chatgpt.md",
     "docs/部署/ubuntu18.04.md",
     "docs/网页收藏",
     "docs/运维知识/docker/gl's docker.md",
@@ -185,9 +187,6 @@
     "docs/archlinux/clash.md",
     "docs/archlinux/install.md",
     "docs/archlinux/lf.md",
-    "docs/部署/centos部署.md",
-    "docs/部署/nginx.md",
-    "docs/运维知识/docker/安装.md",
     "docs/工具链/vscode",
     "docs/math/image/Pasted image 20230420105828.png",
     "docs/math/image/Pasted image 20230420103008.png",
