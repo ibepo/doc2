@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网页收藏/中文优秀博客.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网页收藏/中文优秀博客.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网页收藏/中文优秀博客.md",
+                "file": "docs/网页收藏/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网页收藏/中文优秀博客.md"
+                "file": "docs/网页收藏/烹饪手册.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "active": "b24b01e2ac6aa098",
   "lastOpenFiles": [
+    "docs/网页收藏/中文优秀博客.md",
     "docs/网页收藏/烹饪手册.md",
     "docs/工具链",
     "docs/lang",
