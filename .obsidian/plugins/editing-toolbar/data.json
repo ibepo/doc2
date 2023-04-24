@@ -40,19 +40,9 @@
       "icon": "redo-glyph"
     },
     {
-      "id": "editing-toolbar:header3-text",
-      "name": "Header 3",
-      "icon": "header-3"
-    },
-    {
       "id": "editing-toolbar:editor:toggle-bold",
       "name": "Toggle bold",
       "icon": "bold-glyph"
-    },
-    {
-      "id": "editing-toolbar:editor:toggle-blockquote",
-      "name": "Toggle blockquote",
-      "icon": "quote-glyph"
     },
     {
       "id": "editing-toolbar:editor:insert-link",
@@ -80,19 +70,6 @@
       "icon": "venetian-mask"
     },
     {
-      "id": "editor:follow-link",
-      "name": "打开光标处的链接",
-      "icon": "lucide-link",
-      "hotkeys": [
-        {
-          "modifiers": [
-            "Alt"
-          ],
-          "key": "Enter"
-        }
-      ]
-    },
-    {
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "Editing Toolbar: workplace-Fullscreen ",
       "hotkeys": [
@@ -116,7 +93,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 390,
+  "cMenuWidth": 338,
   "cMenuFontColor": "#000000",
   "cMenuBackgroundColor": "#ff4d4f",
   "autohide": false,
