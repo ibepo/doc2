@@ -9,7 +9,7 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: black
+    primary: red
   language: zh
   icon:
     # logo: material/library-shelves
