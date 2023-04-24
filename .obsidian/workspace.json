@@ -152,8 +152,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "b24b01e2ac6aa098",
   "lastOpenFiles": [
+    "docs/你说的对.md",
+    "docs/image/Pasted image 20230317085921.png",
+    "docs/网页收藏/网络安全.md",
+    "docs/网页收藏/wikipedia.md",
+    "docs/网页收藏/chatgpt.md",
+    "docs/网页收藏/烹饪手册.md",
     "docs/部署/ubuntu18.04.md",
     "docs/网页收藏",
     "未命名",
@@ -170,18 +176,14 @@
     "docs/部署/nginx.md",
     "docs/docker/安装.md",
     "docs/docker/参考.md",
-    "docs/wiki.md",
+    "docs/待整理/wiki.md",
     "docs/ssh/ssh.md",
     "docs/docker/docker 命令行.md",
     "docs/ssh/ssh免密登录.md",
     "docs/mac/homebrew.md",
     "docs/git/git.md",
     "docs/English/短语.md",
-    "docs/English/参考.md",
-    "docs/网页收藏/中文优秀博客.md",
-    "docs/待整理/服务器环境配置.md",
     "docs/vscode",
-    "docs/网页收藏/工具网站.md",
     "docs/数学/image/Pasted image 20230420105828.png",
     "docs/数学/image/Pasted image 20230420103008.png",
     "docs/数学/image/Pasted image 20230420102458.png",
@@ -198,7 +200,6 @@
     "docs/烹饪手册",
     "docs/cpp/image/Pasted image 20230412154420.png",
     "docs/cpp/image/Pasted image 20230412141050.png",
-    "docs/cpp/image/Pasted image 20230412135848.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
