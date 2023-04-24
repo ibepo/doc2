@@ -13,7 +13,7 @@ theme:
   language: zh
   icon:
     # logo: material/vector-line
-    logo: function-variant
+    logo: material/function-variant
   features:
     - navigation.expand
     - navigation.indexes
