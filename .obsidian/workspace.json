@@ -178,9 +178,9 @@
     "docs/docker/安装.md",
     "docs/docker/参考.md",
     "docs/待整理/wiki.md",
-    "docs/ssh/ssh.md",
+    "docs/linux/ssh/ssh.md",
     "docs/docker/docker 命令行.md",
-    "docs/ssh/ssh免密登录.md",
+    "docs/linux/ssh/ssh免密登录.md",
     "docs/mac/homebrew.md",
     "docs/git/git.md",
     "docs/vscode",
@@ -198,8 +198,8 @@
     "docs/半导体/image/Pasted image 20230413141518.png",
     "docs/半导体/image",
     "docs/烹饪手册",
-    "docs/cpp/image/Pasted image 20230412154420.png",
-    "docs/cpp/image/Pasted image 20230412141050.png",
+    "docs/lang/cpp/image/Pasted image 20230412154420.png",
+    "docs/lang/cpp/image/Pasted image 20230412141050.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
