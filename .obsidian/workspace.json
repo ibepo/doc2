@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/部署/ubuntu18.04.md"
+                "file": "docs/网站们/烹饪手册.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "465b1adb7725a701",
   "lastOpenFiles": [
+    "docs/部署/ubuntu18.04.md",
     "docs/archlinux/install.md",
     "docs/archlinux/wechat.md",
     "2023-04-25.md",
@@ -188,7 +189,6 @@
     "docs/工具链",
     "docs/lang",
     "未命名",
-    "docs/杂项/你说的对.md",
     "docs/网站们",
     "docs/工具链/vscode",
     "docs/数学/image/Pasted image 20230420105828.png",
