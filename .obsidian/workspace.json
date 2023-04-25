@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站们/烹饪手册.md",
+                "file": "docs/archlinux/wechat.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站们/烹饪手册.md",
+                "file": "docs/archlinux/wechat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站们/烹饪手册.md",
+                "file": "docs/archlinux/wechat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站们/烹饪手册.md"
+                "file": "docs/archlinux/wechat.md"
               }
             }
           }
@@ -155,9 +155,10 @@
   },
   "active": "465b1adb7725a701",
   "lastOpenFiles": [
+    "2023-04-25.md",
+    "docs/网站们/烹饪手册.md",
     "docs/网站们/个人站.md",
     "docs/数学/欧拉回路，欧拉路径.md",
-    "docs/网站们/烹饪手册.md",
     "docs/人工智能/参考.md",
     "docs/人工智能/jetson.md",
     "docs/人工智能/image/Pasted image 20230424151515.png",
@@ -189,7 +190,6 @@
     "docs/部署/ubuntu18.04.md",
     "docs/网站们",
     "docs/运维知识/docker/gl's docker.md",
-    "docs/运维知识/docker/dockerLegacy.md",
     "docs/工具链/vscode",
     "docs/数学/image/Pasted image 20230420105828.png",
     "docs/数学/image/Pasted image 20230420103008.png",
