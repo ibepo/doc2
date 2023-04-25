@@ -16,6 +16,10 @@ hostnamectl set-hostname`
 安装工具箱
 ```shell
 sudo apt install ripgrep tmux htop
+
+# 通过snap在 ubuntu 18.04 上安装最新的fzf
+sudo snap install fzf-carroarmato0 
+sudo ln -s /snap/fzf-carroarmato0/27/bin/fzf  /usr/local/bin/fzf
 ```
 
  安装docker和docker-compose
