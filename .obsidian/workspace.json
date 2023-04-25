@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/wechat.md",
+                "file": "docs/archlinux/install.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compose",
+                "query": "fzf",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/wechat.md",
+                "file": "docs/archlinux/install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/wechat.md",
+                "file": "docs/archlinux/install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/wechat.md"
+                "file": "docs/archlinux/install.md"
               }
             }
           }
@@ -155,6 +156,7 @@
   },
   "active": "465b1adb7725a701",
   "lastOpenFiles": [
+    "docs/archlinux/wechat.md",
     "2023-04-25.md",
     "docs/网站们/烹饪手册.md",
     "docs/网站们/个人站.md",
@@ -189,7 +191,6 @@
     "docs/杂项/你说的对.md",
     "docs/部署/ubuntu18.04.md",
     "docs/网站们",
-    "docs/运维知识/docker/gl's docker.md",
     "docs/工具链/vscode",
     "docs/数学/image/Pasted image 20230420105828.png",
     "docs/数学/image/Pasted image 20230420103008.png",
