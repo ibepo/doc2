@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5d020e797ece175",
+        "id": "0b084780db49ab30",
         "type": "tabs",
         "children": [
           {
-            "id": "5bcdc81f8246b493",
+            "id": "e670d42d62b5e6fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/c/参考.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "022e60df4b0e3940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/参考.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/参考.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/参考.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/参考.md"
+                "file": "docs/网站们/烹饪手册.md"
               }
             }
           }
@@ -166,10 +153,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "022e60df4b0e3940",
+  "active": "e670d42d62b5e6fd",
   "lastOpenFiles": [
-    "docs/lang/c/参考.md",
     "docs/数学/参考.md",
+    "docs/lang/c/参考.md",
     "docs/网站们/烹饪手册.md",
     "2023-04-26.md",
     "docs/部署/ubuntu18.04.md",
