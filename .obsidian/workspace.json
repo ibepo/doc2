@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "125188fd3542b93e",
+        "id": "d5d020e797ece175",
         "type": "tabs",
         "children": [
           {
-            "id": "465b1adb7725a701",
+            "id": "5bcdc81f8246b493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站们/烹饪手册.md",
+                "file": "docs/lang/c/参考.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "022e60df4b0e3940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/数学/参考.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站们/烹饪手册.md",
+                "file": "docs/数学/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站们/烹饪手册.md",
+                "file": "docs/数学/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站们/烹饪手册.md"
+                "file": "docs/数学/参考.md"
               }
             }
           }
@@ -153,13 +166,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "465b1adb7725a701",
+  "active": "022e60df4b0e3940",
   "lastOpenFiles": [
+    "docs/lang/c/参考.md",
+    "docs/数学/参考.md",
+    "docs/网站们/烹饪手册.md",
+    "2023-04-26.md",
     "docs/部署/ubuntu18.04.md",
     "docs/archlinux/install.md",
     "docs/archlinux/wechat.md",
     "2023-04-25.md",
-    "docs/网站们/烹饪手册.md",
     "docs/网站们/个人站.md",
     "docs/数学/欧拉回路，欧拉路径.md",
     "docs/人工智能/参考.md",
@@ -180,11 +196,8 @@
     "docs/weekly/202303171116.md",
     "docs/weekly/202303201452.md",
     "docs/weekly/202303241217.md",
-    "docs/weekly/202303280841.md",
     "docs/image/Pasted image 20230317085921.png",
-    "docs/微信读书/微信读书.md",
     "docs/运维知识",
-    "docs/通用配置/前端项目的配置文件.md",
     "docs/折腾",
     "docs/工具链",
     "docs/lang",
