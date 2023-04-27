@@ -86,6 +86,11 @@
       "id": "editing-toolbar:fullscreen-focus",
       "name": "Fullscreen focus mode",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "obsidian-markmind:Create New outline",
+      "name": "obsidian markmind: 创建大纲",
+      "icon": "bot-glyph"
     }
   ],
   "appendMethod": "workspace",
