@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae0679560a371c7",
+        "id": "d8437f7e67ce04fc",
         "type": "tabs",
         "children": [
           {
-            "id": "db37d80fdf2e55f9",
+            "id": "a64d74e2cde5ec62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/ranger.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/archlinux/ranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/archlinux/ranger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/archlinux/ranger.md"
+              }
             }
           }
         ],
@@ -145,8 +153,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "a64d74e2cde5ec62",
   "lastOpenFiles": [
+    "docs/网站们/烹饪手册.md",
     "docs/archlinux/未命名思维导图.md",
     "docs/archlinux/ranger.md",
     "docs/archlinux/lf.md",
@@ -155,7 +164,6 @@
     "docs/网站们/个人站.md",
     "docs/网站们/工具网站.md",
     "docs/网站们/主题分列.md",
-    "docs/网站们/烹饪手册.md",
     "docs/数学/参考.md",
     "docs/lang/c/参考.md",
     "2023-04-26.md",
