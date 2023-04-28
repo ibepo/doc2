@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/数学/线性代数.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/数学/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/词汇.md",
+                "file": "docs/数学/线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/词汇.md"
+                "file": "docs/数学/线性代数.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "53403247dd23c577",
   "lastOpenFiles": [
-    "docs/English/发音.md",
     "docs/English/词汇.md",
+    "docs/English/发音.md",
     "docs/数学/参考.md",
     "docs/通用配置/前端项目的配置文件.md",
     "docs/通用配置/vimrc.md",
