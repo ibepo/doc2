@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数学/参考.md",
+                "file": "docs/English/词汇.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/参考.md",
+                "file": "docs/English/词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/参考.md",
+                "file": "docs/English/词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/参考.md"
+                "file": "docs/English/词汇.md"
               }
             }
           }
@@ -155,6 +155,9 @@
   },
   "active": "53403247dd23c577",
   "lastOpenFiles": [
+    "docs/English/发音.md",
+    "docs/English/词汇.md",
+    "docs/数学/参考.md",
     "docs/通用配置/前端项目的配置文件.md",
     "docs/通用配置/vimrc.md",
     "docs/网站们/烹饪手册.md",
@@ -166,7 +169,6 @@
     "docs/网站们/个人站.md",
     "docs/网站们/工具网站.md",
     "docs/网站们/主题分列.md",
-    "docs/数学/参考.md",
     "docs/lang/c/参考.md",
     "2023-04-26.md",
     "docs/部署/ubuntu18.04.md",
@@ -181,8 +183,6 @@
     "docs/工具链/git/git clone.md",
     "docs/工具链/git/git.md",
     "docs/website/wikipedia.md",
-    "docs/待整理/table示例.md",
-    "docs/index.md",
     "docs/image/Pasted image 20230317085921.png",
     "docs/运维知识",
     "docs/折腾",
