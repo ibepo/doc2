@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数学/线性代数.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/线性代数.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/线性代数.md",
+                "file": "docs/网站们/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/线性代数.md"
+                "file": "docs/网站们/烹饪手册.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "53403247dd23c577",
   "lastOpenFiles": [
+    "docs/数学/线性代数.md",
     "docs/English/词汇.md",
     "docs/English/发音.md",
     "docs/数学/参考.md",
@@ -164,7 +165,6 @@
     "docs/archlinux/ranger.md",
     "docs/archlinux/未命名思维导图.md",
     "docs/archlinux/lf.md",
-    "docs/数学/线性代数.md",
     "docs/数学/汤家凤.md",
     "docs/网站们/个人站.md",
     "docs/网站们/工具网站.md",
