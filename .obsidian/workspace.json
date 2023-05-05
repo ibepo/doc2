@@ -16,7 +16,7 @@
                 "file": "docs/数学/计算机图形学.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "399a3e459ff6d551",
   "lastOpenFiles": [
+    "docs/数学/image/Pasted image 20230505105107.png",
     "docs/数学/image/Pasted image 20230505104541.png",
     "docs/数学/线性代数.md",
     "docs/数学/计算机图形学.md",
@@ -201,7 +202,6 @@
     "docs/半导体/image/Pasted image 20230417093447.png",
     "docs/lang/c",
     "docs/数学/image/Pasted image 20230414152718.png",
-    "docs/半导体/image/Pasted image 20230413141518.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
