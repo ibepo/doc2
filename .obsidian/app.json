@@ -11,12 +11,14 @@
     "downscalePercent": 100
   },
   "rightToLeft": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "livePreview": false,
   "showLineNumber": false,
   "showIndentGuide": true,
   "autoPairMarkdown": false,
   "legacyEditor": false,
   "showInlineTitle": false,
-  "attachmentFolderPath": "./image"
+  "attachmentFolderPath": "./image",
+  "foldIndent": false,
+  "strictLineBreaks": false
 }

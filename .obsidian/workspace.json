@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/ranger.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/ranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/ranger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/bspwm.md"
+                "file": "docs/archlinux/ranger.md"
               }
             }
           }
@@ -155,7 +155,9 @@
   },
   "active": "eb0d1f7dc981c433",
   "lastOpenFiles": [
+    "docs/archlinux/fish.md",
     "docs/archlinux/lf.md",
+    "docs/archlinux/bspwm.md",
     "docs/archlinux/pacman.md",
     "docs/archlinux/wechat.md",
     "docs/archlinux/网易云音乐.md",
@@ -166,7 +168,6 @@
     "docs/ubuntu",
     "docs/网站收集/烹饪手册.md",
     "docs/网站收集/个人站.md",
-    "docs/archlinux/fish.md",
     "docs/数学/线性代数.md",
     "docs/English/词汇.md",
     "docs/English/发音.md",
@@ -181,7 +182,6 @@
     "docs/lang/c/参考.md",
     "2023-04-26.md",
     "docs/部署/ubuntu18.04.md",
-    "2023-04-25.md",
     "docs/人工智能/image/Pasted image 20230424151515.png",
     "docs/人工智能/image/Pasted image 20230424150436.png",
     "docs/image/Pasted image 20230317085921.png",
