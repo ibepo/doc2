@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/fish.md",
+                "file": "docs/网站们/个人站.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/fish.md",
+                "file": "docs/网站们/个人站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/fish.md",
+                "file": "docs/网站们/个人站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/fish.md"
+                "file": "docs/网站们/个人站.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "03e1014fc6641f50",
   "lastOpenFiles": [
-    "docs/网站们/烹饪手册.md",
     "docs/archlinux/fish.md",
+    "docs/网站们/烹饪手册.md",
     "docs/数学/线性代数.md",
     "docs/English/词汇.md",
     "docs/English/发音.md",
