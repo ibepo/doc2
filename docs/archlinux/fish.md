@@ -1,0 +1,1 @@
+[Fish config](https://config.phundrak.com/fish.html)
