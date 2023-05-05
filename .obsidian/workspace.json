@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/数学/计算机图形学.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 324.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/数学/计算机图形学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/数学/计算机图形学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/个人站.md"
+                "file": "docs/数学/计算机图形学.md"
               }
             }
           }
@@ -154,8 +154,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "399a3e459ff6d551",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/数学/image/Pasted image 20230505130847.png",
+    "docs/网站收集/个人站.md",
     "docs/English/网站.md",
     "docs/数学/计算机图形学.md",
     "docs/数学/image/Pasted image 20230505105107.png",
@@ -176,7 +178,6 @@
     "docs/archlinux/dwm.md",
     "docs/ubuntu",
     "docs/网站收集/烹饪手册.md",
-    "docs/网站收集/个人站.md",
     "docs/English/词汇.md",
     "docs/English/发音.md",
     "docs/通用配置/前端项目的配置文件.md",
