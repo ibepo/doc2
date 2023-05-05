@@ -1,5 +1,5 @@
 ### keybind
-```shell
+``` c
 ### dwm.config.h
 ```shell
     { MODKEY,              XK_Return,       spawn,            SHCMD("alacritty") },
@@ -13,6 +13,4 @@
     { MODKEY,              XK_space,        spawn,            SHCMD("rofi -show window -theme ~/.config/rofi/config2.rasi") },
     { MODKEY,              XK_w,            spawn,            SHCMD("microsoft-edge-dev") },
     { ShiftMask|ControlMask, XK_c,          spawn,            SHCMD("xclip -o | xclip -selection c") },
-```
-
 ```
