@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/昂克英文.md",
+                "file": "docs/数学/参考.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/昂克英文.md",
+                "file": "docs/数学/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/昂克英文.md",
+                "file": "docs/数学/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/昂克英文.md"
+                "file": "docs/数学/参考.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "378b3a4a00e66b46",
   "lastOpenFiles": [
+    "docs/English/昂克英文.md",
     "docs/English/网站.md",
     "docs/archlinux/ranger.md",
     "docs/archlinux/fish.md",
@@ -182,7 +183,6 @@
     "docs/网站收集/工具网站.md",
     "docs/网站收集/主题分列.md",
     "docs/lang/c/参考.md",
-    "2023-04-26.md",
     "docs/人工智能/image/Pasted image 20230424151515.png",
     "docs/人工智能/image/Pasted image 20230424150436.png",
     "docs/image/Pasted image 20230317085921.png",
