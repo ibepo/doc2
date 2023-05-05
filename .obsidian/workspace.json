@@ -8,14 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb0d1f7dc981c433",
+            "id": "378b3a4a00e66b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/ranger.md",
+                "file": "docs/English/网站.md",
                 "mode": "source",
-                "source": true
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/ranger.md",
+                "file": "docs/English/网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/ranger.md",
+                "file": "docs/English/网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/ranger.md"
+                "file": "docs/English/网站.md"
               }
             }
           }
@@ -153,8 +154,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "eb0d1f7dc981c433",
+  "active": "378b3a4a00e66b46",
   "lastOpenFiles": [
+    "docs/archlinux/ranger.md",
+    "docs/English/网站.md",
     "docs/archlinux/fish.md",
     "docs/archlinux/lf.md",
     "docs/archlinux/bspwm.md",
@@ -174,14 +177,12 @@
     "docs/数学/参考.md",
     "docs/通用配置/前端项目的配置文件.md",
     "docs/通用配置/vimrc.md",
-    "docs/archlinux/ranger.md",
     "docs/archlinux/未命名思维导图.md",
     "docs/数学/汤家凤.md",
     "docs/网站收集/工具网站.md",
     "docs/网站收集/主题分列.md",
     "docs/lang/c/参考.md",
     "2023-04-26.md",
-    "docs/部署/ubuntu18.04.md",
     "docs/人工智能/image/Pasted image 20230424151515.png",
     "docs/人工智能/image/Pasted image 20230424150436.png",
     "docs/image/Pasted image 20230317085921.png",
