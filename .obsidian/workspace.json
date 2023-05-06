@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/数学/计算机图形学.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/数学/计算机图形学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/数学/计算机图形学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/个人站.md"
+                "file": "docs/数学/计算机图形学.md"
               }
             }
           }
@@ -154,12 +154,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "399a3e459ff6d551",
   "lastOpenFiles": [
+    "docs/数学/image/Pasted image 20230506102144.png",
+    "docs/数学/image/Pasted image 20230506101433.png",
+    "docs/网站收集/个人站.md",
     "docs/网站收集/烹饪手册.md",
     "docs/数学/计算机图形学.md",
     "docs/数学/image/Pasted image 20230505130847.png",
-    "docs/网站收集/个人站.md",
     "docs/English/网站.md",
     "docs/数学/image/Pasted image 20230505105107.png",
     "docs/数学/image/Pasted image 20230505104541.png",
@@ -199,7 +201,6 @@
     "docs/数学/image/Pasted image 20230420103008.png",
     "docs/数学/image/Pasted image 20230420102458.png",
     "docs/数学/未命名",
-    "docs/半导体/image/Pasted image 20230417101046.png",
     "docs/lang/c",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
