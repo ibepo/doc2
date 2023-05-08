@@ -16,7 +16,7 @@
                 "file": "docs/数学/线性代数.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "f9c074cda74b61e0",
   "lastOpenFiles": [
+    "docs/数学/image/Pasted image 20230508100447.png",
     "docs/数学/image/Pasted image 20230508095838.png",
     "docs/数学/计算机图形学.md",
     "docs/数学/欧拉回路，欧拉路径.md",
@@ -191,7 +192,6 @@
     "docs/通用配置/前端项目的配置文件.md",
     "docs/通用配置/vimrc.md",
     "docs/人工智能/image/Pasted image 20230424151515.png",
-    "docs/人工智能/image/Pasted image 20230424150436.png",
     "docs/运维知识",
     "docs/折腾",
     "docs/工具链",
