@@ -16,7 +16,7 @@
                 "file": "docs/数学/线性代数.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 227.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -153,8 +153,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b8e41c23163a73b3",
+  "active": "399a3e459ff6d551",
   "lastOpenFiles": [
+    "docs/数学/image/Pasted image 20230508091841.png",
+    "docs/数学/image/Pasted image 20230508091752.png",
     "docs/数学/参考.md",
     "docs/数学/线性代数.md",
     "docs/网站收集/烹饪手册.md",
@@ -197,7 +199,6 @@
     "docs/网站收集",
     "docs/工具链/vscode",
     "docs/数学/image/Pasted image 20230420105828.png",
-    "docs/数学/image/Pasted image 20230420103008.png",
     "docs/数学/未命名",
     "docs/lang/c",
     "未命名.canvas",
