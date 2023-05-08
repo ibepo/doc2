@@ -16,7 +16,7 @@
                 "file": "docs/数学/线性代数.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -155,11 +155,12 @@
   },
   "active": "399a3e459ff6d551",
   "lastOpenFiles": [
+    "docs/数学/老爷子.md",
+    "docs/数学/线性代数.md",
     "docs/数学/image/Pasted image 20230508092354.png",
     "docs/数学/image/Pasted image 20230508091841.png",
     "docs/数学/image/Pasted image 20230508091752.png",
     "docs/数学/参考.md",
-    "docs/数学/线性代数.md",
     "docs/网站收集/烹饪手册.md",
     "docs/数学/计算机图形学.md",
     "docs/数学/image/Pasted image 20230506102144.png",
@@ -191,7 +192,6 @@
     "docs/网站收集/工具网站.md",
     "docs/人工智能/image/Pasted image 20230424151515.png",
     "docs/人工智能/image/Pasted image 20230424150436.png",
-    "docs/image/Pasted image 20230317085921.png",
     "docs/运维知识",
     "docs/折腾",
     "docs/工具链",
