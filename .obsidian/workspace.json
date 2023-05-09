@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数学/三角函数.md",
+                "file": "docs/网站收集/烹饪手册.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/三角函数.md",
+                "file": "docs/网站收集/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/三角函数.md",
+                "file": "docs/网站收集/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/三角函数.md"
+                "file": "docs/网站收集/烹饪手册.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "2aeb7e4be8bab0a9",
   "lastOpenFiles": [
+    "docs/数学/三角函数.md",
     "docs/index.md",
     "docs/网站收集/烹饪手册.md",
     "docs/数学/老爷子.md",
@@ -191,7 +192,6 @@
     "docs/English/词汇.md",
     "docs/English/发音.md",
     "docs/通用配置/前端项目的配置文件.md",
-    "docs/通用配置/vimrc.md",
     "docs/运维知识",
     "docs/折腾",
     "docs/工具链",
