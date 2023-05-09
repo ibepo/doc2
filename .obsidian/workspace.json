@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/数学/线性代数.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/数学/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/数学/线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md"
+                "file": "docs/数学/线性代数.md"
               }
             }
           }
@@ -153,10 +153,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2aeb7e4be8bab0a9",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
-    "docs/网站收集/工具网站.md",
     "docs/网站收集/烹饪手册.md",
+    "docs/网站收集/工具网站.md",
     "docs/数学/三角函数.md",
     "docs/index.md",
     "docs/数学/老爷子.md",
