@@ -7,7 +7,7 @@
 - tmux kill-session -a: 删除全部 session(杀会话)
 - tmux a:  返回最近的会话 
 - prefix d : 等价于 tmux detach(暂时逃离)
-- prefix $ : c 
+- prefix $ : 重命名会话 
 
 大窗口
 - prefix & : 删除当前大窗口 
@@ -15,6 +15,8 @@
 
 小窗口
 - prefix q : 显示小窗口数字 
+- prefix %: 横向切分小窗口
+- prefix “ ：纵向切分小窗口
 - prefix x : kill 当前的 pane(杀小窗口)
 
 ## 插件：
