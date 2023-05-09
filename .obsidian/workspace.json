@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数学/线性代数.md",
+                "file": "docs/数学/线性代数 周志成.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/线性代数.md",
+                "file": "docs/数学/线性代数 周志成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/线性代数.md",
+                "file": "docs/数学/线性代数 周志成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/线性代数.md"
+                "file": "docs/数学/线性代数 周志成.md"
               }
             }
           }
@@ -160,7 +160,7 @@
     "docs/数学/三角函数.md",
     "docs/index.md",
     "docs/数学/老爷子.md",
-    "docs/数学/线性代数.md",
+    "docs/数学/线性代数 周志成.md",
     "docs/数学/image/Pasted image 20230508172043.png",
     "docs/数学/image/Pasted image 20230508100447.png",
     "docs/数学/image/Pasted image 20230508095838.png",
