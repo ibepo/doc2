@@ -1,11 +1,5 @@
 ## tmux
 
-https://www.josean.com/posts/tmux-setup
-
-删除全部 session
-`tmux kill-session -a`
-
-https://leanpub.com/the-tao-of-tmux/read
 
 默认常用操作
 
@@ -13,3 +7,10 @@ https://leanpub.com/the-tao-of-tmux/read
 - prefix & : kill 当前的 window
 - prefix x : kill 当前的 pane
 - prefix R : 重新加载配置
+- tmux kill-session -a: 删除全部 session
+
+
+##  参考
+[TmuxCheatsheet](https://tmuxcheatsheet.com/)
+https://www.josean.com/posts/tmux-setup
+https://leanpub.com/the-tao-of-tmux/read
