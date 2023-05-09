@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "2aeb7e4be8bab0a9",
   "lastOpenFiles": [
+    "docs/网站收集/烹饪手册.md",
     "docs/数学/老爷子.md",
     "docs/数学/线性代数.md",
     "docs/数学/image/Pasted image 20230508172043.png",
@@ -167,7 +168,6 @@
     "docs/数学/image/Pasted image 20230508092354.png",
     "docs/数学/image/Pasted image 20230508091841.png",
     "docs/数学/image/Pasted image 20230508091752.png",
-    "docs/网站收集/烹饪手册.md",
     "docs/数学/image/Pasted image 20230506102144.png",
     "docs/数学/image/Pasted image 20230506101433.png",
     "docs/网站收集/个人站.md",
