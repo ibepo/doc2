@@ -24,7 +24,8 @@
 
 ##  参考
 [TmuxCheatsheet](https://tmuxcheatsheet.com/)
+[TheCw‘s tmux config](https://github.com/theniceboy/.config/blob/master/.tmux.conf)
+
 https://www.josean.com/posts/tmux-setup
 https://leanpub.com/the-tao-of-tmux/read
-[TheCw‘s tmux config](https://github.com/theniceboy/.config/blob/master/.tmux.conf)
 
