@@ -17,7 +17,7 @@
 - prefix q : 显示小窗口数字 
 - prefix %: 横向切分小窗口
 - prefix “ ：纵向切分小窗口
-- prefix x : kill 当前的 pane(杀小窗口)
+- prefix x : kill 当前的 panel(杀小窗口)
 
 ## 插件：
 [rainbarf](https://github.com/creaktive/rainbarf)
