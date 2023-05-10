@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0505c94cdd5a43d6",
+        "id": "4a70cef7d89d50e2",
         "type": "tabs",
         "children": [
           {
-            "id": "2aeb7e4be8bab0a9",
+            "id": "5f213a2364a57088",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/网站收集/烹饪手册.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/网站收集/烹饪手册.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,14 +141,18 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "publish:发布更改": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2aeb7e4be8bab0a9",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
+    "docs/网站收集/烹饪手册.md",
+    "Excalidraw",
     "docs/archlinux/tmux.md",
     "docs/数学/线性代数 周志成.md",
-    "docs/网站收集/烹饪手册.md",
     "docs/网站收集/工具网站.md",
     "docs/数学/三角函数.md",
     "docs/index.md",
@@ -177,7 +172,6 @@
     "docs/网站收集/个人站.md",
     "docs/数学/image/Pasted image 20230505130847.png",
     "docs/English/网站.md",
-    "docs/数学/image/Pasted image 20230505105107.png",
     "docs/English/昂克英文.md",
     "docs/archlinux/ranger.md",
     "docs/archlinux/fish.md",
@@ -189,9 +183,7 @@
     "docs/archlinux/xsession.md",
     "docs/archlinux/install.md",
     "docs/ubuntu/install.md",
-    "docs/archlinux/dwm.md",
     "docs/ubuntu",
-    "docs/English/词汇.md",
     "docs/运维知识",
     "docs/折腾",
     "docs/工具链",
@@ -200,7 +192,6 @@
     "docs/网站收集",
     "docs/工具链/vscode",
     "docs/数学/未命名",
-    "docs/lang/c",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]

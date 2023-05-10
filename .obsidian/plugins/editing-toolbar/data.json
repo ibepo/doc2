@@ -91,6 +91,11 @@
       "id": "obsidian-markmind:Create New outline",
       "name": "obsidian markmind: 创建大纲",
       "icon": "bot-glyph"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab",
+      "name": "Excalidraw: 新建绘图 - 于新页签",
+      "icon": "function-square"
     }
   ],
   "appendMethod": "workspace",
