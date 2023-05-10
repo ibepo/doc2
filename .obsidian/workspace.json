@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a70cef7d89d50e2",
+        "id": "2b5e7bbb7de311da",
         "type": "tabs",
         "children": [
           {
-            "id": "5f213a2364a57088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "be0adf62ecee830f",
+            "id": "de0a692cc4c15caa",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md",
+                "file": "book/马同学图解线性代数 (马同学) (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md",
+                "file": "book/马同学图解线性代数 (马同学) (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md"
+                "file": "book/马同学图解线性代数 (马同学) (Z-Library).pdf"
               }
             }
           }
@@ -165,12 +152,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f213a2364a57088",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/数学/计算机图形学.md",
     "book/马同学图解线性代数 (马同学) (Z-Library).pdf",
+    "docs/数学/欧拉回路，欧拉路径.md",
     "docs/archlinux/obisidian.md",
     "book",
-    "docs/数学/欧拉回路，欧拉路径.md",
     "docs/数学/image/Pasted image 20230510102828.png",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
@@ -185,7 +173,6 @@
     "docs/数学/image/Pasted image 20230508172043.png",
     "docs/数学/image/Pasted image 20230508100447.png",
     "docs/数学/image/Pasted image 20230508095838.png",
-    "docs/数学/计算机图形学.md",
     "docs/数学/参考.md",
     "docs/数学/汤家凤.md",
     "docs/数学/image/Pasted image 20230508092354.png",
