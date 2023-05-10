@@ -11,8 +11,13 @@
             "id": "5f213a2364a57088",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/数学/欧拉回路，欧拉路径.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/数学/欧拉回路，欧拉路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/数学/欧拉回路，欧拉路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/数学/欧拉回路，欧拉路径.md"
+              }
             }
           }
         ],
@@ -145,10 +154,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "5f213a2364a57088",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
+    "docs/数学/image/Pasted image 20230510102828.png",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
+    "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
     "docs/网站收集/烹饪手册.md",
     "Excalidraw",
     "docs/archlinux/tmux.md",
