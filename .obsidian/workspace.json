@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数学/老爷子.md",
+                "file": "docs/数学/欧拉回路，欧拉路径.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/老爷子.md",
+                "file": "docs/数学/欧拉回路，欧拉路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/老爷子.md",
+                "file": "docs/数学/欧拉回路，欧拉路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/老爷子.md"
+                "file": "docs/数学/欧拉回路，欧拉路径.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "9bd73dff39169823",
   "lastOpenFiles": [
+    "docs/数学/老爷子.md",
     "docs/数学/image/Pasted image 20230510122554.png",
     "docs/archlinux/ncmpcpp.md",
     "docs/archlinux/ssdm.md",
@@ -181,7 +182,6 @@
     "docs/网站收集/工具网站.md",
     "docs/数学/三角函数.md",
     "docs/index.md",
-    "docs/数学/老爷子.md",
     "docs/数学/image/Pasted image 20230508172043.png",
     "docs/数学/image/Pasted image 20230508100447.png",
     "docs/数学/image/Pasted image 20230508095838.png",
@@ -191,7 +191,6 @@
     "docs/数学/image/Pasted image 20230508091841.png",
     "docs/数学/image/Pasted image 20230508091752.png",
     "docs/数学/image/Pasted image 20230506102144.png",
-    "docs/数学/image/Pasted image 20230506101433.png",
     "docs/网站收集/个人站.md",
     "docs/English/网站.md",
     "docs/English/昂克英文.md",
