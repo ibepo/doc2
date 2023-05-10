@@ -24,17 +24,13 @@
             "id": "be0adf62ecee830f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "docs/archlinux/obisidian.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "book/马同学图解线性代数 (马同学) (Z-Library).pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/obisidian.md",
+                "file": "docs/数学/欧拉回路，欧拉路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/obisidian.md",
+                "file": "docs/数学/欧拉回路，欧拉路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/obisidian.md"
+                "file": "docs/数学/欧拉回路，欧拉路径.md"
               }
             }
           }
@@ -169,10 +165,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be0adf62ecee830f",
+  "active": "5f213a2364a57088",
   "lastOpenFiles": [
-    "docs/数学/欧拉回路，欧拉路径.md",
+    "book/马同学图解线性代数 (马同学) (Z-Library).pdf",
     "docs/archlinux/obisidian.md",
+    "book",
+    "docs/数学/欧拉回路，欧拉路径.md",
     "docs/数学/image/Pasted image 20230510102828.png",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
@@ -207,7 +205,6 @@
     "docs/archlinux/网易云音乐.md",
     "docs/archlinux/xsession.md",
     "docs/archlinux/install.md",
-    "docs/ubuntu/install.md",
     "docs/ubuntu",
     "docs/运维知识",
     "docs/折腾",
@@ -215,8 +212,6 @@
     "docs/lang",
     "未命名",
     "docs/网站收集",
-    "docs/工具链/vscode",
-    "docs/数学/未命名",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
