@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de0a692cc4c15caa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "book/马同学图解线性代数.pdf"
-              }
-            }
-          },
-          {
             "id": "72b56f7ca54be99c",
             "type": "leaf",
             "state": {
@@ -26,7 +16,7 @@
                 "file": "docs/archlinux/obisidian.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           },
@@ -34,17 +24,14 @@
             "id": "9139f4d6da9f4d59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "book/马代笔记.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "book/马代笔记.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fzf",
+                "query": "tag:#删除指定容器",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -182,8 +169,9 @@
   "active": "9139f4d6da9f4d59",
   "lastOpenFiles": [
     "book/马同学图解线性代数.pdf",
-    "docs/archlinux/obisidian.md",
     "book/马代笔记.md",
+    "docs/archlinux/obisidian.md",
+    "docs/运维知识/docker/gl's docker.md",
     "docs/数学/计算机图形学.md",
     "docs/数学/欧拉回路，欧拉路径.md",
     "book",
@@ -218,7 +206,6 @@
     "docs/archlinux/pacman.md",
     "docs/archlinux/wechat.md",
     "docs/archlinux/网易云音乐.md",
-    "docs/archlinux/xsession.md",
     "docs/ubuntu",
     "docs/运维知识",
     "docs/折腾",
