@@ -16,8 +16,22 @@
                 "file": "book/马同学图解线性代数 (马同学) (Z-Library).pdf"
               }
             }
+          },
+          {
+            "id": "72b56f7ca54be99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/obisidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/马同学图解线性代数 (马同学) (Z-Library).pdf",
+                "file": "docs/archlinux/obisidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/马同学图解线性代数 (马同学) (Z-Library).pdf",
+                "file": "docs/archlinux/obisidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/马同学图解线性代数 (马同学) (Z-Library).pdf"
+                "file": "docs/archlinux/obisidian.md"
               }
             }
           }
@@ -152,10 +166,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de0a692cc4c15caa",
+  "active": "72b56f7ca54be99c",
   "lastOpenFiles": [
-    "docs/数学/计算机图形学.md",
     "book/马同学图解线性代数 (马同学) (Z-Library).pdf",
+    "docs/数学/计算机图形学.md",
     "docs/数学/欧拉回路，欧拉路径.md",
     "docs/archlinux/obisidian.md",
     "book",
