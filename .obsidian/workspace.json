@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "be0adf62ecee830f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/obisidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md",
+                "file": "docs/archlinux/obisidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md",
+                "file": "docs/archlinux/obisidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md"
+                "file": "docs/archlinux/obisidian.md"
               }
             }
           }
@@ -154,8 +168,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5f213a2364a57088",
+  "active": "be0adf62ecee830f",
   "lastOpenFiles": [
+    "docs/数学/欧拉回路，欧拉路径.md",
+    "docs/archlinux/obisidian.md",
     "docs/数学/image/Pasted image 20230510102828.png",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
@@ -171,7 +187,6 @@
     "docs/数学/image/Pasted image 20230508100447.png",
     "docs/数学/image/Pasted image 20230508095838.png",
     "docs/数学/计算机图形学.md",
-    "docs/数学/欧拉回路，欧拉路径.md",
     "docs/数学/参考.md",
     "docs/数学/汤家凤.md",
     "docs/数学/image/Pasted image 20230508092354.png",
@@ -180,7 +195,6 @@
     "docs/数学/image/Pasted image 20230506102144.png",
     "docs/数学/image/Pasted image 20230506101433.png",
     "docs/网站收集/个人站.md",
-    "docs/数学/image/Pasted image 20230505130847.png",
     "docs/English/网站.md",
     "docs/English/昂克英文.md",
     "docs/archlinux/ranger.md",
