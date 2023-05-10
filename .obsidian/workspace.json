@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "363e72257a39af79",
+        "id": "fd75ee68aba790fd",
         "type": "tabs",
         "children": [
           {
-            "id": "06ad87d1a580ffca",
+            "id": "9bd73dff39169823",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/ncmpcpp.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/archlinux/ncmpcpp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/archlinux/ncmpcpp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/archlinux/ncmpcpp.md"
+              }
             }
           }
         ],
@@ -146,8 +155,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06ad87d1a580ffca",
+  "active": "9bd73dff39169823",
   "lastOpenFiles": [
+    "docs/archlinux/ssdm.md",
+    "docs/archlinux/install.md",
+    "docs/archlinux/dwm.md",
+    "docs/archlinux/参考.md",
+    "docs/archlinux/字体.md",
     "book/马代笔记.md",
     "book/马同学图解线性代数.pdf",
     "docs/archlinux/obisidian.md",
@@ -182,10 +196,6 @@
     "docs/archlinux/ranger.md",
     "docs/archlinux/fish.md",
     "docs/archlinux/lf.md",
-    "docs/archlinux/bspwm.md",
-    "docs/archlinux/pacman.md",
-    "docs/archlinux/wechat.md",
-    "docs/archlinux/网易云音乐.md",
     "docs/ubuntu",
     "docs/运维知识",
     "docs/折腾",
