@@ -7,7 +7,8 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: black
+    # primary: black
+    primary: white
   language: zh
   icon:
     logo: material/function-variant
