@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md",
+                "file": "docs/数学/线性代数 周志成.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md",
+                "file": "docs/数学/线性代数 周志成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md",
+                "file": "docs/数学/线性代数 周志成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/欧拉回路，欧拉路径.md"
+                "file": "docs/数学/线性代数 周志成.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "9bd73dff39169823",
   "lastOpenFiles": [
+    "docs/数学/欧拉回路，欧拉路径.md",
     "docs/数学/老爷子.md",
     "docs/数学/image/Pasted image 20230510122554.png",
     "docs/archlinux/ncmpcpp.md",
@@ -170,7 +171,6 @@
     "docs/archlinux/obisidian.md",
     "docs/运维知识/docker/gl's docker.md",
     "docs/数学/计算机图形学.md",
-    "docs/数学/欧拉回路，欧拉路径.md",
     "book",
     "docs/数学/image/Pasted image 20230510102828.png",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
