@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd75ee68aba790fd",
+        "id": "53269e8f1f03ef40",
         "type": "tabs",
         "children": [
           {
-            "id": "9bd73dff39169823",
+            "id": "b51ef7a503777f36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/杂项/UI,UX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/杂项/UI,UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/杂项/UI,UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md"
+                "file": "docs/杂项/UI,UX.md"
               }
             }
           }
@@ -155,8 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bd73dff39169823",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "book/马代笔记.md",
+    "docs/杂项/UI,UX.md",
+    "docs/网站收集/烹饪手册.md",
     "docs/数学/线性代数 周志成.md",
     "docs/数学/欧拉回路，欧拉路径.md",
     "docs/数学/老爷子.md",
@@ -167,7 +170,6 @@
     "docs/archlinux/dwm.md",
     "docs/archlinux/参考.md",
     "docs/archlinux/字体.md",
-    "book/马代笔记.md",
     "book/马同学图解线性代数.pdf",
     "docs/archlinux/obisidian.md",
     "docs/运维知识/docker/gl's docker.md",
@@ -176,7 +178,6 @@
     "docs/数学/image/Pasted image 20230510102828.png",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
-    "docs/网站收集/烹饪手册.md",
     "Excalidraw",
     "docs/archlinux/tmux.md",
     "docs/网站收集/工具网站.md",
