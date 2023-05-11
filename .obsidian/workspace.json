@@ -16,7 +16,7 @@
                 "file": "docs/杂项/UI,UX.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "b51ef7a503777f36",
   "lastOpenFiles": [
+    "docs/杂项/image/Pasted image 20230511162910.png",
+    "docs/杂项/image/Pasted image 20230511162737.png",
     "docs/杂项/image/Pasted image 20230511160824.png",
     "docs/杂项/image",
     "book/马代笔记.md",
@@ -192,8 +194,6 @@
     "docs/数学/汤家凤.md",
     "docs/数学/image/Pasted image 20230508092354.png",
     "docs/数学/image/Pasted image 20230508091841.png",
-    "docs/数学/image/Pasted image 20230508091752.png",
-    "docs/数学/image/Pasted image 20230506102144.png",
     "docs/网站收集/个人站.md",
     "docs/English/网站.md",
     "docs/English/昂克英文.md",
