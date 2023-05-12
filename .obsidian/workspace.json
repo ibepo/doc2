@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53e61d25e8905a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/杂项/tsi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/杂项/tsi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/杂项/tsi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md"
+                "file": "docs/杂项/tsi.md"
               }
             }
           }
@@ -155,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b51ef7a503777f36",
+  "active": "53e61d25e8905a17",
   "lastOpenFiles": [
-    "docs/网站收集/工具网站.md",
     "docs/网站收集/烹饪手册.md",
+    "docs/杂项/tsi.md",
+    "docs/网站收集/工具网站.md",
     "docs/网站收集/个人站.md",
     "docs/待整理/notaion.md",
     "docs/待整理/webusb.md",
@@ -196,7 +211,6 @@
     "docs/数学/参考.md",
     "docs/数学/汤家凤.md",
     "docs/数学/image/Pasted image 20230508092354.png",
-    "docs/English/网站.md",
     "docs/ubuntu",
     "docs/运维知识",
     "docs/折腾",
