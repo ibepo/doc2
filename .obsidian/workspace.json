@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/杂项/UI,UX.md",
+                "file": "docs/网站收集/工具网站.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 299.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/杂项/UI,UX.md",
+                "file": "docs/网站收集/工具网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/杂项/UI,UX.md",
+                "file": "docs/网站收集/工具网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/杂项/UI,UX.md"
+                "file": "docs/网站收集/工具网站.md"
               }
             }
           }
@@ -157,12 +157,14 @@
   },
   "active": "b51ef7a503777f36",
   "lastOpenFiles": [
+    "docs/待整理/notaion.md",
+    "docs/待整理/webusb.md",
+    "docs/杂项/UI,UX.md",
     "docs/杂项/image/Pasted image 20230511162910.png",
     "docs/杂项/image/Pasted image 20230511162737.png",
     "docs/杂项/image/Pasted image 20230511160824.png",
     "docs/杂项/image",
     "book/马代笔记.md",
-    "docs/杂项/UI,UX.md",
     "docs/网站收集/烹饪手册.md",
     "docs/数学/线性代数 周志成.md",
     "docs/数学/欧拉回路，欧拉路径.md",
@@ -193,10 +195,8 @@
     "docs/数学/参考.md",
     "docs/数学/汤家凤.md",
     "docs/数学/image/Pasted image 20230508092354.png",
-    "docs/数学/image/Pasted image 20230508091841.png",
     "docs/网站收集/个人站.md",
     "docs/English/网站.md",
-    "docs/English/昂克英文.md",
     "docs/ubuntu",
     "docs/运维知识",
     "docs/折腾",

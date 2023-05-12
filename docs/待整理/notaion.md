@@ -1,3 +1,4 @@
+## table
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
 | `GET`       | :material-check:     Fetch resource  |
