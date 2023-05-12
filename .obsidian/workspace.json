@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站收集/工具网站.md",
+                "file": "docs/网站收集/个人站.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/工具网站.md",
+                "file": "docs/网站收集/个人站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/工具网站.md",
+                "file": "docs/网站收集/个人站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/工具网站.md"
+                "file": "docs/网站收集/个人站.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "b51ef7a503777f36",
   "lastOpenFiles": [
+    "docs/网站收集/工具网站.md",
     "docs/待整理/notaion.md",
     "docs/待整理/webusb.md",
     "docs/杂项/UI,UX.md",
@@ -186,7 +187,6 @@
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
     "Excalidraw",
     "docs/archlinux/tmux.md",
-    "docs/网站收集/工具网站.md",
     "docs/数学/三角函数.md",
     "docs/index.md",
     "docs/数学/image/Pasted image 20230508172043.png",
