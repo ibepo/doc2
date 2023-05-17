@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4167add91a0c06a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/lua.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/c/参考.md",
+                "file": "docs/lang/lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/c/参考.md",
+                "file": "docs/lang/lua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/c/参考.md"
+                "file": "docs/lang/lua.md"
               }
             }
           }
@@ -169,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53e61d25e8905a17",
+  "active": "4167add91a0c06a9",
   "lastOpenFiles": [
+    "docs/lang/c/参考.md",
+    "docs/lang/lua.md",
     "docs/杂项/tsi.md",
     "docs/网站收集/烹饪手册.md",
     "docs/网站收集/工具网站.md",
@@ -208,8 +223,6 @@
     "docs/数学/image/Pasted image 20230508172043.png",
     "docs/数学/image/Pasted image 20230508100447.png",
     "docs/数学/image/Pasted image 20230508095838.png",
-    "docs/数学/参考.md",
-    "docs/数学/汤家凤.md",
     "docs/数学/image/Pasted image 20230508092354.png",
     "docs/ubuntu",
     "docs/运维知识",
