@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/lua.md",
+                "file": "docs/lang/c/参考.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/lua.md",
+                "file": "docs/lang/c/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/lua.md",
+                "file": "docs/lang/c/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/lua.md"
+                "file": "docs/lang/c/参考.md"
               }
             }
           }
@@ -184,8 +184,8 @@
   },
   "active": "4167add91a0c06a9",
   "lastOpenFiles": [
-    "docs/lang/c/参考.md",
     "docs/lang/lua.md",
+    "docs/lang/c/参考.md",
     "docs/杂项/tsi.md",
     "docs/网站收集/烹饪手册.md",
     "docs/网站收集/工具网站.md",
