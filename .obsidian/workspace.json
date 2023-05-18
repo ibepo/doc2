@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/工具链/nvim/neovim.md",
+                "file": "docs/lang/前端/tailwindcss.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/工具链/nvim/neovim.md",
+                "file": "docs/lang/前端/tailwindcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/工具链/nvim/neovim.md",
+                "file": "docs/lang/前端/tailwindcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/工具链/nvim/neovim.md"
+                "file": "docs/lang/前端/tailwindcss.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "1583525ff0f64edc",
   "lastOpenFiles": [
+    "docs/lang/lua.md",
+    "docs/工具链/nvim/neovim.md",
     "docs/工具链/nvim/vim.md",
     "docs/工具链/nvim/api.md",
     "docs/工具链/nvim/treesitter.md",
@@ -181,8 +183,6 @@
     "docs/lang/前端/vue3 transition 动画.md",
     "docs/工具链/vscode/参考.md",
     "docs/网站收集/工具网站.md",
-    "docs/lang/lua.md",
-    "docs/网站收集/个人站.md",
     "docs/杂项/image/Pasted image 20230511162910.png",
     "docs/杂项/image/Pasted image 20230511162737.png",
     "docs/杂项/image/Pasted image 20230511160824.png",

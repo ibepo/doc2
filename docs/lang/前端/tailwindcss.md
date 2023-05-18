@@ -1,1 +1,2 @@
-[Winduum | Modern, modular, small modest CSS component framework built on top of TailwindCSS](https://winduum.dev/)
+- [Winduum | Modern, modular, small modest CSS component framework built on top of TailwindCSS](https://winduum.dev/)
+- [create component library with vue3&tailwindcss](https://www.youtube.com/watch?v=_k-ZrEWc-vQ)
