@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/前端/未命名.md",
+                "file": "docs/lang/前端/vue3 transition 动画.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/前端/未命名.md",
+                "file": "docs/lang/前端/vue3 transition 动画.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/前端/未命名.md",
+                "file": "docs/lang/前端/vue3 transition 动画.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/前端/未命名.md"
+                "file": "docs/lang/前端/vue3 transition 动画.md"
               }
             }
           }
@@ -208,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e6f020ce6e10014",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
     "docs/网站收集/烹饪手册.md",
-    "docs/lang/前端/未命名.md",
+    "docs/lang/前端/vue3 transition 动画.md",
     "docs/工具链/nvim/mapping鉴赏.md",
     "docs/工具链/vscode/参考.md",
     "docs/网站收集/工具网站.md",
