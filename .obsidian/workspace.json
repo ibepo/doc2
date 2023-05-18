@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe010eb7b24b4a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/工具链/nvim/mapping鉴赏.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/工具链/nvim/mapping鉴赏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
+                "file": "docs/工具链/nvim/mapping鉴赏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md"
+                "file": "docs/工具链/nvim/mapping鉴赏.md"
               }
             }
           }
@@ -182,13 +195,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4167add91a0c06a9",
+  "active": "fe010eb7b24b4a26",
   "lastOpenFiles": [
+    "docs/工具链/vscode/参考.md",
+    "docs/网站收集/烹饪手册.md",
     "docs/网站收集/工具网站.md",
     "docs/lang/c/参考.md",
     "docs/lang/lua.md",
     "docs/杂项/tsi.md",
-    "docs/网站收集/烹饪手册.md",
     "docs/网站收集/个人站.md",
     "docs/待整理/notaion.md",
     "docs/待整理/webusb.md",
@@ -219,7 +233,6 @@
     "Excalidraw",
     "docs/archlinux/tmux.md",
     "docs/数学/三角函数.md",
-    "docs/index.md",
     "docs/数学/image/Pasted image 20230508172043.png",
     "docs/数学/image/Pasted image 20230508100447.png",
     "docs/数学/image/Pasted image 20230508095838.png",
