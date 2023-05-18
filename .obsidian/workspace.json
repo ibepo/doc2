@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "53269e8f1f03ef40",
+        "id": "0a476a5b1ced6901",
         "type": "tabs",
         "children": [
           {
-            "id": "b51ef7a503777f36",
+            "id": "1583525ff0f64edc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站收集/烹饪手册.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53e61d25e8905a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/lang/c/参考.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4167add91a0c06a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/网站收集/烹饪手册.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe010eb7b24b4a26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/网站收集/烹饪手册.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6e6f020ce6e10014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/lang/前端/vue3 transition 动画.md",
+                "file": "docs/工具链/nvim/neovim.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#删除指定容器",
+                "query": "neovim",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -150,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/前端/vue3 transition 动画.md",
+                "file": "docs/工具链/nvim/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/前端/vue3 transition 动画.md",
+                "file": "docs/工具链/nvim/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/前端/vue3 transition 动画.md"
+                "file": "docs/工具链/nvim/neovim.md"
               }
             }
           }
@@ -208,43 +155,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "1583525ff0f64edc",
   "lastOpenFiles": [
-    "docs/网站收集/烹饪手册.md",
-    "docs/lang/前端/vue3 transition 动画.md",
+    "docs/工具链/nvim/vim.md",
+    "docs/工具链/nvim/api.md",
+    "docs/工具链/nvim/treesitter.md",
+    "docs/工具链/nvim/mason.md",
+    "docs/工具链/nvim/lsp.md",
+    "docs/工具链/nvim/参考.md",
+    "docs/工具链/nvim/nvim-tree.md",
+    "docs/工具链/nvim/telescope.md",
+    "docs/工具链/nvim/安装.md",
     "docs/工具链/nvim/mapping鉴赏.md",
+    "docs/杂项/tsi.md",
+    "docs/杂项/UI,UX.md",
+    "docs/杂项/最佳实践.md",
+    "docs/杂项/你说的对.md",
+    "docs/杂项/lua.md",
+    "docs/通用配置/前端项目的配置文件.md",
+    "docs/通用配置/vimrc.md",
+    "docs/通用配置/ideavim.md",
+    "docs/网站收集/烹饪手册.md",
+    "docs/lang/c/参考.md",
+    "docs/archlinux/install.md",
+    "docs/lang/前端/vue3 transition 动画.md",
     "docs/工具链/vscode/参考.md",
     "docs/网站收集/工具网站.md",
-    "docs/lang/c/参考.md",
     "docs/lang/lua.md",
-    "docs/杂项/tsi.md",
     "docs/网站收集/个人站.md",
-    "docs/待整理/notaion.md",
-    "docs/待整理/webusb.md",
-    "docs/杂项/UI,UX.md",
     "docs/杂项/image/Pasted image 20230511162910.png",
     "docs/杂项/image/Pasted image 20230511162737.png",
     "docs/杂项/image/Pasted image 20230511160824.png",
     "docs/杂项/image",
-    "book/马代笔记.md",
-    "docs/数学/线性代数 周志成.md",
-    "docs/数学/欧拉回路，欧拉路径.md",
-    "docs/数学/老爷子.md",
     "docs/数学/image/Pasted image 20230510122554.png",
-    "docs/archlinux/ncmpcpp.md",
-    "docs/archlinux/ssdm.md",
-    "docs/archlinux/install.md",
-    "docs/archlinux/dwm.md",
-    "docs/archlinux/参考.md",
-    "docs/archlinux/字体.md",
     "book/马同学图解线性代数.pdf",
-    "docs/archlinux/obisidian.md",
-    "docs/运维知识/docker/gl's docker.md",
-    "docs/数学/计算机图形学.md",
     "book",
     "docs/数学/image/Pasted image 20230510102828.png",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
-    "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.md",
     "Excalidraw",
     "docs/数学/image/Pasted image 20230508172043.png",
     "docs/数学/image/Pasted image 20230508100447.png",
