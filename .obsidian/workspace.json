@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3b6379691df2e102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/微信小程序.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/前端/tailwindcss.md",
+                "file": "docs/lang/微信小程序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/前端/tailwindcss.md",
+                "file": "docs/lang/微信小程序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/前端/tailwindcss.md"
+                "file": "docs/lang/微信小程序.md"
               }
             }
           }
@@ -155,8 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1583525ff0f64edc",
+  "active": "3b6379691df2e102",
   "lastOpenFiles": [
+    "docs/lang/前端/tailwindcss.md",
+    "docs/lang/微信小程序.md",
     "docs/lang/lua.md",
     "docs/工具链/nvim/neovim.md",
     "docs/工具链/nvim/vim.md",
@@ -181,8 +197,6 @@
     "docs/lang/c/参考.md",
     "docs/archlinux/install.md",
     "docs/lang/前端/vue3 transition 动画.md",
-    "docs/工具链/vscode/参考.md",
-    "docs/网站收集/工具网站.md",
     "docs/杂项/image/Pasted image 20230511162910.png",
     "docs/杂项/image/Pasted image 20230511162737.png",
     "docs/杂项/image/Pasted image 20230511160824.png",
