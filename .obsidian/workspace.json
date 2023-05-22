@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/杂项/你说的对.md",
+                "file": "docs/English/发音示范.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/杂项/你说的对.md",
+                "file": "docs/English/发音示范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/杂项/你说的对.md",
+                "file": "docs/English/发音示范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/杂项/你说的对.md"
+                "file": "docs/English/发音示范.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "3b6379691df2e102",
   "lastOpenFiles": [
+    "docs/杂项/你说的对.md",
     "docs/lang/微信小程序.md",
     "docs/lang/前端/tailwindcss.md",
     "docs/lang/lua.md",
@@ -188,7 +189,6 @@
     "docs/杂项/tsi.md",
     "docs/杂项/UI,UX.md",
     "docs/杂项/最佳实践.md",
-    "docs/杂项/你说的对.md",
     "docs/杂项/lua.md",
     "docs/通用配置/前端项目的配置文件.md",
     "docs/通用配置/vimrc.md",
