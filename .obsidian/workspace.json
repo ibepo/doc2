@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/韦氏音标美音发音.md",
+                "file": "docs/杂项/你说的对.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/韦氏音标美音发音.md",
+                "file": "docs/杂项/你说的对.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/韦氏音标美音发音.md",
+                "file": "docs/杂项/你说的对.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/韦氏音标美音发音.md"
+                "file": "docs/杂项/你说的对.md"
               }
             }
           }
@@ -197,13 +197,13 @@
   },
   "active": "3b6379691df2e102",
   "lastOpenFiles": [
+    "docs/网站收集/主题分列.md",
+    "docs/English/韦氏音标美音发音.md",
     "docs/English/image/Pasted image 20230525102803.png",
     "docs/English/发音示范.md",
     "docs/网站收集/烹饪手册.md",
-    "docs/网站收集/主题分列.md",
     "docs/网站收集/工具网站.md",
     "docs/网站收集/个人站.md",
-    "docs/English/韦氏音标美音发音.md",
     "docs/English/image/Pasted image 20230525090921.png",
     "docs/lang/vue3.md",
     "docs/杂项/你说的对.md",
@@ -236,7 +236,6 @@
     "Excalidraw",
     "docs/数学/image/Pasted image 20230508172043.png",
     "docs/数学/image/Pasted image 20230508100447.png",
-    "docs/数学/image/Pasted image 20230508095838.png",
     "docs/ubuntu",
     "docs/运维知识",
     "docs/折腾",
