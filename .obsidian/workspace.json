@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/微信小程序.md",
+                "file": "docs/English/发音示范.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/微信小程序.md",
+                "file": "docs/English/发音示范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/微信小程序.md",
+                "file": "docs/English/发音示范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/微信小程序.md"
+                "file": "docs/English/发音示范.md"
               }
             }
           }
@@ -197,18 +197,18 @@
   },
   "active": "6c834288a3f781ab",
   "lastOpenFiles": [
+    "docs/English/韦氏音标美音发音.md",
+    "docs/lang/微信小程序.md",
     "docs/English/发音示范.md",
     "book/马代笔记.md",
     "docs/网站收集/烹饪手册.md",
     "docs/杂项/你说的对.md",
     "docs/网站收集/主题分列.md",
-    "docs/English/韦氏音标美音发音.md",
     "docs/English/image/Pasted image 20230525102803.png",
     "docs/网站收集/工具网站.md",
     "docs/网站收集/个人站.md",
     "docs/English/image/Pasted image 20230525090921.png",
     "docs/lang/vue3.md",
-    "docs/lang/微信小程序.md",
     "docs/lang/前端/tailwindcss.md",
     "docs/lang/lua.md",
     "docs/工具链/nvim/neovim.md",
