@@ -65,10 +65,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/react/路由.md",
+                "file": "docs/lang/React/路由.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/react/路由.md",
+                "file": "docs/lang/React/路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/react/路由.md",
+                "file": "docs/lang/React/路由.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/react/路由.md"
+                "file": "docs/lang/React/路由.md"
               }
             }
           }
@@ -210,9 +210,11 @@
   },
   "active": "7fb73cd676ea00cc",
   "lastOpenFiles": [
+    "docs/lang/React/image/Pasted image 20230529145121.png",
+    "docs/lang/React/image",
     "docs/English/发音示范.md",
-    "docs/lang/react/路由.md",
-    "docs/lang/react",
+    "docs/lang/React/路由.md",
+    "docs/lang/React",
     "docs/English/韦氏音标美音发音.md",
     "docs/lang/微信小程序.md",
     "book/马代笔记.md",
@@ -238,7 +240,6 @@
     "docs/工具链/nvim/安装.md",
     "docs/工具链/nvim/mapping鉴赏.md",
     "docs/杂项/tsi.md",
-    "docs/杂项/UI,UX.md",
     "docs/杂项/image/Pasted image 20230511162910.png",
     "docs/杂项/image/Pasted image 20230511162737.png",
     "docs/杂项/image/Pasted image 20230511160824.png",
@@ -255,7 +256,6 @@
     "docs/运维知识",
     "docs/折腾",
     "docs/工具链",
-    "docs/lang",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
