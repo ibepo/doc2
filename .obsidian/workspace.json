@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7fb73cd676ea00cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/react/路由.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/发音示范.md",
+                "file": "docs/lang/react/路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/发音示范.md",
+                "file": "docs/lang/react/路由.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/发音示范.md"
+                "file": "docs/lang/react/路由.md"
               }
             }
           }
@@ -195,11 +208,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c834288a3f781ab",
+  "active": "7fb73cd676ea00cc",
   "lastOpenFiles": [
+    "docs/English/发音示范.md",
+    "docs/lang/react/路由.md",
+    "docs/lang/react",
     "docs/English/韦氏音标美音发音.md",
     "docs/lang/微信小程序.md",
-    "docs/English/发音示范.md",
     "book/马代笔记.md",
     "docs/网站收集/烹饪手册.md",
     "docs/杂项/你说的对.md",
@@ -224,7 +239,6 @@
     "docs/工具链/nvim/mapping鉴赏.md",
     "docs/杂项/tsi.md",
     "docs/杂项/UI,UX.md",
-    "docs/杂项/最佳实践.md",
     "docs/杂项/image/Pasted image 20230511162910.png",
     "docs/杂项/image/Pasted image 20230511162737.png",
     "docs/杂项/image/Pasted image 20230511160824.png",
@@ -242,7 +256,6 @@
     "docs/折腾",
     "docs/工具链",
     "docs/lang",
-    "未命名",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
