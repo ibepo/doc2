@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e14e18cd8bd709bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/人工智能/chatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/React/路由.md",
+                "file": "docs/人工智能/chatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/React/路由.md",
+                "file": "docs/人工智能/chatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/React/路由.md"
+                "file": "docs/人工智能/chatGPT.md"
               }
             }
           }
@@ -208,12 +221,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fb73cd676ea00cc",
+  "active": "e14e18cd8bd709bd",
   "lastOpenFiles": [
+    "docs/lang/React/路由.md",
+    "docs/人工智能/chatGPT.md",
     "docs/lang/React/image/Pasted image 20230529145121.png",
     "docs/lang/React/image",
     "docs/English/发音示范.md",
-    "docs/lang/React/路由.md",
     "docs/lang/React",
     "docs/English/韦氏音标美音发音.md",
     "docs/lang/微信小程序.md",
@@ -251,7 +265,6 @@
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
     "Excalidraw",
     "docs/数学/image/Pasted image 20230508172043.png",
-    "docs/数学/image/Pasted image 20230508100447.png",
     "docs/ubuntu",
     "docs/运维知识",
     "docs/折腾",
