@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/pronunciation in use.md",
+                "file": "docs/English/韦氏音标美音发音.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/韦小绿/crime.md",
+                "file": "docs/English/韦氏音标美音发音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/韦小绿/crime.md",
+                "file": "docs/English/韦氏音标美音发音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/韦小绿/crime.md"
+                "file": "docs/English/韦氏音标美音发音.md"
               }
             }
           }
@@ -221,9 +221,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e14e18cd8bd709bd",
+  "active": "6c834288a3f781ab",
   "lastOpenFiles": [
+    "docs/English/image/Pasted image 20230530104523.png",
     "docs/English/pronunciation in use.md",
+    "docs/English/韦小绿/crime.md",
     "docs/人工智能/chatGPT.md",
     "docs/lang/React/路由.md",
     "docs/lang/React/image/Pasted image 20230529145121.png",
@@ -252,8 +254,6 @@
     "docs/工具链/nvim/nvim-tree.md",
     "docs/工具链/nvim/telescope.md",
     "docs/工具链/nvim/安装.md",
-    "docs/工具链/nvim/mapping鉴赏.md",
-    "docs/杂项/tsi.md",
     "docs/杂项/image/Pasted image 20230511162910.png",
     "docs/杂项/image/Pasted image 20230511162737.png",
     "docs/杂项/image/Pasted image 20230511160824.png",
