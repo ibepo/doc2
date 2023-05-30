@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/韦氏音标美音发音.md",
+                "file": "docs/部署/nginx.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/韦氏音标美音发音.md",
+                "file": "docs/部署/nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/韦氏音标美音发音.md",
+                "file": "docs/部署/nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/韦氏音标美音发音.md"
+                "file": "docs/部署/nginx.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "6c834288a3f781ab",
   "lastOpenFiles": [
+    "docs/English/韦氏音标美音发音.md",
     "docs/English/image/Pasted image 20230530104523.png",
     "docs/English/pronunciation in use.md",
     "docs/English/韦小绿/crime.md",
@@ -231,7 +232,6 @@
     "docs/lang/React/image/Pasted image 20230529145121.png",
     "docs/lang/React/image",
     "docs/lang/React",
-    "docs/English/韦氏音标美音发音.md",
     "docs/lang/微信小程序.md",
     "book/马代笔记.md",
     "docs/网站收集/烹饪手册.md",
@@ -264,7 +264,6 @@
     "docs/数学/image/Pasted image 20230510102828.png",
     "Excalidraw/Drawing 2023-05-10 09.51.44.excalidraw.svg",
     "Excalidraw",
-    "docs/数学/image/Pasted image 20230508172043.png",
     "docs/ubuntu",
     "docs/运维知识",
     "docs/折腾",
