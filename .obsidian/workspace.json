@@ -29,7 +29,7 @@
                 "file": "docs/English/昂克英文.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
