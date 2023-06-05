@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/昂克英文.md",
+                "file": "docs/lang/前端/css.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/昂克英文.md",
+                "file": "docs/lang/前端/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/昂克英文.md",
+                "file": "docs/lang/前端/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/昂克英文.md"
+                "file": "docs/lang/前端/css.md"
               }
             }
           }
@@ -246,6 +246,7 @@
   },
   "active": "907954cab1e56bc0",
   "lastOpenFiles": [
+    "docs/English/昂克英文.md",
     "docs/English/image/Pasted image 20230602144803.png",
     "docs/English/image/Pasted image 20230602144625.png",
     "docs/English/image/Pasted image 20230602144549.png",
@@ -262,7 +263,6 @@
     "docs/English/image/Pasted image 20230324121911.png",
     "docs/English/image/Pasted image 20230324122156.png",
     "docs/English/image/Pasted image 20230324122252.png",
-    "docs/English/image/Pasted image 20230324122625.png",
     "docs/English/发音.md",
     "docs/English/词汇.md",
     "docs/English/吉娜英文.md",
