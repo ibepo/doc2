@@ -128,3 +128,36 @@ kill -9 pid # 根据上面查看到的Nginx进程号，杀死Nginx进程，-9 �
 [使用apt-get安装Nginx - 快乐的凡人721 - 博客园 (cnblogs.com)](https://www.cnblogs.com/luo630/p/9363478.html)
 
 [万字总结，体系化带你全面认识 Nginx ！ - 掘金 (juejin.cn)](https://juejin.cn/post/6942607113118023710)
+
+## jenkins配置
+```
+server {
+        listen       80 ;
+        listen       [::]:80 ;
+        listen [::]:443 ssl;
+        listen 443 ssl;
+        server_name jenkins.lhehs.com; # managed by Certbot
+        #root         /usr/share/nginx/html;
+
+        # Load configuration files for the default server block.
+        include /etc/nginx/default.d/*.conf;
+
+        location / {
+         proxy_pass http://127.0.0.1:8080/;
+                client_max_body_size       100m;
+                proxy_set_header   Host              $host;
+                proxy_set_header   X-Real-IP         $remote_addr;
+                proxy_set_header   X-Forwarded-For   $proxy_add_x_forwarded_for;
+                proxy_set_header   X-Forwarded-Proto $scheme;
+                proxy_set_header   X-Forwarded-Host  jenkins.lhehs.com;
+                proxy_set_header   X-Forwarded-Port  443;
+        }
+
+        error_page 404 /404.html;
+            location = /40x.html {
+        }
+
+        error_page 500 502 503 504 /50x.html;
+            location = /50x.html {
+        }
+```

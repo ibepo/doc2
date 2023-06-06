@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/丁宗同.md",
+                "file": "docs/部署/nginx.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/English/丁宗同.md",
+                "file": "docs/部署/nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/English/丁宗同.md",
+                "file": "docs/部署/nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/English/丁宗同.md"
+                "file": "docs/部署/nginx.md"
               }
             }
           }
@@ -259,9 +259,9 @@
   },
   "active": "6c180c0d883f440d",
   "lastOpenFiles": [
+    "docs/English/丁宗同.md",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/昂克英文.md",
-    "docs/English/丁宗同.md",
     "docs/English/发音.md",
     "docs/English/词根.md",
     "docs/lang/前端/css.md",
@@ -280,7 +280,6 @@
     "docs/English/image/Pasted image 20230320093826.png",
     "docs/English/image/Pasted image 20230324121911.png",
     "docs/English/image/Pasted image 20230324122156.png",
-    "docs/English/image/Pasted image 20230324122252.png",
     "docs/English/词汇.md",
     "docs/English/吉娜英文.md",
     "docs/English/pronunciation in use.md",
