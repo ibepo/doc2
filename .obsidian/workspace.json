@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/部署/nginx.md",
+                "file": "docs/English/韦小绿/bene.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/部署/nginx.md",
+                "file": "docs/English/韦小绿/bene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/部署/nginx.md",
+                "file": "docs/English/韦小绿/bene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/部署/nginx.md"
+                "file": "docs/English/韦小绿/bene.md"
               }
             }
           }
@@ -257,8 +257,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c180c0d883f440d",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/English/韦小绿/am.md",
+    "docs/English/韦小绿/bell.md",
+    "docs/English/韦小绿/pac.md",
+    "docs/English/韦小绿/crime.md",
+    "docs/部署/nginx.md",
     "docs/English/丁宗同.md",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/昂克英文.md",
@@ -285,8 +290,6 @@
     "docs/English/pronunciation in use.md",
     "docs/English/韦氏音标美音发音.md",
     "docs/lang/React/路由.md",
-    "docs/部署/nginx.md",
-    "docs/English/韦小绿/crime.md",
     "docs/人工智能/chatGPT.md",
     "docs/lang/React/image",
     "docs/lang/React",
@@ -294,8 +297,6 @@
     "book/马代笔记.md",
     "docs/杂项/你说的对.md",
     "docs/网站收集/主题分列.md",
-    "docs/网站收集/个人站.md",
-    "docs/lang/vue3.md",
     "docs/杂项/image",
     "book/马同学图解线性代数.pdf",
     "book",
