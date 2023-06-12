@@ -146,9 +146,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "32d1d1678beb3232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/English/口语老炮盖思瑞.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -225,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/线性代数.md",
+                "file": "docs/English/口语老炮盖思瑞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/线性代数.md",
+                "file": "docs/English/口语老炮盖思瑞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/线性代数.md"
+                "file": "docs/English/口语老炮盖思瑞.md"
               }
             }
           }
@@ -283,10 +296,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeb85e284410361a",
+  "active": "32d1d1678beb3232",
   "lastOpenFiles": [
-    "docs/lang/c/翁恺c语言.md",
     "docs/数学/线性代数.md",
+    "docs/English/口语老炮盖思瑞.md",
+    "docs/lang/c/翁恺c语言.md",
     "docs/lang/cpp/参考.md",
     "docs/English/韦小绿/am.md",
     "docs/English/韦小绿/bell.md",
@@ -322,7 +336,6 @@
     "docs/lang/React/image",
     "docs/lang/React",
     "docs/lang/微信小程序.md",
-    "book/马代笔记.md",
     "docs/杂项/image",
     "book/马同学图解线性代数.pdf",
     "book",
