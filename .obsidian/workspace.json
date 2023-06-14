@@ -159,9 +159,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edc4845cbd78dad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/数学/线性代数自理解.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -238,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/傅里叶变换.md",
+                "file": "docs/数学/线性代数自理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/傅里叶变换.md",
+                "file": "docs/数学/线性代数自理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/傅里叶变换.md"
+                "file": "docs/数学/线性代数自理解.md"
               }
             }
           }
@@ -296,8 +309,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32d1d1678beb3232",
+  "active": "edc4845cbd78dad2",
   "lastOpenFiles": [
+    "docs/数学/傅里叶变换.md",
+    "docs/数学/线性代数自理解.md",
     "docs/数学/泰勒展开.md",
     "docs/数学/考研数学张宇.md",
     "docs/数学/对数.md",
@@ -323,8 +338,6 @@
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/昂克英文.md",
     "docs/English/发音.md",
-    "docs/English/词根.md",
-    "docs/lang/前端/css.md",
     "docs/English/image/Pasted image 20230602144803.png",
     "docs/English/image/Pasted image 20230602144625.png",
     "docs/English/image/Pasted image 20230602144549.png",
