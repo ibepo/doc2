@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/React/hook.md",
+                "file": "docs/数学/傅里叶变换.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/React/hook.md",
+                "file": "docs/数学/傅里叶变换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/React/hook.md",
+                "file": "docs/数学/傅里叶变换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/React/hook.md"
+                "file": "docs/数学/傅里叶变换.md"
               }
             }
           }
@@ -298,7 +298,19 @@
   },
   "active": "32d1d1678beb3232",
   "lastOpenFiles": [
+    "docs/数学/泰勒展开.md",
+    "docs/数学/考研数学张宇.md",
+    "docs/数学/对数.md",
+    "docs/数学/三角函数.md",
+    "docs/数学/微积分.md",
+    "docs/数学/欧拉回路，欧拉路径.md",
+    "docs/数学/参考.md",
+    "docs/数学/汤家凤.md",
+    "docs/数学/线性代数 周志成.md",
+    "docs/数学/计算机图形学.md",
+    "docs/数学/老爷子.md",
     "docs/数学/线性代数.md",
+    "docs/lang/React/hook.md",
     "docs/English/口语老炮盖思瑞.md",
     "docs/lang/c/翁恺c语言.md",
     "docs/lang/cpp/参考.md",
@@ -316,26 +328,14 @@
     "docs/English/image/Pasted image 20230602144803.png",
     "docs/English/image/Pasted image 20230602144625.png",
     "docs/English/image/Pasted image 20230602144549.png",
-    "docs/网站收集/烹饪手册.md",
-    "docs/网站收集/工具网站.md",
-    "docs/English/阿飞.md",
     "docs/English/image/Pasted image 20230601115123.png",
     "docs/English/image/Pasted image 20230601115049.png",
-    "docs/lang/React/hook.md",
-    "docs/lang/前端/tailwindcss.md",
     "docs/English/image/Pasted image 20230320093630.png",
     "docs/English/image/Pasted image 20230320093826.png",
     "docs/English/image/Pasted image 20230324121911.png",
     "docs/English/image/Pasted image 20230324122156.png",
-    "docs/English/词汇.md",
-    "docs/English/吉娜英文.md",
-    "docs/English/pronunciation in use.md",
-    "docs/English/韦氏音标美音发音.md",
-    "docs/lang/React/路由.md",
-    "docs/人工智能/chatGPT.md",
     "docs/lang/React/image",
     "docs/lang/React",
-    "docs/lang/微信小程序.md",
     "docs/杂项/image",
     "book/马同学图解线性代数.pdf",
     "book",
