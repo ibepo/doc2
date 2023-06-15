@@ -185,9 +185,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "89b3d50ccd952fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/tailwindcss.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -264,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/UIUX/参考.md",
+                "file": "docs/lang/tailwindcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/UIUX/参考.md",
+                "file": "docs/lang/tailwindcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/UIUX/参考.md"
+                "file": "docs/lang/tailwindcss.md"
               }
             }
           }
@@ -322,10 +335,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ece9d5355a4c6215",
+  "active": "89b3d50ccd952fe8",
   "lastOpenFiles": [
-    "docs/数学/线性代数自理解.md",
     "docs/UIUX/参考.md",
+    "docs/lang/tailwindcss.md",
+    "docs/数学/线性代数自理解.md",
     "docs/UIUX",
     "docs/数学/傅里叶变换.md",
     "docs/数学/泰勒展开.md",
@@ -351,7 +365,6 @@
     "docs/部署/nginx.md",
     "docs/English/丁宗同.md",
     "docs/English/image/Pasted image 20230605164500.png",
-    "docs/English/昂克英文.md",
     "docs/English/image/Pasted image 20230602144803.png",
     "docs/English/image/Pasted image 20230602144625.png",
     "docs/English/image/Pasted image 20230602144549.png",
