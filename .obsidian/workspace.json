@@ -192,7 +192,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/tailwindcss.md",
+                "file": "docs/数学/参考.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/tailwindcss.md",
+                "file": "docs/数学/参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/tailwindcss.md",
+                "file": "docs/数学/参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/tailwindcss.md"
+                "file": "docs/数学/参考.md"
               }
             }
           }
@@ -337,9 +337,9 @@
   },
   "active": "89b3d50ccd952fe8",
   "lastOpenFiles": [
-    "docs/UIUX/参考.md",
-    "docs/lang/tailwindcss.md",
     "docs/数学/线性代数自理解.md",
+    "docs/lang/tailwindcss.md",
+    "docs/UIUX/参考.md",
     "docs/UIUX",
     "docs/数学/傅里叶变换.md",
     "docs/数学/泰勒展开.md",
