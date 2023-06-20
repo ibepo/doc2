@@ -192,7 +192,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数学/参考.md",
+                "file": "docs/archlinux/clash.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -229,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neovim",
+                "query": "clash",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -257,7 +257,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数学/参考.md",
+                "file": "docs/archlinux/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数学/参考.md",
+                "file": "docs/archlinux/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数学/参考.md"
+                "file": "docs/archlinux/clash.md"
               }
             }
           }
@@ -337,6 +338,7 @@
   },
   "active": "89b3d50ccd952fe8",
   "lastOpenFiles": [
+    "docs/数学/参考.md",
     "docs/数学/线性代数自理解.md",
     "docs/lang/tailwindcss.md",
     "docs/UIUX/参考.md",
@@ -348,7 +350,6 @@
     "docs/数学/三角函数.md",
     "docs/数学/微积分.md",
     "docs/数学/欧拉回路，欧拉路径.md",
-    "docs/数学/参考.md",
     "docs/数学/汤家凤.md",
     "docs/数学/线性代数 周志成.md",
     "docs/数学/计算机图形学.md",
