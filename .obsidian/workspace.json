@@ -192,7 +192,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/数学/泰勒展开.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -257,8 +257,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -278,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/数学/泰勒展开.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/clash.md",
+                "file": "docs/数学/泰勒展开.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/clash.md"
+                "file": "docs/数学/泰勒展开.md"
               }
             }
           }
@@ -338,11 +337,6 @@
   },
   "active": "89b3d50ccd952fe8",
   "lastOpenFiles": [
-    "docs/数学/参考.md",
-    "docs/数学/线性代数自理解.md",
-    "docs/lang/tailwindcss.md",
-    "docs/UIUX/参考.md",
-    "docs/UIUX",
     "docs/数学/傅里叶变换.md",
     "docs/数学/泰勒展开.md",
     "docs/数学/考研数学张宇.md",
@@ -350,10 +344,16 @@
     "docs/数学/三角函数.md",
     "docs/数学/微积分.md",
     "docs/数学/欧拉回路，欧拉路径.md",
+    "docs/数学/参考.md",
     "docs/数学/汤家凤.md",
     "docs/数学/线性代数 周志成.md",
     "docs/数学/计算机图形学.md",
     "docs/数学/老爷子.md",
+    "docs/数学/线性代数自理解.md",
+    "docs/archlinux/clash.md",
+    "docs/lang/tailwindcss.md",
+    "docs/UIUX/参考.md",
+    "docs/UIUX",
     "docs/数学/线性代数.md",
     "docs/lang/React/hook.md",
     "docs/English/口语老炮盖思瑞.md",
@@ -364,7 +364,6 @@
     "docs/English/韦小绿/pac.md",
     "docs/English/韦小绿/crime.md",
     "docs/部署/nginx.md",
-    "docs/English/丁宗同.md",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
     "docs/English/image/Pasted image 20230602144625.png",
