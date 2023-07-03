@@ -5,6 +5,7 @@
 
 
 ### 参考
+[从零开始的Bspwm安装与配置教程 - 知乎](https://zhuanlan.zhihu.com/p/568211941)
 [polybar基础使用](https://blog.csdn.net/qq_33215865/article/details/84720212) 
 https://www.bilibili.com/read/mobile?id=7417123
 https://github.com/baskerville/bspwm/blob/master/contrib/freedesktop/bspwm.desktop）
