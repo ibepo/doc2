@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/lisp.md",
+                "file": "docs/archlinux/install.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/lisp.md",
+                "file": "docs/archlinux/install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/lisp.md",
+                "file": "docs/archlinux/install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/lisp.md"
+                "file": "docs/archlinux/install.md"
               }
             }
           }
@@ -350,33 +350,33 @@
   },
   "active": "d22e2e2b39515ac8",
   "lastOpenFiles": [
-    "docs/数学/泰勒展开.md",
+    "docs/archlinux/dwm.md",
+    "docs/archlinux/xsession.md",
+    "docs/archlinux/wechat.md",
+    "docs/archlinux/pacman.md",
+    "docs/archlinux/bspwm.md",
+    "docs/archlinux/edge.md",
+    "docs/archlinux/vscode.md",
+    "docs/archlinux/ncmpcpp.md",
+    "docs/archlinux/ssdm.md",
+    "docs/archlinux/install.md",
+    "docs/archlinux/参考.md",
+    "docs/archlinux/clash.md",
+    "docs/archlinux/tmux.md",
+    "docs/archlinux/yay.md",
+    "docs/archlinux/ranger.md",
+    "docs/archlinux/fish.md",
+    "docs/archlinux/obisidian.md",
+    "docs/archlinux/字体.md",
     "docs/lang/lisp.md",
+    "docs/数学/泰勒展开.md",
     "docs/数学/傅里叶变换.md",
     "docs/数学/考研数学张宇.md",
     "docs/数学/对数.md",
     "docs/数学/三角函数.md",
     "docs/数学/微积分.md",
     "docs/数学/欧拉回路，欧拉路径.md",
-    "docs/数学/参考.md",
-    "docs/数学/汤家凤.md",
-    "docs/数学/线性代数 周志成.md",
-    "docs/数学/计算机图形学.md",
-    "docs/数学/老爷子.md",
-    "docs/数学/线性代数自理解.md",
-    "docs/archlinux/clash.md",
-    "docs/lang/tailwindcss.md",
-    "docs/UIUX/参考.md",
     "docs/UIUX",
-    "docs/数学/线性代数.md",
-    "docs/lang/React/hook.md",
-    "docs/English/口语老炮盖思瑞.md",
-    "docs/lang/c/翁恺c语言.md",
-    "docs/lang/cpp/参考.md",
-    "docs/English/韦小绿/am.md",
-    "docs/English/韦小绿/bell.md",
-    "docs/English/韦小绿/pac.md",
-    "docs/English/韦小绿/crime.md",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
     "docs/English/image/Pasted image 20230602144625.png",
