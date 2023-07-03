@@ -1,15 +1,15 @@
 ## 自用常用快捷键
 
 ### 打开应用
-| 快捷键             | 指向                      |
-| ------------------ | ------------------------- |
-| super+d            | 软件选择                  |
-| super+space        | 打开edge                  |
-| super+return       | 打开终端                  |
-| super+q            | 关闭当前软件              |
-| super+shift+e      | 打开资源管理器            |
-| alt+space          | 打开obsidian              |
-| alt+p              | 截图，flameshot           |
+| 快捷键        | 指向            |
+| ------------- | --------------- |
+| super+d       | 软件选择        |
+| super+return  | 打开终端模拟器       |
+| super+space   | 打开edge        |
+| super+shift+e | 打开资源管理器  |
+| super+q       | 关闭当前软件    |
+| alt+space     | 打开obsidian    |
+| alt+p         | 截图，flameshot |
 
 ## 导航
 
