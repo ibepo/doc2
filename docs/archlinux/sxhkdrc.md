@@ -3,7 +3,7 @@
 ### 打开应用
 | 快捷键        | 指向            |
 | ------------- | --------------- |
-| super+d       | 软件选择        |
+| super+d       | 打开软件启动器（rofi,dmenu）        |
 | super+return  | 打开终端模拟器       |
 | super+space   | 打开edge        |
 | super+shift+e | 打开资源管理器  |

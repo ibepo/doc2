@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/sxhkdrc.md",
+                "file": "docs/archlinux/bspwm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/sxhkdrc.md",
+                "file": "docs/archlinux/bspwm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/sxhkdrc.md",
+                "file": "docs/archlinux/bspwm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/sxhkdrc.md"
+                "file": "docs/archlinux/bspwm.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "413828cc458622fc",
   "lastOpenFiles": [
+    "docs/archlinux/sxhkdrc.md",
     "docs/linux/zsh.md",
     "docs/linux/文本处理.md",
     "docs/ubuntu/install.md",
@@ -177,7 +178,6 @@
     "docs/archlinux/fish.md",
     "docs/archlinux/obisidian.md",
     "docs/index.md",
-    "docs/archlinux/sxhkdrc.md",
     "book/马代笔记.md",
     "docs/archlinux/polybar.md",
     "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
