@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/ssdm.md",
+                "file": "docs/archlinux/bspwm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/ssdm.md",
+                "file": "docs/archlinux/bspwm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/ssdm.md",
+                "file": "docs/archlinux/bspwm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/ssdm.md"
+                "file": "docs/archlinux/bspwm.md"
               }
             }
           }
@@ -350,6 +350,7 @@
   },
   "active": "d22e2e2b39515ac8",
   "lastOpenFiles": [
+    "docs/archlinux/ssdm.md",
     "docs/archlinux/install.md",
     "docs/archlinux/dwm.md",
     "docs/archlinux/xsession.md",
@@ -359,7 +360,6 @@
     "docs/archlinux/edge.md",
     "docs/archlinux/vscode.md",
     "docs/archlinux/ncmpcpp.md",
-    "docs/archlinux/ssdm.md",
     "docs/archlinux/参考.md",
     "docs/archlinux/clash.md",
     "docs/archlinux/tmux.md",
