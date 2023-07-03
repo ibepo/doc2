@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/xrandr.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/xrandr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/xrandr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/bspwm.md"
+                "file": "docs/archlinux/xrandr.md"
               }
             }
           }
@@ -171,10 +171,10 @@
   },
   "active": "6461478eee6d3311",
   "lastOpenFiles": [
-    "docs/archlinux/未命名.md",
+    "docs/archlinux/bspwm.md",
+    "docs/archlinux/xrandr.md",
     "docs/archlinux/sxhkdrc.md",
     "docs/archlinux/vscode.md",
-    "docs/archlinux/bspwm.md",
     "docs/linux/zsh.md",
     "docs/linux/文本处理.md",
     "docs/ubuntu/install.md",
