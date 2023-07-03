@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a476a5b1ced6901",
+        "id": "cee3b37b0262a5df",
         "type": "tabs",
         "children": [
           {
-            "id": "1583525ff0f64edc",
+            "id": "413828cc458622fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/cpp/参考.md",
+                "file": "docs/archlinux/xsession.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,51 +21,12 @@
             }
           },
           {
-            "id": "907954cab1e56bc0",
+            "id": "c8ccac74a1ec00df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/English/昂克英文.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c180c0d883f440d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/English/韦小绿/bene.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b6379691df2e102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/杂项/你说的对.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eede3f4dab2d1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/lang/vue3.md",
+                "file": "docs/archlinux/x11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -73,139 +34,12 @@
             }
           },
           {
-            "id": "6c834288a3f781ab",
+            "id": "852356ba99f363fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/React/路由.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d433f211576ef27c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/English/image/Pasted image 20230324121911.png"
-              }
-            }
-          },
-          {
-            "id": "7fb73cd676ea00cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/lang/React/路由.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e14e18cd8bd709bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/English/韦小绿/crime.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4b41260919158c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/lang/c/翁恺c语言.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eeb85e284410361a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/线性代数.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "32d1d1678beb3232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/傅里叶变换.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edc4845cbd78dad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/线性代数自理解.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ece9d5355a4c6215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/UIUX/参考.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "89b3d50ccd952fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/数学/泰勒展开.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d22e2e2b39515ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -213,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clash",
+                "query": "bspwm",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -290,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/bspwm.md",
+                "file": "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/bspwm.md"
+                "file": "docs/archlinux/横屏+竖屏+bspwm+polybar.md"
               }
             }
           }
@@ -348,15 +182,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d22e2e2b39515ac8",
+  "active": "852356ba99f363fc",
   "lastOpenFiles": [
+    "docs/archlinux/x11.md",
+    "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
+    "docs/archlinux/xsession.md",
+    "docs/archlinux/网易云音乐.md",
     "docs/archlinux/ssdm.md",
+    "docs/lang/cpp/参考.md",
+    "docs/待整理/wiki.md",
+    "docs/archlinux/bspwm.md",
     "docs/archlinux/install.md",
     "docs/archlinux/dwm.md",
-    "docs/archlinux/xsession.md",
     "docs/archlinux/wechat.md",
     "docs/archlinux/pacman.md",
-    "docs/archlinux/bspwm.md",
     "docs/archlinux/edge.md",
     "docs/archlinux/vscode.md",
     "docs/archlinux/ncmpcpp.md",
@@ -371,11 +210,6 @@
     "docs/lang/lisp.md",
     "docs/数学/泰勒展开.md",
     "docs/数学/傅里叶变换.md",
-    "docs/数学/考研数学张宇.md",
-    "docs/数学/对数.md",
-    "docs/数学/三角函数.md",
-    "docs/数学/微积分.md",
-    "docs/数学/欧拉回路，欧拉路径.md",
     "docs/UIUX",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
