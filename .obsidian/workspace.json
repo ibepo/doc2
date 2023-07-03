@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
+                "file": "docs/archlinux/bspwm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f5d53d77abd4873c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/archlinux/polybar.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
+                "file": "docs/archlinux/polybar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
+                "file": "docs/archlinux/polybar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/archlinux/横屏+竖屏+bspwm+polybar.md"
+                "file": "docs/archlinux/polybar.md"
               }
             }
           }
@@ -182,16 +195,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "f5d53d77abd4873c",
   "lastOpenFiles": [
-    "docs/archlinux/x11.md",
+    "docs/archlinux/bspwm.md",
+    "docs/archlinux/polybar.md",
     "docs/archlinux/横屏+竖屏+bspwm+polybar.md",
+    "docs/archlinux/x11.md",
     "docs/archlinux/xsession.md",
     "docs/archlinux/网易云音乐.md",
     "docs/archlinux/ssdm.md",
     "docs/lang/cpp/参考.md",
     "docs/待整理/wiki.md",
-    "docs/archlinux/bspwm.md",
     "docs/archlinux/install.md",
     "docs/archlinux/dwm.md",
     "docs/archlinux/wechat.md",
@@ -209,7 +223,6 @@
     "docs/archlinux/字体.md",
     "docs/lang/lisp.md",
     "docs/数学/泰勒展开.md",
-    "docs/数学/傅里叶变换.md",
     "docs/UIUX",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
