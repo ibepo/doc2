@@ -5,4 +5,6 @@ React 18之后推崇的hook方式，函数式变成极大的改变了搬砖代�
 后来发现它好像是一个容易应急的管闲事且能管闲事的大妈,只要告诉它需要管谁的闲事。vue的`wather`可能就是来源于此
 一般起步教程，都在里边请求挂载后的第一次数据，当然第二个数据传一个空的数组，意味就干挂载后第一次请求的事情，这里需要注意到是，因为异步请求的需要，`fetch`和`axios`都会隐式返回一个`promise`,所以需要让请求函数函数这一坨放到即时处理函数里边，或者定义这个函数，在从后边调用它
 [React Cookbook中文版：87个案例带你精通React框架-大卫·格里菲思 道恩·格里菲思-微信读书](https://weread.qq.com/web/reader/8c432530813ab7f0dg018da4k17e328b022b17e62166fad4?)
-在后来，fa
+在后来，发现其实它有很多问题，后来出现了专门的请求库，来代替它在请求届的地位
+之所以有这么花活，要追溯到这个函数`useEffetc`的定义和出现的原因，这里有篇文章描述的很好`Using the useEffect hook to trigger asynchronous(异步) side effects is a common React pattern.`
+使用useeffect钩子函数触发异步副作用是常见的React模式
