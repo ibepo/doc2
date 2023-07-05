@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cee3b37b0262a5df",
+        "id": "bd5c7c1449099605",
         "type": "tabs",
         "children": [
           {
-            "id": "413828cc458622fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/archlinux/sxhkdrc.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6461478eee6d3311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/运维知识/nginx/命令.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f63366e1bca2e0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/运维知识/linux/sftp传递文件.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8dce1c8808020fc4",
+            "id": "1ebd23e5f55639fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +155,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "1ebd23e5f55639fc",
   "lastOpenFiles": [
     "docs/lang/lisp.md",
-    "docs/lang/vue3.md",
+    "docs/lang/前端/fetch.md",
+    "docs/lang/React/路由.md",
+    "docs/lang/前端/React.md",
+    "docs/lang/前端/常用库.md",
+    "docs/lang/前端/css.md",
+    "docs/lang/前端/tailwindcss.md",
+    "docs/lang/前端/vue3 transition 动画.md",
+    "docs/lang/python/python操作文本类.md",
     "docs/lang/React/心得.md",
+    "docs/lang/vue3.md",
     "docs/运维知识/linux/sftp传递文件.md",
     "docs/运维知识/nginx/命令.md",
     "docs/运维知识/linux",
@@ -216,14 +184,6 @@
     "docs/linux/服务管理.md",
     "docs/linux/shell语法.md",
     "docs/linux/命令工具.md",
-    "docs/linux/linux命令/xargs.md",
-    "docs/archlinux/xrandr.md",
-    "docs/archlinux/bspwm.md",
-    "docs/archlinux/sxhkdrc.md",
-    "docs/archlinux/vscode.md",
-    "docs/ubuntu/install.md",
-    "docs/UIUX/参考.md",
-    "docs/archlinux/xsession.md",
     "docs/UIUX",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
