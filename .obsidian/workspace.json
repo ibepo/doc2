@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60315b73ce49a035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/React/心得.md",
+                "file": "docs/lang/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/React/心得.md",
+                "file": "docs/lang/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/React/心得.md"
+                "file": "docs/lang/git.md"
               }
             }
           }
@@ -155,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ebd23e5f55639fc",
+  "active": "60315b73ce49a035",
   "lastOpenFiles": [
-    "docs/lang/lisp.md",
     "docs/lang/React/心得.md",
+    "docs/lang/git.md",
+    "docs/lang/lisp.md",
     "docs/lang/前端/fetch.md",
     "docs/lang/React/路由.md",
     "docs/lang/前端/React.md",
@@ -183,7 +198,6 @@
     "docs/linux/运维监控.md",
     "docs/linux/服务管理.md",
     "docs/linux/shell语法.md",
-    "docs/linux/命令工具.md",
     "docs/UIUX",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
