@@ -16,7 +16,7 @@
                 "file": "docs/lang/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -155,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "f660902424840faf",
   "lastOpenFiles": [
     "docs/lang/lisp.md",
     "docs/lang/微信小程序.md",
