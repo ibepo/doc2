@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/lisp.md",
+                "file": "docs/lang/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/lisp.md",
+                "file": "docs/lang/React/类组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/lisp.md",
+                "file": "docs/lang/React/类组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/lisp.md"
+                "file": "docs/lang/React/类组件.md"
               }
             }
           }
@@ -155,8 +155,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f660902424840faf",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/lang/lisp.md",
     "docs/lang/微信小程序.md",
     "docs/lang/git.md",
     "docs/lang/css/tailwindcss.md",
@@ -168,13 +169,12 @@
     "docs/SC/参考.md",
     "docs/index.md",
     "docs/待整理/notaion.md",
-    "docs/lang/React/类组件时代.md",
+    "docs/lang/React/类组件.md",
     "docs/SC",
     "docs/lang/React/心得.md",
     "docs/杂项/你说的对.md",
     "docs/数学/线性代数自理解.md",
     "docs/lang/React/路由.md",
-    "docs/lang/lisp.md",
     "docs/lang/前端/fetch.md",
     "docs/lang/前端/React.md",
     "docs/lang/前端/常用库.md",
