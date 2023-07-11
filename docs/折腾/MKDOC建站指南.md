@@ -12,4 +12,5 @@
     - toc.follow
     - header.autohide
 ## reference
-[Getting Started - MkDocs](https://www.mkdocs.org/getting-started/#other-commands-and-options)
+[Fetching Title#q0ht](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)
+[Fetching Title#surp](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)j
