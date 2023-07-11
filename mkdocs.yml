@@ -10,7 +10,7 @@ theme:
     primary: white
   language: zh
   icon:
-    logo: material/function-variant
+    logo: assets/lemons.png
   features:
     # - navigation.expand
     - navigation.indexes
@@ -30,6 +30,7 @@ markdown_extensions:
   - toc:
       permalink: '#'
       slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
+
 
   - admonition
   # - codehilite:
