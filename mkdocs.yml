@@ -9,8 +9,7 @@ theme:
   palette:
     primary: white
   language: zh
-  icon:
-    logo: assets/lemons.png
+  logo: assets/lemons.png
   features:
     # - navigation.expand
     - navigation.indexes

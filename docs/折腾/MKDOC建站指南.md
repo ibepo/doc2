@@ -11,6 +11,7 @@
     - navigation.path
     - toc.follow
     - header.autohide
+ 
 ## reference
-[Fetching Title#q0ht](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)
-[Fetching Title#surp](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)j
+[Mkdoc document](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)
+[Material theme document](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)
