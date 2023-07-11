@@ -13,32 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/单字分解.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7af9006fc1acbd16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/折腾/MKDOC建站指南.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "92c062c6967bb5b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/lang/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bspwm",
+                "query": "tag:#hello-world",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -182,9 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92c062c6967bb5b6",
+  "active": "2e816da8d44fc781",
   "lastOpenFiles": [
     "docs/lang/单字分解.md",
+    "docs/运维知识/docker/gl's docker.md",
+    "docs/lang/React/类组件.md",
     "docs/linux/zsh.md",
     "docs/折腾/MKDOC建站指南.md",
     "docs/assets/favicon.ico",
@@ -194,7 +169,6 @@
     "docs/asset",
     "docs/折腾/黑曜石使用指南.md",
     "docs/English/词汇.md",
-    "docs/lang/React/类组件.md",
     "docs/lang/javascript/模块化历史.md",
     "docs/lang/javascript/promise.md",
     "docs/lang/javascript/数组处理.md",
@@ -220,7 +194,6 @@
     "docs/lang/前端/fetch.md",
     "docs/lang/前端/React.md",
     "docs/lang/前端/常用库.md",
-    "docs/lang/前端/css.md",
     "docs/运维知识/linux",
     "docs/lang/uiux",
     "docs/English/image/Pasted image 20230605164500.png",
