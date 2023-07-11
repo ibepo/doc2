@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7bdb463f14a68ce",
+        "id": "2b7de144e1813fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "52c9a34a3af99634",
+            "id": "d158811c877592d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/React/类组件时代.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/React/类组件时代.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/React/类组件时代.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/React/类组件时代.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -155,10 +155,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "d158811c877592d6",
   "lastOpenFiles": [
-    "docs/lang/React/心得.md",
+    "docs/待整理/notaion.md",
     "docs/lang/React/类组件时代.md",
+    "docs/SC",
+    "docs/lang/React/心得.md",
     "docs/杂项/你说的对.md",
     "docs/lang/android.md",
     "docs/lang/cs.md",
@@ -183,8 +185,7 @@
     "docs/linux/linux命令/rsync.md",
     "docs/linux/文本处理.md",
     "docs/linux/zsh.md",
-    "docs/linux/参考.md",
-    "docs/UIUX",
+    "docs/lang/UIUX",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
     "docs/English/image/Pasted image 20230602144625.png",
@@ -201,8 +202,7 @@
     "book/马同学图解线性代数.pdf",
     "book",
     "Excalidraw",
-    "docs/ubuntu",
-    "docs/运维知识",
+    "docs/linux/ubuntu",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
