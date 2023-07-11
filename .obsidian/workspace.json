@@ -16,7 +16,7 @@
                 "file": "docs/lang/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "f660902424840faf",
   "lastOpenFiles": [
+    "docs/lang/React/image/Pasted image 20230529145121.png",
+    "docs/lang/React/类组件.md",
     "docs/lang/lisp.md",
     "docs/lang/微信小程序.md",
     "docs/lang/git.md",
@@ -169,7 +171,6 @@
     "docs/SC/参考.md",
     "docs/index.md",
     "docs/待整理/notaion.md",
-    "docs/lang/React/类组件.md",
     "docs/SC",
     "docs/lang/React/心得.md",
     "docs/杂项/你说的对.md",
@@ -187,7 +188,6 @@
     "docs/运维知识/linux",
     "docs/运维知识/nginx/配置.md",
     "docs/运维知识/nginx/参考.md",
-    "docs/linux/linux命令/rsync.md",
     "docs/lang/UIUX",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
