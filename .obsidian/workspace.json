@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/React/类组件.md",
+                "file": "docs/lang/javascript/数组处理.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/React/类组件.md",
+                "file": "docs/lang/javascript/数组处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/React/类组件.md",
+                "file": "docs/lang/javascript/数组处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/React/类组件.md"
+                "file": "docs/lang/javascript/数组处理.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "2e816da8d44fc781",
   "lastOpenFiles": [
+    "docs/lang/React/类组件.md",
     "docs/lang/单字分解.md",
     "docs/运维知识/docker/gl's docker.md",
-    "docs/lang/React/类组件.md",
     "docs/linux/zsh.md",
     "docs/折腾/MKDOC建站指南.md",
     "docs/assets/favicon.ico",
