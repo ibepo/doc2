@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/折腾/MKDOC建站指南.md",
+                "file": "docs/linux/zsh.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/折腾/MKDOC建站指南.md",
+                "file": "docs/linux/zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/折腾/MKDOC建站指南.md",
+                "file": "docs/linux/zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/折腾/MKDOC建站指南.md"
+                "file": "docs/linux/zsh.md"
               }
             }
           }
@@ -184,13 +184,13 @@
   },
   "active": "92c062c6967bb5b6",
   "lastOpenFiles": [
+    "docs/折腾/MKDOC建站指南.md",
     "docs/assets/favicon.ico",
     "docs/assets/lemons.png",
     "docs/assets",
     "docs/asset/lemons.png",
     "docs/asset",
     "docs/折腾/黑曜石使用指南.md",
-    "docs/折腾/MKDOC建站指南.md",
     "docs/lang/单字分解.md",
     "docs/English/词汇.md",
     "docs/lang/React/类组件.md",
@@ -229,7 +229,6 @@
     "docs/English/image/Pasted image 20230601115123.png",
     "docs/English/image/Pasted image 20230601115049.png",
     "docs/English/image/Pasted image 20230320093630.png",
-    "docs/lang/React/image",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
