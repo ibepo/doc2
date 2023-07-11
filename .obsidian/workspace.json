@@ -42,7 +42,7 @@
                 "file": "docs/折腾/MKDOC建站指南.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
