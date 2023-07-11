@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "583417b548db46c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/React/类组件.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b45282048a3e47b4",
+  "active": "583417b548db46c5",
   "lastOpenFiles": [
-    "docs/lang/javascript/promise.md",
+    "docs/lang/javascript/模块化历史.md",
     "docs/lang/React/类组件.md",
+    "docs/lang/javascript/promise.md",
     "docs/lang/javascript/数组处理.md",
     "docs/lang/javascript",
     "docs/lang/React/image/Pasted image 20230529145121.png",
@@ -189,7 +204,6 @@
     "docs/运维知识/linux/sftp传递文件.md",
     "docs/运维知识/nginx/命令.md",
     "docs/运维知识/linux",
-    "docs/运维知识/nginx/配置.md",
     "docs/lang/uiux",
     "docs/English/image/Pasted image 20230605164500.png",
     "docs/English/image/Pasted image 20230602144803.png",
