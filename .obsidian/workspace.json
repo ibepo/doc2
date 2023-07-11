@@ -184,6 +184,8 @@
   },
   "active": "92c062c6967bb5b6",
   "lastOpenFiles": [
+    "docs/asset/lemons.png",
+    "docs/asset",
     "docs/折腾/黑曜石使用指南.md",
     "docs/折腾/MKDOC建站指南.md",
     "docs/lang/单字分解.md",
@@ -215,7 +217,6 @@
     "docs/lang/前端/React.md",
     "docs/lang/前端/常用库.md",
     "docs/lang/前端/css.md",
-    "docs/lang/前端/tailwindcss.md",
     "docs/运维知识/linux",
     "docs/lang/uiux",
     "docs/English/image/Pasted image 20230605164500.png",
@@ -229,7 +230,6 @@
     "docs/English/image/Pasted image 20230324121911.png",
     "docs/lang/React/image",
     "docs/lang/React",
-    "docs/杂项/image",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]

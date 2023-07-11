@@ -7,7 +7,6 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    # primary: black
     primary: white
   language: zh
   icon:
@@ -32,7 +31,6 @@ markdown_extensions:
       permalink: '#'
       slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
 
-
   - admonition
   # - codehilite:
   #     guess_lang: false
@@ -49,7 +47,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-
   - pymdownx.details
   - pymdownx.inlinehilite
   - pymdownx.magiclink
@@ -59,7 +56,6 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-    #- autolinks
   - exclude:
       glob:
         - '*.tmp'
