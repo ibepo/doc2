@@ -78,7 +78,7 @@ plugins:
         - '*.gz'
       regex:
         - '.*\.(tmp|bin|tar)$'
-```` 
+``` 
 
 ## reference
 [Mkdoc document](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)
