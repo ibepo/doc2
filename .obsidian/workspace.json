@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/单字分解.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/单字分解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/单字分解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/单字分解.md"
               }
             }
           }
@@ -170,11 +170,12 @@
   },
   "active": "2e816da8d44fc781",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/网站收集/个人站.md",
     "docs/鸡汤.md",
     "docs/lang/React/类组件.md",
     "docs/lang/javascript/数组处理.md",
-    "docs/lang/单字分解.md",
+    "docs/单字分解.md",
     "docs/运维知识/docker/gl's docker.md",
     "docs/linux/zsh.md",
     "docs/折腾/MKDOC建站指南.md",
@@ -199,7 +200,6 @@
     "docs/lang/Vue/v-model.md",
     "docs/lang/Vue",
     "docs/SC/参考.md",
-    "docs/index.md",
     "docs/待整理/notaion.md",
     "docs/SC",
     "docs/lang/React/心得.md",
