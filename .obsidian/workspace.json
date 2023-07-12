@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/javascript/数组处理.md",
+                "file": "docs/lang/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/javascript/数组处理.md",
+                "file": "docs/lang/React/类组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/javascript/数组处理.md",
+                "file": "docs/lang/React/类组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/javascript/数组处理.md"
+                "file": "docs/lang/React/类组件.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "2e816da8d44fc781",
   "lastOpenFiles": [
+    "docs/lang/javascript/数组处理.md",
     "docs/lang/React/类组件.md",
     "docs/lang/单字分解.md",
     "docs/运维知识/docker/gl's docker.md",
@@ -171,7 +172,6 @@
     "docs/English/词汇.md",
     "docs/lang/javascript/模块化历史.md",
     "docs/lang/javascript/promise.md",
-    "docs/lang/javascript/数组处理.md",
     "docs/lang/javascript",
     "docs/lang/React/image/Pasted image 20230529145121.png",
     "docs/lang/lisp.md",
