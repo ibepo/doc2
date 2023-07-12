@@ -16,3 +16,4 @@
 - [wgetcloud ](https://hd47h3dikuktvxnvjzja.wgetcloud.org/login)
 - [figma](https://www.figma.com/)
 - [趣词词典](https://www.quword.com/)
+- [z-library](https://singlelogin.site/)
