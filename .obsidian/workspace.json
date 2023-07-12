@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "b8696348710c75e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/React/组件库.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "37be258c8dda034d",
             "type": "leaf",
             "state": {
@@ -183,8 +196,9 @@
   },
   "active": "2e816da8d44fc781",
   "lastOpenFiles": [
-    "docs/index.md",
+    "docs/lang/React/组件库.md",
     "docs/lang/React/类组件.md",
+    "docs/index.md",
     "docs/lang/javascript/内置函数.md",
     "docs/单字分解.md",
     "docs/lang/React/心得.md",
@@ -219,7 +233,6 @@
     "docs/SC",
     "docs/杂项/你说的对.md",
     "docs/数学/线性代数自理解.md",
-    "docs/lang/React/路由.md",
     "docs/运维知识/linux",
     "docs/lang/uiux",
     "docs/English/image/Pasted image 20230605164500.png",
