@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "43aa0d9588d32884",
+        "id": "46e00e961c597a9e",
         "type": "tabs",
         "children": [
           {
-            "id": "5f14ed8558255b02",
+            "id": "9c58a6dfcca15ff9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/English/短语.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -76,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/English/短语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/English/短语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/English/短语.md"
+              }
             }
           }
         ],
@@ -146,15 +155,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f14ed8558255b02",
+  "active": "9c58a6dfcca15ff9",
   "lastOpenFiles": [
-    "book/马同学图解线性代数.pdf",
-    "book/马代笔记.md",
+    "docs/English/参考.md",
+    "docs/English/词汇.md",
+    "docs/English/pronunciation in use.md",
+    "docs/English/昂克英文.md",
+    "docs/English/词根.md",
+    "docs/English/口语老炮盖思瑞.md",
+    "docs/English/网站.md",
     "docs/lang/React/类组件.md",
     "docs/lang/React/组件库.md",
+    "book/马同学图解线性代数.pdf",
+    "book/马代笔记.md",
     "docs/待整理/WLS2.md",
     "docs/鸡汤.md",
-    "docs/English/pronunciation in use.md",
     "docs/index.md",
     "docs/lang/javascript/内置函数.md",
     "docs/单字分解.md",
@@ -170,19 +185,14 @@
     "docs/asset/lemons.png",
     "docs/asset",
     "docs/折腾/黑曜石使用指南.md",
-    "docs/English/词汇.md",
     "docs/lang/javascript/模块化历史.md",
     "docs/lang/javascript/promise.md",
     "docs/lang/javascript",
     "docs/lang/React/image/Pasted image 20230529145121.png",
     "docs/lang/lisp.md",
     "docs/lang/微信小程序.md",
-    "docs/lang/git.md",
-    "docs/lang/css/tailwindcss.md",
     "docs/lang/css",
     "docs/lang/Android",
-    "docs/lang/Android/RGB加透明度.md",
-    "docs/lang/Vue/v-model.md",
     "docs/lang/Vue",
     "docs/SC",
     "docs/运维知识/linux",

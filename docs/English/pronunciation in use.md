@@ -1,7 +1,5 @@
-# pronunciation in use
-
-## ll10. old town /əʊ/ and /aʊ/](https://www.bilibili.com/video/BV1YV411W71G?t=553.3&p=12)
-
+## /əʊ/ , /aʊ/
+[old town /əʊ/ and /aʊ/](https://www.bilibili.com/video/BV1YV411W71G?t=553.3&p=12)
 /əʊ/
 字母o的本音
 蛾舞
