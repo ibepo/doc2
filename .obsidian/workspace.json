@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lang/React/类组件.md",
+                "file": "docs/English/pronunciation in use.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/React/类组件.md",
+                "file": "docs/鸡汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/React/类组件.md",
+                "file": "docs/鸡汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/React/类组件.md"
+                "file": "docs/鸡汤.md"
               }
             }
           }
@@ -194,10 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e816da8d44fc781",
+  "active": "61081f81ee7aa038",
   "lastOpenFiles": [
-    "docs/lang/React/组件库.md",
+    "docs/English/pronunciation in use.md",
     "docs/lang/React/类组件.md",
+    "docs/lang/React/组件库.md",
     "docs/index.md",
     "docs/lang/javascript/内置函数.md",
     "docs/单字分解.md",
@@ -232,7 +234,6 @@
     "docs/待整理/notaion.md",
     "docs/SC",
     "docs/杂项/你说的对.md",
-    "docs/数学/线性代数自理解.md",
     "docs/运维知识/linux",
     "docs/lang/uiux",
     "docs/English/image/Pasted image 20230605164500.png",

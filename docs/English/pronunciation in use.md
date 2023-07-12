@@ -1,6 +1,6 @@
 # pronunciation in use
 
-## [L10. Old Town /əʊ/ and /aʊ/](https://www.bilibili.com/video/BV1YV411W71G?t=553.3&p=12)
+## ll10. old town /əʊ/ and /aʊ/](https://www.bilibili.com/video/BV1YV411W71G?t=553.3&p=12)
 
 /əʊ/
 字母o的本音
