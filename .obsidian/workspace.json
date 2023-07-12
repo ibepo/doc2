@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/个人站.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -170,6 +170,7 @@
   },
   "active": "2e816da8d44fc781",
   "lastOpenFiles": [
+    "docs/网站收集/个人站.md",
     "docs/鸡汤.md",
     "docs/lang/React/类组件.md",
     "docs/lang/javascript/数组处理.md",
@@ -206,7 +207,6 @@
     "docs/数学/线性代数自理解.md",
     "docs/lang/React/路由.md",
     "docs/lang/前端/fetch.md",
-    "docs/lang/前端/React.md",
     "docs/运维知识/linux",
     "docs/lang/uiux",
     "docs/English/image/Pasted image 20230605164500.png",
