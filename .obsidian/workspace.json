@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/lang/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/lang/React/类组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/lang/React/类组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/lang/React/类组件.md"
               }
             }
           }
@@ -170,10 +170,10 @@
   },
   "active": "2e816da8d44fc781",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/lang/React/类组件.md",
     "docs/lang/React/心得.md",
     "docs/单字分解.md",
-    "docs/index.md",
     "docs/网站收集/个人站.md",
     "docs/鸡汤.md",
     "docs/lang/javascript/数组处理.md",
