@@ -20,5 +20,6 @@
   "showInlineTitle": false,
   "attachmentFolderPath": "./image",
   "foldIndent": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true
 }
