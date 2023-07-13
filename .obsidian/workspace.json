@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "355c709d09d3ff45",
+        "id": "207d9526fb213098",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf2710a673f4382",
+            "id": "74204b6df63819fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/lang/React/类组件.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c64938fcaaf3a23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/lang/javascript/this.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7343705ff8cfa8a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/cheatsheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b679851d311dc30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/SC/算法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/lang/javascript/this.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -153,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/javascript/this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/javascript/this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,16 +151,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3040edea9c6169c1",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/SC/算法.md",
+    "docs/lang/React/类组件.md",
+    "docs/lang/javascript/this.md",
     "docs/cheatsheet.md",
     "docs/image/markdown.png",
     "docs/image",
-    "docs/lang/javascript/this.md",
-    "docs/SC/算法.md",
     "docs/SC/image/Pasted image 20230713082947.png",
     "docs/SC/image",
-    "docs/lang/React/类组件.md",
     "docs/lang/React/组件库.md",
     "docs/英语/短语.md",
     "docs/英语/参考.md",

@@ -6,5 +6,6 @@
   "monospaceFontFamily": "JuliaMono",
   "cssTheme": "Minimal",
   "textFontFamily": "LXGW WenKai",
-  "showViewHeader": false
+  "showViewHeader": true,
+  "nativeMenus": false
 }
