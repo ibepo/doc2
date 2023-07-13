@@ -102,7 +102,9 @@ console.log(data.count)
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
-	this.count++ //将this替换成foo
+   //记录foo被调用次数
+   //注意：在当前fang
+	this.count++ 
 }
 foo.count=0
 
