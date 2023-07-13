@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c64938fcaaf3a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/javascript/this.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lang/React/类组件.md",
+                "file": "docs/lang/javascript/this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lang/React/类组件.md",
+                "file": "docs/lang/javascript/this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lang/React/类组件.md"
+                "file": "docs/lang/javascript/this.md"
               }
             }
           }
@@ -155,8 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bf2710a673f4382",
+  "active": "1c64938fcaaf3a23",
   "lastOpenFiles": [
+    "docs/lang/React/类组件.md",
+    "docs/lang/javascript/this.md",
     "docs/lang/React/组件库.md",
     "docs/英语/短语.md",
     "docs/英语/参考.md",
@@ -166,7 +182,6 @@
     "docs/英语/词根.md",
     "docs/英语/口语老炮盖思瑞.md",
     "docs/English/网站.md",
-    "docs/lang/React/类组件.md",
     "book/马同学图解线性代数.pdf",
     "book/马代笔记.md",
     "docs/待整理/WLS2.md",
@@ -190,7 +205,6 @@
     "docs/lang/javascript/promise.md",
     "docs/lang/javascript",
     "docs/lang/React/image/Pasted image 20230529145121.png",
-    "docs/lang/lisp.md",
     "docs/lang/css",
     "docs/lang/Android",
     "docs/lang/Vue",
