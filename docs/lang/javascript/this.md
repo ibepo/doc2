@@ -68,8 +68,7 @@ for(i=0,i<10;i++){
 //foo:9
 
 console.log(foo.count)
-//9
-
+//4
 ```
 
 2.创建另一个带有count属性的对象，另起炉灶，不用函数对象属性
@@ -95,7 +94,7 @@ for(i=0,i<10;i++){
 //foo:9
 
 console.log(data.count)
-//0
+//4
 ```
 
 ⭐ 强制this指向
@@ -103,7 +102,7 @@ console.log(data.count)
 function foo(sum){
 	console.log{"foo:"+sum}
    //记录foo被调用次数
-   //注意：在当前fang
+   //注意：在当前方式下，this确实指向了foo
 	this.count++ 
 }
 foo.count=0
@@ -111,7 +110,8 @@ foo.count=0
 var i;
 for(i=0,i<10;i++){
 	if(i>5){
-		foo(i)
+		//
+		foo.call(foo,i)
 	}
 }
 
@@ -122,9 +122,5 @@ for(i=0,i<10;i++){
 //foo:9
 
 console.log(foo.count)
-//0
-
-
-
-
+//4
 ```
