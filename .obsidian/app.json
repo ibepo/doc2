@@ -1,6 +1,6 @@
 {
   "vimMode": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "showFrontmatter": true,
   "defaultViewMode": "source",
   "newFileLocation": "current",
@@ -13,13 +13,15 @@
   "rightToLeft": false,
   "readableLineLength": false,
   "livePreview": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showIndentGuide": true,
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "legacyEditor": false,
   "showInlineTitle": false,
   "attachmentFolderPath": "./image",
   "foldIndent": false,
   "strictLineBreaks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "foldHeading": false,
+  "spellcheck": true
 }

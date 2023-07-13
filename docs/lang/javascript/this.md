@@ -110,7 +110,7 @@ foo.count=0
 var i;
 for(i=0,i<10;i++){
 	if(i>5){
-		//
+		//使用call（..）可以确保this指向函数本身
 		foo.call(foo,i)
 	}
 }

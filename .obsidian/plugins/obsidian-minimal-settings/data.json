@@ -29,8 +29,8 @@
   "underlineInternal": true,
   "underlineExternal": true,
   "useSystemTheme": false,
-  "folding": true,
-  "lineNumbers": false,
+  "folding": false,
+  "lineNumbers": true,
   "readableLineLength": false,
   "devBlockWidth": false
 }
