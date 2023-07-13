@@ -70,7 +70,7 @@ console.log(foo.count)
 //0
 
 ```
-
+创建li
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
