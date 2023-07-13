@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/cheatsheet.md",
+                "file": "docs/lang/javascript/this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/cheatsheet.md",
+                "file": "docs/lang/javascript/this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/cheatsheet.md"
+                "file": "docs/lang/javascript/this.md"
               }
             }
           }
@@ -195,12 +195,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7343705ff8cfa8a9",
+  "active": "1c64938fcaaf3a23",
   "lastOpenFiles": [
+    "docs/cheatsheet.md",
     "docs/image/markdown.png",
     "docs/image",
     "docs/lang/javascript/this.md",
-    "docs/cheatsheet.md",
     "docs/SC/算法.md",
     "docs/SC/image/Pasted image 20230713082947.png",
     "docs/SC/image",
@@ -242,7 +242,6 @@
     "docs/英语/image/Pasted image 20230602144625.png",
     "docs/英语/image/Pasted image 20230602144549.png",
     "docs/英语/image/Pasted image 20230601115123.png",
-    "docs/英语/image/Pasted image 20230601115049.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
