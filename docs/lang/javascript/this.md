@@ -44,3 +44,54 @@ console.log(foo.count)
 **证明:`this`并不是指向函数本身,而是指向的调用函数的，这里是`window`,我称为`执剑人`**
 
 ⭐ 回到词法作用域
+一种逃避`this`的解决方法是回到`词法作用域`
+在函数内部调用自身属性，用一个指向函数对象的`词法标识符`(变量)来引用它
+```js
+function foo(sum){
+	console.log{"foo:"+sum}
+	foo.count++ //将this替换成foo
+}
+foo.count=0
+
+var i;
+for(i=0,i<10;i++){
+	if(i>5){
+		foo(i)
+	}
+}
+
+-----output------
+//foo:6
+//foo:7
+//foo:8
+//foo:9
+
+console.log(foo.count)
+//0
+
+```
+
+```js
+function foo(sum){
+	console.log{"foo:"+sum}
+	foo.count++ //将this替换成foo
+}
+var data={
+  count=0
+}
+var i;
+for(i=0,i<10;i++){
+	if(i>5){
+		foo(i)
+	}
+}
+
+-----output------
+//foo:6
+//foo:7
+//foo:8
+//foo:9
+
+console.log(data.count)
+//0
+```
