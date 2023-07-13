@@ -46,6 +46,7 @@ console.log(foo.count)
 ⭐ 回到词法作用域
 一种逃避`this`的解决方法是回到`词法作用域`
 1.在函数内部调用自身属性，用一个指向函数对象的`词法标识符`(变量)来引用它
+题外话：为什么要在函数内部调用他自己呢，递归
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
@@ -67,7 +68,7 @@ for(i=0,i<10;i++){
 //foo:9
 
 console.log(foo.count)
-//0
+//9
 
 ```
 
@@ -75,7 +76,7 @@ console.log(foo.count)
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
-	foo.count++ //将this替换成foo
+	data.count++ //将this替换成foo
 }
 var data={
   count=0
@@ -95,4 +96,33 @@ for(i=0,i<10;i++){
 
 console.log(data.count)
 //0
+```
+
+⭐ 强制this指向
+```js
+function foo(sum){
+	console.log{"foo:"+sum}
+	this.count++ //将this替换成foo
+}
+foo.count=0
+
+var i;
+for(i=0,i<10;i++){
+	if(i>5){
+		foo(i)
+	}
+}
+
+-----output------
+//foo:6
+//foo:7
+//foo:8
+//foo:9
+
+console.log(foo.count)
+//0
+
+
+
+
 ```
