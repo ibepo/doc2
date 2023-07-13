@@ -1,3 +1,8 @@
+---
+date created: 2023-07-13 09:46
+date updated: 2023-07-13 09:46
+---
+
 ## 为什么要使用`this`
 
 `this`提供了一种更为优雅的方式来隐式的传递一个`对象引用`，因此可以将一个`API`设计的更为简洁
@@ -5,11 +10,14 @@
 在对象和原型中，你就会明白函数可以自动引入合适的上下文对象多么重要。
 
 ## 对`this`的两个误解
+
 ### ~~`this`指向函数自身~~
+
 javascript中所有函数都是对象
 所以函数中是可以存放属性值（即状态）,但是除了函数对象本身，还有其他更合适的地方。
 
 ⭐`this.`没办法调用函数本身的属性
+
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
@@ -47,6 +55,7 @@ console.log(foo.count)
 一种逃避`this`的解决方法是回到`词法作用域`
 1.在函数内部调用自身属性，用一个指向函数对象的`词法标识符`(变量)来引用它
 题外话：为什么要在函数内部调用他自己呢，递归
+
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
@@ -72,6 +81,7 @@ console.log(foo.count)
 ```
 
 2.创建另一个带有count属性的对象，另起炉灶，不用函数对象属性
+
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
@@ -98,6 +108,7 @@ console.log(data.count)
 ```
 
 ⭐ 强制this指向
+
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}

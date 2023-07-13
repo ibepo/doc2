@@ -40,21 +40,6 @@
       "icon": "redo-glyph"
     },
     {
-      "id": "editing-toolbar:editor:toggle-bold",
-      "name": "Toggle bold",
-      "icon": "bold-glyph"
-    },
-    {
-      "id": "editing-toolbar:editor:insert-link",
-      "name": "insert link []()",
-      "icon": "tree-pine"
-    },
-    {
-      "id": "zk-prefixer",
-      "name": "时间戳笔记生成器: 创建时间戳笔记",
-      "icon": "diamond"
-    },
-    {
       "id": "obsidian-git:push2",
       "name": "Obsidian Git: Push",
       "icon": "github"
@@ -70,32 +55,9 @@
       "icon": "venetian-mask"
     },
     {
-      "id": "editing-toolbar:workplace-fullscreen-focus",
-      "name": "Editing Toolbar: workplace-Fullscreen ",
-      "hotkeys": [
-        {
-          "modifiers": [
-            "Mod"
-          ],
-          "key": "F11"
-        }
-      ],
-      "icon": "fullscreen"
-    },
-    {
-      "id": "editing-toolbar:fullscreen-focus",
-      "name": "Fullscreen focus mode",
-      "icon": "exit-fullscreen"
-    },
-    {
-      "id": "obsidian-markmind:Create New outline",
-      "name": "obsidian markmind: 创建大纲",
-      "icon": "bot-glyph"
-    },
-    {
-      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab",
-      "name": "Excalidraw: 新建绘图 - 于新页签",
-      "icon": "function-square"
+      "id": "workspace:export-pdf",
+      "name": "导出为 PDF",
+      "icon": "pdf-file"
     }
   ],
   "appendMethod": "workspace",
@@ -103,7 +65,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 338,
+  "cMenuWidth": 234,
   "cMenuFontColor": "#000000",
   "cMenuBackgroundColor": "#ff4d4f",
   "autohide": false,
