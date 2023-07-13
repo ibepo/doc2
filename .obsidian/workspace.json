@@ -11,8 +11,13 @@
             "id": "5bf2710a673f4382",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/lang/React/类组件.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/lang/React/类组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/lang/React/类组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/lang/React/类组件.md"
+              }
             }
           }
         ],
@@ -148,16 +157,16 @@
   },
   "active": "5bf2710a673f4382",
   "lastOpenFiles": [
-    "docs/English/短语.md",
-    "docs/English/参考.md",
-    "docs/English/词汇.md",
-    "docs/English/pronunciation in use.md",
-    "docs/English/昂克英文.md",
-    "docs/English/词根.md",
-    "docs/English/口语老炮盖思瑞.md",
+    "docs/lang/React/组件库.md",
+    "docs/英语/短语.md",
+    "docs/英语/参考.md",
+    "docs/英语/词汇.md",
+    "docs/英语/pronunciation in use.md",
+    "docs/英语/昂克英文.md",
+    "docs/英语/词根.md",
+    "docs/英语/口语老炮盖思瑞.md",
     "docs/English/网站.md",
     "docs/lang/React/类组件.md",
-    "docs/lang/React/组件库.md",
     "book/马同学图解线性代数.pdf",
     "book/马代笔记.md",
     "docs/待整理/WLS2.md",
@@ -187,13 +196,13 @@
     "docs/lang/Vue",
     "docs/SC",
     "docs/运维知识/linux",
-    "docs/English/image/Pasted image 20230605164500.png",
-    "docs/English/image/Pasted image 20230602144803.png",
-    "docs/English/image/Pasted image 20230602144625.png",
-    "docs/English/image/Pasted image 20230602144549.png",
-    "docs/English/image/Pasted image 20230601115123.png",
-    "docs/English/image/Pasted image 20230601115049.png",
-    "docs/English/image/Pasted image 20230320093630.png",
+    "docs/英语/image/Pasted image 20230605164500.png",
+    "docs/英语/image/Pasted image 20230602144803.png",
+    "docs/英语/image/Pasted image 20230602144625.png",
+    "docs/英语/image/Pasted image 20230602144549.png",
+    "docs/英语/image/Pasted image 20230601115123.png",
+    "docs/英语/image/Pasted image 20230601115049.png",
+    "docs/英语/image/Pasted image 20230320093630.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
