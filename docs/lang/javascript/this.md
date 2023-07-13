@@ -13,6 +13,8 @@ javascript中所有函数都是对象
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
+	//记录this下边的count
+	this.count++
 }
 foo.count=0
 
@@ -34,5 +36,8 @@ console.log(foo.count)
 
 ```
 
-输出`foo：5`...等4次，证明调用了`foo（）`四次，（windows调用的）,但是foo对象上的属性
-`count`还是0,
+输出`foo：5`...等4次，证明调用了`foo（）`四次，（windows调用的）
+但是foo对象上的属性`count`还是0,
+其实这里的操作是`this`指向了`window`,所以是在`window`上默认添加了一个`count`属性,
+
+证明:`this`并不是指向函数本身,而是指向的调用函数的，这里是`window`,我称为`执剑人`
