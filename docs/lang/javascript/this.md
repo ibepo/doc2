@@ -7,4 +7,32 @@
 ## 对`this`的两个误解
 ### `this`指向函数自身
 javascript中所有函数都是对象
+
 所以函数中是可以存放属性值（即状态）,但是除了函数对象本身，还有其他更合适的地方。
+看下一个例子
+```js
+function foo(sum){
+	console.log{"foo:"+sum}
+}
+foo.count=0
+
+var i;
+for(i=0,i<10;i++){
+	if(i>5){
+		foo(i)
+	}
+}
+
+-----output------
+//foo:6
+//foo:7
+//foo:8
+//foo:9
+
+console.log(foo.count)
+//0
+
+```
+
+输出`foo：5`...等4次，证明调用了`foo（）`四次，（windows调用的）,但是foo对象上的属性
+`count`还是0,
