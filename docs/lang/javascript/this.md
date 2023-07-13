@@ -45,7 +45,7 @@ console.log(foo.count)
 
 ⭐ 回到词法作用域
 一种逃避`this`的解决方法是回到`词法作用域`
-在函数内部调用自身属性，用一个指向函数对象的`词法标识符`(变量)来引用它
+1.在函数内部调用自身属性，用一个指向函数对象的`词法标识符`(变量)来引用它
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
@@ -70,7 +70,8 @@ console.log(foo.count)
 //0
 
 ```
-创建li
+
+2.创建另一个带有count属性的对象，另起炉灶，不用函数对象属性
 ```js
 function foo(sum){
 	console.log{"foo:"+sum}
