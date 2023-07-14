@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/javascript/this.md",
+                "file": "docs/language/React/组件库.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/React/类组件.md"
+                "file": "docs/language/React/组件库.md"
               }
             }
           }
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/language/React/组件库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/language/React/组件库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,15 +174,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74204b6df63819fe",
+  "active": "70d3e9e53f7763ed",
   "lastOpenFiles": [
+    "docs/language/javascript/this.md",
+    "docs/language/React/类组件.md",
     "docs/cheatsheet.md",
     "docs/image/Pasted image 20230713172638.png",
     "docs/language/Android/RGB加透明度.md",
     "docs/单字分解.md",
-    "docs/language/javascript/this.md",
     "docs/SC/算法.md",
-    "docs/language/React/类组件.md",
     "docs/image/markdown.png",
     "docs/image",
     "docs/SC/image/Pasted image 20230713082947.png",
