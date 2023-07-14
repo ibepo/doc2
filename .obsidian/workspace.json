@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "207d9526fb213098",
+        "id": "d2de654c8f4cef15",
         "type": "tabs",
         "children": [
           {
-            "id": "74204b6df63819fe",
+            "id": "c3aea82edaf0fd15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/折腾/homelab/webusb.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "70d3e9e53f7763ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/language/React/组件库.md",
+                "file": "docs/language/Vue/心得.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -110,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/折腾/homelab/webusb.md"
+                "file": "docs/language/Vue/心得.md"
               }
             }
           }
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/折腾/homelab/webusb.md",
+                "file": "docs/language/Vue/心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/折腾/homelab/webusb.md",
+                "file": "docs/language/Vue/心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +161,12 @@
   },
   "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/language/React/组件库.md",
+    "docs/折腾/homelab/webusb.md",
     "docs/折腾/wiki.md",
     "docs/折腾/服务器环境配置.md",
     "docs/折腾/homelab/WLS2.md",
-    "docs/折腾/homelab/webusb.md",
     "docs/language/React/类组件.md",
-    "docs/language/React/组件库.md",
     "docs/language/javascript/this.md",
     "docs/cheatsheet.md",
     "docs/image/Pasted image 20230713172638.png",
