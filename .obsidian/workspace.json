@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/折腾/homelab/webusb.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/React/类组件.md"
+                "file": "docs/折腾/homelab/webusb.md"
               }
             }
           }
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/折腾/homelab/webusb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/折腾/homelab/webusb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,20 +172,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74204b6df63819fe",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/折腾/wiki.md",
+    "docs/折腾/服务器环境配置.md",
+    "docs/折腾/homelab/WLS2.md",
+    "docs/折腾/homelab/webusb.md",
+    "docs/language/React/类组件.md",
     "docs/language/React/组件库.md",
     "docs/language/javascript/this.md",
-    "docs/language/React/类组件.md",
     "docs/cheatsheet.md",
     "docs/image/Pasted image 20230713172638.png",
     "docs/language/Android/RGB加透明度.md",
     "docs/单字分解.md",
-    "docs/SC/算法.md",
+    "docs/计算机科学/算法.md",
     "docs/image/markdown.png",
     "docs/image",
-    "docs/SC/image/Pasted image 20230713082947.png",
-    "docs/SC/image",
+    "docs/计算机科学/image/Pasted image 20230713082947.png",
+    "docs/计算机科学/image",
     "docs/英语/短语.md",
     "docs/英语/参考.md",
     "docs/英语/词汇.md",
@@ -197,15 +200,12 @@
     "docs/English/网站.md",
     "book/马同学图解线性代数.pdf",
     "book/马代笔记.md",
-    "docs/待整理/WLS2.md",
     "docs/鸡汤.md",
     "docs/index.md",
     "docs/language/javascript/内置函数.md",
     "docs/language/React/心得.md",
     "docs/网站收集/个人站.md",
     "docs/language/javascript/数组处理.md",
-    "docs/运维知识/docker/gl's docker.md",
-    "docs/linux/zsh.md",
     "docs/assets/favicon.ico",
     "docs/assets/lemons.png",
     "docs/assets",
