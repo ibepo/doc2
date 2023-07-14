@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/Android/RGB加透明度.md",
+                "file": "docs/cheatsheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/Android/RGB加透明度.md"
+                "file": "docs/cheatsheet.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/Android/RGB加透明度.md",
+                "file": "docs/cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/Android/RGB加透明度.md",
+                "file": "docs/cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "74204b6df63819fe",
   "lastOpenFiles": [
+    "docs/image/Pasted image 20230713172638.png",
+    "docs/language/Android/RGB加透明度.md",
     "docs/单字分解.md",
     "docs/language/javascript/this.md",
     "docs/SC/算法.md",
@@ -204,7 +206,6 @@
     "docs/language/javascript/数组处理.md",
     "docs/运维知识/docker/gl's docker.md",
     "docs/linux/zsh.md",
-    "docs/折腾/MKDOC建站指南.md",
     "docs/assets/favicon.ico",
     "docs/assets/lemons.png",
     "docs/assets",
