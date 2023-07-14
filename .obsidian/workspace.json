@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cheatsheet.md",
+                "file": "docs/language/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/cheatsheet.md"
+                "file": "docs/language/React/类组件.md"
               }
             }
           }
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/cheatsheet.md",
+                "file": "docs/language/React/类组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/cheatsheet.md",
+                "file": "docs/language/React/类组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +175,13 @@
   },
   "active": "74204b6df63819fe",
   "lastOpenFiles": [
+    "docs/cheatsheet.md",
     "docs/image/Pasted image 20230713172638.png",
     "docs/language/Android/RGB加透明度.md",
     "docs/单字分解.md",
     "docs/language/javascript/this.md",
     "docs/SC/算法.md",
     "docs/language/React/类组件.md",
-    "docs/cheatsheet.md",
     "docs/image/markdown.png",
     "docs/image",
     "docs/SC/image/Pasted image 20230713082947.png",
@@ -220,7 +220,6 @@
     "docs/英语/image/Pasted image 20230602144803.png",
     "docs/英语/image/Pasted image 20230602144625.png",
     "docs/英语/image/Pasted image 20230602144549.png",
-    "docs/英语/image/Pasted image 20230601115123.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
