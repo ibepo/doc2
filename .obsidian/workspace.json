@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/React/组件库.md"
+                "file": "docs/language/React/类组件.md"
               }
             }
           }
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/React/组件库.md",
+                "file": "docs/language/React/类组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/React/组件库.md",
+                "file": "docs/language/React/类组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +173,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70d3e9e53f7763ed",
+  "active": "74204b6df63819fe",
   "lastOpenFiles": [
+    "docs/language/React/组件库.md",
     "docs/language/javascript/this.md",
     "docs/language/React/类组件.md",
     "docs/cheatsheet.md",
@@ -187,7 +187,6 @@
     "docs/image",
     "docs/SC/image/Pasted image 20230713082947.png",
     "docs/SC/image",
-    "docs/language/React/组件库.md",
     "docs/英语/短语.md",
     "docs/英语/参考.md",
     "docs/英语/词汇.md",
