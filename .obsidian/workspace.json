@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/language/React/组件库.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/React/类组件.md"
+                "file": "docs/language/React/组件库.md"
               }
             }
           }
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/language/React/组件库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/language/React/组件库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +161,7 @@
   },
   "active": "c3aea82edaf0fd15",
   "lastOpenFiles": [
+    "docs/language/React/类组件.md",
     "docs/language/React/image/Pasted image 20230717085313.png",
     "docs/language/Vue/心得.md",
     "docs/language/React/组件库.md",
@@ -169,7 +169,6 @@
     "docs/折腾/wiki.md",
     "docs/折腾/服务器环境配置.md",
     "docs/折腾/homelab/WLS2.md",
-    "docs/language/React/类组件.md",
     "docs/language/javascript/this.md",
     "docs/cheatsheet.md",
     "docs/image/Pasted image 20230713172638.png",
@@ -207,7 +206,6 @@
     "docs/英语/image/Pasted image 20230605164500.png",
     "docs/英语/image/Pasted image 20230602144803.png",
     "docs/英语/image/Pasted image 20230602144625.png",
-    "docs/英语/image/Pasted image 20230602144549.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
