@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/React/组件库.md",
+                "file": "docs/language/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/React/组件库.md"
+                "file": "docs/language/React/类组件.md"
               }
             }
           }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/React/组件库.md",
+                "file": "docs/language/React/类组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/React/组件库.md",
+                "file": "docs/language/React/类组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,10 +162,11 @@
   },
   "active": "c3aea82edaf0fd15",
   "lastOpenFiles": [
+    "docs/language/React/心得.md",
     "docs/language/React/类组件.md",
+    "docs/language/React/组件库.md",
     "docs/language/React/image/Pasted image 20230717085313.png",
     "docs/language/Vue/心得.md",
-    "docs/language/React/组件库.md",
     "docs/折腾/homelab/webusb.md",
     "docs/折腾/wiki.md",
     "docs/折腾/服务器环境配置.md",
@@ -192,7 +194,6 @@
     "docs/鸡汤.md",
     "docs/index.md",
     "docs/language/javascript/内置函数.md",
-    "docs/language/React/心得.md",
     "docs/assets/favicon.ico",
     "docs/assets/lemons.png",
     "docs/assets",
