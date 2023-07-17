@@ -16,7 +16,7 @@
                 "file": "docs/language/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "c3aea82edaf0fd15",
   "lastOpenFiles": [
+    "docs/language/React/image/Pasted image 20230717085313.png",
     "docs/language/Vue/心得.md",
     "docs/language/React/组件库.md",
     "docs/折腾/homelab/webusb.md",
@@ -193,7 +194,6 @@
     "docs/index.md",
     "docs/language/javascript/内置函数.md",
     "docs/language/React/心得.md",
-    "docs/网站收集/个人站.md",
     "docs/assets/favicon.ico",
     "docs/assets/lemons.png",
     "docs/assets",
