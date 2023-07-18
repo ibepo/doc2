@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/React/心得.md",
+                "file": "docs/language/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/React/心得.md"
+                "file": "docs/language/React/类组件.md"
               }
             }
           }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/React/心得.md",
+                "file": "docs/language/React/类组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/React/心得.md",
+                "file": "docs/language/React/类组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,12 +162,12 @@
   },
   "active": "c3aea82edaf0fd15",
   "lastOpenFiles": [
+    "docs/language/React/心得.md",
     "docs/language/React/image/Pasted image 20230718091841.png",
     "docs/language/React/类组件.md",
     "docs/language/React/image/Pasted image 20230718091536.png",
     "docs/language/React/image/Pasted image 20230717165143.png",
     "docs/language/React/image/Pasted image 20230717154659.png",
-    "docs/language/React/心得.md",
     "docs/language/React/组件库.md",
     "docs/language/React/image/Pasted image 20230717085313.png",
     "docs/language/Vue/心得.md",
@@ -203,7 +204,6 @@
     "docs/asset/lemons.png",
     "docs/asset",
     "docs/language/javascript",
-    "docs/language/React/image/Pasted image 20230529145121.png",
     "docs/language/css",
     "docs/language/Android",
     "docs/language/Vue",
