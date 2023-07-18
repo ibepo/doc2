@@ -16,7 +16,7 @@
                 "file": "docs/language/React/类组件.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "c3aea82edaf0fd15",
   "lastOpenFiles": [
+    "docs/language/React/image/Pasted image 20230718091536.png",
     "docs/language/React/image/Pasted image 20230717165143.png",
     "docs/language/React/image/Pasted image 20230717154659.png",
     "docs/language/React/心得.md",
@@ -207,7 +208,6 @@
     "docs/language/Android",
     "docs/language/Vue",
     "docs/英语/image/Pasted image 20230605164500.png",
-    "docs/英语/image/Pasted image 20230602144803.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
