@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/language/React/心得.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/React/类组件.md"
+                "file": "docs/language/React/心得.md"
               }
             }
           }
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/language/React/心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/React/类组件.md",
+                "file": "docs/language/React/心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +161,12 @@
   },
   "active": "c3aea82edaf0fd15",
   "lastOpenFiles": [
+    "docs/language/React/image/Pasted image 20230718091841.png",
+    "docs/language/React/类组件.md",
     "docs/language/React/image/Pasted image 20230718091536.png",
     "docs/language/React/image/Pasted image 20230717165143.png",
     "docs/language/React/image/Pasted image 20230717154659.png",
     "docs/language/React/心得.md",
-    "docs/language/React/类组件.md",
     "docs/language/React/组件库.md",
     "docs/language/React/image/Pasted image 20230717085313.png",
     "docs/language/Vue/心得.md",
@@ -207,7 +207,6 @@
     "docs/language/css",
     "docs/language/Android",
     "docs/language/Vue",
-    "docs/英语/image/Pasted image 20230605164500.png",
     "未命名.canvas",
     "docs/linux/未命名.canvas"
   ]
