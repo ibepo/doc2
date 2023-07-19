@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/英语/施元佑/01.SimpleSentences.md",
+                "file": "docs/language/javascript/模块化历史.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/英语/施元佑/01.SimpleSentences.md"
+                "file": "docs/language/javascript/模块化历史.md"
               }
             }
           }
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/英语/施元佑/01.SimpleSentences.md",
+                "file": "docs/language/javascript/模块化历史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/英语/施元佑/01.SimpleSentences.md",
+                "file": "docs/language/javascript/模块化历史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +177,8 @@
   },
   "active": "be48ae93b3c81673",
   "lastOpenFiles": [
-    "docs/英语/施元佑/00.terminology.md",
     "docs/英语/施元佑/01.SimpleSentences.md",
+    "docs/英语/施元佑/00.terminology.md",
     "docs/language/React/心得.md",
     "docs/英语/施元佑",
     "docs/鸡汤.md",
