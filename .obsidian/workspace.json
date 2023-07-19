@@ -13,10 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/英语/施元佑/00.terminology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "be48ae93b3c81673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/英语/施元佑/01.SimpleSentences.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -99,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/英语/施元佑/01.SimpleSentences.md"
+                "file": "docs/英语/施元佑/00.terminology.md"
               }
             }
           }
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/英语/施元佑/01.SimpleSentences.md",
+                "file": "docs/英语/施元佑/00.terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/英语/施元佑/01.SimpleSentences.md",
+                "file": "docs/英语/施元佑/00.terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +177,8 @@
   },
   "active": "2d4f15510be03152",
   "lastOpenFiles": [
-    "docs/英语/施元佑/00.terminology.md",
     "docs/英语/施元佑/01.SimpleSentences.md",
+    "docs/英语/施元佑/00.terminology.md",
     "docs/language/React/心得.md",
     "docs/英语/施元佑",
     "docs/鸡汤.md",
