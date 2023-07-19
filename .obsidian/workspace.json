@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/单字分解.md",
+                "file": "docs/language/javascript/模块化历史.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/单字分解.md"
+                "file": "docs/language/javascript/模块化历史.md"
               }
             }
           }
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/单字分解.md",
+                "file": "docs/language/javascript/模块化历史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/单字分解.md",
+                "file": "docs/language/javascript/模块化历史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,6 +178,7 @@
   },
   "active": "be48ae93b3c81673",
   "lastOpenFiles": [
+    "docs/单字分解.md",
     "docs/language/javascript/模块化历史.md",
     "docs/英语/施元佑/01.SimpleSentences.md",
     "docs/英语/施元佑/00.terminology.md",
@@ -199,7 +201,6 @@
     "docs/cheatsheet.md",
     "docs/image/Pasted image 20230713172638.png",
     "docs/language/Android/RGB加透明度.md",
-    "docs/单字分解.md",
     "docs/计算机科学/算法.md",
     "docs/image/markdown.png",
     "docs/image",
