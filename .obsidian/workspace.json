@@ -16,7 +16,7 @@
                 "file": "docs/英语/施元佑/00.terminology.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -29,7 +29,7 @@
                 "file": "docs/language/javascript/模块化历史.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -178,10 +178,10 @@
   },
   "active": "be48ae93b3c81673",
   "lastOpenFiles": [
-    "docs/单字分解.md",
-    "docs/language/javascript/模块化历史.md",
-    "docs/英语/施元佑/01.SimpleSentences.md",
     "docs/英语/施元佑/00.terminology.md",
+    "docs/language/javascript/模块化历史.md",
+    "docs/单字分解.md",
+    "docs/英语/施元佑/01.SimpleSentences.md",
     "docs/language/React/心得.md",
     "docs/英语/施元佑",
     "docs/鸡汤.md",
