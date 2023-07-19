@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3aea82edaf0fd15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/language/React/心得.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c691dc8a13e41114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/英语/施元佑/00.terminology.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d4f15510be03152",
             "type": "leaf",
             "state": {
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -117,6 +91,7 @@
       {
         "id": "8ef02d20ef67050e",
         "type": "tabs",
+        "dimension": 86.26588465298143,
         "children": [
           {
             "id": "b8e41c23163a73b3",
@@ -133,6 +108,7 @@
       {
         "id": "7800aec63f1b04f2",
         "type": "tabs",
+        "dimension": 13.734115347018571,
         "children": [
           {
             "id": "3040edea9c6169c1",
