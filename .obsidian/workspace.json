@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/javascript/模块化历史.md",
+                "file": "docs/单字分解.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/javascript/模块化历史.md"
+                "file": "docs/单字分解.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/javascript/模块化历史.md",
+                "file": "docs/单字分解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/javascript/模块化历史.md",
+                "file": "docs/单字分解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,6 +177,7 @@
   },
   "active": "be48ae93b3c81673",
   "lastOpenFiles": [
+    "docs/language/javascript/模块化历史.md",
     "docs/英语/施元佑/01.SimpleSentences.md",
     "docs/英语/施元佑/00.terminology.md",
     "docs/language/React/心得.md",
@@ -214,7 +215,6 @@
     "docs/English/网站.md",
     "book/马同学图解线性代数.pdf",
     "book/马代笔记.md",
-    "docs/index.md",
     "docs/assets/favicon.ico",
     "docs/assets/lemons.png",
     "docs/assets",
