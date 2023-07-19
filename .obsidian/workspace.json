@@ -29,7 +29,7 @@
                 "file": "docs/language/javascript/模块化历史.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
