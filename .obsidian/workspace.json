@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/javascript/模块化历史.md",
+                "file": "docs/language/javascript/数组处理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/javascript/模块化历史.md"
+                "file": "docs/language/javascript/数组处理.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/javascript/模块化历史.md",
+                "file": "docs/language/javascript/数组处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/javascript/模块化历史.md",
+                "file": "docs/language/javascript/数组处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +178,8 @@
   },
   "active": "be48ae93b3c81673",
   "lastOpenFiles": [
-    "docs/英语/施元佑/00.terminology.md",
     "docs/language/javascript/模块化历史.md",
+    "docs/英语/施元佑/00.terminology.md",
     "docs/单字分解.md",
     "docs/英语/施元佑/01.SimpleSentences.md",
     "docs/language/React/心得.md",
