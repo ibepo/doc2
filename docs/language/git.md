@@ -14,3 +14,12 @@
 -   `types` 类型定义文件更改
 -   `wip` 开发中
 -   `mod` 不确定分类的修改
+
+## 查看所有远程分支
+```git
+git branch -r
+```
+## 本地检出远程分支，并建立映射关系
+```git
+git checkout -b foo origin/foo
+```

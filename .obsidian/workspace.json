@@ -52,10 +52,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/英语/英语词汇的奥秘/A1.md",
+                "file": "docs/language/git.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/英语/英语词汇的奥秘/A1.md"
+                "file": "docs/language/git.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/英语/英语词汇的奥秘/A1.md",
+                "file": "docs/language/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/英语/英语词汇的奥秘/A1.md",
+                "file": "docs/language/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +204,8 @@
   },
   "active": "6d5e5913666f4a65",
   "lastOpenFiles": [
-    "docs/language/javascript/promise.md",
     "docs/英语/英语词汇的奥秘/A1.md",
+    "docs/language/javascript/promise.md",
     "docs/英语/英语词汇的奥秘",
     "docs/language/javascript/未命名.md",
     "docs/language/javascript/数组处理.md",
