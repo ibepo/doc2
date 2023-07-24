@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/javascript/代码语意.md",
+                "file": "docs/鸡汤.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/javascript/代码语意.md"
+                "file": "docs/鸡汤.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/javascript/代码语意.md",
+                "file": "docs/鸡汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/javascript/代码语意.md",
+                "file": "docs/鸡汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "2d4f15510be03152",
   "lastOpenFiles": [
+    "docs/单字分解.md",
+    "docs/language/javascript/代码语意.md",
     "docs/英语/施元佑/00.terminology.md",
     "docs/language/git.md",
     "docs/英语/英语词汇的奥秘/A1.md",
     "docs/language/javascript/promise.md",
     "docs/英语/英语词汇的奥秘",
-    "docs/language/javascript/代码语意.md",
     "docs/language/javascript/数组处理.md",
     "docs/language/javascript/模块化历史.md",
-    "docs/单字分解.md",
     "docs/英语/施元佑/01.SimpleSentences.md",
     "docs/language/React/心得.md",
     "docs/英语/施元佑",
