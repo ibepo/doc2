@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e080e11ddcf7b439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/language/css/position.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/工具链/vscode/参考.md"
+                "file": "docs/language/css/position.md"
               }
             }
           }
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/工具链/vscode/参考.md",
+                "file": "docs/language/css/position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/工具链/vscode/参考.md",
+                "file": "docs/language/css/position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af16a0fb7dcc56e3",
+  "active": "e080e11ddcf7b439",
   "lastOpenFiles": [
+    "docs/language/css/tailwindcss.md",
+    "docs/language/css/position.md",
+    "docs/工具链/vscode/参考.md",
     "docs/鸡汤.md",
     "docs/单字分解.md",
     "docs/杂项/老罗演讲课.md",
@@ -208,13 +224,10 @@
     "docs/cheatsheet.md",
     "docs/image/Pasted image 20230713172638.png",
     "docs/language/Android/RGB加透明度.md",
-    "docs/计算机科学/算法.md",
     "docs/image/markdown.png",
     "docs/image",
     "docs/计算机科学/image/Pasted image 20230713082947.png",
     "docs/计算机科学/image",
-    "docs/英语/短语.md",
-    "docs/英语/参考.md",
     "book/马同学图解线性代数.pdf",
     "docs/assets/favicon.ico",
     "docs/assets/lemons.png",
