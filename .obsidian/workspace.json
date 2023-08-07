@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "662f3f101b9a9d02",
+        "id": "172b1f5fe7617acf",
         "type": "tabs",
         "children": [
           {
-            "id": "97f4f53f2540eef9",
+            "id": "e8993ce9567b721c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/css/position.md",
+                "file": "docs/language/React/hook.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "a14354b1c562546f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/language/python/源.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/python/源.md"
+                "file": "docs/language/React/hook.md"
               }
             }
           }
@@ -129,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/python/源.md",
+                "file": "docs/language/React/hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/python/源.md",
+                "file": "docs/language/React/hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,17 +161,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a14354b1c562546f",
+  "active": "e8993ce9567b721c",
   "lastOpenFiles": [
-    "docs/language/css/position.md",
-    "docs/language/python/源.md",
-    "docs/language/css/flex.md",
-    "docs/language/css/参考.md",
+    "docs/language/React/路由.md",
     "docs/language/React/组件库.md",
-    "docs/英语/参考.md",
-    "docs/language/React/hook.md",
     "docs/language/React/image/Pasted image 20230727111724.png",
     "docs/language/React/心得.md",
+    "docs/language/React/类组件.md",
+    "docs/language/python/源.md",
+    "docs/language/css/position.md",
+    "docs/language/css/flex.md",
+    "docs/language/css/参考.md",
+    "docs/英语/参考.md",
+    "docs/language/React/hook.md",
     "docs/工具链/nvim/neovim.md",
     "docs/language/css/tailwindcss.md",
     "docs/工具链/vscode/参考.md",
@@ -203,14 +191,12 @@
     "docs/language/javascript/模块化历史.md",
     "docs/英语/施元佑/01.SimpleSentences.md",
     "docs/英语/施元佑",
-    "docs/language/React/类组件.md",
     "docs/language/React/image/Pasted image 20230718091841.png",
     "docs/language/React/image/Pasted image 20230718091536.png",
     "docs/language/React/image/Pasted image 20230717165143.png",
     "docs/language/React/image/Pasted image 20230717154659.png",
     "docs/language/React/image/Pasted image 20230717085313.png",
     "docs/language/Vue/心得.md",
-    "docs/折腾/homelab/webusb.md",
     "docs/image/Pasted image 20230713172638.png",
     "docs/image/markdown.png",
     "docs/image",
