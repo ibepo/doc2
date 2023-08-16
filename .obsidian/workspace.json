@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/node/热门依赖手机.md",
+                "file": "docs/language/javascript/数组处理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/node/热门依赖手机.md"
+                "file": "docs/language/javascript/数组处理.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/node/热门依赖手机.md",
+                "file": "docs/language/javascript/数组处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/node/热门依赖手机.md",
+                "file": "docs/language/javascript/数组处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +190,9 @@
   },
   "active": "a3b72ec5e4e0192f",
   "lastOpenFiles": [
-    "docs/未命名.md",
+    "docs/language/javascript/代码语意.md",
     "docs/language/node/热门依赖手机.md",
+    "docs/未命名.md",
     "docs/language/node",
     "docs/language/javascript/数组处理.md",
     "docs/language/React/hook.md",
@@ -212,7 +213,6 @@
     "docs/单字分解.md",
     "docs/杂项/老罗演讲课.md",
     "docs/英语/韦小绿/crime.md",
-    "docs/language/javascript/代码语意.md",
     "docs/英语/施元佑/00.terminology.md",
     "docs/language/git.md",
     "docs/英语/英语词汇的奥秘/A1.md",
