@@ -45,9 +45,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e9aa4c2d944af55c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/language/javascript/展开运算符.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/javascript/数组处理.md"
+                "file": "docs/language/javascript/展开运算符.md"
               }
             }
           }
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/javascript/数组处理.md",
+                "file": "docs/language/javascript/展开运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/javascript/数组处理.md",
+                "file": "docs/language/javascript/展开运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,13 +201,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3b72ec5e4e0192f",
+  "active": "e9aa4c2d944af55c",
   "lastOpenFiles": [
+    "docs/language/javascript/数组处理.md",
+    "docs/language/javascript/展开运算符.md",
     "docs/language/javascript/代码语意.md",
     "docs/language/node/热门依赖手机.md",
     "docs/未命名.md",
     "docs/language/node",
-    "docs/language/javascript/数组处理.md",
     "docs/language/React/hook.md",
     "docs/language/React/路由.md",
     "docs/language/React/组件库.md",
@@ -218,7 +232,6 @@
     "docs/英语/英语词汇的奥秘/A1.md",
     "docs/language/javascript/promise.md",
     "docs/英语/英语词汇的奥秘",
-    "docs/language/javascript/模块化历史.md",
     "docs/英语/施元佑",
     "docs/language/React/image/Pasted image 20230718091841.png",
     "docs/language/React/image/Pasted image 20230718091536.png",
