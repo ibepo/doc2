@@ -84,9 +84,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fc0582ae7e4954e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/language/javascript/svg.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/鸡汤.md"
+                "file": "docs/language/javascript/svg.md"
               }
             }
           }
@@ -181,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/鸡汤.md",
+                "file": "docs/language/javascript/svg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/鸡汤.md",
+                "file": "docs/language/javascript/svg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +240,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "837f75ffa10e5188",
+  "active": "fc0582ae7e4954e7",
   "lastOpenFiles": [
+    "docs/鸡汤.md",
+    "docs/language/javascript/svg.md",
     "docs/language/React/路由.md",
     "docs/language/React/hook.md",
     "docs/language/React/心得.md",
@@ -252,12 +267,10 @@
     "docs/工具链/nvim/neovim.md",
     "docs/language/css/tailwindcss.md",
     "docs/工具链/vscode/参考.md",
-    "docs/鸡汤.md",
     "docs/单字分解.md",
     "docs/杂项/老罗演讲课.md",
     "docs/英语/韦小绿/crime.md",
     "docs/英语/施元佑/00.terminology.md",
-    "docs/language/git.md",
     "docs/英语/英语词汇的奥秘",
     "docs/英语/施元佑",
     "docs/language/React/image/Pasted image 20230718091841.png",
