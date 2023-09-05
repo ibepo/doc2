@@ -11,8 +11,13 @@
             "id": "e8993ce9567b721c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/鸡汤.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           },
           {
@@ -170,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/鸡汤.md"
+              }
             }
           }
         ]
@@ -186,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/鸡汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/鸡汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,6 +241,7 @@
   },
   "active": "e8993ce9567b721c",
   "lastOpenFiles": [
+    "docs/linux/ssh/ssh免密登录.md",
     "docs/language/javascript/数组处理.md",
     "docs/language/React/心得.md",
     "docs/language/React/类组件.md",
@@ -260,7 +270,6 @@
     "docs/单字分解.md",
     "docs/杂项/老罗演讲课.md",
     "docs/英语/韦小绿/crime.md",
-    "docs/英语/施元佑/00.terminology.md",
     "docs/英语/英语词汇的奥秘",
     "docs/英语/施元佑",
     "docs/language/React/image/Pasted image 20230718091841.png",
