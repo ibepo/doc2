@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/language/React/组件库.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/swift.md"
+                "file": "docs/language/React/组件库.md"
               }
             }
           }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/language/React/组件库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/language/React/组件库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,8 +255,8 @@
   },
   "active": "f65c2186787c75ed",
   "lastOpenFiles": [
-    "docs/鸡汤.md",
     "docs/swift.md",
+    "docs/鸡汤.md",
     "docs/linux/ssh/ssh免密登录.md",
     "docs/language/javascript/数组处理.md",
     "docs/language/React/心得.md",
