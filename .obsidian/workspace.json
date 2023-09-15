@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "ad3706b607be4887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/网站收集/灵感.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a27a41d1408defdb",
             "type": "leaf",
             "state": {
@@ -125,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/css/tailwindcss.md"
+                "file": "docs/网站收集/灵感.md"
               }
             }
           }
@@ -220,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/css/tailwindcss.md",
+                "file": "docs/网站收集/灵感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/css/tailwindcss.md",
+                "file": "docs/网站收集/灵感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,8 +279,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7be0642e83aae152",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/language/css/tailwindcss.md",
+    "docs/网站收集/灵感.md",
     "docs/折腾/wiki.md",
     "docs/部署/centos部署.md",
     "docs/language/React/wenz.md",
@@ -295,8 +310,6 @@
     "docs/language/css/flex.md",
     "docs/language/css/参考.md",
     "docs/英语/参考.md",
-    "docs/工具链/nvim/neovim.md",
-    "docs/language/css/tailwindcss.md",
     "docs/英语/英语词汇的奥秘",
     "docs/英语/施元佑",
     "docs/language/React/image/Pasted image 20230718091841.png",
