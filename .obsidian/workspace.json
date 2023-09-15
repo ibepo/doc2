@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/折腾/wiki.md",
+                "file": "docs/language/css/tailwindcss.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "文件权限",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -182,8 +182,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/折腾/wiki.md"
+                "file": "docs/language/css/tailwindcss.md"
               }
             }
           }
@@ -221,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/折腾/wiki.md",
+                "file": "docs/language/css/tailwindcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/折腾/wiki.md",
+                "file": "docs/language/css/tailwindcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,6 +268,7 @@
   },
   "active": "7be0642e83aae152",
   "lastOpenFiles": [
+    "docs/折腾/wiki.md",
     "docs/部署/centos部署.md",
     "docs/language/React/wenz.md",
     "docs/中医.md",
@@ -297,7 +297,6 @@
     "docs/英语/参考.md",
     "docs/工具链/nvim/neovim.md",
     "docs/language/css/tailwindcss.md",
-    "docs/工具链/vscode/参考.md",
     "docs/英语/英语词汇的奥秘",
     "docs/英语/施元佑",
     "docs/language/React/image/Pasted image 20230718091841.png",
