@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/鸡汤.md",
+                "file": "docs/linux/archlinux/clash.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -137,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clash",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -195,7 +194,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/灵感.md"
+                "file": "docs/linux/archlinux/clash.md"
               }
             }
           }
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/灵感.md",
+                "file": "docs/linux/archlinux/clash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/灵感.md",
+                "file": "docs/linux/archlinux/clash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,15 +279,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "e8993ce9567b721c",
   "lastOpenFiles": [
+    "docs/鸡汤.md",
     "docs/language/css/tailwindcss.md",
     "docs/网站收集/灵感.md",
     "docs/折腾/wiki.md",
     "docs/部署/centos部署.md",
     "docs/language/React/wenz.md",
     "docs/中医.md",
-    "docs/鸡汤.md",
     "docs/language/React/类组件.md",
     "docs/language/React/组件库.md",
     "docs/language/React/路由.md",
