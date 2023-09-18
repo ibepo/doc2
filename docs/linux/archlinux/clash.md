@@ -17,11 +17,11 @@ docker run -d --name=clash --network=host -v "$HOME/dockerVolume/clash:/root/.co
 
 ## 获取订阅链接并配置
 1. `$HOME/dockerVolume/clash:/root/.config/clash`
-2. 导入自己的飞机配置，这里从相关网站，**选择下拉选择clash协议**，获取订阅地址`link`
+2. 导入自己的飞机配置，这里从相关网站，**选择下拉选择clash协议**，获取订阅地址`link`,例如`www.xxx.com`
 
 ```shell
 cd $HOME/dockerVolume/clash:/root/.config/clash
-wget -O config.yaml link
+wget -O config.yaml www.xxx.com 
 ```
 
 ## 部署可视化clash dashboard容器
