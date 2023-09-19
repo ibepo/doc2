@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/javascript/d3.js.md",
+                "file": "docs/language/javascript/svg.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/javascript/d3.js.md"
+                "file": "docs/language/javascript/svg.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/javascript/d3.js.md",
+                "file": "docs/language/javascript/svg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/javascript/d3.js.md",
+                "file": "docs/language/javascript/svg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
