@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7328370f479cbdd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/language/meta program.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网站收集/个人站.md"
+                "file": "docs/language/meta program.md"
               }
             }
           }
@@ -115,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/language/meta program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网站收集/个人站.md",
+                "file": "docs/language/meta program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60826981e88a653e",
+  "active": "7328370f479cbdd5",
   "lastOpenFiles": [
+    "docs/网站收集/个人站.md",
+    "docs/language/meta program.md",
     "docs/swift.md",
     "docs/鸡汤.md",
     "docs/单字分解.md",
@@ -190,8 +206,6 @@
     "docs/language/node/热门依赖手机.md",
     "docs/language/node",
     "docs/language/React/image/Pasted image 20230727111724.png",
-    "docs/language/python/源.md",
-    "docs/language/css/position.md",
     "docs/英语/英语词汇的奥秘",
     "docs/英语/施元佑",
     "docs/language/React/image/Pasted image 20230718091841.png",
