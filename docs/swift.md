@@ -18,3 +18,5 @@
 
 ## apple 开发者网页 
 [App Store Connect](https://appstoreconnect.apple.com/login?targetUrl=%2Fanalytics%2Fapp&authResult=FAILED)
+[Apple developer](https://developer.apple.com/)
+[Swfit Api](https://developer.apple.com/documentation/imageio/cgimagesource)
