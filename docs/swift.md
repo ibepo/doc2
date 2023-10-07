@@ -22,3 +22,6 @@
 [Apple developer](https://developer.apple.com/)
 [Swfit Api](https://developer.apple.com/documentation/imageio/cgimagesource)
 [github上一位放电子书的大佬](https://github.com/henryhu712/Developer-Books/tree/master/JavaScript)
+
+## figma
+[文字shagn xia](https://www.youtube.com/watch?v=TFWoG0062jU)
