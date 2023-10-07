@@ -11,3 +11,5 @@
 ## 宣传平台
 [producthunt](https://www.producthunt.com/)
 [Indie Hackers](https://www.indiehackers.com/)
+## app销量分析
+[点点数据](https://app.diandian.com/)
