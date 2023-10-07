@@ -12,5 +12,9 @@
 ## 宣传平台
 [producthunt](https://www.producthunt.com/)
 [Indie Hackers](https://www.indiehackers.com/)
+
 ## app销量分析
 [点点数据](https://app.diandian.com/)
+
+## apple 开发者网页 
+[App Store Connect](https://appstoreconnect.apple.com/login?targetUrl=%2Fanalytics%2Fapp&authResult=FAILED)
