@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/figma.md",
+                "file": "docs/swift.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/figma.md"
+                "file": "docs/swift.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/figma.md",
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/figma.md",
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +203,9 @@
   },
   "active": "809ce02498d1593f",
   "lastOpenFiles": [
+    "docs/figma.md",
     "docs/营销.md",
     "docs/swift.md",
-    "docs/figma.md",
     "docs/网站收集/个人站.md",
     "docs/language/meta program.md",
     "docs/鸡汤.md",

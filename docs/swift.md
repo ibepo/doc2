@@ -13,6 +13,7 @@
 ## 宣传平台
 [producthunt](https://www.producthunt.com/)
 [Indie Hackers](https://www.indiehackers.com/)
+[一个海外的分析kit](https://superwall.com/?ref=twitter_link_2_follow_la&twclid=28a0fekf9h3pjy08qsxikh3hv)
 
 ## app销量分析
 [点点数据](https://app.diandian.com/)
