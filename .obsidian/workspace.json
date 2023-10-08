@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/营销.md",
+                "file": "docs/swift.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "599867f3533ec2e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/闪念.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/营销.md"
+                "file": "docs/闪念.md"
               }
             }
           }
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/营销.md",
+                "file": "docs/闪念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/营销.md",
+                "file": "docs/闪念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,11 +214,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "809ce02498d1593f",
+  "active": "599867f3533ec2e3",
   "lastOpenFiles": [
     "docs/swift.md",
-    "docs/figma.md",
+    "docs/闪念.md",
     "docs/营销.md",
+    "docs/figma.md",
     "docs/网站收集/个人站.md",
     "docs/language/meta program.md",
     "docs/鸡汤.md",
@@ -228,7 +242,6 @@
     "docs/language/React/心得.md",
     "docs/linux/ssh/ssh免密登录.md",
     "docs/language/vite/未命名.md",
-    "docs/language/sql.md",
     "docs/language/vite",
     "docs/language/node",
     "docs/language/React/image/Pasted image 20230727111724.png",
