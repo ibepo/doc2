@@ -23,7 +23,7 @@
 [Apple developer](https://developer.apple.com/)
 [Swfit Api](https://developer.apple.com/documentation/imageio/cgimagesource)
 [github上一位放电子书的大佬](https://github.com/henryhu712/Developer-Books/tree/master/JavaScript)
-
+[wwdc 关于LiveText的部分 visionKit](https://developer.apple.com/videos/play/wwdc2022/10025/)
 
 ## todo
 - swiftdata是什么东西
