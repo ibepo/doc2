@@ -26,10 +26,11 @@
 [wwdc 关于LiveText的部分 visionKit](https://developer.apple.com/videos/play/wwdc2022/10025/)
 [All Video in developer apple](https://developer.apple.com/videos/all-videos/)
 
-## 函数
-## swift高级特性
+## Swift高级特性
+### 高阶 函数
 ### Optional
-[Fetching Title#iutc](https://www.youtube.com/watch?v=6Dd6_wjvEkA)
+有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的
+[[iOS][Swift][中文] 基礎語法#12. 初探Optional](https://www.youtube.com/watch?v=6Dd6_wjvEkA)
 ### Closeture
 尾闭包的应用
 
