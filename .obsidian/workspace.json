@@ -55,7 +55,7 @@
                 "file": "docs/swift.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -216,8 +216,9 @@
   },
   "active": "599867f3533ec2e3",
   "lastOpenFiles": [
-    "docs/闪念.md",
+    "docs/中医.md",
     "docs/swift.md",
+    "docs/闪念.md",
     "docs/营销.md",
     "docs/figma.md",
     "docs/网站收集/个人站.md",
@@ -234,7 +235,6 @@
     "docs/折腾/wiki.md",
     "docs/部署/centos部署.md",
     "docs/language/React/wenz.md",
-    "docs/中医.md",
     "docs/language/React/类组件.md",
     "docs/language/React/组件库.md",
     "docs/language/React/路由.md",
