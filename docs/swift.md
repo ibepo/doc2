@@ -27,24 +27,31 @@
 [All Video in developer apple](https://developer.apple.com/videos/all-videos/)
 
 ## Swift高级特性
-### 高阶 函数
+### 高阶函数
 ### Optional
 有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的
 这个时候数据有可能是确定值，有可能是nil
-
-可选绑定（Optional Binding）和强制解包（Force Unwrapping）
+####  强制解包（Force Unwrapping）
 
 ``` Swift
 //非闭包的写法
+var str : String?
+var str : Optional<String>
+
+str = "123123"
+str = nil
+
 if str != nil {
 	print(str!) // 强制解包 
     print(type(of: str!)) 
 } else { 
 	 print("str is nil") 
 }
+
+//通过惊叹号进行了强制解包
 ```
 
-
+#### 可选绑定（Optional Binding）
 ``` Swift
 //完整的闭包写法
 var str : String?
@@ -58,13 +65,14 @@ print(type(of : str))
 
 
 if let newStr=str{
-	print(str!)//强制解包
-	print(type(of:(str!)))
+	print(newStr)
+	print(type(of:(newStr)))
 } else {
 	print("stl is nil")
 }
 
-// if let newStr=str 是可选绑定的语法,用于判断str是否为可选类型，并将其解包赋值给newStr,如果str不为nil,进入if语法块，否则进入else语法块
+// if let newStr=str 是可选绑定的语法,用于判断str是否为可选类型，
+// 并将其解包赋值给newStr,如果str不为nil,进入if语法块，否则进入else语法块
 
 ```
 在这段代码中，`str` 后面的大括号 `{}` 表示一个闭包（Closure）。闭包是一种自包含的函数代码块，可以在代码中被传递和使用。
@@ -74,7 +82,7 @@ if let newStr=str{
 闭包的语法由大括号 `{}` 包围，可以包含参数列表、返回类型和函数体。在这个代码中，闭包没有参数列表和返回类型，只有一个函数体。
 
 
-#### guard let 和 if let
+#####  guard let 和 if let
 `guard let` 语句用于在代码块中进行可选绑定，并在绑定失败时执行特定的代码块。它的语法如下：
 
 ```swift
@@ -117,6 +125,9 @@ processString(str: nil) // 输出: str is nil
 
 [[iOS][Swift][中文] 基礎語法#12. 初探Optional](https://www.youtube.com/watch?v=6Dd6_wjvEkA)
 ### Closeture
+####  理解
+简单来讲，js中的箭头函数就是闭包的一种，可以作为参数传递之，
+是面向函数编程的一大体现
 #### 尾闭包的应用
 在 Swift 中，尾闭包（Trailing Closure）是一种特殊的闭包语法，用于在函数调用中以更简洁的方式传递闭包参数。通常，闭包作为函数的最后一个参数传递给函数，但是使用尾闭包语法，可以将闭包参数写在函数调用的括号外面，使代码更易读。
 
