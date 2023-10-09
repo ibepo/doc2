@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/闪念.md"
+                "file": "docs/swift.md"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +164,9 @@
   },
   "active": "c93eb83cb64c33e5",
   "lastOpenFiles": [
+    "docs/闪念.md",
     "docs/swift.md",
     "docs/language/meta program.md",
-    "docs/闪念.md",
     "docs/营销.md",
     "docs/单字分解.md",
     "docs/鸡汤.md",

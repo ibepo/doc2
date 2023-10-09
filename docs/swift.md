@@ -29,6 +29,7 @@
 ## 函数
 ## swift高级特性
 ### Optional
+[Fetching Title#iutc](https://www.youtube.com/watch?v=6Dd6_wjvEkA)
 ### Closeture
 尾闭包的应用
 
