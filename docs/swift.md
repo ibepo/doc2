@@ -29,6 +29,28 @@
 ## Swift高级特性
 ### 高阶 函数
 ### Optional
+``` Swift
+var str : String?
+var str : Optional<String>
+
+str = "123123"
+str = nil
+
+print(str!)
+print(type(of : str))
+
+
+//避免str！ 脱开错误的方法
+
+if let newStr=str{
+	print(str!)
+	print(type(of:))
+}
+
+
+
+
+```
 有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的
 [[iOS][Swift][中文] 基礎語法#12. 初探Optional](https://www.youtube.com/watch?v=6Dd6_wjvEkA)
 ### Closeture
