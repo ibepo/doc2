@@ -33,7 +33,20 @@
 这个时候数据有可能是确定值，有可能是nil
 
 可选绑定（Optional Binding）和强制解包（Force Unwrapping）
+
 ``` Swift
+//非闭包的写法
+if str != nil {
+	print(str!) // 强制解包 
+    print(type(of: str!)) 
+} else { 
+	 print("str is nil") 
+}
+```
+
+
+``` Swift
+//完整的闭包写法
 var str : String?
 var str : Optional<String>
 
@@ -59,7 +72,9 @@ if let newStr=str{
 在这个特定的代码中，大括号内的闭包用于定义 `if let` 语句块的内容。闭包内部的代码会在 `str` 不为 `nil` 时执行。这种用法常见于 Swift 中的可选绑定，可以在 `if let` 或 `guard let` 语句中使用闭包来处理可选类型的值。
 
 闭包的语法由大括号 `{}` 包围，可以包含参数列表、返回类型和函数体。在这个代码中，闭包没有参数列表和返回类型，只有一个函数体。
-#### guard let
+
+
+#### guard let 和 if let
 `guard let` 语句用于在代码块中进行可选绑定，并在绑定失败时执行特定的代码块。它的语法如下：
 
 ```swift
