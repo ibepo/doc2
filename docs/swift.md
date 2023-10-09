@@ -44,11 +44,10 @@ print(type(of : str))
 
 if let newStr=str{
 	print(str!)
-	print(type(of:))
+	print(type(of:(str!)))
+} else {
+	print("stl is nil")
 }
-
-
-
 
 ```
 有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的
