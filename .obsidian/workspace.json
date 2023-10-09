@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9ae3f2ce14f29b64",
+        "id": "fed72dfca03bb152",
         "type": "tabs",
         "children": [
           {
-            "id": "60826981e88a653e",
+            "id": "c93eb83cb64c33e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/swift.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "306046f9ef6cd81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/swift.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "809ce02498d1593f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/swift.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "599867f3533ec2e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/闪念.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7328370f479cbdd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/language/meta program.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/闪念.md"
+                "file": "docs/swift.md"
               }
             }
           }
@@ -168,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,17 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "599867f3533ec2e3",
+  "active": "c93eb83cb64c33e5",
   "lastOpenFiles": [
+    "docs/language/meta program.md",
+    "docs/swift.md",
+    "docs/闪念.md",
     "docs/营销.md",
     "docs/单字分解.md",
     "docs/鸡汤.md",
     "docs/中医.md",
-    "docs/swift.md",
-    "docs/闪念.md",
     "docs/figma.md",
     "docs/网站收集/个人站.md",
-    "docs/language/meta program.md",
     "docs/language/javascript/数组处理.md",
     "docs/language/javascript/展开运算符.md",
     "docs/language/javascript/d3.js.md",

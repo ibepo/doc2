@@ -30,5 +30,6 @@
 ## swift高级特性
 ### Optional
 ### Closeture
+尾闭包的应用
 
 ## SwiftUI
