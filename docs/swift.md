@@ -29,6 +29,8 @@
 ## Swift高级特性
 ### 高阶 函数
 ### Optional
+
+可选绑定（Optional Binding）和强制解包（Force Unwrapping）
 ``` Swift
 var str : String?
 var str : Optional<String>
@@ -40,8 +42,6 @@ print(str!)
 print(type(of : str))
 
 
-//避免str！ 脱开错误的方法
-
 if let newStr=str{
 	print(str!)
 	print(type(of:(str!)))
@@ -49,7 +49,11 @@ if let newStr=str{
 	print("stl is nil")
 }
 
+// if let newStr=str 是可选绑定的语法,用于判断str是否为可选类型，并将其解包赋值给newStr,如果str不为nil,进入if语法块，否则进入else语法块
 ```
+
+
+
 有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的
 [[iOS][Swift][中文] 基礎語法#12. 初探Optional](https://www.youtube.com/watch?v=6Dd6_wjvEkA)
 ### Closeture
