@@ -29,6 +29,8 @@
 ## Swift高级特性
 ### 高阶 函数
 ### Optional
+有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的
+这个时候数据有可能是确定值，有可能是nil
 
 可选绑定（Optional Binding）和强制解包（Force Unwrapping）
 ``` Swift
@@ -43,18 +45,61 @@ print(type(of : str))
 
 
 if let newStr=str{
-	print(str!)
+	print(str!)//强制解包
 	print(type(of:(str!)))
 } else {
 	print("stl is nil")
 }
 
 // if let newStr=str 是可选绑定的语法,用于判断str是否为可选类型，并将其解包赋值给newStr,如果str不为nil,进入if语法块，否则进入else语法块
+
+```
+在这段代码中，`str` 后面的大括号 `{}` 表示一个闭包（Closure）。闭包是一种自包含的函数代码块，可以在代码中被传递和使用。
+
+在这个特定的代码中，大括号内的闭包用于定义 `if let` 语句块的内容。闭包内部的代码会在 `str` 不为 `nil` 时执行。这种用法常见于 Swift 中的可选绑定，可以在 `if let` 或 `guard let` 语句中使用闭包来处理可选类型的值。
+
+闭包的语法由大括号 `{}` 包围，可以包含参数列表、返回类型和函数体。在这个代码中，闭包没有参数列表和返回类型，只有一个函数体。
+#### guard let
+`guard let` 语句用于在代码块中进行可选绑定，并在绑定失败时执行特定的代码块。它的语法如下：
+
+```swift
+guard let constantName = optionalExpression else {
+    // 当 optionalExpression 为 nil 时执行的代码
+    // 通常是提前退出或处理错误的逻辑
+    // return 或者抛出异常等
+}
+// 当 optionalExpression 不为 nil 时执行的代码
+// 可以使用 constantName
 ```
 
+`guard let` 语句与 `if let` 语句类似，都是用来处理可选类型的值。但是它们有一些区别：
 
+- `guard let` 通常用于提前退出函数或方法，以避免嵌套过多的代码块。
+- `guard let` 必须在代码块的开头使用，而 `if let` 可以在任何地方使用。
+- `guard let` 必须有一个与可选类型绑定的常量或变量，并且在绑定失败时执行特定的代码块。
+- `guard let` 语句的代码块结束后，绑定的常量或变量在后续代码中仍然可用。
 
-有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的
+以下是一个使用 `guard let` 语句的示例：
+
+```swift
+func processString(str: String?) {
+    guard let newStr = str else {
+        print("str is nil")
+        return
+    }
+    // 当 str 不为 nil 时执行的代码
+    print(newStr)
+    print(type(of: newStr))
+}
+
+processString(str: "Hello, World!") // 输出: Hello, World!，String
+processString(str: nil) // 输出: str is nil
+```
+
+在上面的示例中，`guard let` 语句用于检查传入的 `str` 是否为 `nil`。如果 `str` 为 `nil`，则会打印 "str is nil" 并提前退出函数。如果 `str` 不为 `nil`，则会将其绑定到常量 `newStr` 上，并执行后续的代码块。
+
+希望这个解释对您有帮助！如果您还有其他问题，请随时提问。
+
 [[iOS][Swift][中文] 基礎語法#12. 初探Optional](https://www.youtube.com/watch?v=6Dd6_wjvEkA)
 ### Closeture
 #### 尾闭包的应用
