@@ -20,6 +20,7 @@
 
 ## 点子
 - double clip 翻动iphone屏幕
+- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s what&#39;s happening today in design: <a href="https://t.co/1o1bm4aSoR">pic.twitter.com/1o1bm4aSoR</a></p>&mdash; Cole (@colderoshay) <a href="https://twitter.com/colderoshay/status/1711396106850967621?ref_src=twsrc%5Etfw">October 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 实时动态的发生的事
 
 ## 有趣的app
 [通过截图提取社交信息等支持导出](https://apps.apple.com/us/app/username-screenshot-livelink/id1570152672)
