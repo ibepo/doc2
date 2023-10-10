@@ -25,6 +25,7 @@
  - coreml
  - 数据训练集合
  - gridlayout
+ - 点击跳转到相关页面
 
 ## apple 开发者网页 
 [App Store Connect](https://appstoreconnect.apple.com/login?targetUrl=%2Fanalytics%2Fapp&authResult=FAILED)
