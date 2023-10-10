@@ -43,6 +43,23 @@
 [All Video in developer apple](https://developer.apple.com/videos/all-videos/)
 
 ## Swift高级特性
+### struct
+#### mutating
+```
+struct Dog{
+var 名字 ： String
+var 年纪 = 0
+let 品种 ： String
+func 叫（）{
+	print("\(名字)：旺旺～")
+}
+
+}
+```
+
+
+
+
 ### 高阶函数
 ### Optional
 有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的

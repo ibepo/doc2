@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/闪念.md"
+                "file": "docs/swift.md"
               }
             }
           }
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4ded0cff9b8c555",
+  "active": "c93eb83cb64c33e5",
   "lastOpenFiles": [
-    "docs/figma.md",
     "docs/闪念.md",
+    "docs/figma.md",
     "docs/swift.md",
     "docs/language/meta program.md",
     "docs/营销.md",
