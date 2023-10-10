@@ -20,6 +20,11 @@
 
 ## 有趣的app
 [通过截图提取社交信息等支持导出](https://apps.apple.com/us/app/username-screenshot-livelink/id1570152672)
+ - 截图功能
+ - ocr识别
+ - coreml
+ - 数据训练集合
+ - gridlayout
 
 ## apple 开发者网页 
 [App Store Connect](https://appstoreconnect.apple.com/login?targetUrl=%2Fanalytics%2Fapp&authResult=FAILED)
