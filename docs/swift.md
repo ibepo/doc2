@@ -18,6 +18,9 @@
 ## app销量分析
 [点点数据](https://app.diandian.com/)
 
+## 有趣的app
+[通过截图提取社交信息](https://apps.apple.com/us/app/username-screenshot-livelink/id1570152672)
+
 ## apple 开发者网页 
 [App Store Connect](https://appstoreconnect.apple.com/login?targetUrl=%2Fanalytics%2Fapp&authResult=FAILED)
 [Apple developer](https://developer.apple.com/)
