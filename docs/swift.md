@@ -18,6 +18,9 @@
 ## app销量分析
 [点点数据](https://app.diandian.com/)
 
+## 点子
+- double clip 翻动iphone屏幕
+
 ## 有趣的app
 [通过截图提取社交信息等支持导出](https://apps.apple.com/us/app/username-screenshot-livelink/id1570152672)
  - 截图功能
@@ -26,6 +29,7 @@
  - 数据训练集合
  - gridlayout
  - 点击跳转到相关页面
+ - 
 
 ## apple 开发者网页 
 [App Store Connect](https://appstoreconnect.apple.com/login?targetUrl=%2Fanalytics%2Fapp&authResult=FAILED)
