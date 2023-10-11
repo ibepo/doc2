@@ -42,6 +42,7 @@
 [wwdc 关于LiveText的部分 visionKit](https://developer.apple.com/videos/play/wwdc2022/10025/)
 [All Video in developer apple](https://developer.apple.com/videos/all-videos/)
 [ios版本分布](https://mixpanel.com/trends/#report/ios_frag/)
+[关于ios内购](https://www.revenuecat.com/blog/engineering/ios-in-app-subscription-tutorial-with-storekit-2-and-swift/)
 
 ## Swift高级特性
 ### basic
