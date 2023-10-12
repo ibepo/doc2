@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/figma.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/闪念.md"
+                "file": "docs/figma.md"
               }
             }
           }
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +191,8 @@
   },
   "active": "c4ded0cff9b8c555",
   "lastOpenFiles": [
-    "docs/swift.md",
     "docs/闪念.md",
+    "docs/swift.md",
     "docs/figma.md",
     "docs/language/meta program.md",
     "docs/营销.md",
