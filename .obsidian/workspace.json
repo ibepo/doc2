@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/figma.md",
+                "file": "docs/闪念.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/figma.md"
+                "file": "docs/闪念.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/figma.md",
+                "file": "docs/闪念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/figma.md",
+                "file": "docs/闪念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,11 +191,11 @@
   },
   "active": "c4ded0cff9b8c555",
   "lastOpenFiles": [
+    "docs/营销.md",
+    "docs/figma.md",
     "docs/闪念.md",
     "docs/swift.md",
-    "docs/figma.md",
     "docs/language/meta program.md",
-    "docs/营销.md",
     "docs/单字分解.md",
     "docs/鸡汤.md",
     "docs/中医.md",
