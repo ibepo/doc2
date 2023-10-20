@@ -12,7 +12,7 @@
 [SwiftUI b站丰原天下](https://www.bilibili.com/video/BV12A4y1R73K/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
 [Swift语言解释](https://www.swift.org/documentation/)
 [README - SwiftGG](https://swiftgg.gitbook.io/swift)
-[Fetching Title#x5un](https://gitbook.swiftgg.team/swift/swift-jiao-cheng/10_properties)
+[属性 - SwiftGG](https://gitbook.swiftgg.team/swift/swift-jiao-cheng/10_properties)
 
 ## 宣传平台
 [producthunt](https://www.producthunt.com/)
