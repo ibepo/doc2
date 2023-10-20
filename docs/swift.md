@@ -15,7 +15,7 @@
 [属性 - SwiftGG](https://gitbook.swiftgg.team/swift/swift-jiao-cheng/10_properties)
 [iOS新知/ 掘金](https://juejin.cn/user/2234652427553742)
 [Learning SwiftUI | Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui-concepts#app-principles)
-
+[Maintaining the adaptable sizes of built-in views | Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui-concepts/maintaining-the-adaptable-sizes-of-built-in-views)
 
 ## 宣传平台
 [producthunt](https://www.producthunt.com/)

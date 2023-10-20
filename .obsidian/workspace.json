@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/闪念.md"
+                "file": "docs/swift.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +202,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4ded0cff9b8c555",
+  "active": "d3b01c2370ded8b2",
   "lastOpenFiles": [
+    "docs/闪念.md",
     "docs/swift.md",
     "docs/英语/字母对照.md",
-    "docs/闪念.md",
     "docs/营销.md",
     "docs/figma.md",
     "docs/language/meta program.md",
