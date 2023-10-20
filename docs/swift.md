@@ -9,7 +9,9 @@
 [ Swift 100](https://www.hackingwithswift.com/100/swiftui)
 [swiftui thinking](https://www.youtube.com/watch?v=-Yp0LS61Nxk)
 [swift basic](https://www.youtube.com/watch?v=PwXgg9adkdM)
-
+[SwiftUI b站丰原天下](https://www.bilibili.com/video/BV12A4y1R73K/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
+[Swift语言解释](https://www.swift.org/documentation/)
+[README - SwiftGG](https://swiftgg.gitbook.io/swift)
 ## 宣传平台
 [producthunt](https://www.producthunt.com/)
 [Indie Hackers](https://www.indiehackers.com/)
