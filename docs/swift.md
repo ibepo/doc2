@@ -16,7 +16,7 @@
 [iOS新知/ 掘金](https://juejin.cn/user/2234652427553742)
 [Learning SwiftUI | Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui-concepts#app-principles)
 [Maintaining the adaptable sizes of built-in views | Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui-concepts/maintaining-the-adaptable-sizes-of-built-in-views)
-
+[一个闪屏展示效果](https://github.com/lascic/UIOnboarding)
 ## 宣传平台
 [producthunt](https://www.producthunt.com/)
 [Indie Hackers](https://www.indiehackers.com/)
