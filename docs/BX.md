@@ -10,6 +10,7 @@ Ai
 [AI（illustrator)实用技巧-对齐技巧](https://www.xiaohongshu.com/explore/65372986000000001e03ca42?m_source=itab)
 [AI（illustrator)实用技巧-封套扭曲，有福利！](https://www.xiaohongshu.com/explore/65333948000000001e032403?m_source=itab)
 [AI（illustrator)实用技巧-内部绘制](https://www.xiaohongshu.com/explore/65308bb5000000001e0329f2?m_source=itab)
+[这样的边角像长出来的 | Ai绘画技巧](https://www.xiaohongshu.com/explore/63a040c2000000001f0091fb?m_source=itab)
 
 Pr
 
