@@ -27,9 +27,14 @@ Pr
 
 PS
 [我学ps的时候，咋没人整理这些😂😂](https://www.xiaohongshu.com/explore/62c390ea00000000060309dd?m_source=itab)
+[PS技巧】色阶抠图 ](https://www.xiaohongshu.com/explore/6479517400000000130076eb?m_source=itab)
 
 
-
+| shortcut     | 功能 |
+| ------------ | ---- |
+| ctrl+shift+u | 去色 |
+| ctrl  +l       | 色阶面板     |
+|              |      |
 figma
 
 
