@@ -25,7 +25,7 @@ Procreate
 PS
 [我学ps的时候，咋没人整理这些😂😂](https://www.xiaohongshu.com/explore/62c390ea00000000060309dd?m_source=itab)
 [PS技巧】色阶抠图 ](https://www.xiaohongshu.com/explore/6479517400000000130076eb?m_source=itab)
-
+[4.Ps去水印八奇技-色阶法\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Th4y1e7t3?p=5&spm_id_from=pageDriver&vd_source=b92112731015c20054034d26c9ad8a67)
 
 | shortcut     | 功能     |
 | ------------ | -------- |
