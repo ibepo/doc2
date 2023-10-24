@@ -8,7 +8,7 @@
 
 Ai
 [AI（illustrator)实用技巧-对齐技巧](https://www.xiaohongshu.com/explore/65372986000000001e03ca42?m_source=itab)
-
+[AI（illustrator)实用技巧-封套扭曲，有福利！](https://www.xiaohongshu.com/explore/65333948000000001e032403?m_source=itab)
 
 
 Pr
