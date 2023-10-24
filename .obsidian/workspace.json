@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "39f050c9f1e0bdb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/BX.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "d3b01c2370ded8b2",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/figma.md"
+                "file": "docs/BX.md"
               }
             }
           }
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/figma.md",
+                "file": "docs/BX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/figma.md",
+                "file": "docs/BX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +215,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4ded0cff9b8c555",
+  "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
+    "docs/figma.md",
+    "docs/BX.md",
     "docs/闪念.md",
     "docs/swift.md",
     "docs/英语/字母对照.md",
     "docs/营销.md",
-    "docs/figma.md",
     "docs/language/meta program.md",
     "docs/单字分解.md",
     "docs/鸡汤.md",
@@ -229,7 +243,6 @@
     "docs/language/React/路由.md",
     "docs/language/React/hook.md",
     "docs/language/React/心得.md",
-    "docs/linux/ssh/ssh免密登录.md",
     "docs/language/vite",
     "docs/language/node",
     "docs/language/React/image/Pasted image 20230727111724.png",
