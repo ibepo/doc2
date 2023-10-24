@@ -1,3 +1,4 @@
+相关网站
 [灵感岛](https://www.linggandaquan.com/)
 [螃蟹通告 - 商家投放 网红变现](https://www.pangxietonggao.com/)
 [标贝悦读-语音合成-在线文字转语音软件-专业的配音网站](https://yuedu.data-baker.com/)
@@ -18,23 +19,25 @@ Ai
 
 
 Procreate
-
 [做动画](https://www.xiaohongshu.com/explore/65351b52000000001e023eb9?m_source=itab)
 
-
-
-Pr
 
 PS
 [我学ps的时候，咋没人整理这些😂😂](https://www.xiaohongshu.com/explore/62c390ea00000000060309dd?m_source=itab)
 [PS技巧】色阶抠图 ](https://www.xiaohongshu.com/explore/6479517400000000130076eb?m_source=itab)
 
 
-| shortcut     | 功能 |
-| ------------ | ---- |
-| ctrl+shift+u | 去色 |
-| ctrl  +l       | 色阶面板     |
-|              |      |
-figma
+| shortcut     | 功能     |
+| ------------ | -------- |
+| ctrl+shift+u | 去色     |
+| ctrl  +l     | 色阶面板 |
+| ctrl+j       | 复制图层 |
+| shift+f6             |      羽化   |
+
+
+
+
+
+Figma
 
 
