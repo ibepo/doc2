@@ -11,7 +11,7 @@ Ai
 [AI（illustrator)实用技巧-封套扭曲](https://www.xiaohongshu.com/explore/65333948000000001e032403?m_source=itab)
 [AI（illustrator)实用技巧-内部绘制](https://www.xiaohongshu.com/explore/65308bb5000000001e0329f2?m_source=itab)
 [AI（illustrator)实用技巧-铅笔工具和螺旋工具，宽度工具做边角](https://www.xiaohongshu.com/explore/63a040c2000000001f0091fb?m_source=itab)
-
+[AI（illustrator)实用技巧-直接选择工具，做圆弧凹槽](https://www.xiaohongshu.com/explore/63565320000000001601930a?m_source=itab)
 Pr
 
 PS
