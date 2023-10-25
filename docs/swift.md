@@ -5,6 +5,9 @@
 [b站 实操SwfitUI](https://www.bilibili.com/video/BV1uj411k74e/?spm_id_from=333.999.0.0)
 [kavsoft 油管](https://www.youtube.com/@Kavsoft)
 [mastering-swiftui 土拨鼠购买的放到gitbook上的电子书](https://ylqylq001.github.io/Mastering-SwiftUI/)
+[widget小组件动画效果](https://github.com/TopWidgets/SwingAnimation)
+
+
 
 [ Swift 100](https://www.hackingwithswift.com/100/swiftui)
 [swiftui thinking](https://www.youtube.com/watch?v=-Yp0LS61Nxk)
