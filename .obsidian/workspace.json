@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +214,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
     "docs/swift.md",
     "docs/设计.md",
