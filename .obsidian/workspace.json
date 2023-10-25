@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/设计.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/swift.md"
+                "file": "docs/设计.md"
               }
             }
           }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,12 +215,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39f050c9f1e0bdb1",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
-    "docs/BX.md",
+    "docs/swift.md",
+    "docs/设计.md",
     "docs/figma.md",
     "docs/闪念.md",
-    "docs/swift.md",
     "docs/英语/字母对照.md",
     "docs/营销.md",
     "docs/language/meta program.md",
