@@ -6,7 +6,7 @@
 [kavsoft 油管](https://www.youtube.com/@Kavsoft)
 [mastering-swiftui 土拨鼠购买的放到gitbook上的电子书](https://ylqylq001.github.io/Mastering-SwiftUI/)
 [widget小组件动画效果](https://github.com/TopWidgets/SwingAnimation)
-
+[Journaling Suggestions | Apple Developer Documentation](https://developer.apple.com/documentation/JournalingSuggestions)
 
 
 [ Swift 100](https://www.hackingwithswift.com/100/swiftui)
