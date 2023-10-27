@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/设计.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/swift.md"
+                "file": "docs/设计.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,15 +163,15 @@
   },
   "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
+    "docs/营销.md",
+    "docs/swift.md",
     "docs/设计.md",
     "docs/国学文化.md",
     "docs/cheatsheet.md",
     "docs/鸡汤.md",
     "docs/figma.md",
-    "docs/swift.md",
     "docs/闪念.md",
     "docs/英语/字母对照.md",
-    "docs/营销.md",
     "docs/language/meta program.md",
     "docs/单字分解.md",
     "docs/网站收集/个人站.md",
