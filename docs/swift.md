@@ -7,7 +7,7 @@
 [mastering-swiftui 土拨鼠购买的放到gitbook上的电子书](https://ylqylq001.github.io/Mastering-SwiftUI/)
 [widget小组件动画效果](https://github.com/TopWidgets/SwingAnimation)
 [Journaling Suggestions | Apple Developer Documentation](https://developer.apple.com/documentation/JournalingSuggestions)
-
+[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://kennylin.notion.site/SwiftUI-4a8e871a464d42769b2c8fb7c7cfedb4)
 
 [ Swift 100](https://www.hackingwithswift.com/100/swiftui)
 [swiftui thinking](https://www.youtube.com/watch?v=-Yp0LS61Nxk)
