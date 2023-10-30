@@ -9,7 +9,7 @@
 [Journaling Suggestions | Apple Developer Documentation](https://developer.apple.com/documentation/JournalingSuggestions)
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://kennylin.notion.site/SwiftUI-4a8e871a464d42769b2c8fb7c7cfedb4)
 
-[ Swift 100](https://www.hackingwithswift.com/100/swiftui)
+[Fetching Title#6qe9](https://www.youtube.com/playlist?list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr)
 [swiftui thinking](https://www.youtube.com/watch?v=-Yp0LS61Nxk)
 [swift basic](https://www.youtube.com/watch?v=PwXgg9adkdM)
 [SwiftUI b站丰原天下](https://www.bilibili.com/video/BV12A4y1R73K/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
