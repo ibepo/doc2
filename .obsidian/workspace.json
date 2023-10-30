@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/设计.md",
+                "file": "docs/swift.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/设计.md"
+                "file": "docs/swift.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/设计.md",
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/设计.md",
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +163,9 @@
   },
   "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
+    "docs/设计.md",
     "docs/image/Pasted image 20231030114309.png",
     "docs/swift.md",
-    "docs/设计.md",
     "docs/营销.md",
     "docs/国学文化.md",
     "docs/cheatsheet.md",
@@ -206,7 +206,6 @@
     "docs/计算机科学/image",
     "book/马同学图解线性代数.pdf",
     "docs/assets/favicon.ico",
-    "docs/assets/lemons.png",
     "docs/assets",
     "docs/asset",
     "未命名.canvas",

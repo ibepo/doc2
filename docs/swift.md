@@ -1,20 +1,25 @@
 ## Swfit学习
-
+[Hacking with iOS: SwiftUI Edition_哔哩哔哩](https://www.bilibili.com/video/BV1b5411W7bk/?spm_id_from=333.337.search-card.all.click&vd_source=6d17eb835df256aca4a7edb3781f71c1)
+[Hacking with iOS: SwiftUI Edition_油管](https://www.youtube.com/playlist?list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr)
+[Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuas6GrfsUiFPShGXmaVDbgN)
+[2023 | CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/2023)
 [chaocode 油管](https://www.youtube.com/@ChaoCode)
 [chaocode b站](https://www.bilibili.com/video/BV1fS4y1b7h9/?spm_id_from=333.999.0.0&vd_source=b92112731015c20054034d26c9ad8a67)
+[mastering-swiftui 电子书](https://ylqylq001.github.io/Mastering-SwiftUI/)
+[中文版 Apple 官方 Swift 教程](https://swiftgg.gitbook.io/swift)
+
+
 [b站 实操SwfitUI](https://www.bilibili.com/video/BV1uj411k74e/?spm_id_from=333.999.0.0)
 [kavsoft 油管](https://www.youtube.com/@Kavsoft)
-[mastering-swiftui 土拨鼠购买的放到gitbook上的电子书](https://ylqylq001.github.io/Mastering-SwiftUI/)
 [widget小组件动画效果](https://github.com/TopWidgets/SwingAnimation)
 [Journaling Suggestions | Apple Developer Documentation](https://developer.apple.com/documentation/JournalingSuggestions)
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://kennylin.notion.site/SwiftUI-4a8e871a464d42769b2c8fb7c7cfedb4)
 
-[Site Unreachable](https://www.youtube.com/playlist?list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr)
 [swiftui thinking](https://www.youtube.com/watch?v=-Yp0LS61Nxk)
 [swift basic](https://www.youtube.com/watch?v=PwXgg9adkdM)
 [SwiftUI b站丰原天下](https://www.bilibili.com/video/BV12A4y1R73K/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
 [Swift语言解释](https://www.swift.org/documentation/)
-[README - SwiftGG](https://swiftgg.gitbook.io/swift)
+
 [属性 - SwiftGG](https://gitbook.swiftgg.team/swift/swift-jiao-cheng/10_properties)
 [iOS新知/ 掘金](https://juejin.cn/user/2234652427553742)
 [Learning SwiftUI | Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui-concepts#app-principles)
