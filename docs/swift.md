@@ -61,6 +61,8 @@
 [ios版本分布](https://mixpanel.com/trends/#report/ios_frag/)
 [关于ios内购](https://www.revenuecat.com/blog/engineering/ios-in-app-subscription-tutorial-with-storekit-2-and-swift/)
 [网易云音乐 iOS 14 小组件实战手册 - 掘金](https://juejin.cn/post/6887759096506744840?searchId=2023101812495719429A6F21A94D8FC73F)
+[Swiftui官方社区 github,细到发指](https://github.com/apple/Swift-evolution/blob/main/proposals/0255-omit-return.md)
+
 ## Swift高级特性
 ### basic
 #### 字符串插值
