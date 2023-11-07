@@ -21,7 +21,7 @@
 [swift basic](https://www.youtube.com/watch?v=PwXgg9adkdM)
 [SwiftUI b站丰原天下](https://www.bilibili.com/video/BV12A4y1R73K/?spm_id_from=333.337.search-card.all.click&vd_source=b92112731015c20054034d26c9ad8a67)
 [Swift语言解释](https://www.swift.org/documentation/)
-
+[Swift [Public]](https://www.yuque.com/u191966/asa7ou)
 [属性 - SwiftGG](https://gitbook.swiftgg.team/swift/swift-jiao-cheng/10_properties)
 [iOS新知/ 掘金](https://juejin.cn/user/2234652427553742)
 [Learning SwiftUI | Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui-concepts#app-principles)
