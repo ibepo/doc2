@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/sql.md",
+                "file": "docs/swift.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/sql.md"
+                "file": "docs/swift.md"
               }
             }
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/sql.md",
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/sql.md",
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +176,9 @@
   },
   "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
+    "docs/language/sql.md",
     "docs/闪念.md",
     "docs/language/mysql.md",
-    "docs/language/sql.md",
     "docs/运维知识/mysql/安装.md",
     "docs/运维知识/mysql/典型问题.md",
     "docs/linux/ubuntu/install.md",
