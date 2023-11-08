@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/language/mysql.md",
+                "file": "docs/闪念.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/language/mysql.md"
+                "file": "docs/闪念.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/language/mysql.md",
+                "file": "docs/闪念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/language/mysql.md",
+                "file": "docs/闪念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,10 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "ff7a50e51f74f286",
   "lastOpenFiles": [
-    "docs/language/sql.md",
     "docs/language/mysql.md",
+    "docs/language/sql.md",
     "docs/运维知识/mysql/安装.md",
     "docs/运维知识/mysql/典型问题.md",
     "docs/linux/ubuntu/install.md",
