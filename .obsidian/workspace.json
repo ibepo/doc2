@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/闪念.md"
+                "file": "docs/language/sql.md"
               }
             }
           }
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/language/sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/language/sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +174,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff7a50e51f74f286",
+  "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
+    "docs/闪念.md",
     "docs/language/mysql.md",
     "docs/language/sql.md",
     "docs/运维知识/mysql/安装.md",
@@ -186,7 +186,6 @@
     "docs/部署/centos部署.md",
     "docs/部署/nginx.md",
     "docs/swift.md",
-    "docs/闪念.md",
     "docs/设计.md",
     "docs/image/Pasted image 20231030114309.png",
     "docs/营销.md",
