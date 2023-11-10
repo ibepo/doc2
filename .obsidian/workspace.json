@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/swift.md",
+                "file": "docs/oepnai.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
     "docs/swift.md",
     "docs/oepnai.md",
