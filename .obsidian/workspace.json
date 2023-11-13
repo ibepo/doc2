@@ -19,32 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "11e3d59d9a5aa29a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/oepnai.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff7a50e51f74f286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/闪念.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
         ]
       }
