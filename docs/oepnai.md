@@ -10,3 +10,4 @@ kefanbufan@proton.me
 ## 见闻
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://gorden-sun.notion.site/11-7-AI-0771acd36fbc4874862a08ddfd278d18)
 [通过谷歌搜索GPTs](https://www.google.com/search?q=site%3Achat.openai.com%2Fg&oq=site%3Achat.openai.com%2Fg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEINzE1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+[通往AGI之路](https://waytoagi.feishu.cn/wiki/ZvMawDHnUik6TIk10HXccVpdnac)
