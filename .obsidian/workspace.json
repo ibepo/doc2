@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/oepnai.md",
+                "file": "docs/闪念.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/oepnai.md"
+                "file": "docs/闪念.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/oepnai.md",
+                "file": "docs/闪念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/oepnai.md",
+                "file": "docs/闪念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +163,9 @@
   },
   "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
-    "docs/swift.md",
+    "docs/设计.md",
     "docs/oepnai.md",
+    "docs/swift.md",
     "docs/language/sql.md",
     "docs/闪念.md",
     "docs/language/mysql.md",
@@ -174,7 +175,6 @@
     "docs/运维知识/docker/docker构建.md",
     "docs/部署/centos部署.md",
     "docs/部署/nginx.md",
-    "docs/设计.md",
     "docs/image/Pasted image 20231030114309.png",
     "docs/营销.md",
     "docs/国学文化.md",
