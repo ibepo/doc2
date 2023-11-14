@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/闪念.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/闪念.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,11 +163,11 @@
   },
   "active": "39f050c9f1e0bdb1",
   "lastOpenFiles": [
+    "docs/闪念.md",
     "docs/设计.md",
     "docs/oepnai.md",
     "docs/swift.md",
     "docs/language/sql.md",
-    "docs/闪念.md",
     "docs/language/mysql.md",
     "docs/运维知识/mysql/安装.md",
     "docs/运维知识/mysql/典型问题.md",
