@@ -12,3 +12,4 @@ kefanbufan@proton.me
 [通过谷歌搜索GPTs](https://www.google.com/search?q=site%3Achat.openai.com%2Fg&oq=site%3Achat.openai.com%2Fg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEINzE1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 [通往AGI之路](https://waytoagi.feishu.cn/wiki/ZvMawDHnUik6TIk10HXccVpdnac)
 [动手实战人工智能 Hands-on AI — 动手实战人工智能 Hands-on AI](https://ai.huhuhang.com/intro)
+[assistants API](https://platform.openai.com/docs/assistants/overview)
