@@ -23,3 +23,4 @@ kefanbufan@proton.me
 [assistants API](https://platform.openai.com/docs/assistants/overview)
 [虚拟信用卡开卡](https://www.youtube.com/watch?v=OS9KRdKNNKY)
 [支付宝支付appleid](https://www.youtube.com/watch?v=AeaH1JUh8O0)
+[GPT-4V + TTS OepnAI 新发布功能](https://www.youtube.com/watch?v=rMni1KonLe8)
