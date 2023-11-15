@@ -29,7 +29,7 @@
                 "file": "docs/oepnai.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }

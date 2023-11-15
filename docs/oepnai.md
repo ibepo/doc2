@@ -13,3 +13,4 @@ kefanbufan@proton.me
 [通往AGI之路](https://waytoagi.feishu.cn/wiki/ZvMawDHnUik6TIk10HXccVpdnac)
 [动手实战人工智能 Hands-on AI — 动手实战人工智能 Hands-on AI](https://ai.huhuhang.com/intro)
 [assistants API](https://platform.openai.com/docs/assistants/overview)
+[虚拟信用卡开卡](https://www.youtube.com/watch?v=OS9KRdKNNKY)
