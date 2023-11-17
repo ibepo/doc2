@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/oepnai.md",
+                "file": "docs/swift.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/oepnai.md"
+                "file": "docs/swift.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/oepnai.md",
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/oepnai.md",
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +177,11 @@
   },
   "active": "31f9c7d8bb820547",
   "lastOpenFiles": [
+    "docs/oepnai.md",
     "docs/language/node.md",
     "docs/index.md",
     "docs/闪念.md",
     "docs/设计.md",
-    "docs/oepnai.md",
     "docs/swift.md",
     "docs/language/sql.md",
     "docs/language/mysql.md",
