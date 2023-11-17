@@ -63,13 +63,12 @@
 [网易云音乐 iOS 14 小组件实战手册 - 掘金](https://juejin.cn/post/6887759096506744840?searchId=2023101812495719429A6F21A94D8FC73F)
 [Swiftui官方社区 github,细到发指](https://github.com/apple/Swift-evolution/blob/main/proposals/0255-omit-return.md)
 
-## Swift巧思
-###入门 
+## Swift
+### 入门 
 #### 字符串插值
 在Swift中，使用反斜杠（\）和圆括号（()）来进行字符串插值。字符串插值是一种将常量、变量、表达式或者字面量插入到字符串字面量中的方式，以便于在字符串中包含变量或表达式的值。
 在给定的代码示例中，(名字) 是一个字符串插值的语法，其中名字是一个变量或常量，它会被替换为其对应的值。所以，当执行 `print("\(名字)：旺旺～")` 时，会将名字的值插入到字符串字面量中，输出类似于 "某个名字：旺旺～" 的结果。
-### struct
-#### mutating
+#### struct
 ```
 struct Dog{
 var 名字 ： String
@@ -82,7 +81,8 @@ func 叫（）{
 }
 ```
 
-### Optional
+### 巧思
+### Optional（可选参数）
 [[iOS][Swift][中文] 基礎語法#12. 初探Optional](https://www.youtube.com/watch?v=6Dd6_wjvEkA)
 有的时候并不是之使用自己产生而资料，有的资料是从网路获取而来的
 这个时候数据有可能是确定值，有可能是nil
@@ -179,9 +179,7 @@ processString(str: nil) // 输出: str is nil
 
 希望这个解释对您有帮助！如果您还有其他问题，请随时提问。
 
-
-### 高阶函数
-### Closeture
+### Closeture（闭包）
 ####  理解
 简单来讲，js中的箭头函数就是闭包的一种，可以作为参数传递之，
 是面向函数编程的一大体现，是一种高阶函数的落地实现
