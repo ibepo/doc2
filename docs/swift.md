@@ -10,6 +10,7 @@
 [mastering-swiftui 电子书](https://ylqylq001.github.io/Mastering-SwiftUI/)
 [中文版 Apple 官方 Swift 教程](https://swiftgg.gitbook.io/swift)
 [Swift Public语雀](https://www.yuque.com/u191966/asa7ou)
+[apple人机交互指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
 [b站 实操SwfitUI](https://www.bilibili.com/video/BV1uj411k74e/?spm_id_from=333.999.0.0)
 [kavsoft 油管](https://www.youtube.com/@Kavsoft)
