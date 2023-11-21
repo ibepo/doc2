@@ -222,3 +222,44 @@ someFunction(argument1: 10, argument2: "Hello") {
 
 需要注意的是，尾闭包只能在函数调用时使用，而不能在其他地方单独使用。另外，如果函数除了尾闭包外还有其他参数，尾闭包必须是函数参数列表中的最后一个参数。
 ## SwiftUI
+### viewmodifier
+[ViewModifier是一个协议，它可以让你创建一个可重用的修改器，用来修改任何视图。要创建自定义的ViewModifier，你需要遵循ViewModifier协议，并实现一个body(content:)方法，它接受一个视图作为参数，并返回一个修改后的视图。例如，你可以创建一个Title修改器，用来给视图添加一个大标题、白色的前景色、蓝色的背景色和圆角矩形的形状，代码如下](https://developer.apple.com/documentation/swiftui/viewmodifier)[1](https://developer.apple.com/documentation/swiftui/viewmodifier)：
+
+```swift
+struct Title: ViewModifier {
+    func body(content: Content) -> some View {
+        content
+            .font(.largeTitle)
+            .foregroundStyle(.white)
+            .padding()
+            .background(.blue)
+            .clipShape(.rect(cornerRadius: 10))
+    }
+}
+```
+
+要使用自定义的ViewModifier，你可以用modifier(_:)方法来应用它到一个视图上，例如：
+
+```swift
+Text("Hello, world!")
+    .modifier(Title())
+```
+
+你也可以为View协议扩展一个方法，来封装你的ViewModifier，使得它更容易使用，例如：
+
+```swift
+extension View {
+    func titleStyle() -> some View {
+        self.modifier(Title())
+    }
+}
+```
+
+这样你就可以直接用titleStyle()方法来修改视图，例如：
+
+```swift
+Text("Hello, world!")
+    .titleStyle()
+```
+
+[ViewModifier可以让你把常用的视图修改封装成一个单元，方便你在整个应用中复用。你可以根据你的需求来创建不同的ViewModifier，来实现各种自定义的效果。如果你想了解更多关于ViewModifier的用法和示例，你可以参考以下的网页](https://stackoverflow.com/questions/64363228/swiftui-viewmodifier-for-custom-view)[2](https://stackoverflow.com/questions/64363228/swiftui-viewmodifier-for-custom-view)[3](https://www.hackingwithswift.com/books/ios-swiftui/custom-modifiers)[4](https://useyourloaf.com/blog/swiftui-custom-view-modifiers/)[5](https://dev.to/shameemreza/common-use-cases-of-viewmodifier-in-swiftui-25o3)。
