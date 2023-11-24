@@ -25,3 +25,4 @@ kefanbufan@proton.me
 [支付宝支付appleid](https://www.youtube.com/watch?v=AeaH1JUh8O0)
 [GPT-4V + TTS OepnAI 新发布功能](https://www.youtube.com/watch?v=rMni1KonLe8)
 [用Github爆款ChatGPT指令，自学任何领域的系统知识l](https://www.youtube.com/watch?v=gLATieOIv64)
+[Mj文档手册](https://docs.midjourney.com/)
