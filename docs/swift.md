@@ -264,3 +264,6 @@ Text("Hello, world!")
 ```
 
 [ViewModifier可以让你把常用的视图修改封装成一个单元，方便你在整个应用中复用。你可以根据你的需求来创建不同的ViewModifier，来实现各种自定义的效果。如果你想了解更多关于ViewModifier的用法和示例，你可以参考以下的网页](https://stackoverflow.com/questions/64363228/swiftui-viewmodifier-for-custom-view)[2](https://stackoverflow.com/questions/64363228/swiftui-viewmodifier-for-custom-view)[3](https://www.hackingwithswift.com/books/ios-swiftui/custom-modifiers)[4](https://useyourloaf.com/blog/swiftui-custom-view-modifiers/)[5](https://dev.to/shameemreza/common-use-cases-of-viewmodifier-in-swiftui-25o3)。
+
+
+obsidian://open?vault=obsnote&file=docs%2Fimage%2FPasted%20image%2020230713172638.png
