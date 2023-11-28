@@ -11,8 +11,13 @@
             "id": "b88882ec63e1ad1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/swift.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -92,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/swift.md"
+              }
             }
           }
         ]
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,12 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "b88882ec63e1ad1a",
   "lastOpenFiles": [
+    "docs/Drawing 2023-11-28 15.21.26.excalidraw.md",
     "docs/swift.md",
     "docs/cheatsheet.md",
     "docs/国学文化.md",
-    "docs/Drawing 2023-11-28 15.21.26.excalidraw.md",
     "docs/oepnai.md",
     "docs/index.md",
     "docs/language/React/Frame motion.md",

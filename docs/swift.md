@@ -264,5 +264,15 @@ Text("Hello, world!")
 
 [ViewModifier可以让你把常用的视图修改封装成一个单元，方便你在整个应用中复用。你可以根据你的需求来创建不同的ViewModifier，来实现各种自定义的效果。如果你想了解更多关于ViewModifier的用法和示例，你可以参考以下的网页](https://stackoverflow.com/questions/64363228/swiftui-viewmodifier-for-custom-view)[2](https://stackoverflow.com/questions/64363228/swiftui-viewmodifier-for-custom-view)[3](https://www.hackingwithswift.com/books/ios-swiftui/custom-modifiers)[4](https://useyourloaf.com/blog/swiftui-custom-view-modifiers/)[5](https://dev.to/shameemreza/common-use-cases-of-viewmodifier-in-swiftui-25o3)。
 
+### 协议
+SwiftUI是一种基于Swift语言的声明式UI框架，它充分利用了Swift的面向协议编程的特性，来实现视图的组合、数据的绑定和动画的控制。SwiftUI中的面向协议编程的落地实现有以下几个方面：
 
-obsidian://open?vault=obsnote&file=docs%2Fimage%2FPasted%20image%2020230713172638.png
+-   [SwiftUI中的所有视图都遵循了一个核心的协议，叫做View。View协议定义了一个关联类型Body，表示视图的内容，以及一个只读属性body，返回一个遵循View协议的类型。这样，我们可以通过组合不同的视图，来构建复杂的UI界面。例如，Text、Image、Button等都是遵循View协议的视图，我们可以使用VStack、HStack、ZStack等容器视图，来横向、纵向或者重叠地排列它们。](https://zhuanlan.zhihu.com/p/436779033)[1](https://zhuanlan.zhihu.com/p/436779033)
+-   [SwiftUI中的视图可以使用修饰符（modifier）来改变它们的外观和行为。修饰符是一种特殊的方法，它接受一个遵循View协议的类型作为输入，返回一个遵循View协议的类型作为输出。修饰符可以使用链式调用的方式，来叠加不同的效果。例如，我们可以使用.foregroundColor、.font、.padding等修饰符，来改变文本的颜色、字体和边距。](https://zhuanlan.zhihu.com/p/436779033)[1](https://zhuanlan.zhihu.com/p/436779033)
+-   [SwiftUI中的视图可以使用@State、@Binding、@ObservedObject、@EnvironmentObject等属性包装器（property wrapper）来声明它们的状态和数据源。属性包装器是一种使用@propertyDelegate修饰的泛型类型，它可以为属性提供一些额外的功能和存储空间。属性包装器可以实现视图和数据之间的双向绑定，当数据发生变化时，视图会自动刷新，反之亦然。例如，我们可以使用@State来声明一个私有的可变状态，使用@Binding来声明一个与其他视图共享的状态，使用@ObservedObject和@EnvironmentObject来声明一个遵循ObservableObject协议的对象，它可以发布数据的变化。](https://juejin.cn/post/7047296758778429471)[2](https://juejin.cn/post/7047296758778429471)[3](https://juejin.cn/post/7080162068493664293)
+-   SwiftUI中的视图可以使用@ViewBuilder、@GestureState、@Animation等功能构建器（function builder）来简化代码的书写和逻辑的处理。功能构建器是一种使用@_functionBuilder修饰的类型，它可以将一个多行的闭包转换为一个单一的返回值。功能构建器可以实现视图的条件渲染、手势的状态管理和动画的控制。例如，我们可以使用@ViewBuilder来根据不同的条件返回不同的视图，使用@GestureState来记录手势的临时状态，使用@Animation来指定动画的参数。
+
+以上就是我对SwiftUI中的面向协议编程的落地实现的一些总结，如果你想了解更多的细节和示例，你可以参考以下的一些资源：
+
+-   [SwiftUI 中的功能构建器 - SwiftGG 翻译组]
+-   [SwiftUI 中的手势 - SwiftGG 翻译组]
