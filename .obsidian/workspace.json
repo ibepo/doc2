@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux/archlinux/clash.md",
+                "file": "docs/linux/命令工具.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clash",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -77,13 +77,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -100,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/archlinux/clash.md"
+                "file": "docs/linux/命令工具.md"
               }
             }
           }
@@ -117,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/archlinux/clash.md",
+                "file": "docs/linux/命令工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/archlinux/clash.md",
+                "file": "docs/linux/命令工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,33 +163,34 @@
   },
   "active": "b88882ec63e1ad1a",
   "lastOpenFiles": [
-    "docs/swift.md",
-    "docs/Drawing 2023-11-28 15.21.26.excalidraw.md",
-    "docs/cheatsheet.md",
-    "docs/国学文化.md",
-    "docs/oepnai.md",
-    "docs/index.md",
-    "docs/language/React/Frame motion.md",
-    "docs/language/node.md",
-    "docs/闪念.md",
-    "docs/设计.md",
+    "docs/linux/包管理器.md",
+    "docs/linux/服务管理.md",
+    "docs/linux/用户管理.md",
+    "docs/linux/运维监控.md",
+    "docs/linux/物联网.md",
+    "docs/linux/系统管理.md",
+    "docs/linux/网络管理.md",
+    "docs/linux/文件管理.md",
+    "docs/linux/archlinux/pacman.md",
+    "docs/linux/archlinux/lf.md",
+    "docs/linux/archlinux/vscode.md",
+    "docs/linux/archlinux/edge.md",
+    "docs/linux/archlinux/sxhkdrc.md",
+    "docs/linux/archlinux/xrandr.md",
+    "docs/language/lua.md",
+    "docs/language/微信小程序.md",
+    "docs/language/lisp.md",
+    "docs/language/git.md",
     "docs/language/sql.md",
-    "docs/language/mysql.md",
-    "docs/运维知识/mysql/安装.md",
-    "docs/运维知识/mysql/典型问题.md",
-    "docs/linux/ubuntu/install.md",
-    "docs/运维知识/docker/docker构建.md",
-    "docs/部署/centos部署.md",
-    "docs/部署/nginx.md",
-    "docs/image/Pasted image 20231030114309.png",
-    "docs/营销.md",
-    "docs/鸡汤.md",
-    "docs/figma.md",
-    "docs/英语/字母对照.md",
     "docs/language/meta program.md",
-    "docs/单字分解.md",
-    "docs/网站收集/个人站.md",
-    "docs/language/javascript/数组处理.md",
+    "docs/language/mysql.md",
+    "docs/language/node.md",
+    "docs/linux/shell语法.md",
+    "docs/index.md",
+    "docs/swift.md",
+    "docs/linux/linux命令/rsync.md",
+    "docs/linux/ssh/image/Pasted image 20230407114911.png",
+    "docs/image/Pasted image 20231030114309.png",
     "docs/language/vite",
     "docs/language/node",
     "docs/language/React/image/Pasted image 20230727111724.png",
@@ -205,7 +204,6 @@
     "docs/image/Pasted image 20230713172638.png",
     "docs/image/markdown.png",
     "docs/image",
-    "docs/计算机科学/image/Pasted image 20230713082947.png",
     "docs/计算机科学/image",
     "book/马同学图解线性代数.pdf",
     "docs/assets/favicon.ico",
