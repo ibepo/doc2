@@ -76,6 +76,14 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "ba3cf1b0c0858525",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -149,7 +157,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:查看关系图谱": false,
-      "obsidian-custom-frames:Open 微信读书": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -158,9 +165,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "publish:发布更改": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "random-note:开始漫游笔记": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "random-note:开始漫游笔记": false
     }
   },
   "active": "b88882ec63e1ad1a",
