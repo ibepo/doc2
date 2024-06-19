@@ -154,6 +154,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open 微信读书": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
