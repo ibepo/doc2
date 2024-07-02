@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux/命令工具.md",
+                "file": "docs/linux/ubuntu/install.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "openjdk",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/linux/命令工具.md"
+                "file": "docs/linux/ubuntu/install.md"
               }
             }
           }
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/linux/命令工具.md",
+                "file": "docs/linux/ubuntu/install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/linux/命令工具.md",
+                "file": "docs/linux/ubuntu/install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +170,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b88882ec63e1ad1a",
+  "active": "2f9a4fe722e7b0d9",
   "lastOpenFiles": [
+    "docs/linux/archlinux/install.md",
+    "docs/linux/命令工具.md",
     "docs/linux/包管理器.md",
     "docs/linux/服务管理.md",
     "docs/linux/用户管理.md",
@@ -195,8 +198,6 @@
     "docs/language/node.md",
     "docs/linux/shell语法.md",
     "docs/index.md",
-    "docs/swift.md",
-    "docs/linux/linux命令/rsync.md",
     "docs/linux/ssh/image/Pasted image 20230407114911.png",
     "docs/image/Pasted image 20231030114309.png",
     "docs/language/vite",
