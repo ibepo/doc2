@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "76fb4cb7c83ba33c",
+        "id": "d047c5dc6677b9ca",
         "type": "tabs",
         "children": [
           {
-            "id": "f435b4bc8cf25074",
+            "id": "b7abc48a84ad9dc5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/image/Pasted image 20230713172638.png"
+                "file": "docs/英语/播客精读/1.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20230713172638"
+              "icon": "lucide-file",
+              "title": "1"
             }
           }
         ]
@@ -101,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -118,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/image/Pasted image 20230713172638.png",
+                "file": "docs/英语/播客精读/1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20230713172638 的大纲"
+              "title": "1 的大纲"
             }
           }
         ]
@@ -140,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/image/Pasted image 20230713172638.png",
+                "file": "docs/英语/播客精读/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20230713172638 的反向链接列表"
+              "title": "1 的反向链接列表"
             }
           },
           {
@@ -159,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/image/Pasted image 20230713172638.png",
+                "file": "docs/英语/播客精读/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pasted image 20230713172638 的出链列表"
+              "title": "1 的出链列表"
             }
           }
         ]
@@ -190,8 +194,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f435b4bc8cf25074",
+  "active": "b7abc48a84ad9dc5",
   "lastOpenFiles": [
+    "docs/英语/播客精读/2.md",
+    "docs/英语/播客精读/rule.md",
+    "未命名.canvas",
+    "docs/image/Pasted image 20230713172638.png",
     "docs/image/Pasted image 20231030114309.png",
     "docs/英语/参考.md",
     "docs/英语/丁宗同.md",
@@ -201,8 +209,6 @@
     "docs/英语/字母对照.md",
     "docs/英语/吉娜英文.md",
     "docs/英语/韦氏音标美音发音.md",
-    "docs/英语/播客精读/rule.md",
-    "docs/英语/播客精读/2.md",
     "docs/英语/播客精读/1.md",
     "docs/英语/播客精读",
     "docs/英语/播客精度/rule.md",
@@ -212,7 +218,6 @@
     "docs/英语/子昂",
     "book/马同学图解线性代数.pdf",
     "book/马代笔记.md",
-    "未命名.canvas",
     "docs/linux/ubuntu/install.md",
     "docs/linux/archlinux/install.md",
     "docs/linux/命令工具.md",
@@ -234,7 +239,6 @@
     "docs/language/React/image/Pasted image 20230717165143.png",
     "docs/language/React/image/Pasted image 20230717154659.png",
     "docs/language/React/image/Pasted image 20230717085313.png",
-    "docs/image/Pasted image 20230713172638.png",
     "docs/image/markdown.png",
     "docs/image",
     "docs/计算机科学/image",
