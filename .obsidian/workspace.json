@@ -11,10 +11,12 @@
             "id": "f435b4bc8cf25074",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "docs/image/Pasted image 20230713172638.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230713172638"
             }
           }
         ]
@@ -116,12 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/image/Pasted image 20230713172638.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Pasted image 20230713172638 的大纲"
             }
           }
         ]
@@ -137,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/image/Pasted image 20230713172638.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Pasted image 20230713172638 的反向链接列表"
             }
           },
           {
@@ -155,11 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/image/Pasted image 20230713172638.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Pasted image 20230713172638 的出链列表"
             }
           }
         ]
@@ -185,8 +190,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e253a67c31ba3d6",
+  "active": "f435b4bc8cf25074",
   "lastOpenFiles": [
+    "docs/image/Pasted image 20231030114309.png",
+    "docs/英语/参考.md",
+    "docs/英语/丁宗同.md",
+    "docs/英语/词汇.md",
+    "docs/英语/短语.md",
+    "docs/英语/昂克英文.md",
+    "docs/英语/字母对照.md",
+    "docs/英语/吉娜英文.md",
+    "docs/英语/韦氏音标美音发音.md",
     "docs/英语/播客精读/rule.md",
     "docs/英语/播客精读/2.md",
     "docs/英语/播客精读/1.md",
@@ -209,17 +223,7 @@
     "docs/linux/物联网.md",
     "docs/linux/系统管理.md",
     "docs/linux/网络管理.md",
-    "docs/linux/文件管理.md",
-    "docs/linux/archlinux/pacman.md",
-    "docs/linux/archlinux/lf.md",
-    "docs/linux/archlinux/vscode.md",
-    "docs/linux/archlinux/edge.md",
-    "docs/linux/archlinux/sxhkdrc.md",
-    "docs/linux/archlinux/xrandr.md",
-    "docs/language/lua.md",
-    "docs/language/微信小程序.md",
     "docs/linux/ssh/image/Pasted image 20230407114911.png",
-    "docs/image/Pasted image 20231030114309.png",
     "docs/language/vite",
     "docs/language/node",
     "docs/language/React/image/Pasted image 20230727111724.png",
