@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/英语/子昂/新概念 2/23.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "right": {
     "id": "0dc094587f64fed4",
