@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/英语/pronunciation in use.md",
+                "file": "docs/英语/子昂/新概念 1/新概念 1 单词.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pronunciation in use"
+              "title": "新概念 1 单词"
             }
           }
         ]
@@ -121,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/英语/pronunciation in use.md",
+                "file": "docs/英语/子昂/新概念 1/新概念 1 单词.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pronunciation in use 的大纲"
+              "title": "新概念 1 单词 的大纲"
             }
           }
         ]
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/英语/pronunciation in use.md",
+                "file": "docs/英语/子昂/新概念 1/新概念 1 单词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "pronunciation in use 的反向链接列表"
+              "title": "新概念 1 单词 的反向链接列表"
             }
           },
           {
@@ -178,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
@@ -193,11 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc13337fabcf2ddf",
+  "active": "8e253a67c31ba3d6",
   "lastOpenFiles": [
+    "docs/英语/子昂/语文/高尔基.md",
+    "docs/英语/子昂/语文/10.高尔基_思维导图.jpg",
+    "docs/英语/子昂/语文",
+    "docs/英语/子昂/新概念 1",
+    "docs/英语/子昂/新概念 2/23.md",
+    "docs/英语/pronunciation in use.md",
     "docs/英语/丁宗同.md",
     "docs/英语/子昂/10.高尔基_思维导图.jpg",
-    "docs/英语/子昂/新概念 1 单词.md",
+    "docs/英语/子昂/新概念 1/新概念 1 单词.md",
     "docs/英语/播客精读/2.md",
     "docs/英语/子昂/高尔基.md",
     "docs/英语/播客精读/rule.md",
@@ -226,8 +233,6 @@
     "docs/linux/包管理器.md",
     "docs/linux/服务管理.md",
     "docs/linux/用户管理.md",
-    "docs/linux/运维监控.md",
-    "docs/linux/物联网.md",
     "docs/linux/ssh/image/Pasted image 20230407114911.png",
     "docs/language/vite",
     "docs/language/node",
@@ -238,9 +243,6 @@
     "docs/language/React/image/Pasted image 20230718091536.png",
     "docs/language/React/image/Pasted image 20230717165143.png",
     "docs/language/React/image/Pasted image 20230717154659.png",
-    "docs/language/React/image/Pasted image 20230717085313.png",
-    "docs/image",
-    "docs/计算机科学/image",
     "docs/linux/未命名.canvas"
   ]
 }
