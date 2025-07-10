@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/工具链/git/git.md",
+                "file": "docs/杂项/街霸.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "街霸"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "2418e6246165a894",
   "lastOpenFiles": [
+    "docs/工具链/git/git.md",
     "docs/工具链/git/git clone.md",
     "docs/折腾/wiki.md",
     "docs/折腾/服务器环境配置.md",
@@ -223,7 +224,6 @@
     "docs/language/前端/css.md",
     "docs/部署/centos部署.md",
     "docs/部署/ubuntu18.04.md",
-    "docs/部署/shell脚本.md",
     "docs/部署/image/Pasted image 20230317085850.png",
     "docs/英语/子昂/语文/10.高尔基_思维导图.jpg",
     "docs/image/markdown.png",
