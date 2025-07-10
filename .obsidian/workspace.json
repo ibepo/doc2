@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/设计.md",
-                "mode": "preview",
+                "file": "docs/杂项/街霸.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "设计"
+              "title": "街霸"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "b49b78d1a557ad22",
   "lastOpenFiles": [
+    "docs/设计.md",
+    "docs/杂项/街霸.md",
     "docs/营销.md",
     "docs/swift.md",
     "docs/单字分解.md",
@@ -224,8 +226,6 @@
     "docs/英语/子昂/语文/10.高尔基_思维导图.jpg",
     "docs/英语/韦小绿/pac.md",
     "docs/英语/韦小绿/bene.md",
-    "docs/英语/韦小绿/crime.md",
-    "docs/英语/韦小绿/am.md",
     "docs/image/markdown.png",
     "docs/英语/image/Pasted image 20230525090921.png",
     "docs/英语/image/Pasted image 20230530104523.png",
