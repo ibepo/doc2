@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0662b7c5a24548",
+        "id": "f2f45f473dca2e6f",
         "type": "tabs",
         "children": [
           {
-            "id": "96df129be2a9f468",
+            "id": "b49b78d1a557ad22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/英语/子昂/新概念 2/23.md",
+                "file": "docs/设计.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "23"
+              "title": "设计"
             }
           }
         ]
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "0dc094587f64fed4",
@@ -196,16 +195,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96df129be2a9f468",
+  "active": "b49b78d1a557ad22",
   "lastOpenFiles": [
-    "docs/英语/昂克英文.md",
-    "docs/英语/字母对照.md",
+    "docs/营销.md",
+    "docs/swift.md",
+    "docs/单字分解.md",
+    "docs/国学文化.md",
+    "docs/oepnai.md",
+    "docs/index.md",
+    "docs/cheatsheet.md",
+    "未命名.canvas",
     "docs/闪念.md",
-    "docs/鸡汤.md",
-    "docs/linux/ubuntu/install.md",
+    "docs/language/前端/css.md",
+    "docs/部署/centos部署.md",
+    "docs/部署/ubuntu18.04.md",
+    "docs/部署/shell脚本.md",
+    "docs/部署/image/Pasted image 20230317085850.png",
+    "docs/工具链/git/配置多个ssh.md",
+    "docs/工具链/git/提交.md",
+    "docs/工具链/git/git.md",
+    "docs/工具链/git/git clone.md",
+    "docs/网站收集/烹饪手册.md",
+    "docs/网站收集/灵感.md",
+    "docs/网站收集/工具网站.md",
+    "docs/网站收集/主题分列.md",
+    "docs/英语/韦氏音标美音发音.md",
+    "docs/英语/子昂/语文/高尔基.md",
+    "docs/英语/子昂/语文/10.高尔基_思维导图.jpg",
+    "docs/英语/韦小绿/pac.md",
+    "docs/英语/韦小绿/bene.md",
+    "docs/英语/韦小绿/crime.md",
+    "docs/英语/韦小绿/am.md",
     "docs/image/markdown.png",
-    "docs/英语/pronunciation in use.md",
-    "docs/英语/词根.md",
     "docs/英语/image/Pasted image 20230525090921.png",
     "docs/英语/image/Pasted image 20230530104523.png",
     "docs/英语/image/Pasted image 20230525102803.png",
@@ -213,34 +234,12 @@
     "docs/英语/image/Pasted image 20230602144625.png",
     "docs/英语/image/Pasted image 20230602144803.png",
     "docs/英语/image/Pasted image 20230605164500.png",
-    "docs/英语/子昂/新概念 2/23.md",
-    "docs/英语/子昂/新概念 1/新概念 1 单词.md",
-    "docs/英语/子昂/语文/高尔基.md",
-    "docs/英语/子昂/语文/10.高尔基_思维导图.jpg",
     "docs/英语/子昂/语文",
     "docs/英语/子昂/新概念 1",
-    "docs/英语/丁宗同.md",
-    "docs/英语/子昂/10.高尔基_思维导图.jpg",
-    "docs/英语/播客精读/2.md",
-    "docs/英语/子昂/高尔基.md",
-    "docs/英语/播客精读/rule.md",
-    "未命名.canvas",
-    "docs/英语/播客精读/1.md",
-    "docs/英语/参考.md",
-    "docs/英语/词汇.md",
-    "docs/英语/短语.md",
-    "docs/英语/吉娜英文.md",
-    "docs/英语/韦氏音标美音发音.md",
     "docs/英语/播客精读",
-    "docs/英语/播客精度/rule.md",
-    "docs/英语/播客精度/2.md",
-    "docs/英语/播客精度/1.md",
     "docs/英语/播客精度",
     "docs/英语/子昂",
     "book/马同学图解线性代数.pdf",
-    "book/马代笔记.md",
-    "docs/linux/archlinux/install.md",
-    "docs/linux/命令工具.md",
     "docs/language/vite",
     "docs/language/node",
     "docs/英语/英语词汇的奥秘",
