@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/杂项/街霸.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
