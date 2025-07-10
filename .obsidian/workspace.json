@@ -16,7 +16,7 @@
                 "file": "docs/杂项/街霸.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "街霸"
