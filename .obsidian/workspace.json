@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/吉他/CAGED系统吉他教学完整指南.md",
+                "file": "docs/吉他/和弦的意义与重要性.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CAGED系统吉他教学完整指南"
+              "title": "和弦的意义与重要性"
             }
           }
         ]
@@ -175,6 +175,7 @@
   },
   "active": "ebdad551b49cfba2",
   "lastOpenFiles": [
+    "docs/吉他/CAGED系统吉他教学完整指南.md",
     "docs/吉他/和弦的意义与重要性.md",
     "docs/吉他/caged.md",
     "docs/杂项/街霸.md",
