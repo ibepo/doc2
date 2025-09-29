@@ -116,24 +116,66 @@
   - No, sometimes I ride my bike.
   - No, I never walk. I live too far from my school.
 
-## 8. 手写笔记要点
+## 8. 职业词汇
 
-### 8.1 频率副词位置规则
-- **助动词/情态动词后**：I can always do it.
-- **实义动词前**：I always do it.
+### 8.1 职业名称
+| 职业 | 英文 | 中文 |
+|------|------|------|
+| teacher | teacher | 老师 |
+| singer | singer | 歌手 |
+| waiter | waiter | 服务员 |
+| writer | writer | 作家 |
+| cleaner | cleaner | 清洁工 |
+| driver | driver | 司机 |
+| worker | worker | 工人 |
+| dancer | dancer | 舞者 |
 
-### 8.2 重要句型
+## 9. 手写笔记要点
+
+### 9.1 频率副词详细规则
+- **四个频率副词**：
+  - always (100%) 总是
+  - often (60-70%) 经常  
+  - sometimes (30-40%) 有时
+  - never (0%) 从不
+- **位置规则**：
+  - ①be动词、助动词、情态动词后
+  - ②实义动词前
+
+### 9.2 称谓详细说明
+- **Miss** - 小姐（未婚）
+- **Mrs** - 太太（已婚）
+- **Ms** - 女士（姓氏，婚姻状况不明）
+- **Mr** - 先生
+
+### 9.3 对话翻译对照
+- **在雨天我总是要带我的雨伞** - I always have my umbrella on a rainy day
+- **坐公交去上学** - go to school by bus
+- **你总是坐校车去学校** - Do you always go to school by bus?
+- **我有时骑自行车** - Sometimes I ride my bike
+- **但是我经常坐校车** - But I often go to school by bus
+- **我家很远** - I live too far from my school
+
+### 9.4 重要句型
 - **询问频率**：Do you always/often/sometimes/never...?
 - **回答频率**：Yes, I always/No, I never...
+- **交通方式表达**：
+  - by + 交通工具：by bus, by bike
+  - 动词形式：ride my bike, walk to school
 
-### 8.3 交通方式表达
-- **by + 交通工具**：by bus, by bike
-- **动词形式**：ride my bike, walk to school
-
-### 8.4 距离表达
+### 9.5 距离表达
 - **too far from**：距离太远
-- **例句**：I live too far from my school.
+- **例句**：I live too far from my school
+
+### 9.6 练习答案
+- **填空练习**：
+  - Jenny always has her umbrella on a rainy day
+  - Ms. Scott is the school bus driver
+- **频率副词练习**：
+  - Jenny often goes to school by bus
+  - Sometimes she rides her bike
+  - She never walks
 
 ---
 
-*本总结基于 Lesson 7 的教材内容（第20-21页），涵盖了频率副词、交通方式、天气描述等核心知识点。*
+*本总结基于 Lesson 7 的教材内容（第20-21页），涵盖了频率副词、交通方式、天气描述、职业词汇等核心知识点，并包含详细的手写笔记。*
