@@ -1,0 +1,9512 @@
+1
+00:00:00,080 --> 00:00:05,780
+ This is going to be your most important meaty as a Cammy player after grab
+
+2
+00:00:00,080 --> 00:00:05,780
+作为一个 Cammy 玩家，这将是你最重要的补刀技巧之一
+
+3
+00:00:05,780 --> 00:00:08,700
+'cause you're gonna see yourself landing a lot of grabs in the corner.
+
+4
+00:00:05,780 --> 00:00:08,700
+因为你会发现自己在角落里经常能成功抓取对手
+
+5
+00:00:08,700 --> 00:00:13,260
+You gonna need to know this meaty extremely well
+
+6
+00:00:08,700 --> 00:00:13,260
+你需要非常熟悉这个补刀技巧
+
+7
+00:00:13,260 --> 00:00:14,900
+and you have to time it though.
+
+8
+00:00:13,260 --> 00:00:14,900
+但是你需要把握好时机。
+
+9
+00:00:14,900 --> 00:00:17,860
+It is not auto-timed, this is a manually timed meaty
+
+10
+00:00:14,900 --> 00:00:17,860
+这不是自动计时的，这是需要手动计时的攻击时机
+
+11
+00:00:17,860 --> 00:00:22,560
+so you actually have to just do it yourself and get the rhythm and timing down.
+
+12
+00:00:17,860 --> 00:00:22,560
+所以你实际上必须自己去掌握节奏和时间。
+
+13
+00:00:22,560 --> 00:00:23,560
+Yo, yo, yo.
+
+14
+00:00:22,560 --> 00:00:23,560
+嘿，嘿，嘿。
+
+15
+00:00:23,560 --> 00:00:25,280
+What is good, YouTube?
+
+16
+00:00:23,560 --> 00:00:25,280
+YouTube 上好啊！
+
+17
+00:00:25,280 --> 00:00:28,640
+It's your boy, Punk, and we are back with another video.
+
+18
+00:00:25,280 --> 00:00:28,640
+是我，Punk，我们又回来了，带来了新的视频。
+
+19
+00:00:28,640 --> 00:00:31,660
+And today we have a really good video
+
+20
+00:00:28,640 --> 00:00:31,660
+今天我们有一个非常棒的视频
+
+21
+00:00:31,660 --> 00:00:32,159
+I would say.
+
+22
+00:00:31,660 --> 00:00:32,159
+我可以这么说。
+
+23
+00:00:32,159 --> 00:00:35,020
+This is the first time we've ever gonna be doing this on the channel.
+
+24
+00:00:32,159 --> 00:00:35,020
+这是我们第一次在频道上做这件事。
+
+25
+00:00:35,020 --> 00:00:39,290
+And, you know, hopefully we are going to be doing it a lot more with this game.
+
+26
+00:00:35,020 --> 00:00:39,290
+而且，你知道，我们希望在这个游戏中能更多地这样做。
+
+27
+00:00:39,290 --> 00:00:43,760
+And that is going to be our first ever Street Fighter 6 guide
+
+28
+00:00:39,290 --> 00:00:43,760
+这将是我们的第一个街头霸王 6 攻略
+
+29
+00:00:43,760 --> 00:00:45,660
+and of course, it's gonna be for our girl
+
+30
+00:00:43,760 --> 00:00:45,660
+当然，这是关于我们的女孩
+
+31
+00:00:45,660 --> 00:00:49,330
+Cammy, since, you know, I've been playing Cammy quite a lot in this game
+
+32
+00:00:45,660 --> 00:00:49,330
+在这个游戏中，自从你知道的，我一直在大量使用凯美这个角色
+
+33
+00:00:49,330 --> 00:00:50,305
+probably the most character.
+
+34
+00:00:49,330 --> 00:00:50,305
+可能是我玩得最多的角色。
+
+35
+00:00:50,305 --> 00:00:50,370
+..
+
+36
+00:00:50,305 --> 00:00:50,370
+..
+
+37
+00:00:50,370 --> 00:00:59,320
+Well, not probably, it's definitely the most character I've played since the release of Street Fighter 6 and we're pretty much going to be making a god with her today.
+
+38
+00:00:50,370 --> 00:00:59,320
+嗯，不是可能，而是我自街头霸王 6 发布以来玩得最多的角色，今天我们将把她打造成一个神级角色。
+
+39
+00:00:59,320 --> 00:01:02,920
+We're gonna be going over everything from combos to her
+
+40
+00:00:59,320 --> 00:01:02,920
+我们将全面介绍从连招到
+
+41
+00:01:02,920 --> 00:01:06,300
+her buttons and strategies I use when I play.
+
+42
+00:01:02,920 --> 00:01:06,300
+她的按键和我在游戏中使用的策略。
+
+43
+00:01:06,300 --> 00:01:13,120
+Everything that you got to become the best Cammy player and surpass Master Punk.
+
+44
+00:01:06,300 --> 00:01:13,120
+成为最强的 Cammy 选手，超越 Master Punk 所需要的一切。
+
+45
+00:01:13,120 --> 00:01:13,780
+You know what I'm saying?
+
+46
+00:01:13,120 --> 00:01:13,780
+你明白我的意思吗？
+
+47
+00:01:13,780 --> 00:01:16,680
+So if you looking forward to playing some Cammy
+
+48
+00:01:13,780 --> 00:01:16,680
+所以如果你想玩 Cammy
+
+49
+00:01:16,680 --> 00:01:19,960
+you trying to learn her, this is the place to be right now.
+
+50
+00:01:16,680 --> 00:01:19,960
+如果你想学习她的打法，那么现在就是最好的时机。
+
+51
+00:01:19,960 --> 00:01:22,600
+So yeah, without further ado, I need you to go like
+
+52
+00:01:19,960 --> 00:01:22,600
+那么，废话不多说，我希望你能做以下几件事：
+
+53
+00:01:22,600 --> 00:01:25,340
+comment, subscribe, and turn the post notification bell on
+
+54
+00:01:22,600 --> 00:01:25,340
+点赞、评论、订阅，并打开通知铃
+
+55
+00:01:25,340 --> 00:01:27,180
+and let's get into it.
+
+56
+00:01:25,340 --> 00:01:27,180
+让我们开始吧。
+
+57
+00:01:27,180 --> 00:01:32,120
+So first thing you wanna do is go over all of Cammy's frame data and jabs
+
+58
+00:01:27,180 --> 00:01:32,120
+首先，你需要了解 Cammy 的帧数据和轻攻击
+
+59
+00:01:32,120 --> 00:01:35,760
+her normals, and for her frame datas and the normals.
+
+60
+00:01:32,120 --> 00:01:35,760
+她的普通攻击，以及帧数据和普通攻击。
+
+61
+00:01:35,760 --> 00:01:39,040
+So first you have her stand jab and her crouch jab
+
+62
+00:01:35,760 --> 00:01:39,040
+首先，她的立正状态轻拳和蹲下状态轻拳
+
+63
+00:01:39,040 --> 00:01:41,860
+which is pretty much gonna be the same button I would say.
+
+64
+00:01:39,040 --> 00:01:41,860
+我认为这基本上是相同的按键。
+
+65
+00:01:41,860 --> 00:01:46,260
+Stand jab and crouch jab you pretty much would think of as the same.
+
+66
+00:01:41,860 --> 00:01:46,260
+立正轻拳和蹲下轻拳你基本上可以认为是一样的。
+
+67
+00:01:46,260 --> 00:01:52,180
+I think, uh, crouch jab would probably be your better button to use for getting out of situations.
+
+68
+00:01:46,260 --> 00:01:52,180
+我认为，呃，下蹲轻拳可能是你用于摆脱困境的更好选择。
+
+69
+00:01:52,180 --> 00:01:56,900
+And I don't really know, stand jab is just kind of used in block strings for the most part
+
+70
+00:01:52,180 --> 00:01:56,900
+说实话，站立轻拳主要是用于连段攻击。
+
+71
+00:01:56,900 --> 00:02:00,780
+they are four frames, so this is your fastest button with Cammy.
+
+72
+00:01:56,900 --> 00:02:00,780
+它们是四帧，所以这是 Cammy 最快的按键。
+
+73
+00:02:00,780 --> 00:02:02,750
+These, or both of them actually.
+
+74
+00:02:00,780 --> 00:02:02,750
+这两个，或者说实际上两者都是。
+
+75
+00:02:02,750 --> 00:02:06,220
+I don't think there's many characters in this game that has two four-frame buttons
+
+76
+00:02:02,750 --> 00:02:06,220
+我不认为这个游戏中有很多角色拥有两个四帧按键
+
+77
+00:02:06,220 --> 00:02:12,640
+but Cammy has two four-frame jabs, so these are your fastest buttons that you want to use.
+
+78
+00:02:06,220 --> 00:02:12,640
+但是凯米有两个四帧轻拳，所以这些是你想要使用的最快的按键。
+
+79
+00:02:12,640 --> 00:02:14,140
+ And then you have her light kick
+
+80
+00:02:12,640 --> 00:02:14,140
+然后你有她的轻踢
+
+81
+00:02:14,140 --> 00:02:18,220
+which this button is very good, and you can use for a lot of different things.
+
+82
+00:02:14,140 --> 00:02:18,220
+这个按键非常好，可以用于多种不同的情况。
+
+83
+00:02:18,220 --> 00:02:20,820
+You can obviously use it for, you know
+
+84
+00:02:18,220 --> 00:02:20,820
+你当然可以用于，你知道的
+
+85
+00:02:20,820 --> 00:02:25,380
+you could do block strings, like things like that.
+
+86
+00:02:20,820 --> 00:02:25,380
+你可以做连续防御按键，就像那样的操作。
+
+87
+00:02:25,380 --> 00:02:27,520
+You can get four if you close enough.
+
+88
+00:02:25,380 --> 00:02:27,520
+如果你够近，你可以得到四次。
+
+89
+00:02:27,520 --> 00:02:28,620
+Okay.
+
+90
+00:02:27,520 --> 00:02:28,620
+好的。
+
+91
+00:02:28,620 --> 00:02:30,930
+Yeah, so you can get four of those.
+
+92
+00:02:28,620 --> 00:02:30,930
+是的，你可以获得四个这样的。
+
+93
+00:02:30,930 --> 00:02:34,000
+On hit, you can actually just get the four
+
+94
+00:02:30,930 --> 00:02:34,000
+击中时，你实际上可以直接获得四个
+
+95
+00:02:34,000 --> 00:02:37,726
+the combo, like that, but.
+
+96
+00:02:34,000 --> 00:02:37,726
+这个连招，就像这样，但是。
+
+97
+00:02:37,726 --> 00:02:38,370
+..
+
+98
+00:02:37,726 --> 00:02:38,370
+..
+
+99
+00:02:38,370 --> 00:02:41,080
+Bro, why is it not comboing?
+
+100
+00:02:38,370 --> 00:02:41,080
+兄弟，为什么不能连招？
+
+101
+00:02:41,080 --> 00:02:43,650
+It maybe is jammy hurt by it for may- oh
+
+102
+00:02:41,080 --> 00:02:43,650
+可能是因为它卡住了，不过—哦
+
+103
+00:02:43,650 --> 00:02:46,460
+it might only work on crouching is what it is.
+
+104
+00:02:43,650 --> 00:02:46,460
+它可能只在蹲姿状态下有效。
+
+105
+00:02:46,460 --> 00:02:48,700
+Okay, so yeah, there you go.
+
+106
+00:02:46,460 --> 00:02:48,700
+好的，就是这样。
+
+107
+00:02:48,700 --> 00:02:51,020
+And on block you can do it crouching also.
+
+108
+00:02:48,700 --> 00:02:51,020
+在被格挡时，你也可以用蹲姿来做。
+
+109
+00:02:51,020 --> 00:02:55,400
+But yeah, if they're crouching you can actually get this block string to
+
+110
+00:02:51,020 --> 00:02:55,400
+但是，如果对方蹲防，你实际上可以使用这个阻挡序列
+
+111
+00:02:55,400 --> 00:02:57,329
+oh, three jabs into a light kick
+
+112
+00:02:55,400 --> 00:02:57,329
+哦，三个轻拳接一个轻踢
+
+113
+00:02:57,329 --> 00:02:58,329
+which is very good.
+
+114
+00:02:57,329 --> 00:02:58,329
+这非常不错。
+
+115
+00:02:58,329 --> 00:03:01,540
+I don't actually think there's any other character in the game they even have that
+
+116
+00:02:58,329 --> 00:03:01,540
+就我所知，我不认为游戏中还有其他角色有这种能力。
+
+117
+00:03:01,540 --> 00:03:03,300
+to my knowledge.
+
+118
+00:03:01,540 --> 00:03:03,300
+据我所知。
+
+119
+00:03:03,300 --> 00:03:07,860
+And on hit you can see, you get the combo when they're crouching.
+
+120
+00:03:03,300 --> 00:03:07,860
+并且在命中时，你可以看到，当对方蹲防时可以打出连击。
+
+121
+00:03:07,860 --> 00:03:10,400
+Which is that combo.
+
+122
+00:03:07,860 --> 00:03:10,400
+那是哪个连招。
+
+123
+00:03:10,400 --> 00:03:13,360
+And if they're standing you don't really get it
+
+124
+00:03:10,400 --> 00:03:13,360
+如果对方站着的话，你基本上就无法得到（伤害）
+
+125
+00:03:13,360 --> 00:03:15,340
+but you can still do jab, jab
+
+126
+00:03:13,360 --> 00:03:15,340
+但你仍然可以打出重拳、重拳
+
+127
+00:03:15,340 --> 00:03:15,900
+light kick.
+
+128
+00:03:15,340 --> 00:03:15,900
+轻踢。
+
+129
+00:03:15,900 --> 00:03:19,820
+So still pretty much the same concept.
+
+130
+00:03:15,900 --> 00:03:19,820
+基本概念依然基本相同。
+
+131
+00:03:19,820 --> 00:03:21,900
+Next button we gonna be getting into is
+
+132
+00:03:19,820 --> 00:03:21,900
+接下来我们要介绍的按键是
+
+133
+00:03:21,900 --> 00:03:25,120
+which is one of my favorite buttons which Cammy I like to use
+
+134
+00:03:21,900 --> 00:03:25,120
+这是我最喜欢的 Cammy 使用的按键之一
+
+135
+00:03:25,120 --> 00:03:27,080
+is her standard medium kick.
+
+136
+00:03:25,120 --> 00:03:27,080
+这是她标准的中踢。
+
+137
+00:03:27,080 --> 00:03:30,100
+This button is amazing, as you can see the range
+
+138
+00:03:27,080 --> 00:03:30,100
+正如你所看到的，这个按键非常棒
+
+139
+00:03:30,100 --> 00:03:33,380
+you just see where it hitting jammy from
+
+140
+00:03:30,100 --> 00:03:33,380
+你只需要看看她在哪里击中 Cammy
+
+141
+00:03:33,380 --> 00:03:35,049
+all the way back here.
+
+142
+00:03:33,380 --> 00:03:35,049
+从这么远的地方。
+
+143
+00:03:35,049 --> 00:03:40,040
+This button is amazing, not only the fact that it hits from so far
+
+144
+00:03:35,049 --> 00:03:40,040
+这个按钮非常棒，不仅因为它能从这么远的距离击中对手
+
+145
+00:03:40,040 --> 00:03:43,760
+but even on block, look how much drive gauge you take
+
+146
+00:03:40,040 --> 00:03:43,760
+即便是挡住了，看看你损失了多少驱动增益条
+
+147
+00:03:43,760 --> 00:03:45,580
+which is very important in this game.
+
+148
+00:03:43,760 --> 00:03:45,580
+这在这款游戏中非常重要。
+
+149
+00:03:45,580 --> 00:03:52,140
+You want to always look at how much meter drive gauge is losing when you press a button.
+
+150
+00:03:45,580 --> 00:03:52,140
+你要始终关注按下一个按键时会损失多少驱动增益条。
+
+151
+00:03:52,140 --> 00:03:56,300
+And Cammy medium kick take about a half a bar I would say
+
+152
+00:03:52,140 --> 00:03:56,300
+而且我认为 Cammy 的中踢大约会消耗半个能量条
+
+153
+00:03:56,300 --> 00:04:00,620
+so this button is really good to abuse your opponent's drive gauge with
+
+154
+00:03:56,300 --> 00:04:00,620
+这个按钮非常适合用来消耗对手的特殊能量条
+
+155
+00:04:00,620 --> 00:04:05,820
+not only on, to hit them, but even just on block is very good.
+
+156
+00:04:00,620 --> 00:04:05,820
+不仅是命中时，即便是被格挡时也非常有效。
+
+157
+00:04:05,820 --> 00:04:09,640
+And it's only minus four so you never really have to worry about getting punished.
+
+158
+00:04:05,820 --> 00:04:09,640
+而且只有负四帧，所以你根本不用担心会被惩罚。
+
+159
+00:04:09,640 --> 00:04:12,280
+You should never be in range, if you do it from here.
+
+160
+00:04:09,640 --> 00:04:12,280
+你永远不应该处于这个范围内，如果从这里发起攻击。
+
+161
+00:04:12,280 --> 00:04:13,860
+Oh, look, it even spaces itself out
+
+162
+00:04:12,280 --> 00:04:13,860
+哦，看，它甚至会自动间隔开。
+
+163
+00:04:13,860 --> 00:04:15,780
+so even if you did it from this close
+
+164
+00:04:13,860 --> 00:04:15,780
+即使你在这么近的距离使用这个技能
+
+165
+00:04:15,780 --> 00:04:18,120
+you're still not going to get punished, ever.
+
+166
+00:04:15,780 --> 00:04:18,120
+你依然不会受到惩罚，绝对不会。
+
+167
+00:04:18,120 --> 00:04:23,920
+So this is pretty much gonna be one of your best pokes with Cammy that you wanna use when you're playing footsies
+
+168
+00:04:18,120 --> 00:04:23,920
+这基本上会成为你在玩佛系站位时，使用 Cammy 最好的戳刺招式之一
+
+169
+00:04:23,920 --> 00:04:24,380
+okay?
+
+170
+00:04:23,920 --> 00:04:24,380
+好吗？
+
+171
+00:04:24,380 --> 00:04:26,180
+So that is very important.
+
+172
+00:04:24,380 --> 00:04:26,180
+所以这一点非常重要。
+
+173
+00:04:26,180 --> 00:04:29,780
+Next one we're gonna go over is the standard medium punch.
+
+174
+00:04:26,180 --> 00:04:29,780
+接下来我们要讲解的是标准中拳。
+
+175
+00:04:29,780 --> 00:04:36,830
+Pretty good button, not really used how you would use it in older Street Fighter games
+
+176
+00:04:29,780 --> 00:04:36,830
+这是一个相当不错的按钮，与之前街头霸王游戏中的使用方式有些不同
+
+177
+00:04:36,830 --> 00:04:44,480
+which is for pressure, but this time it is used pretty much I would say to frame trap with
+
+178
+00:04:36,830 --> 00:04:44,480
+这个按钮原本用于施加压力，但这次我认为它主要被用于框架陷阱
+
+179
+00:04:44,480 --> 00:04:48,150
+and also it is very good I found out in meaties with Cammy.
+
+180
+00:04:44,480 --> 00:04:48,150
+另外，我发现它在处理 Cammy 的逼近攻击时非常有效。
+
+181
+00:04:48,150 --> 00:04:52,840
+So if you do a meaty, I wouldn't say just do this button on block
+
+182
+00:04:48,150 --> 00:04:52,840
+如果你做了一个防守反击，我不是说就只做这个按键
+
+183
+00:04:52,840 --> 00:05:00,020
+but you can definitely just throw it out sometimes and you can get a combo if it does randomly get a counter.
+
+184
+00:04:52,840 --> 00:05:00,020
+但是你确实可以有时随意使用它，如果它意外地打出反击，你就可以接连招。
+
+185
+00:05:00,020 --> 00:05:03,190
+So let's say you're playing and you just see a counter hit
+
+186
+00:05:00,020 --> 00:05:03,190
+比如说你在对战中看到了一个反击点
+
+187
+00:05:03,190 --> 00:05:08,920
+you can do a combo with it, you can get standard medium punch and clear
+
+188
+00:05:03,190 --> 00:05:08,920
+你可以用它进行连招，可以获得标准中拳并清除
+
+189
+00:05:08,920 --> 00:05:13,680
+so it is very good if you see it counter hit and if you get
+
+190
+00:05:08,920 --> 00:05:13,680
+所以如果你看到反击命中时，这是非常好的
+
+191
+00:05:13,680 --> 00:05:17,680
+going for a frame trap, which we'll get into later on in the guide.
+
+192
+00:05:13,680 --> 00:05:17,680
+进行帧陷阱，我们稍后会在指南中详细介绍。
+
+193
+00:05:17,680 --> 00:05:22,430
+So, but the best way I've found out using this button is in meaties after
+
+194
+00:05:17,680 --> 00:05:22,430
+所以，我发现使用这个按键最好的方式是在面对起跳攻击时
+
+195
+00:05:22,430 --> 00:05:23,180
+like, grabs.
+
+196
+00:05:22,430 --> 00:05:23,180
+比如说，抓投技。
+
+197
+00:05:23,180 --> 00:05:28,380
+So you grab someone in the corner, you could do something like that.
+
+198
+00:05:23,180 --> 00:05:28,380
+所以当你在角落抓住对手时，你可以这样做。
+
+199
+00:05:28,380 --> 00:05:30,180
+Right?
+
+200
+00:05:28,380 --> 00:05:30,180
+对吧？
+
+201
+00:05:30,180 --> 00:05:32,160
+So we're gonna get into those things later though
+
+202
+00:05:30,180 --> 00:05:32,160
+我们稍后会详细讨论这些内容
+
+203
+00:05:32,160 --> 00:05:35,820
+so for now, this button, you know
+
+204
+00:05:32,160 --> 00:05:35,820
+就目前而言，这个按键，你知道的
+
+205
+00:05:35,820 --> 00:05:37,060
+I don't really know what to tell you.
+
+206
+00:05:35,820 --> 00:05:37,060
+我真的不知道该怎么告诉你。
+
+207
+00:05:37,060 --> 00:05:40,880
+You wouldn't really use it too much, since it's not really cancelable.
+
+208
+00:05:37,060 --> 00:05:40,880
+你不太会经常使用它，因为它不太可取消。
+
+209
+00:05:40,880 --> 00:05:44,440
+It's really used in pressure for the most part
+
+210
+00:05:40,880 --> 00:05:44,440
+它主要用于施加压力。
+
+211
+00:05:44,440 --> 00:05:46,469
+not really in neutral.
+
+212
+00:05:44,440 --> 00:05:46,469
+在中立位置不太实用。
+
+213
+00:05:46,469 --> 00:05:50,640
+You wouldn't really press this button in neutral at all.
+
+214
+00:05:46,469 --> 00:05:50,640
+在中性状态下，你基本上不会按这个按键。
+
+215
+00:05:50,640 --> 00:05:56,250
+So yeah, we're gonna come back to this one a bit later on in the video when we get into
+
+216
+00:05:50,640 --> 00:05:56,250
+是的，我们稍后会在视频中再详细讨论这一点，
+
+217
+00:05:56,250 --> 00:05:58,480
+like, setups and those kind of things.
+
+218
+00:05:56,250 --> 00:05:58,480
+比如设置和类似的内容。
+
+219
+00:05:58,480 --> 00:06:00,888
+Next button we are going to go over is the.
+
+220
+00:05:58,480 --> 00:06:00,888
+接下来我们要讨论的按钮是
+
+221
+00:06:00,888 --> 00:06:01,042
+..
+
+222
+00:06:00,888 --> 00:06:01,042
+..
+
+223
+00:06:01,042 --> 00:06:05,206
+Crouching medium kick, which this one is an important button.
+
+224
+00:06:01,042 --> 00:06:05,206
+蹲下中踢，这是一个重要的按钮。
+
+225
+00:06:05,206 --> 00:06:07,286
+This is one of my favorite buttons also
+
+226
+00:06:05,206 --> 00:06:07,286
+这也是我最喜欢的按钮之一
+
+227
+00:06:07,286 --> 00:06:09,116
+just like the standard medium kick.
+
+228
+00:06:07,286 --> 00:06:09,116
+就像标准的中距离踢腿一样。
+
+229
+00:06:09,116 --> 00:06:15,526
+I love the crouch medium kick and that is because the crouching medium kick is gonna be one of your main whiff punish buttons
+
+230
+00:06:09,116 --> 00:06:15,526
+我很喜欢蹲下的中距离踢腿，因为蹲下的中距离踢腿将成为你主要的间隔惩罚按键之一
+
+231
+00:06:15,526 --> 00:06:18,036
+and also it's just a really good low range poke
+
+232
+00:06:15,526 --> 00:06:18,036
+而且这是一个非常好的低距离戳击
+
+233
+00:06:18,036 --> 00:06:20,876
+so since we have the mechanic drive rush
+
+234
+00:06:18,036 --> 00:06:20,876
+由于我们有这个机械冲刺机制
+
+235
+00:06:20,876 --> 00:06:21,836
+right?
+
+236
+00:06:20,876 --> 00:06:21,836
+对吧？
+
+237
+00:06:21,836 --> 00:06:25,916
+If you think that your opponent will not block his feet
+
+238
+00:06:21,836 --> 00:06:25,916
+如果你认为对手不会格挡他的脚步
+
+239
+00:06:25,916 --> 00:06:26,997
+and you wanna go for some.
+
+240
+00:06:25,916 --> 00:06:26,997
+并且你想尝试一些招式
+
+241
+00:06:26,997 --> 00:06:27,086
+..
+
+242
+00:06:26,997 --> 00:06:27,086
+..
+
+243
+00:06:27,086 --> 00:06:30,516
+Or even if you wanna just start some pressure up and you have a lot of drive gauge
+
+244
+00:06:27,086 --> 00:06:30,516
+或者即使你只是想发起一些压制战术，并且你有充足的驱动表
+
+245
+00:06:30,516 --> 00:06:34,296
+you can always just go straight into the crouching medium kick drive rush.
+
+246
+00:06:30,516 --> 00:06:34,296
+你总是可以直接进入下蹲中踢驱动突进。
+
+247
+00:06:34,296 --> 00:06:36,516
+If they hit you, you get big combos.
+
+248
+00:06:34,296 --> 00:06:36,516
+如果他们击中你，你可以获得大型连招。
+
+249
+00:06:36,516 --> 00:06:42,316
+If not, you can get good pressure on block with this
+
+250
+00:06:36,516 --> 00:06:42,316
+如果没有击中，你可以在对手格挡时获得良好的压制
+
+251
+00:06:42,316 --> 00:06:45,676
+to do things like that and you remember that in drive rush
+
+252
+00:06:42,316 --> 00:06:45,676
+为了做这些事情，并且你记住了驱动突进（drive rush）的用法
+
+253
+00:06:45,676 --> 00:06:51,516
+all your buttons are a plus, so get a lot of good pressure starting out from this crouching medium kick.
+
+254
+00:06:45,676 --> 00:06:51,516
+你的所有按键都有优势，所以从这个下蹲中踢开始施加很多良好的压力。
+
+255
+00:06:51,516 --> 00:06:57,015
+But for the whiff punish part, this is gonna be one of your main whiff punish buttons for the simple fact you.
+
+256
+00:06:51,516 --> 00:06:57,015
+但对于惩罚失误的部分，这将是你主要的惩罚失误按键，原因很简单。
+
+257
+00:06:57,015 --> 00:06:57,145
+..
+
+258
+00:06:57,015 --> 00:06:57,145
+..
+
+259
+00:06:57,145 --> 00:07:03,856
+It's your longest ranging cancellable poke into drive rush and also into special moves
+
+260
+00:06:57,145 --> 00:07:03,856
+这是你可以取消并进入驱动冲刺和特殊招式的最长距离戳击。
+
+261
+00:07:03,856 --> 00:07:05,076
+right?
+
+262
+00:07:03,856 --> 00:07:05,076
+对吧？
+
+263
+00:07:05,076 --> 00:07:07,206
+So you could do low forward spiral arrow
+
+264
+00:07:05,076 --> 00:07:07,206
+所以你可以用低前方螺旋箭
+
+265
+00:07:07,206 --> 00:07:09,916
+maybe low forward DP if you feeling it.
+
+266
+00:07:07,206 --> 00:07:09,916
+如果感觉可以的话，也许还能用低前方龙拳。
+
+267
+00:07:09,916 --> 00:07:13,830
+I suck, but yeah, you could do low forward DP which is.
+
+268
+00:07:09,916 --> 00:07:13,830
+我很菜，但是没关系，你可以用低前踢龙拳，就是这样的。
+
+269
+00:07:13,830 --> 00:07:13,946
+..
+
+270
+00:07:13,830 --> 00:07:13,946
+..
+
+271
+00:07:13,946 --> 00:07:15,116
+We're gonna show you here.
+
+272
+00:07:13,946 --> 00:07:15,116
+我们将在这里向你展示。
+
+273
+00:07:15,116 --> 00:07:15,686
+Look at that.
+
+274
+00:07:15,116 --> 00:07:15,686
+看看这个。
+
+275
+00:07:15,686 --> 00:07:17,796
+You see how far I hit that from?
+
+276
+00:07:15,686 --> 00:07:17,796
+你看我从多远打出这一击的？
+
+277
+00:07:17,796 --> 00:07:18,326
+Look it.
+
+278
+00:07:17,796 --> 00:07:18,326
+看这个。
+
+279
+00:07:18,326 --> 00:07:20,216
+Man.
+
+280
+00:07:18,326 --> 00:07:20,216
+天哪。
+
+281
+00:07:20,216 --> 00:07:22,936
+Get your, get your power ball.
+
+282
+00:07:20,216 --> 00:07:22,936
+获得你的力量球。
+
+283
+00:07:22,936 --> 00:07:27,436
+Get all this pressure starting, which is very good
+
+284
+00:07:22,936 --> 00:07:27,436
+开始获得所有这些压力，这是非常好的
+
+285
+00:07:27,436 --> 00:07:31,136
+and that's pretty much gonna be how you wanna use your crouching medium kick.
+
+286
+00:07:27,436 --> 00:07:31,136
+这基本上就是你想要使用蹲姿中踢的方式。
+
+287
+00:07:31,136 --> 00:07:37,616
+Crouching medium punch, I would say this button is a bit similar to a standard medium punch
+
+288
+00:07:31,136 --> 00:07:37,616
+下蹲中拳，我会说这个按钮与标准中拳有点类似
+
+289
+00:07:37,616 --> 00:07:43,416
+but it is cancellable, so I would say it does have a bit more use in neutral.
+
+290
+00:07:37,616 --> 00:07:43,416
+但是它是可取消的，所以我会说它在中性位置确实有更多用途。
+
+291
+00:07:43,416 --> 00:07:46,476
+Which is, you can buffer this button as you see
+
+292
+00:07:43,416 --> 00:07:46,476
+就是说，你可以缓冲这个按钮，正如你所见
+
+293
+00:07:46,476 --> 00:07:48,286
+if you looking at my inputs on the screen
+
+294
+00:07:46,476 --> 00:07:48,286
+如果你在屏幕上查看我的输入
+
+295
+00:07:48,286 --> 00:07:51,256
+you see me buffering into drill right here
+
+296
+00:07:48,286 --> 00:07:51,256
+你会看到我在这里缓冲进入钻头技能
+
+297
+00:07:51,256 --> 00:07:53,316
+and it's never coming out.
+
+298
+00:07:51,256 --> 00:07:53,316
+但它永远不会出现。
+
+299
+00:07:53,316 --> 00:07:57,356
+But let's say that Jamie, or not Jamie
+
+300
+00:07:53,316 --> 00:07:57,356
+但假设杰米，或者不是杰米
+
+301
+00:07:57,356 --> 00:08:00,766
+but your opponent, you know, they're walking blocking.
+
+302
+00:07:57,356 --> 00:08:00,766
+但是你的对手，你知道，他们正在行走防御。
+
+303
+00:08:00,766 --> 00:08:01,576
+Uh, hold on.
+
+304
+00:08:00,766 --> 00:08:01,576
+啊，稍等。
+
+305
+00:08:01,576 --> 00:08:02,316
+Let me record there.
+
+306
+00:08:01,576 --> 00:08:02,316
+让我在这里记录一下。
+
+307
+00:08:02,316 --> 00:08:04,606
+Walking blocking, let's say your opponent, you know
+
+308
+00:08:02,316 --> 00:08:04,606
+走路防御，假设你的对手，你知道
+
+309
+00:08:04,606 --> 00:08:06,816
+they're doing it.
+
+310
+00:08:04,606 --> 00:08:06,816
+他们正在做这件事。
+
+311
+00:08:06,816 --> 00:08:10,756
+And you just casually pressing this, obviously
+
+312
+00:08:06,816 --> 00:08:10,756
+而你就这样随意地按这个，显然
+
+313
+00:08:10,756 --> 00:08:15,376
+uh, in a real match, it'll probably be more effective to buffer it like that.
+
+314
+00:08:10,756 --> 00:08:15,376
+呃，在真实的对战中，像那样缓冲可能会更有效。
+
+315
+00:08:15,376 --> 00:08:17,456
+You see as he walked into range?
+
+316
+00:08:15,376 --> 00:08:17,456
+你看他走进攻击范围了吗？
+
+317
+00:08:17,456 --> 00:08:24,226
+It's a very good button to just buffer while your opponent may be just walking in and out of the ranges
+
+318
+00:08:17,456 --> 00:08:24,226
+这是一个非常好的按钮，可以在对手可能在走进走出范围时进行缓冲
+
+319
+00:08:24,226 --> 00:08:29,256
+or you can even buffer it to drive rush if you wanna be a little bit more safe.
+
+320
+00:08:24,226 --> 00:08:29,256
+或者你甚至可以缓冲它来进行驱动冲刺，如果你想稍微保险一些的话。
+
+321
+00:08:29,256 --> 00:08:32,916
+But this button is gonna be a bit harder to whiff punish in neutral
+
+322
+00:08:29,256 --> 00:08:32,916
+但是这个按钮在中立位置进行惩罚会变得稍微困难一些
+
+323
+00:08:32,916 --> 00:08:38,956
+so you have more freedom to just press it and not worry about being whiff punished.
+
+324
+00:08:32,916 --> 00:08:38,956
+这样你就可以更自由地按下按键，而不必担心被惩罚虚招。
+
+325
+00:08:38,956 --> 00:08:47,096
+But unlike low- crouch and medium kick, you don't wanna just press this button on whiff because it is very easy to whiff punish I would say.
+
+326
+00:08:38,956 --> 00:08:47,096
+但是与低姿势和中踢不同，你不应该随意按下这个按键，因为它很容易被惩罚虚招，我认为。
+
+327
+00:08:47,096 --> 00:08:49,836
+So you don't wanna just be whiffing this button a lot.
+
+328
+00:08:47,096 --> 00:08:49,836
+所以你不应该频繁地虚招这个按键。
+
+329
+00:08:49,836 --> 00:08:50,406
+But this?
+
+330
+00:08:49,836 --> 00:08:50,406
+但是这个呢？
+
+331
+00:08:50,406 --> 00:08:56,676
+I would say you have more freedom to just whiff and buffer into your low spiral arrow
+
+332
+00:08:50,406 --> 00:08:56,676
+我会说你可以更自由地空放并缓冲到低螺旋箭
+
+333
+00:08:56,676 --> 00:08:58,766
+or even to super if you want to
+
+334
+00:08:56,676 --> 00:08:58,766
+或者如果你想的话，甚至可以直接使用必杀技
+
+335
+00:08:58,766 --> 00:09:02,596
+or to drive rush of course, and you get a big combos.
+
+336
+00:08:58,766 --> 00:09:02,596
+或者发动冲刺，当然，你会得到大型连击。
+
+337
+00:09:02,596 --> 00:09:07,796
+So, I would say that is the best use for the crouch medium punch.
+
+338
+00:09:02,596 --> 00:09:07,796
+所以，我认为这是蹲中拳最好的用法。
+
+339
+00:09:07,796 --> 00:09:12,476
+And now we're moving on to actually my very favorite button with Cammy
+
+340
+00:09:07,796 --> 00:09:12,476
+现在我们要讨论我最喜欢的 Cammy 的按键了
+
+341
+00:09:12,476 --> 00:09:15,416
+which is going to be the standing heavy kick.
+
+342
+00:09:12,476 --> 00:09:15,416
+这将是站立重踢。
+
+343
+00:09:15,416 --> 00:09:21,706
+This button here has so many great uses in the neutral that is.
+
+344
+00:09:15,416 --> 00:09:21,706
+这个按钮在中立位置有非常多的精彩用法。
+
+345
+00:09:21,706 --> 00:09:21,886
+..
+
+346
+00:09:21,706 --> 00:09:21,886
+..
+
+347
+00:09:21,886 --> 00:09:26,346
+Well, it's only really a neutral button because you can't cancel it or anything.
+
+348
+00:09:21,886 --> 00:09:26,346
+嗯，它实际上只是一个中立按钮，因为你无法取消它。
+
+349
+00:09:26,346 --> 00:09:32,716
+But one, my favorite is for them to block the standing heavy kick because if you look at this
+
+350
+00:09:26,346 --> 00:09:32,716
+但有一个，我最喜欢的是让他们阻挡立式重踢，因为如果你看看这个
+
+351
+00:09:32,716 --> 00:09:34,516
+boom, look at the bar.
+
+352
+00:09:32,716 --> 00:09:34,516
+轰，看这个条。
+
+353
+00:09:34,516 --> 00:09:38,996
+You see the drive gauge is also minus four
+
+354
+00:09:34,516 --> 00:09:38,996
+你会看到驱动条也是负四帧
+
+355
+00:09:38,996 --> 00:09:45,096
+just like your stand medium kick, so the drive gauge is going down.
+
+356
+00:09:38,996 --> 00:09:45,096
+就像你的站立中踢，驱动表也会下降。
+
+357
+00:09:45,096 --> 00:09:46,416
+Crazy.
+
+358
+00:09:45,096 --> 00:09:46,416
+太疯狂了。
+
+359
+00:09:46,416 --> 00:09:49,756
+So this is a very good drive gauge abuse button
+
+360
+00:09:46,416 --> 00:09:49,756
+所以这是一个非常好的驱动表滥用按键
+
+361
+00:09:49,756 --> 00:09:50,305
+you know what I'm saying?
+
+362
+00:09:49,756 --> 00:09:50,305
+你知道我的意思吗？
+
+363
+00:09:50,305 --> 00:09:53,916
+If you wanna abuse some drive gauge, you wanna use the standing heavy kick.
+
+364
+00:09:50,305 --> 00:09:53,916
+如果你想滥用一些驱动表，你需要使用站立重踢。
+
+365
+00:09:53,916 --> 00:09:57,776
+And not only for it on block.
+
+366
+00:09:53,916 --> 00:09:57,776
+而且不仅仅是在格挡时使用。
+
+367
+00:09:57,776 --> 00:10:05,616
+Stand heavy kick is also a really good whiff punish button because this button has a bit more range than the standing medium kick
+
+368
+00:09:57,776 --> 00:10:05,616
+站立重踢也是一个非常好的空挡惩罚按键，因为这个按键的范围比站立中踢稍微更远
+
+369
+00:10:05,616 --> 00:10:05,976
+right?
+
+370
+00:10:05,616 --> 00:10:05,976
+对吧？
+
+371
+00:10:05,976 --> 00:10:09,836
+So sometimes you're not in range to whiff punish or
+
+372
+00:10:05,976 --> 00:10:09,836
+所以有时你可能无法处于空挡惩罚的距离范围内
+
+373
+00:10:09,836 --> 00:10:11,976
+you know, in range for the standard medium kick
+
+374
+00:10:09,836 --> 00:10:11,976
+你知道，在标准中踢的有效范围内
+
+375
+00:10:11,976 --> 00:10:12,289
+but.
+
+376
+00:10:11,976 --> 00:10:12,289
+但是。
+
+377
+00:10:12,289 --> 00:10:12,426
+..
+
+378
+00:10:12,289 --> 00:10:12,426
+..
+
+379
+00:10:12,426 --> 00:10:14,596
+Or not the stand medium kick whiff punish
+
+380
+00:10:12,426 --> 00:10:14,596
+或者不是站立中踢的惩罚性失空击
+
+381
+00:10:14,596 --> 00:10:16,276
+I mean the crouching medium kick whiff punish.
+
+382
+00:10:14,596 --> 00:10:16,276
+我指的是蹲踢时的空挡反击。
+
+383
+00:10:16,276 --> 00:10:18,076
+Sometimes you're not in range, like right here
+
+384
+00:10:16,276 --> 00:10:18,076
+有时你不在攻击范围内，就像现在这样
+
+385
+00:10:18,076 --> 00:10:24,165
+but you see heavy kick hits it, and not only is it good because it hits it
+
+386
+00:10:18,076 --> 00:10:24,165
+但你看到重踢能击中对方，而且这不仅仅是因为它能击中
+
+387
+00:10:24,165 --> 00:10:28,716
+it takes a whole drive gauge bar away on whiff punish.
+
+388
+00:10:24,165 --> 00:10:28,716
+这将消耗整个驱动条来惩罚对方的空挥
+
+389
+00:10:28,716 --> 00:10:32,016
+So if you whiff punish someone with this stand heavy kick
+
+390
+00:10:28,716 --> 00:10:32,016
+所以如果你用这个站立重踢进行空挥惩罚
+
+391
+00:10:32,016 --> 00:10:35,556
+that is a one drive gauge bar gone.
+
+392
+00:10:32,016 --> 00:10:35,556
+那就会损失一个驱动条。
+
+393
+00:10:35,556 --> 00:10:36,426
+Look at it.
+
+394
+00:10:35,556 --> 00:10:36,426
+看看这个。
+
+395
+00:10:36,426 --> 00:10:41,606
+A whole bar just depleted because they decided to whiff a button.
+
+396
+00:10:36,426 --> 00:10:41,606
+仅仅因为他们选择了空挥一个按键，整个血条就耗尽了。
+
+397
+00:10:41,606 --> 00:10:44,356
+And you can get some type of pressure from this
+
+398
+00:10:41,606 --> 00:10:44,356
+而且你可以从中获得某种压制。
+
+399
+00:10:44,356 --> 00:10:45,951
+which will be like.
+
+400
+00:10:44,356 --> 00:10:45,951
+这将会是这样的。
+
+401
+00:10:45,951 --> 00:10:46,246
+..
+
+402
+00:10:45,951 --> 00:10:46,246
+..
+
+403
+00:10:46,246 --> 00:10:49,616
+You could get something like that or you could just dash and then do it.
+
+404
+00:10:46,246 --> 00:10:49,616
+你可以得到类似的效果，或者直接冲刺然后执行。
+
+405
+00:10:49,616 --> 00:10:55,576
+But yeah, this button is amazing because it does reach at ranges that your crouching medium kick
+
+406
+00:10:49,616 --> 00:10:55,576
+但是，这个按钮很棒，因为它能够覆盖到你的蹲下中踢够不到的距离
+
+407
+00:10:55,576 --> 00:10:58,576
+it won't whiff punish, but this will
+
+408
+00:10:55,576 --> 00:10:58,576
+它可能无法惩罚对手的失误，但这个可以
+
+409
+00:10:58,576 --> 00:11:00,296
+a whole drive gauge bar.
+
+410
+00:10:58,576 --> 00:11:00,296
+一整个驱动仪表条。
+
+411
+00:11:00,296 --> 00:11:04,606
+So that is why this is one of my very favorite buttons.
+
+412
+00:11:00,296 --> 00:11:04,606
+这就是为什么这是我最喜欢的按键之一。
+
+413
+00:11:04,606 --> 00:11:09,216
+And next we're going to get into her standing heavy punch.
+
+414
+00:11:04,606 --> 00:11:09,216
+接下来我们将讨论她的站立重拳。
+
+415
+00:11:09,216 --> 00:11:11,476
+This button is pretty good I would say.
+
+416
+00:11:09,216 --> 00:11:11,476
+这个按键我觉得相当不错。
+
+417
+00:11:11,476 --> 00:11:19,476
+I like it the most when I have someone cornered is when I like to use it the most because they don't have anywhere to walk out of the range to make it whiff.
+
+418
+00:11:11,476 --> 00:11:19,476
+当我把对手逼到角落的时候，我最喜欢使用这个按键，因为他们没有地方可以走出范围来让这个技能失空。
+
+419
+00:11:19,476 --> 00:11:24,896
+Since it doesn't have that much range, it's very easy to make whiffen- whiff punish by when they're in the corner
+
+420
+00:11:19,476 --> 00:11:24,896
+由于这个技能的范围不是很大，所以当对手被逼到角落时，很容易被惩罚或是抓住破绽。
+
+421
+00:11:24,896 --> 00:11:28,346
+you just can swing that thing.
+
+422
+00:11:24,896 --> 00:11:28,346
+你只是随意挥舞那个招式。
+
+423
+00:11:28,346 --> 00:11:33,606
+It takes about a quarter of a drive gauge on block and the best thing about it is
+
+424
+00:11:28,346 --> 00:11:33,606
+它在防御时会消耗驱动条约四分之一，最棒的是
+
+425
+00:11:33,606 --> 00:11:37,836
+this is probably the only button that Cammy actually can hit confirm.
+
+426
+00:11:33,606 --> 00:11:37,836
+这可能是 Cammy 唯一能够确认命中的招式。
+
+427
+00:11:37,836 --> 00:11:46,956
+So you can actually confirm this on hit to the spiral arrow to continue pressure and get a good amount of damage.
+
+428
+00:11:37,836 --> 00:11:46,956
+你实际上可以通过螺旋箭击中后确认并继续施加压力，获得可观的伤害。
+
+429
+00:11:46,956 --> 00:11:48,332
+Or you could confirm.
+
+430
+00:11:46,956 --> 00:11:48,332
+或者你可以确认。
+
+431
+00:11:48,332 --> 00:11:48,486
+..
+
+432
+00:11:48,332 --> 00:11:48,486
+..
+
+433
+00:11:48,486 --> 00:11:52,436
+It's very hard to do it, but you can confirm into the drive rush
+
+434
+00:11:48,486 --> 00:11:52,436
+这很难做到，但你可以确认进入冲刺驾驶模式。
+
+435
+00:11:52,436 --> 00:11:53,756
+but it is very hard.
+
+436
+00:11:52,436 --> 00:11:53,756
+但这非常困难。
+
+437
+00:11:53,756 --> 00:11:56,216
+I'm not even very consistent with that one
+
+438
+00:11:53,756 --> 00:11:56,216
+我甚至无法保持一致性
+
+439
+00:11:56,216 --> 00:12:03,768
+but confirming it into the special move is very good and I think that is the best use for this button.
+
+440
+00:11:56,216 --> 00:12:03,768
+但将其确认为特殊招式是非常好的，我认为这是这个按键的最佳用途。
+
+441
+00:12:03,768 --> 00:12:05,797
+You can use it in the mid-range, of course
+
+442
+00:12:03,768 --> 00:12:05,797
+当然，你可以在中距离使用它
+
+443
+00:12:05,797 --> 00:12:06,628
+for the same thing.
+
+444
+00:12:05,797 --> 00:12:06,628
+用于同样的目的。
+
+445
+00:12:06,628 --> 00:12:12,278
+But it is, like I said, a lot easier to make whiff than a lot of the other buttons that you see.
+
+446
+00:12:06,628 --> 00:12:12,278
+但正如我之前说的，它比你看到的许多其他按键更容易被轻易击空。
+
+447
+00:12:12,278 --> 00:12:15,268
+You could be around right here and still was whiffing.
+
+448
+00:12:12,278 --> 00:12:15,268
+你可能就在这里，却仍然没有击中目标。
+
+449
+00:12:15,268 --> 00:12:18,548
+So, yeah, that is probably gonna be a use for that.
+
+450
+00:12:15,268 --> 00:12:18,548
+所以，是的，这可能会成为那个招式的用处。
+
+451
+00:12:18,548 --> 00:12:24,328
+And the next button we're gonna go over is Cammy's sweep.
+
+452
+00:12:18,548 --> 00:12:24,328
+接下来我们要讲的是凯米的扫腿招式。
+
+453
+00:12:24,328 --> 00:12:31,128
+The crouching heavy kick is very fast, nine-frame button that is very fast for the sweep.
+
+454
+00:12:24,328 --> 00:12:31,128
+蹲下重踢是一个非常快速的九帧招式，非常适合扫堂腿。
+
+455
+00:12:31,128 --> 00:12:34,548
+And it's a s- bit faster than her standing heavy kick
+
+456
+00:12:31,128 --> 00:12:34,548
+而且比她的站立重踢快一点点
+
+457
+00:12:34,548 --> 00:12:38,008
+and about the same as her crouching medium kick.
+
+458
+00:12:34,548 --> 00:12:38,008
+和她的蹲下中踢大致相同。
+
+459
+00:12:38,008 --> 00:12:40,308
+But as you can see, this button
+
+460
+00:12:38,008 --> 00:12:40,308
+但是你可以看到，这个按键
+
+461
+00:12:40,308 --> 00:12:43,928
+Cammy actually moves forward when she does the sweep
+
+462
+00:12:40,308 --> 00:12:43,928
+凯米在使用扫腿时实际上会向前移动
+
+463
+00:12:43,928 --> 00:12:47,288
+which is a very good way to whiff punish.
+
+464
+00:12:43,928 --> 00:12:47,288
+这是一个非常好的间隔惩罚方式。
+
+465
+00:12:47,288 --> 00:12:49,308
+Whiff, which I like to use it the most for
+
+466
+00:12:47,288 --> 00:12:49,308
+我最喜欢使用的是虚空击打
+
+467
+00:12:49,308 --> 00:12:51,328
+is to whiff punish, which is boom.
+
+468
+00:12:49,308 --> 00:12:51,328
+用于惩罚虚空击，那就是 boom。
+
+469
+00:12:51,328 --> 00:12:52,228
+You see that?
+
+470
+00:12:51,328 --> 00:12:52,228
+你看到了吗？
+
+471
+00:12:52,228 --> 00:12:53,908
+Boom, and you actually get a setup.
+
+472
+00:12:52,228 --> 00:12:53,908
+砰，你实际上获得了一个设置。
+
+473
+00:12:53,908 --> 00:12:55,308
+Let's say you could get a setup into
+
+474
+00:12:53,908 --> 00:12:55,308
+假设你能够进行一个设置
+
+475
+00:12:55,308 --> 00:12:58,808
+like, dog kick or jump in light kick.
+
+476
+00:12:55,308 --> 00:12:58,808
+比如，狗踢或跳入轻踢。
+
+477
+00:12:58,808 --> 00:13:00,808
+And if you know your opponent might try to parry that
+
+478
+00:12:58,808 --> 00:13:00,808
+如果你知道对手可能会尝试格挡那一招，
+
+479
+00:13:00,808 --> 00:13:03,448
+you could even go for the L key jump throw there.
+
+480
+00:13:00,808 --> 00:13:03,448
+你甚至可以尝试使用跳投 L 键。
+
+481
+00:13:03,448 --> 00:13:04,908
+But we'll get into that stuff later.
+
+482
+00:13:03,448 --> 00:13:04,908
+但我们稍后再详细讨论这些技巧。
+
+483
+00:13:04,908 --> 00:13:07,148
+But, yeah, this is a very good whiff punish.
+
+484
+00:13:04,908 --> 00:13:07,148
+不过，是的，这是一个非常好的空挡惩罚。
+
+485
+00:13:07,148 --> 00:13:12,068
+It also takes a whole drive gauge away on block if you whiff punish someone with it.
+
+486
+00:13:07,148 --> 00:13:12,068
+如果用这招空挡惩罚对手，还会消耗掉对方一整个驱动槽。
+
+487
+00:13:12,068 --> 00:13:18,178
+It is a hard knockdown, meaning they cannot tech backwards or get up in place.
+
+488
+00:13:12,068 --> 00:13:18,178
+这是一个重度击倒，意味着对手无法向后翻滚或原地起身。
+
+489
+00:13:18,178 --> 00:13:21,968
+They just always gonna get up right where they get knocked down at
+
+490
+00:13:18,178 --> 00:13:21,968
+他们总是会在被击倒的地方立即起身
+
+491
+00:13:21,968 --> 00:13:28,348
+so you get a very good setup from the jumping or jump dog kick right there.
+
+492
+00:13:21,968 --> 00:13:28,348
+所以你可以从跳跃或跳跃的狗踢中获得非常好的设置。
+
+493
+00:13:28,348 --> 00:13:31,248
+And the dog kick also hits meaty here.
+
+494
+00:13:28,348 --> 00:13:31,248
+而且狗踢在这里也能命中。
+
+495
+00:13:31,248 --> 00:13:33,648
+So, as you can see, it is plus one
+
+496
+00:13:31,248 --> 00:13:33,648
+所以，正如你所看到的，这个技能是加一帧
+
+497
+00:13:33,648 --> 00:13:37,838
+which is very good setup to continue some pressure with after a good whiff punish.
+
+498
+00:13:33,648 --> 00:13:37,838
+这是一个非常好的设置，可以在成功惩罚对手的空招后继续施加压力。
+
+499
+00:13:37,838 --> 00:13:41,418
+And the last button we are going to go o-.
+
+500
+00:13:37,838 --> 00:13:41,418
+最后我们要说的是这个按键技能。
+
+501
+00:13:41,418 --> 00:13:41,478
+..
+
+502
+00:13:41,418 --> 00:13:41,478
+..
+
+503
+00:13:41,478 --> 00:13:42,628
+Actually, there's two more buttons.
+
+504
+00:13:41,478 --> 00:13:42,628
+实际上，还有两个按钮。
+
+505
+00:13:42,628 --> 00:13:44,888
+We have the forward heavy kick.
+
+506
+00:13:42,628 --> 00:13:44,888
+我们有前方重踢。
+
+507
+00:13:44,888 --> 00:13:48,488
+Forward heavy kick is a button that I don't ever really use
+
+508
+00:13:44,888 --> 00:13:48,488
+前方重踢是我基本不会使用的一个按钮。
+
+509
+00:13:48,488 --> 00:13:50,118
+and I think it's not the best.
+
+510
+00:13:48,488 --> 00:13:50,118
+而且我认为这不是最好的。
+
+511
+00:13:50,118 --> 00:13:51,228
+It has a decent range.
+
+512
+00:13:50,118 --> 00:13:51,228
+它有不错的射程。
+
+513
+00:13:51,228 --> 00:13:54,248
+You can hit confirm it one hit.
+
+514
+00:13:51,228 --> 00:13:54,248
+你可以通过一次命中确认它。
+
+515
+00:13:54,248 --> 00:13:57,608
+So, if it does hit you, click confirm it.
+
+516
+00:13:54,248 --> 00:13:57,608
+所以，如果它击中你了，点击确认。
+
+517
+00:13:57,608 --> 00:13:59,775
+See, I don't even know.
+
+518
+00:13:57,608 --> 00:13:59,775
+看，我甚至不知道。
+
+519
+00:13:59,775 --> 00:13:59,938
+..
+
+520
+00:13:59,775 --> 00:13:59,938
+..
+
+521
+00:13:59,938 --> 00:14:01,108
+Maybe it doesn't punish counter.
+
+522
+00:13:59,938 --> 00:14:01,108
+也许它并不会惩罚反击。
+
+523
+00:14:01,108 --> 00:14:03,668
+It might not even combo from far.
+
+524
+00:14:01,108 --> 00:14:03,668
+可能甚至无法从远处连招。
+
+525
+00:14:03,668 --> 00:14:04,788
+Yeah, it doesn't.
+
+526
+00:14:03,668 --> 00:14:04,788
+是的，不行。
+
+527
+00:14:04,788 --> 00:14:06,688
+So, I don't really know, honestly.
+
+528
+00:14:04,788 --> 00:14:06,688
+说实话，我真的不太清楚。
+
+529
+00:14:06,688 --> 00:14:08,548
+I think that this button, as a Cammy player
+
+530
+00:14:06,688 --> 00:14:08,548
+作为一个 Cammy 玩家，我认为这个按键
+
+531
+00:14:08,548 --> 00:14:10,688
+you just don't really use it.
+
+532
+00:14:08,548 --> 00:14:10,688
+你基本上不会使用它。
+
+533
+00:14:10,688 --> 00:14:14,328
+Like, you don't really wanna use this button at all.
+
+534
+00:14:10,688 --> 00:14:14,328
+就是说，你根本不想使用这个按键。
+
+535
+00:14:14,328 --> 00:14:16,448
+I don't really see a use for it right now
+
+536
+00:14:14,328 --> 00:14:16,448
+现在我还没看出它的用途
+
+537
+00:14:16,448 --> 00:14:19,468
+so I would say just dead that.
+
+538
+00:14:16,448 --> 00:14:19,468
+所以我建议直接放弃它。
+
+539
+00:14:19,468 --> 00:14:22,068
+Next button we are gonna go over, which I also forgot about
+
+540
+00:14:19,468 --> 00:14:22,068
+接下来我们要讲的按钮，这个我之前也忘记提到
+
+541
+00:14:22,068 --> 00:14:24,248
+is the back heavy kick.
+
+542
+00:14:22,068 --> 00:14:24,248
+是后面的重踢。
+
+543
+00:14:24,248 --> 00:14:29,768
+This button is pretty much gonna be used as a combo in just combos
+
+544
+00:14:24,248 --> 00:14:29,768
+这个按钮基本上只会用于连招中
+
+545
+00:14:29,768 --> 00:14:33,388
+like, do stuff like this, you know?
+
+546
+00:14:29,768 --> 00:14:33,388
+就像，做这种事情，你懂的？
+
+547
+00:14:33,388 --> 00:14:35,368
+But we're gonna go over all the combos later
+
+548
+00:14:33,388 --> 00:14:35,368
+我们稍后会详细讲解所有连招
+
+549
+00:14:35,368 --> 00:14:37,738
+so don't even think about this button.
+
+550
+00:14:35,368 --> 00:14:37,738
+所以根本不要考虑这个按键。
+
+551
+00:14:37,738 --> 00:14:40,938
+This is not used in the neutral or anything at all.
+
+552
+00:14:37,738 --> 00:14:40,938
+这个按键在中立位或其他任何情况下都不会使用。
+
+553
+00:14:40,938 --> 00:14:42,788
+Maybe you could use it to anti-air with.
+
+554
+00:14:40,938 --> 00:14:42,788
+或许你可以用它来防空。
+
+555
+00:14:42,788 --> 00:14:46,028
+I think it's a pretty decent-ish anti-air.
+
+556
+00:14:42,788 --> 00:14:46,028
+我觉得这是一个相当不错的防空招式。
+
+557
+00:14:46,028 --> 00:14:52,548
+I think it's a pretty decent anti-air, but you do have to wait a bit to do it.
+
+558
+00:14:46,028 --> 00:14:52,548
+我认为这是一个相当不错的防空招式，但你确实需要稍等片刻才能施展。
+
+559
+00:14:52,548 --> 00:14:54,228
+You can't just do it when they jump
+
+560
+00:14:52,548 --> 00:14:54,228
+你不能只是在对方跳跃时就这么做
+
+561
+00:14:54,228 --> 00:14:55,248
+like, or that will happen.
+
+562
+00:14:54,228 --> 00:14:55,248
+比如说，否则就会发生那种情况。
+
+563
+00:14:55,248 --> 00:14:57,288
+You have to wait a bit.
+
+564
+00:14:55,248 --> 00:14:57,288
+你必须稍微等一下。
+
+565
+00:14:57,288 --> 00:15:00,428
+And you could get some pretty cool combos.
+
+566
+00:14:57,288 --> 00:15:00,428
+你可以得到一些相当酷的连招。
+
+567
+00:15:00,428 --> 00:15:03,248
+I don't recommend trying it too often.
+
+568
+00:15:00,428 --> 00:15:03,248
+我不建议经常尝试这个。
+
+569
+00:15:03,248 --> 00:15:06,317
+It's very inconsistent for me.
+
+570
+00:15:03,248 --> 00:15:06,317
+对我来说这非常不稳定。
+
+571
+00:15:06,317 --> 00:15:09,408
+But it can be good if you somehow master it.
+
+572
+00:15:06,317 --> 00:15:09,408
+但如果你能以某种方式掌握它，它可能会很有用。
+
+573
+00:15:09,408 --> 00:15:14,928
+You could be doing big damage off of the anti-air.
+
+574
+00:15:09,408 --> 00:15:14,928
+你可以从对空招式中造成大量伤害。
+
+575
+00:15:14,928 --> 00:15:19,448
+Got a whole lot of options you can explore
+
+576
+00:15:14,928 --> 00:15:19,448
+你有很多可以探索的选择
+
+577
+00:15:19,448 --> 00:15:20,788
+you know?
+
+578
+00:15:19,448 --> 00:15:20,788
+你知道吗？
+
+579
+00:15:20,788 --> 00:15:23,408
+So, yeah, I would say, if you want
+
+580
+00:15:20,788 --> 00:15:23,408
+所以，是的，我想说，如果你想
+
+581
+00:15:23,408 --> 00:15:24,968
+you can try to anti-air with this button.
+
+582
+00:15:23,408 --> 00:15:24,968
+你可以尝试用这个按钮防空。
+
+583
+00:15:24,968 --> 00:15:30,097
+I would not recommend it, but it is possible if you get that timing down really well.
+
+584
+00:15:24,968 --> 00:15:30,097
+我不建议这样做，但如果你能非常准确地把握时机，也是可行的。
+
+585
+00:15:30,097 --> 00:15:33,928
+Next button we are going to go over will be her back medium punch
+
+586
+00:15:30,097 --> 00:15:33,928
+接下来我们要讲的按键是她的后中拳
+
+587
+00:15:33,928 --> 00:15:37,268
+which is also, I would say, a pretty decent anti-air.
+
+588
+00:15:33,928 --> 00:15:37,268
+我可以说，这也是一个相当不错的防空招式。
+
+589
+00:15:37,268 --> 00:15:39,168
+But it's a bit hard to use in this game.
+
+590
+00:15:37,268 --> 00:15:39,168
+但在这个游戏中使用起来有点困难。
+
+591
+00:15:39,168 --> 00:15:44,828
+A lot better in Street Fighter V, but still pretty good
+
+592
+00:15:39,168 --> 00:15:44,828
+在街头霸王 V 中要好得多，但仍然相当不错
+
+593
+00:15:44,828 --> 00:15:47,228
+I would say.
+
+594
+00:15:44,828 --> 00:15:47,228
+我可以这么说。
+
+595
+00:15:47,228 --> 00:15:47,595
+You don't.
+
+596
+00:15:47,228 --> 00:15:47,595
+你不会的。
+
+597
+00:15:47,595 --> 00:15:47,678
+..
+
+598
+00:15:47,595 --> 00:15:47,678
+..
+
+599
+00:15:47,678 --> 00:15:52,028
+Ooh, you can actually get the side switch mix-up like Street Fighter V.
+
+600
+00:15:47,678 --> 00:15:52,028
+哇，你其实可以像在《街头霸王 5》中那样获得侧身转换混合攻击。
+
+601
+00:15:52,028 --> 00:15:57,288
+Hmm, low-key, I might try to start using this a bit more.
+
+602
+00:15:52,028 --> 00:15:57,288
+嗯，低调地说，我可能会尝试更多地使用这个。
+
+603
+00:15:57,288 --> 00:16:03,228
+I don't actually use this, ever, 'cause you can probably get the side switch mix-up into.
+
+604
+00:15:57,288 --> 00:16:03,228
+我实际上从不使用这个，因为你可能可以进行侧面切换的混合攻击。
+
+605
+00:16:03,228 --> 00:16:03,317
+..
+
+606
+00:16:03,228 --> 00:16:03,317
+..
+
+607
+00:16:03,317 --> 00:16:04,746
+Uh.
+
+608
+00:16:03,317 --> 00:16:04,746
+呃。
+
+609
+00:16:04,746 --> 00:16:05,638
+..
+
+610
+00:16:04,746 --> 00:16:05,638
+..
+
+611
+00:16:05,638 --> 00:16:09,208
+Yeah.
+
+612
+00:16:05,638 --> 00:16:09,208
+是的。
+
+613
+00:16:09,208 --> 00:16:11,014
+And sometimes it'll stay on the.
+
+614
+00:16:09,208 --> 00:16:11,014
+有时候它会停留在那里。
+
+615
+00:16:11,014 --> 00:16:11,078
+..
+
+616
+00:16:11,014 --> 00:16:11,078
+..
+
+617
+00:16:11,078 --> 00:16:11,528
+Ah.
+
+618
+00:16:11,078 --> 00:16:11,528
+啊。
+
+619
+00:16:11,528 --> 00:16:13,528
+So, maybe I'll start using that a bit more.
+
+620
+00:16:11,528 --> 00:16:13,528
+那么，也许我会稍微多用这招。
+
+621
+00:16:13,528 --> 00:16:15,228
+I usually just do DP, of course
+
+622
+00:16:13,528 --> 00:16:15,228
+我当然通常就使用龙拳
+
+623
+00:16:15,228 --> 00:16:16,428
+as the anti-air.
+
+624
+00:16:15,228 --> 00:16:16,428
+作为防空招式。
+
+625
+00:16:16,428 --> 00:16:20,188
+But back medium punch, you pretty much use this as an anti-air
+
+626
+00:16:16,428 --> 00:16:20,188
+但是后方中拳，你基本上把这招用作防空招式
+
+627
+00:16:20,188 --> 00:16:24,338
+and you would use it in combos like that
+
+628
+00:16:20,188 --> 00:16:24,338
+并且你会在连招中这样使用
+
+629
+00:16:24,338 --> 00:16:25,108
+of course.
+
+630
+00:16:24,338 --> 00:16:25,108
+当然。
+
+631
+00:16:25,108 --> 00:16:27,808
+You can do that.
+
+632
+00:16:25,108 --> 00:16:27,808
+你可以这样做。
+
+633
+00:16:27,808 --> 00:16:29,548
+Things like that, but we'll go over that later.
+
+634
+00:16:27,808 --> 00:16:29,548
+这类事情，我们稍后会详细讨论。
+
+635
+00:16:29,548 --> 00:16:32,958
+So, this is pretty much just an anti-air if you wanna use it in neutral.
+
+636
+00:16:29,548 --> 00:16:32,958
+所以，如果你想在中立位置使用，这基本上就是一种防空招式。
+
+637
+00:16:32,958 --> 00:16:35,758
+You don't really, you know, throw this button out at all.
+
+638
+00:16:32,958 --> 00:16:35,758
+你根本不会，你知道，随意使用这个按钮。
+
+639
+00:16:35,758 --> 00:16:37,248
+So, this would just be an anti-air.
+
+640
+00:16:35,758 --> 00:16:37,248
+所以，这只是一个防空招。
+
+641
+00:16:37,248 --> 00:16:40,048
+Pretty fast five-frame button.
+
+642
+00:16:37,248 --> 00:16:40,048
+相当快的五帧按钮。
+
+643
+00:16:40,048 --> 00:16:44,378
+The last button we are gonna go over is her crouching fierce.
+
+644
+00:16:40,048 --> 00:16:44,378
+我们要讲解的最后一个按键是她的蹲姿重拳。
+
+645
+00:16:44,378 --> 00:16:47,178
+This button is pretty much gives you the good combos
+
+646
+00:16:44,378 --> 00:16:47,178
+这个按键基本上能给你提供不错的连招
+
+647
+00:16:47,178 --> 00:16:49,458
+and it's also her only plus frame button.
+
+648
+00:16:47,178 --> 00:16:49,458
+而且这是她唯一的正帧按键。
+
+649
+00:16:49,458 --> 00:16:52,398
+If you know anything about the game right now
+
+650
+00:16:49,458 --> 00:16:52,398
+如果你现在对这个游戏有所了解
+
+651
+00:16:52,398 --> 00:16:56,448
+you know every character pretty much has one plus frame button
+
+652
+00:16:52,398 --> 00:16:56,448
+你就知道几乎每个角色都有一个帧优按键
+
+653
+00:16:56,448 --> 00:16:59,468
+besides maybe two or three characters in the game.
+
+654
+00:16:56,448 --> 00:16:59,468
+除了可能游戏中的两三个角色。
+
+655
+00:16:59,468 --> 00:17:01,428
+And Cammy's is her crouching heavy punch.
+
+656
+00:16:59,468 --> 00:17:01,428
+而对于凯米来说，这是她的蹲下重拳。
+
+657
+00:17:01,428 --> 00:17:06,448
+So, a lot of times you wanna start pressure with this after a knockdown.
+
+658
+00:17:01,428 --> 00:17:06,448
+所以，很多时候你想在击倒对手后用这招开始施压。
+
+659
+00:17:06,448 --> 00:17:10,887
+It is plus one, so if someone do try to mash their fastest button
+
+660
+00:17:06,448 --> 00:17:10,887
+这一招是加一帧的，所以如果对方尝试使用他们最快的按键
+
+661
+00:17:10,887 --> 00:17:12,358
+which is Jamie's, what?
+
+662
+00:17:10,887 --> 00:17:12,358
+这是杰米的什么来着？
+
+663
+00:17:12,358 --> 00:17:14,268
+Crouching jab, I think.
+
+664
+00:17:12,358 --> 00:17:14,268
+我想是下蹲轻拳。
+
+665
+00:17:14,268 --> 00:17:15,988
+Boom.
+
+666
+00:17:14,268 --> 00:17:15,988
+轰！
+
+667
+00:17:15,988 --> 00:17:17,406
+And as you can see, it counter hits.
+
+668
+00:17:15,988 --> 00:17:17,406
+正如你所看到的，这是一个反击。
+
+669
+00:17:17,406 --> 00:17:22,948
+Obviously, you cannot do, like, fierce into fierce or fierce into medium punch.
+
+670
+00:17:17,406 --> 00:17:22,948
+很明显，你不能像是重拳打重拳，或者重拳打中拳。
+
+671
+00:17:22,948 --> 00:17:33,178
+So, yeah, this is pretty much gonna be your go-to frame trap if you see people mashing.
+
+672
+00:17:22,948 --> 00:17:33,178
+所以，如果你看到对方乱按键，这基本上就是你的连招陷阱。
+
+673
+00:17:33,178 --> 00:17:34,034
+But then if.
+
+674
+00:17:33,178 --> 00:17:34,034
+但是如果。
+
+675
+00:17:34,034 --> 00:17:34,158
+..
+
+676
+00:17:34,034 --> 00:17:34,158
+..
+
+677
+00:17:34,158 --> 00:17:36,148
+Once you s- got them stopped to mashing
+
+678
+00:17:34,158 --> 00:17:36,148
+一旦你阻止了他们乱按按键
+
+679
+00:17:36,148 --> 00:17:38,868
+of course you could do things like crouch fierce
+
+680
+00:17:36,148 --> 00:17:38,868
+当然，你可以做一些像蹲下重拳这样的操作
+
+681
+00:17:38,868 --> 00:17:41,458
+walk up throw, crouch fierce, crouch fierce.
+
+682
+00:17:38,868 --> 00:17:41,458
+走位投掷，蹲下重拳，蹲下重拳。
+
+683
+00:17:41,458 --> 00:17:43,408
+You can start doing crouch fierce jab.
+
+684
+00:17:41,458 --> 00:17:43,408
+你可以开始使用蹲下重拳轻拳。
+
+685
+00:17:43,408 --> 00:17:52,058
+You know, all type of frame traps start opening up once your opponents start respecting that you will do the stand jab counter hit combo right there.
+
+686
+00:17:43,408 --> 00:17:52,058
+你知道，一旦对手开始尊重你的站立轻拳反击连招，各种帧陷阱就会开始出现。
+
+687
+00:17:52,058 --> 00:17:59,788
+So, yeah, that is gonna pretty much be your go-to button to get your frame traps off.
+
+688
+00:17:52,058 --> 00:17:59,788
+所以，这基本上就是你用来设置帧陷阱的按键。
+
+689
+00:17:59,788 --> 00:18:04,200
+So, the next thing we want to go over is her special move.
+
+690
+00:17:59,788 --> 00:18:04,200
+接下来我们要讨论她的特殊招式。
+
+691
+00:18:04,200 --> 00:18:07,153
+She does have quite a few special moves and different versions.
+
+692
+00:18:04,200 --> 00:18:07,153
+她确实有很多特殊招式和不同的版本。
+
+693
+00:18:07,153 --> 00:18:10,374
+And the first one we're gonna go over is going to be
+
+694
+00:18:07,153 --> 00:18:10,374
+我们首先要讨论的是
+
+695
+00:18:10,374 --> 00:18:15,224
+of course, her classic Spiral Arrow, which in this game
+
+696
+00:18:10,374 --> 00:18:15,224
+当然是她的经典螺旋箭，在这款游戏中
+
+697
+00:18:15,224 --> 00:18:19,344
+actually has more uses than just combos, I would say.
+
+698
+00:18:15,224 --> 00:18:19,344
+我认为它的用途不仅仅局限于连招。
+
+699
+00:18:19,344 --> 00:18:22,104
+One really good use is, look at this
+
+700
+00:18:19,344 --> 00:18:22,104
+一个非常好的用途是，看看这个
+
+701
+00:18:22,104 --> 00:18:23,704
+you see it's only minus one.
+
+702
+00:18:22,104 --> 00:18:23,704
+你会发现它只差一。
+
+703
+00:18:23,704 --> 00:18:25,164
+You can space it out pretty well.
+
+704
+00:18:23,704 --> 00:18:25,164
+你可以很好地将它分散开。
+
+705
+00:18:25,164 --> 00:18:29,744
+You can even space out the heavy version to be minus one also.
+
+706
+00:18:25,164 --> 00:18:29,744
+你甚至可以将重拳版本设置为减一。
+
+707
+00:18:29,744 --> 00:18:31,884
+Medium version, uh, made at minus one.
+
+708
+00:18:29,744 --> 00:18:31,884
+中等版本，在减一的情况下。
+
+709
+00:18:31,884 --> 00:18:33,424
+You can make it minus one, minus two
+
+710
+00:18:31,884 --> 00:18:33,424
+你可以将其设置为减一，减二
+
+711
+00:18:33,424 --> 00:18:34,884
+it's all very good.
+
+712
+00:18:33,424 --> 00:18:34,884
+这一切都非常不错。
+
+713
+00:18:34,884 --> 00:18:41,784
+And it could catch your opponent off-guard walking forward since it is a fast moving move.
+
+714
+00:18:34,884 --> 00:18:41,784
+而且由于这是一个快速移动的招式，它可能会让你的对手在向前走的时候措手不及。
+
+715
+00:18:41,784 --> 00:18:43,944
+So you can actually just get your opponent
+
+716
+00:18:41,784 --> 00:18:43,944
+所以你实际上可以直接抓住你的对手
+
+717
+00:18:43,944 --> 00:18:50,384
+catch them walking forward and it's also pretty spaced out so you're not close enough to get grabbed.
+
+718
+00:18:43,944 --> 00:18:50,384
+趁对手向前走位时抓住机会，并且间距也足够大，使你不会处于被抓取的近距离。
+
+719
+00:18:50,384 --> 00:18:53,964
+So you have some freedom to just kinda block for a while
+
+720
+00:18:50,384 --> 00:18:53,964
+所以你有一些自由空间可以暂时防御
+
+721
+00:18:53,964 --> 00:19:00,304
+walk back, or maybe even contest with a button if you think that your opponent's gonna try to go for a big frame trap on you.
+
+722
+00:18:53,964 --> 00:19:00,304
+后退走位，或者如果你认为对手可能会尝试对你使用大幅帧陷阱，甚至可以用一个按键来对抗。
+
+723
+00:19:00,304 --> 00:19:04,913
+So this is, uh, a very good use for Spiral Arrow.
+
+724
+00:19:00,304 --> 00:19:04,913
+这是对螺旋箭很好的运用。
+
+725
+00:19:04,913 --> 00:19:10,104
+And of course, the one always good use is gonna be as a combo ender.
+
+726
+00:19:04,913 --> 00:19:10,104
+当然，它最常见的好用之处就是作为连段结束招式。
+
+727
+00:19:10,104 --> 00:19:13,014
+You know, you wanna end combos with the Spiral Arrow
+
+728
+00:19:10,104 --> 00:19:13,014
+你知道，你想用螺旋箭来结束连段。
+
+729
+00:19:13,014 --> 00:19:17,284
+that's what Cammy's been doing forever at this point.
+
+730
+00:19:13,014 --> 00:19:17,284
+这是 Cammy 一直以来的打法。
+
+731
+00:19:17,284 --> 00:19:22,824
+So yeah, you already know, the Spiral Arrow pretty much good combo ender.
+
+732
+00:19:17,284 --> 00:19:22,824
+是的，你都知道，螺旋箭基本上是很好的连招收招。
+
+733
+00:19:22,824 --> 00:19:25,404
+It always gives you good pressure after.
+
+734
+00:19:22,824 --> 00:19:25,404
+它总能给你带来不错的压制。
+
+735
+00:19:25,404 --> 00:19:29,744
+Next, we're gonna go over is her Cannon Fight
+
+736
+00:19:25,404 --> 00:19:29,744
+接下来我们要讲的是她的炮战技（Cannon Fight）
+
+737
+00:19:29,744 --> 00:19:32,364
+which you already know is Cammy's DP.
+
+738
+00:19:29,744 --> 00:19:32,364
+你已经知道这是 Cammy 的龙拳招式。
+
+739
+00:19:32,364 --> 00:19:37,824
+Also, her pretty much best anti-air.
+
+740
+00:19:32,364 --> 00:19:37,824
+同时也是她最优秀的防空招式。
+
+741
+00:19:37,824 --> 00:19:41,094
+You guarantee, 100% of the time if you do this correctly
+
+742
+00:19:37,824 --> 00:19:41,094
+只要你正确执行，你可以 100%保证
+
+743
+00:19:41,094 --> 00:19:46,304
+it will anti-air your opponent out of the sky and they gonna have to respect you
+
+744
+00:19:41,094 --> 00:19:46,304
+这将会将对手从空中击落，他们必须对你刮目相看
+
+745
+00:19:46,304 --> 00:19:47,004
+you know what I'm saying?
+
+746
+00:19:46,304 --> 00:19:47,004
+你知道我的意思吗？
+
+747
+00:19:47,004 --> 00:19:53,524
+So, definitely something that's always good to learn how to do is DP anti-air.
+
+748
+00:19:47,004 --> 00:19:53,524
+所以，学会如何进行"升龙拳"防空攻击绝对是非常值得的。
+
+749
+00:19:53,524 --> 00:19:56,484
+And also, it's gonna be, of course
+
+750
+00:19:53,524 --> 00:19:56,484
+而且，这将会是，当然
+
+751
+00:19:56,484 --> 00:19:58,644
+just like the Spiral Arrow in the corner
+
+752
+00:19:56,484 --> 00:19:58,644
+就像角落里的螺旋箭一样
+
+753
+00:19:58,644 --> 00:20:07,894
+this is gonna be your go-to probably ender for a lot of combos because you're at least very close and it does more damage than the Spiral Arrow.
+
+754
+00:19:58,644 --> 00:20:07,894
+这可能会成为你很多连招的终结技，因为你至少非常接近目标，而且它比螺旋箭造成更多伤害。
+
+755
+00:20:07,894 --> 00:20:10,254
+So you pretty much start ending your combos in this.
+
+756
+00:20:07,894 --> 00:20:10,254
+所以你基本上会以这招结束连段。
+
+757
+00:20:10,254 --> 00:20:17,464
+It's just mid-screen you don't because Spiral Arrow gives a bit better pressure and you don't sacrifice a lot of
+
+758
+00:20:10,254 --> 00:20:17,464
+只是在中场时，你不会这么做，因为螺旋箭可以带来更好的压制，而且不会牺牲太多
+
+759
+00:20:17,464 --> 00:20:18,504
+a lot of damage.
+
+760
+00:20:17,464 --> 00:20:18,504
+伤害。
+
+761
+00:20:18,504 --> 00:20:22,284
+But we'll go over of course all them combos and that stuff later.
+
+762
+00:20:18,504 --> 00:20:22,284
+但是我们稍后当然会详细介绍所有这些连招和相关内容。
+
+763
+00:20:22,284 --> 00:20:24,474
+But yeah, they pretty much gonna be your go-to
+
+764
+00:20:22,284 --> 00:20:24,474
+但是没错，它们基本上将成为你的首选。
+
+765
+00:20:24,474 --> 00:20:25,704
+your DP.
+
+766
+00:20:24,474 --> 00:20:25,704
+你的反昇拳。
+
+767
+00:20:25,704 --> 00:20:27,844
+Got the charged version is heavy.
+
+768
+00:20:25,704 --> 00:20:27,844
+充能版本的伤害很重。
+
+769
+00:20:27,844 --> 00:20:29,354
+Yeah, I forgot about that.
+
+770
+00:20:27,844 --> 00:20:29,354
+对，我忘记了这一点。
+
+771
+00:20:29,354 --> 00:20:33,124
+In this game, Cammy has charged versions of the special moves where you do the heavy version.
+
+772
+00:20:29,354 --> 00:20:33,124
+在这个游戏中，Cammy 有特殊招式的充能版本，你可以使用重拳版本。
+
+773
+00:20:33,124 --> 00:20:37,184
+You can charge it up for big combos and enders.
+
+774
+00:20:33,124 --> 00:20:37,184
+你可以为大型连段和结束技蓄力。
+
+775
+00:20:37,184 --> 00:20:39,124
+But of course, we'll go over that later.
+
+776
+00:20:37,184 --> 00:20:39,124
+不过当然，我们稍后再详细讨论。
+
+777
+00:20:39,124 --> 00:20:42,944
+These are all pretty much just for combos
+
+778
+00:20:39,124 --> 00:20:42,944
+这些基本上都是为了连段而准备的
+
+779
+00:20:42,944 --> 00:20:43,846
+so.
+
+780
+00:20:42,944 --> 00:20:43,846
+所以。
+
+781
+00:20:43,846 --> 00:20:44,394
+..
+
+782
+00:20:43,846 --> 00:20:44,394
+..
+
+783
+00:20:44,394 --> 00:20:46,224
+The next special move we're gonna go over
+
+784
+00:20:44,394 --> 00:20:46,224
+接下来我们要讲的特殊招式
+
+785
+00:20:46,224 --> 00:20:47,537
+which we had.
+
+786
+00:20:46,224 --> 00:20:47,537
+我们拥有的。
+
+787
+00:20:47,537 --> 00:20:47,734
+..
+
+788
+00:20:47,537 --> 00:20:47,734
+..
+
+789
+00:20:47,734 --> 00:20:49,244
+Let's change the character.
+
+790
+00:20:47,734 --> 00:20:49,244
+让我们更换角色。
+
+791
+00:20:49,244 --> 00:20:53,464
+Oh, it's gonna be our Spin Knuckle
+
+792
+00:20:49,244 --> 00:20:53,464
+哦，这将是我们的旋转拳。
+
+793
+00:20:53,464 --> 00:20:55,948
+which Spin Knuckle has a pretty.
+
+794
+00:20:53,464 --> 00:20:55,948
+这个旋转拳看起来相当不错。
+
+795
+00:20:55,948 --> 00:20:56,104
+..
+
+796
+00:20:55,948 --> 00:20:56,104
+..
+
+797
+00:20:56,104 --> 00:20:58,084
+a lot of good uses for it.
+
+798
+00:20:56,104 --> 00:20:58,084
+它有很多很好的用途。
+
+799
+00:20:58,084 --> 00:20:59,884
+One of the main ones in this game
+
+800
+00:20:58,084 --> 00:20:59,884
+这游戏的主要用途之一
+
+801
+00:20:59,884 --> 00:21:03,804
+they sped it up so it's very fast and it goes through projectiles
+
+802
+00:20:59,884 --> 00:21:03,804
+他们加快了速度，所以非常快，并且可以穿过投射物
+
+803
+00:21:03,804 --> 00:21:06,964
+which is why we have Ryu on the screen.
+
+804
+00:21:03,804 --> 00:21:06,964
+这就是为什么屏幕上有 Ryu。
+
+805
+00:21:06,964 --> 00:21:09,664
+And we're going to just shoot a Hadouken.
+
+806
+00:21:06,964 --> 00:21:09,664
+我们现在要发射一个波动拳。
+
+807
+00:21:09,664 --> 00:21:12,674
+You know, all you people out there who hate Hadouken spammers
+
+808
+00:21:09,664 --> 00:21:12,674
+你们这些讨厌 hadouken 连续施放的玩家们
+
+809
+00:21:12,674 --> 00:21:16,264
+you might consider wanting to play some Cammy because boom
+
+810
+00:21:12,674 --> 00:21:16,264
+或许可以考虑玩一下凯米，因为瞧
+
+811
+00:21:16,264 --> 00:21:17,924
+look at that.
+
+812
+00:21:16,264 --> 00:21:17,924
+就是这样。
+
+813
+00:21:17,924 --> 00:21:22,464
+You can do it on reaction pretty well to all Hadoukens.
+
+814
+00:21:17,924 --> 00:21:22,464
+你可以相当不错地对应所有的波动拳招式。
+
+815
+00:21:22,464 --> 00:21:26,844
+The only fireball I would say that is pretty hard to react to right now is Guile's Sonic Boom.
+
+816
+00:21:22,464 --> 00:21:26,844
+目前我认为唯一比较难对应的能量弹是盖尔的音速炸弹。
+
+817
+00:21:26,844 --> 00:21:30,004
+You can still do it, but it's very hard
+
+818
+00:21:26,844 --> 00:21:30,004
+你仍然可以做到，但是非常困难
+
+819
+00:21:30,004 --> 00:21:31,044
+so.
+
+820
+00:21:30,004 --> 00:21:31,044
+所以。
+
+821
+00:21:31,044 --> 00:21:33,184
+But, and of course, since it's a punish counter
+
+822
+00:21:31,044 --> 00:21:33,184
+但是，当然，因为这是一个惩罚性反击
+
+823
+00:21:33,184 --> 00:21:36,194
+you get a lot of big combos off of this
+
+824
+00:21:33,184 --> 00:21:36,194
+你能获得许多大型连招
+
+825
+00:21:36,194 --> 00:21:38,844
+which we will go over later of course
+
+826
+00:21:36,194 --> 00:21:38,844
+我们稍后会详细介绍这些连招
+
+827
+00:21:38,844 --> 00:21:41,064
+but this is gonna be the main use for this
+
+828
+00:21:38,844 --> 00:21:41,064
+但这将是主要用途
+
+829
+00:21:41,064 --> 00:21:43,994
+it's going to be to get over those projectiles.
+
+830
+00:21:41,064 --> 00:21:43,994
+就是用来躲避那些远程攻击。
+
+831
+00:21:43,994 --> 00:21:48,074
+And let's say you, you're fighting Guile and you don't get over the projectile
+
+832
+00:21:43,994 --> 00:21:48,074
+比如说，你在和盖尔战斗，没能躲过他的远程攻击
+
+833
+00:21:48,074 --> 00:21:48,283
+right?
+
+834
+00:21:48,074 --> 00:21:48,283
+对吧？
+
+835
+00:21:48,283 --> 00:21:49,624
+Let's say you're fighting Guile, right?
+
+836
+00:21:48,283 --> 00:21:49,624
+假设你正在与盖尔战斗，对吧？
+
+837
+00:21:49,624 --> 00:21:54,644
+And you wanna go over the fireball, maybe you're a bit too late.
+
+838
+00:21:49,624 --> 00:21:54,644
+你想要越过他的 fireball，但可能时机有点晚了。
+
+839
+00:21:54,644 --> 00:21:57,044
+It's pretty hard, he blocks it.
+
+840
+00:21:54,644 --> 00:21:57,044
+这很困难，他成功格挡了。
+
+841
+00:21:57,044 --> 00:21:58,244
+Look at that.
+
+842
+00:21:57,044 --> 00:21:58,244
+看看这个。
+
+843
+00:21:58,244 --> 00:22:01,524
+You go over it, you're plus three.
+
+844
+00:21:58,244 --> 00:22:01,524
+你越过它，你就处于优势三帧。
+
+845
+00:22:01,524 --> 00:22:04,784
+It is plus three on block, the heavy Spin Knuckle plus three.
+
+846
+00:22:01,524 --> 00:22:04,784
+它在格挡时处于优势三帧，重拳旋拳加三帧。
+
+847
+00:22:04,784 --> 00:22:08,524
+I only really recommend using the heavy, I don't use other Spin Knuckles.
+
+848
+00:22:04,784 --> 00:22:08,524
+我只真正推荐使用重拳旋拳，我不使用其他旋拳。
+
+849
+00:22:08,524 --> 00:22:10,744
+In neutral, pretty much just the heavy one
+
+850
+00:22:08,524 --> 00:22:10,744
+在中性位置，基本上只用重拳
+
+851
+00:22:10,744 --> 00:22:11,864
+plus three on block.
+
+852
+00:22:10,744 --> 00:22:11,864
+并且在格挡时有正 3 帧优势。
+
+853
+00:22:11,864 --> 00:22:15,433
+So Guile cannot contest you in this situation at all.
+
+854
+00:22:11,864 --> 00:22:15,433
+所以盖尔在这种情况下完全无法与你抗衡。
+
+855
+00:22:15,433 --> 00:22:19,144
+If he tries to drive impact, you can drive impact back every time.
+
+856
+00:22:15,433 --> 00:22:19,144
+如果他尝试发动冲击，你可以每次都回击冲击。
+
+857
+00:22:19,144 --> 00:22:25,153
+He cannot jab in this situation because he is still in a bit of recovery from Sonic Boom.
+
+858
+00:22:19,144 --> 00:22:25,153
+因为他还处于音速爆炸（Sonic Boom）的一些恢复状态，所以他无法进行轻拳攻击。
+
+859
+00:22:25,153 --> 00:22:26,704
+So, even if he tries to jab
+
+860
+00:22:25,153 --> 00:22:26,704
+即便他尝试轻拳攻击
+
+861
+00:22:26,704 --> 00:22:30,824
+which we could even set up, it will not work.
+
+862
+00:22:26,704 --> 00:22:30,824
+即使我们能够设置，它也不会起作用。
+
+863
+00:22:30,824 --> 00:22:31,574
+Yup, see?
+
+864
+00:22:30,824 --> 00:22:31,574
+是的，看到了吧？
+
+865
+00:22:31,574 --> 00:22:35,164
+That is a counter hit because he is mashing the jab.
+
+866
+00:22:31,574 --> 00:22:35,164
+这是因为他乱按轻拳，所以被 counter hit 了。
+
+867
+00:22:35,164 --> 00:22:40,164
+And even if you're a bit late, you can get a trade here and get a trade combo
+
+868
+00:22:35,164 --> 00:22:40,164
+即使你稍微晚了一点，你也可以在这里获得一个交易并完成连击
+
+869
+00:22:40,164 --> 00:22:43,204
+but every time you can always get that.
+
+870
+00:22:40,164 --> 00:22:43,204
+但并非每次都能这样做。
+
+871
+00:22:43,204 --> 00:22:45,764
+Maybe a guy will go for a perfect parry
+
+872
+00:22:43,204 --> 00:22:45,764
+也许有人会尝试完美格挡
+
+873
+00:22:45,764 --> 00:22:49,184
+but it is not gonna be a very easy button to perfect parry.
+
+874
+00:22:45,764 --> 00:22:49,184
+但是完美格挡并不是一个容易掌握的技巧。
+
+875
+00:22:49,184 --> 00:22:51,344
+And also, when they are in burnout
+
+876
+00:22:49,184 --> 00:22:51,344
+而且，当他们处于燃烧状态时
+
+877
+00:22:51,344 --> 00:22:55,924
+it is very good, but I'll go over burnout stuff a bit later on in the video.
+
+878
+00:22:51,344 --> 00:22:55,924
+这很不错，但我稍后会在视频中详细介绍燃烧状态的内容。
+
+879
+00:22:55,924 --> 00:22:58,104
+That'll be with the frame traps and all that.
+
+880
+00:22:55,924 --> 00:22:58,104
+那就是关于帧陷阱和所有这些技术。
+
+881
+00:22:58,104 --> 00:22:59,944
+Now we go over to the next special move
+
+882
+00:22:58,104 --> 00:22:59,944
+现在我们转到下一个特殊招式
+
+883
+00:22:59,944 --> 00:23:05,524
+which is gonna be her Hooligan, which is a move a lot of people asking me about and why I don't use.
+
+884
+00:22:59,944 --> 00:23:05,524
+这个招式是她的 Hooligan，很多人都在问我为什么不使用这个招式。
+
+885
+00:23:05,524 --> 00:23:10,204
+I do not right now have any uses for this move.
+
+886
+00:23:05,524 --> 00:23:10,204
+目前我没有找到这个招式的用途。
+
+887
+00:23:10,204 --> 00:23:14,774
+I've not found a good way to use it without it being very risky.
+
+888
+00:23:10,204 --> 00:23:14,774
+我还没有找到一个不太冒险的使用方法。
+
+889
+00:23:14,774 --> 00:23:17,764
+You can, of course, use it to fake out anti-airs with
+
+890
+00:23:14,774 --> 00:23:17,764
+当然，你可以用它来假装对付高空防守
+
+891
+00:23:17,764 --> 00:23:19,944
+you know, this version.
+
+892
+00:23:17,764 --> 00:23:19,944
+你知道，这个版本。
+
+893
+00:23:19,944 --> 00:23:24,264
+You can charge it up, you get a lot of good plus frames and combos.
+
+894
+00:23:19,944 --> 00:23:24,264
+你可以蓄力，可以获得很多好的正帧优势和连招。
+
+895
+00:23:24,264 --> 00:23:34,104
+But for me personally, it is very easy to hit out the air and they have a new juggle system in this game where if you get hit out of a special move in the air
+
+896
+00:23:24,264 --> 00:23:34,104
+但对我个人来说，很容易在空中被击中，而且他们在这个游戏中有一个新的浮空击打系统，如果你在空中被特殊招式击中
+
+897
+00:23:34,104 --> 00:23:39,324
+you will take a lot of combo damage if your opponent has the big combo.
+
+898
+00:23:34,104 --> 00:23:39,324
+如果对手有大型连击，你将承受大量连击伤害
+
+899
+00:23:39,324 --> 00:23:42,434
+So, in high level, you get anti-aired here
+
+900
+00:23:39,324 --> 00:23:42,434
+所以在高水平对局中，你会在这里被防空
+
+901
+00:23:42,434 --> 00:23:44,984
+they're gonna do a full combo that might take about 30
+
+902
+00:23:42,434 --> 00:23:44,984
+他们将执行一套可能造成约 30 点伤害的全连击
+
+903
+00:23:44,984 --> 00:23:47,364
+40% into more pressure.
+
+904
+00:23:44,984 --> 00:23:47,364
+压力增加 40%。
+
+905
+00:23:47,364 --> 00:23:50,224
+So in my opinion, I'm not a very good
+
+906
+00:23:47,364 --> 00:23:50,224
+所以在我看来，我并不是一个非常好的
+
+907
+00:23:50,224 --> 00:23:54,064
+very big fan of the Hooligan yet.
+
+908
+00:23:50,224 --> 00:23:54,064
+现在还不是很喜欢 Hooligan。
+
+909
+00:23:54,064 --> 00:23:56,404
+Maybe some people will figure out uses on it
+
+910
+00:23:54,064 --> 00:23:56,404
+也许有些人会找出它的用途
+
+911
+00:23:56,404 --> 00:23:59,124
+but for us in this video right now
+
+912
+00:23:56,404 --> 00:23:59,124
+但对于我们现在正在这个视频中的人来说
+
+913
+00:23:59,124 --> 00:24:00,864
+we don't have a use for it.
+
+914
+00:23:59,124 --> 00:24:00,864
+我们暂时没有用处。
+
+915
+00:24:00,864 --> 00:24:07,476
+And I don't think it is a very big thing that you need right now with Cammy.
+
+916
+00:24:00,864 --> 00:24:07,476
+对于 Cammy 来说，我不认为这是现在你需要的一个非常重要的东西。
+
+917
+00:24:07,476 --> 00:24:12,072
+So, I do think it's okay that even if we don't go over it right now
+
+918
+00:24:07,476 --> 00:24:12,072
+所以，我认为即使我们现在不详细讨论，也是可以的
+
+919
+00:24:12,072 --> 00:24:14,012
+we don't have any use.
+
+920
+00:24:12,072 --> 00:24:14,012
+我们没有任何用途。
+
+921
+00:24:14,012 --> 00:24:17,572
+I don't think it's extremely necessary that she has to use it.
+
+922
+00:24:14,012 --> 00:24:17,572
+我不认为她必须使用这个技能。
+
+923
+00:24:17,572 --> 00:24:19,192
+Am I missing any special move?
+
+924
+00:24:17,572 --> 00:24:19,192
+我是不是遗漏了什么特殊招式？
+
+925
+00:24:19,192 --> 00:24:21,112
+Oh, divekick.
+
+926
+00:24:19,192 --> 00:24:21,112
+哦，跳踢。
+
+927
+00:24:21,112 --> 00:24:27,492
+Cammy's biggest, most hated special move if you're a competitor is going to be her divekick
+
+928
+00:24:21,112 --> 00:24:27,492
+Cammy 最令对手厌恶的特殊技能，如果你是一个竞技选手，那就是她的下斜踢
+
+929
+00:24:27,492 --> 00:24:32,012
+which is always a very good tool for pressure.
+
+930
+00:24:27,492 --> 00:24:32,012
+这是一个非常好的施压工具。
+
+931
+00:24:32,012 --> 00:24:35,242
+You space it out really well, you can make it plus one block as you see
+
+932
+00:24:32,012 --> 00:24:35,242
+你很好地控制间距，你可以让它在格挡时获得+1 帧优势
+
+933
+00:24:35,242 --> 00:24:40,492
+plus two, make it zero one block and even if you mess it up a bit right there
+
+934
+00:24:35,242 --> 00:24:40,492
+加两个，让它成为零一块，即使你在那里稍微出错
+
+935
+00:24:40,492 --> 00:24:42,552
+that is minus five.
+
+936
+00:24:40,492 --> 00:24:42,552
+那是负五。
+
+937
+00:24:42,552 --> 00:24:44,252
+You don't wanna do it in those ranges
+
+938
+00:24:42,552 --> 00:24:44,252
+你不想在那些范围内做
+
+939
+00:24:44,252 --> 00:24:46,012
+like, here is bad.
+
+940
+00:24:44,252 --> 00:24:46,012
+这里不太好。
+
+941
+00:24:46,012 --> 00:24:50,712
+You always wanna get it a little bit to where it's touching the toes.
+
+942
+00:24:46,012 --> 00:24:50,712
+你总是想把它调整到轻微接触脚趾的位置。
+
+943
+00:24:50,712 --> 00:24:51,638
+You wanna get it to this.
+
+944
+00:24:50,712 --> 00:24:51,638
+你要把它调整到这个位置。
+
+945
+00:24:51,638 --> 00:24:51,721
+..
+
+946
+00:24:51,638 --> 00:24:51,721
+..
+
+947
+00:24:51,721 --> 00:24:52,472
+You know what I'm saying?
+
+948
+00:24:51,721 --> 00:24:52,472
+你明白我的意思吗？
+
+949
+00:24:52,472 --> 00:24:54,892
+Low, the lower that the divekick make them block
+
+950
+00:24:52,472 --> 00:24:54,892
+低的，被迫格挡的分水踢高度越低越好。
+
+951
+00:24:54,892 --> 00:24:55,952
+the better.
+
+952
+00:24:54,892 --> 00:24:55,952
+这就是分水踢的规则。
+
+953
+00:24:55,952 --> 00:24:57,912
+That's the rule here with divekick.
+
+954
+00:24:55,952 --> 00:24:57,912
+就是这样。
+
+955
+00:24:57,912 --> 00:24:59,232
+The lower they block, the better.
+
+956
+00:24:57,912 --> 00:24:59,232
+他们阻挡得越低越好。
+
+957
+00:24:59,232 --> 00:25:00,412
+It's plus on blocking.
+
+958
+00:24:59,232 --> 00:25:00,412
+这是阻挡时有利的。
+
+959
+00:25:00,412 --> 00:25:02,192
+Even if you do it at these ranges
+
+960
+00:25:00,412 --> 00:25:02,192
+即使在这些距离使用
+
+961
+00:25:02,192 --> 00:25:06,992
+on hit you get big combos like crouch strong.
+
+962
+00:25:02,192 --> 00:25:06,992
+击中时，你可以获得像下蹲重拳那样的大连招
+
+963
+00:25:06,992 --> 00:25:11,032
+If you land it a little closer, you can always get the jabs
+
+964
+00:25:06,992 --> 00:25:11,032
+如果你稍微靠近一点落地，你总能打出连续轻拳
+
+965
+00:25:11,032 --> 00:25:11,652
+of course.
+
+966
+00:25:11,032 --> 00:25:11,652
+当然。
+
+967
+00:25:11,652 --> 00:25:13,112
+Those are always trustworthy.
+
+968
+00:25:11,652 --> 00:25:13,112
+这些招式总是值得信赖的
+
+969
+00:25:13,112 --> 00:25:15,292
+If you land it and you're not sure.
+
+970
+00:25:13,112 --> 00:25:15,292
+如果你命中了，但不确定。
+
+971
+00:25:15,292 --> 00:25:20,032
+But you do wanna make sure you practice your divekicks with Cammy.
+
+972
+00:25:15,292 --> 00:25:20,032
+但你确实需要确保练习好 Cammy 的跳踢。
+
+973
+00:25:20,032 --> 00:25:25,912
+It's gonna be a big way to start pressure and it's very hard to react to in anti-air
+
+974
+00:25:20,032 --> 00:25:25,912
+这将是开始施压的重要方式，并且很难对其进行防空反应
+
+975
+00:25:25,912 --> 00:25:29,762
+so people tend to block it a lot more when they do anti-air it.
+
+976
+00:25:25,912 --> 00:25:29,762
+因此当他们用防空招式对抗时，人们往往会更多地选择格挡。
+
+977
+00:25:29,762 --> 00:25:31,972
+Just don't get too predictable with it, of course
+
+978
+00:25:29,762 --> 00:25:31,972
+当然，不要变得太过可预测
+
+979
+00:25:31,972 --> 00:25:35,492
+and just start spamming it eight times, ten times in a row.
+
+980
+00:25:31,972 --> 00:25:35,492
+并且不要一下子就连续重复八次、十次。
+
+981
+00:25:35,492 --> 00:25:42,972
+Sometimes you might see me do that, but it's because I have a very big read that my opponent is just very scared and they're not gonna do anything.
+
+982
+00:25:35,492 --> 00:25:42,972
+有时候你可能会看到我这样做，这是因为我对对手有很准确的判断，他们非常害怕，不会有任何行动。
+
+983
+00:25:42,972 --> 00:25:45,212
+But, you know, if you don't have that read
+
+984
+00:25:42,972 --> 00:25:45,212
+但是，你要知道，如果你没有这种判断
+
+985
+00:25:45,212 --> 00:25:46,652
+don't try to do that kinda stuff.
+
+986
+00:25:45,212 --> 00:25:46,652
+就不要尝试这种操作。
+
+987
+00:25:46,652 --> 00:25:47,432
+You know what I'm saying?
+
+988
+00:25:46,652 --> 00:25:47,432
+你明白我的意思吗？
+
+989
+00:25:47,432 --> 00:25:53,792
+ But yeah, that's pretty much going to be all of the special moves from Cammy.
+
+990
+00:25:47,432 --> 00:25:53,792
+嗯，这基本上就是 Cammy 的所有特殊招式。
+
+991
+00:25:53,792 --> 00:26:01,992
+Next, we'll go over her supers which you have her level one is going to be this
+
+992
+00:25:53,792 --> 00:26:01,992
+接下来，我们将讨论她的必杀技，她的一级必杀技将是这个
+
+993
+00:26:01,992 --> 00:26:07,882
+which is pretty much gonna be a combo ender for big damage and
+
+994
+00:26:01,992 --> 00:26:07,882
+这基本上是一个可以造成大量伤害的连招终结技
+
+995
+00:26:07,882 --> 00:26:09,831
+also, if you're very close to burnout
+
+996
+00:26:07,882 --> 00:26:09,831
+另外，如果你接近精疲力尽的状态
+
+997
+00:26:09,831 --> 00:26:14,232
+you can end combos with this to get that last bit of bar down and burn them out.
+
+998
+00:26:09,831 --> 00:26:14,232
+你可以用这招结束连击，最后一点血条也能消耗干净，让对手也接近崩溃。
+
+999
+00:26:14,232 --> 00:26:17,071
+It does not go through projectiles or anything
+
+1000
+00:26:14,232 --> 00:26:17,071
+这招无法穿过投射物或其他类似攻击
+
+1001
+00:26:17,071 --> 00:26:25,482
+so you are really pretty much be using this as a main combo ender to close out a round or to burn your opponent out.
+
+1002
+00:26:17,071 --> 00:26:25,482
+所以你会主要使用这招作为组合技的结束，来决出一局或消耗掉对手。
+
+1003
+00:26:25,482 --> 00:26:29,042
+Or even sometimes I like to use it if my opponent has about
+
+1004
+00:26:25,482 --> 00:26:29,042
+有时候我也喜欢在对手处于
+
+1005
+00:26:29,042 --> 00:26:31,202
+let's say, even if they have, like
+
+1006
+00:26:29,042 --> 00:26:31,202
+比方说，即便他们有
+
+1007
+00:26:31,202 --> 00:26:35,572
+about one, one bar.
+
+1008
+00:26:31,202 --> 00:26:35,572
+关于一个，一个条。
+
+1009
+00:26:35,572 --> 00:26:39,632
+It doesn't do a full bar, but it puts 'em pretty close to burnout
+
+1010
+00:26:35,572 --> 00:26:39,632
+它没有填满一整个条，但已经让对手接近耗尽
+
+1011
+00:26:39,632 --> 00:26:44,072
+so next situation I could probably make them burnout on block with some pressure
+
+1012
+00:26:39,632 --> 00:26:44,072
+所以在下一个情况中，我可能通过施加压力让对手在格挡时耗尽能量
+
+1013
+00:26:44,072 --> 00:26:47,831
+so I do think that is pretty good.
+
+1014
+00:26:44,072 --> 00:26:47,831
+我觉得这还是不错的。
+
+1015
+00:26:47,831 --> 00:26:51,702
+I mean, overdrive specials from Cammy aren't really that good
+
+1016
+00:26:47,831 --> 00:26:51,702
+我是说，Cammy 的过载特殊招式其实并不怎么样
+
+1017
+00:26:51,702 --> 00:26:52,142
+honestly.
+
+1018
+00:26:51,702 --> 00:26:52,142
+说实话。
+
+1019
+00:26:52,142 --> 00:26:55,402
+Her EX special moves aren't very good, I would say.
+
+1020
+00:26:52,142 --> 00:26:55,402
+我觉得她的 EX 特殊招式不是很好。
+
+1021
+00:26:55,402 --> 00:26:58,672
+All her EX special moves are just where you can charge 'em up.
+
+1022
+00:26:55,402 --> 00:26:58,672
+她所有的 EX 特殊招式基本上都是可以蓄力的。
+
+1023
+00:26:58,672 --> 00:27:02,492
+They pretty much just combo enders, just like the charged version.
+
+1024
+00:26:58,672 --> 00:27:02,492
+它们基本上就是连段结束技，就像蓄力版本一样。
+
+1025
+00:27:02,492 --> 00:27:04,692
+They're just the charged version, just combo enders.
+
+1026
+00:27:02,492 --> 00:27:04,692
+它们只是蓄力版本，仅作连招结束技。
+
+1027
+00:27:04,692 --> 00:27:07,612
+But yeah, that's gonna be the first super.
+
+1028
+00:27:04,692 --> 00:27:07,612
+不过是的，那将是第一个必杀技。
+
+1029
+00:27:07,612 --> 00:27:11,032
+Pretty much just a combo ender or the burnout situation
+
+1030
+00:27:07,612 --> 00:27:11,032
+基本上只是用于连招结束或过热状态
+
+1031
+00:27:11,032 --> 00:27:12,232
+like I stated.
+
+1032
+00:27:11,032 --> 00:27:12,232
+正如我之前说的。
+
+1033
+00:27:12,232 --> 00:27:16,352
+And next one is gonna be her level two super
+
+1034
+00:27:12,232 --> 00:27:16,352
+下一个是她的二级必杀技
+
+1035
+00:27:16,352 --> 00:27:18,732
+which this super has a pretty decent amount of use.
+
+1036
+00:27:16,352 --> 00:27:18,732
+这个必杀技有相当不错的实用性。
+
+1037
+00:27:18,732 --> 00:27:21,352
+Can even go through fireballs sometimes.
+
+1038
+00:27:18,732 --> 00:27:21,352
+有时甚至可以穿过火球。
+
+1039
+00:27:21,352 --> 00:27:23,412
+Pretty hard, probably would never get through a Sonic Boom
+
+1040
+00:27:21,352 --> 00:27:23,412
+相当困难，可能永远无法穿过音速 boom
+
+1041
+00:27:23,412 --> 00:27:25,572
+but we can see.
+
+1042
+00:27:23,412 --> 00:27:25,572
+但我们可以看看。
+
+1043
+00:27:25,572 --> 00:27:31,212
+When you're close enough, you have to do it from pretty close range.
+
+1044
+00:27:25,572 --> 00:27:31,212
+当你离得足够近时，必须在非常近的距离执行。
+
+1045
+00:27:31,212 --> 00:27:32,612
+Charge acquired.
+
+1046
+00:27:31,212 --> 00:27:32,612
+充能完成。
+
+1047
+00:27:32,612 --> 00:27:33,112
+Oh, look.
+
+1048
+00:27:32,612 --> 00:27:33,112
+哦，看这里。
+
+1049
+00:27:33,112 --> 00:27:35,092
+See, it actually punishes her.
+
+1050
+00:27:33,112 --> 00:27:35,092
+看，这实际上惩罚了她。
+
+1051
+00:27:35,092 --> 00:27:36,442
+Charge acquired.
+
+1052
+00:27:35,092 --> 00:27:36,442
+充能完成。
+
+1053
+00:27:36,442 --> 00:27:36,442
+Charge acquired.
+
+1054
+00:27:36,442 --> 00:27:36,442
+充能完成。
+
+1055
+00:27:36,442 --> 00:27:37,912
+But you cannot do it from, like
+
+1056
+00:27:36,442 --> 00:27:37,912
+但你不能像那样做
+
+1057
+00:27:37,912 --> 00:27:39,972
+back here, let's say.
+
+1058
+00:27:37,912 --> 00:27:39,972
+回到这里，我们就说。
+
+1059
+00:27:39,972 --> 00:27:43,192
+Boom, you're gonna get smacked, so you gotta be kinda in her face.
+
+1060
+00:27:39,972 --> 00:27:43,192
+轰隆一声，你就要挨揍了，所以你必须得贴近她。
+
+1061
+00:27:43,192 --> 00:27:43,911
+Charge acquired.
+
+1062
+00:27:43,192 --> 00:27:43,911
+电荷已获得。
+
+1063
+00:27:43,911 --> 00:27:44,342
+Charge acquired.
+
+1064
+00:27:43,911 --> 00:27:44,342
+电荷已获得。
+
+1065
+00:27:44,342 --> 00:27:46,732
+And you can get a punish on the Sonic Boom.
+
+1066
+00:27:44,342 --> 00:27:46,732
+而且你可以对音速气功弹进行惩罚。
+
+1067
+00:27:46,732 --> 00:27:50,752
+Also, it is very good for combo enders when you're gonna kill them and
+
+1068
+00:27:46,732 --> 00:27:50,752
+另外，当你要击败对手时，它非常适合作为连招的结束招式，
+
+1069
+00:27:50,752 --> 00:27:52,392
+of course, if you can put them in burnout.
+
+1070
+00:27:50,752 --> 00:27:52,392
+当然，如果你能让对方进入燃尽状态。
+
+1071
+00:27:52,392 --> 00:27:55,378
+This level twos take about, uh, one and.
+
+1072
+00:27:52,392 --> 00:27:55,378
+这个二级招式大约需要一个和。
+
+1073
+00:27:55,378 --> 00:27:55,542
+..
+
+1074
+00:27:55,378 --> 00:27:55,542
+..
+
+1075
+00:27:55,542 --> 00:28:00,452
+A little bit like one and one-tenth of a drive gauge bar
+
+1076
+00:27:55,542 --> 00:28:00,452
+有点像驾驶条的一又十分之一
+
+1077
+00:28:00,452 --> 00:28:06,542
+so if they have one bar, this is guaranteed to burn them out every single time.
+
+1078
+00:28:00,452 --> 00:28:06,542
+如果他们有一个条，这招绝对能每次都耗光他们的条。
+
+1079
+00:28:06,542 --> 00:28:12,412
+And even it has more use, because if you do a air combo
+
+1080
+00:28:06,542 --> 00:28:12,412
+而且它还有更多用途，因为如果你做空中连招
+
+1081
+00:28:12,412 --> 00:28:13,578
+you can.
+
+1082
+00:28:12,412 --> 00:28:13,578
+你可以。
+
+1083
+00:28:13,578 --> 00:28:14,022
+..
+
+1084
+00:28:13,578 --> 00:28:14,022
+..
+
+1085
+00:28:14,022 --> 00:28:22,962
+If you hit someone in the air, you can actually combo into this and it has a different property where you can get a combo ender like the DP
+
+1086
+00:28:14,022 --> 00:28:22,962
+如果你击中空中的对手，你实际上可以接连攻击，并且这个技能有不同的属性，你可以通过这种方式获得连招结束技，比如龙拳（DP）。
+
+1087
+00:28:22,962 --> 00:28:26,492
+but we'll go over the combo enders later for this super.
+
+1088
+00:28:22,962 --> 00:28:26,492
+但是我们稍后会详细讲解这个必杀技的连招结束技。
+
+1089
+00:28:26,492 --> 00:28:27,072
+Charge acquired.
+
+1090
+00:28:26,492 --> 00:28:27,072
+充能完成。
+
+1091
+00:28:27,072 --> 00:28:27,202
+Charge acquired.
+
+1092
+00:28:27,072 --> 00:28:27,202
+充能完成。
+
+1093
+00:28:27,202 --> 00:28:32,692
+But yeah, you can do it in the sky and then you can just do it raw in the air too.
+
+1094
+00:28:27,202 --> 00:28:32,692
+但是是的，你可以在空中进行，然后也可以直接在空中原样执行。
+
+1095
+00:28:32,692 --> 00:28:38,112
+Let's say you saw a S- a Sonic Boom or something and you wanna come down faster
+
+1096
+00:28:32,692 --> 00:28:38,112
+假设你看到了索尼克爆炸或类似的技能，想更快落地
+
+1097
+00:28:38,112 --> 00:28:40,572
+you could do that.
+
+1098
+00:28:38,112 --> 00:28:40,572
+你可以这样做。
+
+1099
+00:28:40,572 --> 00:28:42,952
+But yeah, that's gonna be pretty much the uses for that.
+
+1100
+00:28:40,572 --> 00:28:42,952
+总之，这基本就是这个技能的用途。
+
+1101
+00:28:42,952 --> 00:28:45,652
+And now we have the level three super
+
+1102
+00:28:42,952 --> 00:28:45,652
+现在我们有了三级必杀技
+
+1103
+00:28:45,652 --> 00:28:48,672
+which is my favorite if you know, if you've been watching me
+
+1104
+00:28:45,652 --> 00:28:48,672
+这是我最喜欢的必杀技，如果你知道的话，如果你一直在关注我
+
+1105
+00:28:48,672 --> 00:28:49,682
+I love this super.
+
+1106
+00:28:48,672 --> 00:28:49,682
+我真的很喜欢这个必杀技。
+
+1107
+00:28:49,682 --> 00:28:53,306
+We call it the missile over here, 'cause you listen to it.
+
+1108
+00:28:49,682 --> 00:28:53,306
+我们在这里把它称为导弹，因为你听得到它。
+
+1109
+00:28:53,306 --> 00:28:54,062
+..
+
+1110
+00:28:53,306 --> 00:28:54,062
+..
+
+1111
+00:28:54,062 --> 00:28:54,851
+Bing!
+
+1112
+00:28:54,062 --> 00:28:54,851
+嘭！
+
+1113
+00:28:54,851 --> 00:28:56,632
+You hear this is a missile.
+
+1114
+00:28:54,851 --> 00:28:56,632
+你听到这是一枚导弹。
+
+1115
+00:28:56,632 --> 00:29:03,752
+And just like a missile, it travels very fast and goes across the entire screen
+
+1116
+00:28:56,632 --> 00:29:03,752
+就像导弹一样，它速度非常快，并且穿越整个屏幕
+
+1117
+00:29:03,752 --> 00:29:07,392
+making it so that when your opponent has a fireball
+
+1118
+00:29:03,752 --> 00:29:07,392
+使得当你的对手有一个火球时
+
+1119
+00:29:07,392 --> 00:29:12,847
+they cannot shoot it because pretty much at every range except all the way back here.
+
+1120
+00:29:07,392 --> 00:29:12,847
+他们无法射击，因为在除了最远距离之外的几乎所有距离上都不行。
+
+1121
+00:29:12,847 --> 00:29:12,942
+..
+
+1122
+00:29:12,847 --> 00:29:12,942
+..
+
+1123
+00:29:12,942 --> 00:29:13,542
+Charge acquired.
+
+1124
+00:29:12,942 --> 00:29:13,542
+充能完成。
+
+1125
+00:29:13,542 --> 00:29:14,632
+Charge acquired.
+
+1126
+00:29:13,542 --> 00:29:14,632
+充能完成。
+
+1127
+00:29:14,632 --> 00:29:15,232
+Charge acquired.
+
+1128
+00:29:14,632 --> 00:29:15,232
+充能完成。
+
+1129
+00:29:15,232 --> 00:29:16,372
+Oh, what?
+
+1130
+00:29:15,232 --> 00:29:16,372
+哦，什么？
+
+1131
+00:29:16,372 --> 00:29:20,172
+Bro, I've been hit out of this from fullscreen.
+
+1132
+00:29:16,372 --> 00:29:20,172
+兄弟，我从全屏被打出来了。
+
+1133
+00:29:20,172 --> 00:29:20,502
+Charge acquired.
+
+1134
+00:29:20,172 --> 00:29:20,502
+已获得蓄力。
+
+1135
+00:29:20,502 --> 00:29:20,502
+Charge acquired.
+
+1136
+00:29:20,502 --> 00:29:20,502
+能量充满。
+
+1137
+00:29:20,502 --> 00:29:20,502
+Charge acquired.
+
+1138
+00:29:20,502 --> 00:29:20,502
+能量充满。
+
+1139
+00:29:20,502 --> 00:29:21,512
+All right, here it go.
+
+1140
+00:29:20,502 --> 00:29:21,512
+好的，开始吧。
+
+1141
+00:29:21,512 --> 00:29:24,622
+Oh, so maybe if you let the Sonic Boom travel a little bit
+
+1142
+00:29:21,512 --> 00:29:24,622
+哦，如果让音波 boom 稍微移动一下可能会有不同效果
+
+1143
+00:29:24,622 --> 00:29:25,759
+you could still.
+
+1144
+00:29:24,622 --> 00:29:25,759
+你仍然可以。
+
+1145
+00:29:25,759 --> 00:29:26,002
+..
+
+1146
+00:29:25,759 --> 00:29:26,002
+..
+
+1147
+00:29:26,002 --> 00:29:30,831
+It'll still actually punish, so you could do it from fullscreen.
+
+1148
+00:29:26,002 --> 00:29:30,831
+它确实仍然会惩罚，所以你可以从全屏距离使用。
+
+1149
+00:29:30,831 --> 00:29:33,162
+But this is used pretty much, of course
+
+1150
+00:29:30,831 --> 00:29:33,162
+但这被使用得相当普遍，当然。
+
+1151
+00:29:33,162 --> 00:29:36,262
+to put your opponent in burnout, like I said before.
+
+1152
+00:29:33,162 --> 00:29:36,262
+就像我之前说的，让对手进入燃尽状态。
+
+1153
+00:29:36,262 --> 00:29:39,012
+A level three does take about a bar and a half.
+
+1154
+00:29:36,262 --> 00:29:39,012
+三级需要消耗大约一个半能量条。
+
+1155
+00:29:39,012 --> 00:29:40,642
+We're gonna look here.
+
+1156
+00:29:39,012 --> 00:29:40,642
+我们现在来看这里。
+
+1157
+00:29:40,642 --> 00:29:42,792
+And if you have CA, it takes two full bars
+
+1158
+00:29:40,642 --> 00:29:42,792
+如果你有 CA，需要两个完整的能量条
+
+1159
+00:29:42,792 --> 00:29:44,772
+I know that.
+
+1160
+00:29:42,792 --> 00:29:44,772
+我知道。
+
+1161
+00:29:44,772 --> 00:29:46,432
+So, takes about a bar and a half
+
+1162
+00:29:44,772 --> 00:29:46,432
+所以，大约需要一个半能量条
+
+1163
+00:29:46,432 --> 00:29:50,522
+and if it's the CA version, the CA version does about
+
+1164
+00:29:46,432 --> 00:29:50,522
+如果是 CA 版本，CA 版本大约
+
+1165
+00:29:50,522 --> 00:29:53,432
+uh, two bars, I believe.
+
+1166
+00:29:50,522 --> 00:29:53,432
+呃，我相信是两个条，
+
+1167
+00:29:53,432 --> 00:30:00,032
+Yep, two bars.
+
+1168
+00:29:53,432 --> 00:30:00,032
+是的，两个条。
+
+1169
+00:30:00,032 --> 00:30:01,412
+All CAs in this game, I think
+
+1170
+00:30:00,032 --> 00:30:01,412
+我认为这个游戏中所有的 CA（关键技）都是一样的
+
+1171
+00:30:01,412 --> 00:30:04,732
+does the same, so two bars for that
+
+1172
+00:30:01,412 --> 00:30:04,732
+因此需要两个能量条
+
+1173
+00:30:04,732 --> 00:30:08,294
+and of course, you can do this to end your combos with.
+
+1174
+00:30:04,732 --> 00:30:08,294
+当然，你可以用这招来结束你的连招。
+
+1175
+00:30:08,294 --> 00:30:14,836
+If you're throwin' a kill, it's always good to use the kill as an ender combo to close out rounds and games
+
+1176
+00:30:08,294 --> 00:30:14,836
+如果你要发动致命技，最好将其作为结束连招的终结技，用于结束回合和比赛
+
+1177
+00:30:14,836 --> 00:30:15,836
+of course.
+
+1178
+00:30:14,836 --> 00:30:15,836
+当然。
+
+1179
+00:30:15,836 --> 00:30:22,356
+But my main way I use it a lot to go through projectiles or to put my opponent in burnout because
+
+1180
+00:30:15,836 --> 00:30:22,356
+但我主要的用法是穿过投掷道具，或者将对手逼入极限消耗状态，因为
+
+1181
+00:30:22,356 --> 00:30:23,995
+you know, it's just so fast.
+
+1182
+00:30:22,356 --> 00:30:23,995
+你知道，它真的很快。
+
+1183
+00:30:23,995 --> 00:30:24,896
+It's a missile!
+
+1184
+00:30:23,995 --> 00:30:24,896
+这是导弹！
+
+1185
+00:30:24,896 --> 00:30:26,235
+It's a missile, bro!
+
+1186
+00:30:24,896 --> 00:30:26,235
+这是导弹，兄弟！
+
+1187
+00:30:26,235 --> 00:30:31,036
+But that is gonna be the main use of all of Cammy's supers right there.
+
+1188
+00:30:26,235 --> 00:30:31,036
+但那将是 Cammy 所有必杀技的主要用途。
+
+1189
+00:30:31,036 --> 00:30:36,616
+Pretty much identical to each other, besides the level three is very good to get through fireballs.
+
+1190
+00:30:31,036 --> 00:30:36,616
+除了三级招式非常适合穿过火球外，它们基本上彼此相似。
+
+1191
+00:30:36,616 --> 00:30:46,436
+So, the next thing we are going to go over is Cammy's drive gauge usage.
+
+1192
+00:30:36,616 --> 00:30:46,436
+接下来我们将讨论凯米的驱动槽使用方法。
+
+1193
+00:30:46,436 --> 00:30:52,275
+Feel like it is very important for each character to understand how to use the drive gauge
+
+1194
+00:30:46,436 --> 00:30:52,275
+我觉得对于每个角色来说，了解如何使用驱动槽都非常重要。
+
+1195
+00:30:52,275 --> 00:30:56,735
+which is pretty much gonna be the same for buttons.
+
+1196
+00:30:52,275 --> 00:30:56,735
+基本上每个按钮都差不多。
+
+1197
+00:30:56,735 --> 00:31:00,916
+You can test them all out, but I'm just go over the gist of it 'cause i- if we do the whole thing
+
+1198
+00:30:56,735 --> 00:31:00,916
+你可以全部测试一下，但我只是概括一下，因为如果我们详细讲述
+
+1199
+00:31:00,916 --> 00:31:04,025
+it's just gonna be like I'm going through all the last button again.
+
+1200
+00:31:00,916 --> 00:31:04,025
+那就又会像是再次遍历所有按钮。
+
+1201
+00:31:04,025 --> 00:31:06,846
+So, pretty much all your drive rush buttons you want to use
+
+1202
+00:31:04,025 --> 00:31:06,846
+所以，基本上你想使用的驱动冲撞按键都是这样的
+
+1203
+00:31:06,846 --> 00:31:10,936
+which keep this in mind, Cammy's drive rush is not the best in the game.
+
+1204
+00:31:06,846 --> 00:31:10,936
+记住这一点，Cammy 的驱动冲刺并不是游戏中最好的。
+
+1205
+00:31:10,936 --> 00:31:12,416
+It does not have a lot of range
+
+1206
+00:31:10,936 --> 00:31:12,416
+它没有很大的射程
+
+1207
+00:31:12,416 --> 00:31:15,456
+so you cannot just bust it out.
+
+1208
+00:31:12,416 --> 00:31:15,456
+所以你不能随意使用。
+
+1209
+00:31:15,456 --> 00:31:17,775
+But if you go into pressure from it
+
+1210
+00:31:15,456 --> 00:31:17,775
+但是如果你面对压力
+
+1211
+00:31:17,775 --> 00:31:22,735
+you gotta remember the best buttons that you want to try to use is your standard medium punch
+
+1212
+00:31:17,775 --> 00:31:22,735
+你必须记住最好使用的按钮是你的标准中拳
+
+1213
+00:31:22,735 --> 00:31:25,495
+which is gonna give you a plus three on block
+
+1214
+00:31:22,735 --> 00:31:25,495
+这会给你带来加三帧的优势
+
+1215
+00:31:25,495 --> 00:31:29,296
+your crouching heavy punch, which is gonna give you a plus five on block
+
+1216
+00:31:25,495 --> 00:31:29,296
+你的下蹲重拳，这会让你在被格挡时有加 5 帧优势
+
+1217
+00:31:29,296 --> 00:31:33,156
+and your standing jabs, which is gonna be plus two on block.
+
+1218
+00:31:29,296 --> 00:31:33,156
+以及你的立式轻拳，这会在被格挡时有加 2 帧优势。
+
+1219
+00:31:33,156 --> 00:31:40,249
+And the reason that you wanna do these buttons out of it if your opponent is blocking is because these leave you.
+
+1220
+00:31:33,156 --> 00:31:40,249
+而你想要在对手防御时使用这些按键的原因是因为这些会给你留下
+
+1221
+00:31:40,249 --> 00:31:40,326
+..
+
+1222
+00:31:40,249 --> 00:31:40,326
+..
+
+1223
+00:31:40,326 --> 00:31:44,186
+This right here, medium punch, leaves you in range to grab them.
+
+1224
+00:31:40,326 --> 00:31:44,186
+这个中拳会让你处于可以抓取对手的距离。
+
+1225
+00:31:44,186 --> 00:31:45,786
+You don't have to walk or anything.
+
+1226
+00:31:44,186 --> 00:31:45,786
+你不需要走动或做其他动作。
+
+1227
+00:31:45,786 --> 00:31:48,966
+Also, jab does the exact same thing.
+
+1228
+00:31:45,786 --> 00:31:48,966
+另外，轻拳也能做到同样的事情。
+
+1229
+00:31:48,966 --> 00:31:54,316
+So, those two buttons you do because they leave you right in range to grab.
+
+1230
+00:31:48,966 --> 00:31:54,316
+这两个按钮的好处是，它们让你处于可以抓取对手的距离。
+
+1231
+00:31:54,316 --> 00:31:57,136
+You don't have to walk, you can just press the grab button.
+
+1232
+00:31:54,316 --> 00:31:57,136
+你不需要走动，只需要直接按抓取按钮。
+
+1233
+00:31:57,136 --> 00:32:00,536
+And the crouching fierce is good because it is the most plus one on block
+
+1234
+00:31:57,136 --> 00:32:00,536
+下蹲强攻击很好，因为它在被格挡时是最正收益的。
+
+1235
+00:32:00,536 --> 00:32:02,136
+which is plus five.
+
+1236
+00:32:00,536 --> 00:32:02,136
+这是正值 5 帧。
+
+1237
+00:32:02,136 --> 00:32:07,255
+And you can also just grab straight away from it s- at some ranges.
+
+1238
+00:32:02,136 --> 00:32:07,255
+并且在某些距离，你可以直接抓取。
+
+1239
+00:32:07,255 --> 00:32:11,416
+But you can just take the slight step forward and grab.
+
+1240
+00:32:07,255 --> 00:32:11,416
+但你可以稍微向前迈一步然后抓取。
+
+1241
+00:32:11,416 --> 00:32:15,146
+But this is good because you can get a lot of big frame traps from it.
+
+1242
+00:32:11,416 --> 00:32:15,146
+但这很好，因为你可以从中获得很多大幅度的帧陷阱。
+
+1243
+00:32:15,146 --> 00:32:18,195
+Crouch fierce into crouch fierce becomes a real frame trap.
+
+1244
+00:32:15,146 --> 00:32:18,195
+下蹲重拳接下蹲重拳变成了真正的帧陷阱。
+
+1245
+00:32:18,195 --> 00:32:23,995
+If they mash, they will take very big damage.
+
+1246
+00:32:18,195 --> 00:32:23,995
+如果他们狂按键，他们将承受非常大的伤害。
+
+1247
+00:32:23,995 --> 00:32:27,386
+So, that is pretty much how you would use the drive gauge with Cammy
+
+1248
+00:32:23,995 --> 00:32:27,386
+所以，这基本上就是你使用坎美的 Drive 能量条的方式
+
+1249
+00:32:27,386 --> 00:32:28,456
+I would say.
+
+1250
+00:32:27,386 --> 00:32:28,456
+我可以这么说。
+
+1251
+00:32:28,456 --> 00:32:30,726
+You don't really do things like, you know
+
+1252
+00:32:28,456 --> 00:32:30,726
+你并不真的会做那种事情，你知道的
+
+1253
+00:32:30,726 --> 00:32:34,456
+drive rush, stand heavy kick because it's no real use for it.
+
+1254
+00:32:30,726 --> 00:32:34,456
+Drive Rush 后接站立重踢，因为这样做没什么实际用处。
+
+1255
+00:32:34,456 --> 00:32:39,056
+You wanna use your drive rush to get plus range or to do pretty damaging combos
+
+1256
+00:32:34,456 --> 00:32:39,056
+你想使用驱动冲刺来获得优势距离，或是执行相当具有伤害性的连招
+
+1257
+00:32:39,056 --> 00:32:40,096
+right?
+
+1258
+00:32:39,056 --> 00:32:40,096
+对吧？
+
+1259
+00:32:40,096 --> 00:32:47,755
+You can also use crouching medium punch, but does not leave you in range so I wouldn't really recommend it too much.
+
+1260
+00:32:40,096 --> 00:32:47,755
+你也可以使用蹲姿中拳，但这不会让你处于理想射程，所以我不太推荐这种做法。
+
+1261
+00:32:47,755 --> 00:32:50,263
+So yeah, that's pretty much what I would say the drive.
+
+1262
+00:32:47,755 --> 00:32:50,263
+所以没错，这基本上就是我对驱动的看法。
+
+1263
+00:32:50,263 --> 00:32:50,446
+..
+
+1264
+00:32:50,263 --> 00:32:50,446
+..
+
+1265
+00:32:50,446 --> 00:32:54,786
+You wanna pretty much use her drive system for.
+
+1266
+00:32:50,446 --> 00:32:54,786
+你基本上想要使用她的驱动系统。
+
+1267
+00:32:54,786 --> 00:33:00,116
+You cannot really spam it too much in neutral since it's not very fast and it doesn't have a lot of range
+
+1268
+00:32:54,786 --> 00:33:00,116
+在中立位置不能太过频繁地使用，因为它不太快，而且范围也不大
+
+1269
+00:33:00,116 --> 00:33:02,495
+but you can definitely catch people off guard.
+
+1270
+00:33:00,116 --> 00:33:02,495
+但你确实可以出其不意地抓住对手。
+
+1271
+00:33:02,495 --> 00:33:05,255
+I would be sometimes, you know, I won't do it at whole set
+
+1272
+00:33:02,495 --> 00:33:05,255
+有时候，你知道，我不会做整套动作
+
+1273
+00:33:05,255 --> 00:33:12,936
+then I'll just bust it out for some quick plus range if I'm feeling it and I'm just feeling like they maybe not gonna check me in that moment.
+
+1274
+00:33:05,255 --> 00:33:12,936
+然后我就会打出一些快速的加帧技来施压，如果我觉得可以的话，并且感觉对方可能不会防备我。
+
+1275
+00:33:12,936 --> 00:33:16,956
+And you can just start some pressure.
+
+1276
+00:33:12,936 --> 00:33:16,956
+这样你就可以开始施加压力了。
+
+1277
+00:33:16,956 --> 00:33:21,136
+Next thing we want to go over is combos for Cammy.
+
+1278
+00:33:16,956 --> 00:33:21,136
+接下来我们要讨论的是 Cammy 的连招。
+
+1279
+00:33:21,136 --> 00:33:25,516
+Really gonna be your basic go-to combos if you do land a hit.
+
+1280
+00:33:21,136 --> 00:33:25,516
+这些基本上是你在命中对手时的基础连招。
+
+1281
+00:33:25,516 --> 00:33:29,356
+So, n- number one, the combo you want to have
+
+1282
+00:33:25,516 --> 00:33:29,356
+所以，第一个，你需要的连招是
+
+1283
+00:33:29,356 --> 00:33:32,476
+of course, crouch and fierce into crouch medium punch.
+
+1284
+00:33:29,356 --> 00:33:32,476
+当然，下蹲和重拳打出下蹲中拳。
+
+1285
+00:33:32,476 --> 00:33:35,896
+Any time your crouch fierce hit, if it's non-counter hit
+
+1286
+00:33:32,476 --> 00:33:35,896
+每当你的下蹲重拳命中，如果不是反击命中
+
+1287
+00:33:35,896 --> 00:33:38,795
+this is your best go-to combo.
+
+1288
+00:33:35,896 --> 00:33:38,795
+这是你最好的连招选择。
+
+1289
+00:33:38,795 --> 00:33:41,656
+Or if you may be a bit too far
+
+1290
+00:33:38,795 --> 00:33:41,656
+或者如果你可能距离有点太远
+
+1291
+00:33:41,656 --> 00:33:45,126
+you can definitely try to go for the stand and light kick
+
+1292
+00:33:41,656 --> 00:33:45,126
+你可以尝试使用立定站姿和轻踢
+
+1293
+00:33:45,126 --> 00:33:48,755
+which won't really connect a lot either from far range.
+
+1294
+00:33:45,126 --> 00:33:48,755
+这些从远距离也很难有效连接。
+
+1295
+00:33:48,755 --> 00:33:53,176
+So, this is pretty much your go-to combo.
+
+1296
+00:33:48,755 --> 00:33:53,176
+这基本上就是你的必杀组合。
+
+1297
+00:33:53,176 --> 00:33:56,716
+If you see this crouch fierce land, it's gonna be the crouch medium punch.
+
+1298
+00:33:53,176 --> 00:33:56,716
+如果看到这个下蹲重拳命中，就会是下蹲中拳。
+
+1299
+00:33:56,716 --> 00:33:59,326
+Unless you do wanna go into the, you know
+
+1300
+00:33:56,716 --> 00:33:59,326
+除非你真的想进入那个，你知道的
+
+1301
+00:33:59,326 --> 00:34:02,956
+drive rush, but we'll talk about the drive rush after.
+
+1302
+00:33:59,326 --> 00:34:02,956
+我们暂时不讨论 drive rush，之后再详细说明。
+
+1303
+00:34:02,956 --> 00:34:05,876
+So, that's gonna be your basic crouch fierce combo with Cammy.
+
+1304
+00:34:02,956 --> 00:34:05,876
+这就是你使用 Cammy 的基本下蹲重拳连招。
+
+1305
+00:34:05,876 --> 00:34:08,375
+And then after, you have jab, jab
+
+1306
+00:34:05,876 --> 00:34:08,375
+之后，你可以使用左右直拳
+
+1307
+00:34:08,375 --> 00:34:12,395
+jab, of course, boom, jab, jab
+
+1308
+00:34:08,375 --> 00:34:12,395
+直拳，当然，砰，直拳，直拳
+
+1309
+00:34:12,395 --> 00:34:17,116
+jab, spiral, which you are gonna see yourself doing a lot with Cammy.
+
+1310
+00:34:12,395 --> 00:34:17,116
+直拳，螺旋，你会经常看到自己用这招
+
+1311
+00:34:17,116 --> 00:34:21,436
+Since jabs are very good for pressure in this game
+
+1312
+00:34:17,116 --> 00:34:21,436
+由于直拳在这个游戏中非常适合施加压力
+
+1313
+00:34:21,436 --> 00:34:30,716
+you're gonna see yourself using jabs a lot and you're gonna also see yourself landing a lot of jabs
+
+1314
+00:34:21,436 --> 00:34:30,716
+你会发现自己经常使用直拳，并且你会发现自己能够频繁命中直拳
+
+1315
+00:34:30,716 --> 00:34:35,306
+so you're gonna need to have this combo down 100%.
+
+1316
+00:34:30,716 --> 00:34:35,306
+所以你必须百分之百掌握这个连招。
+
+1317
+00:34:35,306 --> 00:34:38,116
+Also, you could do jab, jab, light kick
+
+1318
+00:34:35,306 --> 00:34:38,116
+另外，你可以使用直拳、直拳、轻踢
+
+1319
+00:34:38,116 --> 00:34:41,355
+which is also pretty much the same thing.
+
+1320
+00:34:38,116 --> 00:34:41,355
+这也基本上是同一回事。
+
+1321
+00:34:41,355 --> 00:34:44,235
+And if they are crouching, you can do jab
+
+1322
+00:34:41,355 --> 00:34:44,235
+如果对方是蹲着的，你可以使用直拳
+
+1323
+00:34:44,235 --> 00:34:46,815
+jab, jab, light kick.
+
+1324
+00:34:44,235 --> 00:34:46,815
+直拳，直拳，轻踢。
+
+1325
+00:34:46,815 --> 00:34:53,116
+So, these are important combos you're gonna see yourself using a lot.
+
+1326
+00:34:46,815 --> 00:34:53,116
+所以，这些是你将经常使用的重要连招。
+
+1327
+00:34:53,116 --> 00:34:56,295
+If you watch any of my videos actually playing Cammy
+
+1328
+00:34:53,116 --> 00:34:56,295
+如果你观看我实际操作凯米的任何视频
+
+1329
+00:34:56,295 --> 00:34:58,836
+you will see that I end up doing jab
+
+1330
+00:34:56,295 --> 00:34:58,836
+你会看到我最终会使用拳头攻击
+
+1331
+00:34:58,836 --> 00:35:03,446
+jab combos probably more than anything else in this game right now.
+
+1332
+00:34:58,836 --> 00:35:03,446
+在这个游戏中，目前可能最重要的就是战术性的直拳连招。
+
+1333
+00:35:03,446 --> 00:35:06,876
+Your next combo is going to be standin' medium punch.
+
+1334
+00:35:03,446 --> 00:35:06,876
+你接下来的连招将是站立中拳。
+
+1335
+00:35:06,876 --> 00:35:08,816
+If you see this stand medium punch land
+
+1336
+00:35:06,876 --> 00:35:08,816
+如果你看到这个站立中拳命中
+
+1337
+00:35:08,816 --> 00:35:13,026
+you can always do stand light kick into spiral arrow if you are in range
+
+1338
+00:35:08,816 --> 00:35:13,026
+只要在攻击范围内，你总是可以用站立轻踢连接螺旋箭
+
+1339
+00:35:13,026 --> 00:35:15,636
+of course.
+
+1340
+00:35:13,026 --> 00:35:15,636
+当然。
+
+1341
+00:35:15,636 --> 00:35:17,296
+Every time, this is gonna work.
+
+1342
+00:35:15,636 --> 00:35:17,296
+每次都能成功。
+
+1343
+00:35:17,296 --> 00:35:20,096
+This is your combo if you see this land.
+
+1344
+00:35:17,296 --> 00:35:20,096
+如果你看到这招命中，这就是你的连招。
+
+1345
+00:35:20,096 --> 00:35:23,716
+Now, if you're very close and you land this
+
+1346
+00:35:20,096 --> 00:35:23,716
+现在，如果你非常靠近并且命中这一击
+
+1347
+00:35:23,716 --> 00:35:29,536
+you can go into back medium punch target combo
+
+1348
+00:35:23,716 --> 00:35:29,536
+你可以接后方中拳目标连击
+
+1349
+00:35:29,536 --> 00:35:32,736
+which is gonna be a very important combo.
+
+1350
+00:35:29,536 --> 00:35:32,736
+这将是一个非常重要的连击。
+
+1351
+00:35:32,736 --> 00:35:37,556
+Pretty much anytime you clash with drive impacts with someone
+
+1352
+00:35:32,736 --> 00:35:37,556
+只要你在对手的驱动冲击时发生碰撞
+
+1353
+00:35:37,556 --> 00:35:39,145
+which we'll go over all that stuff still
+
+1354
+00:35:37,556 --> 00:35:39,145
+我们稍后会详细讲解这些内容
+
+1355
+00:35:39,145 --> 00:35:39,736
+of course.
+
+1356
+00:35:39,145 --> 00:35:39,736
+当然。
+
+1357
+00:35:39,736 --> 00:35:45,196
+But yeah, that's gonna be a very good combo for this if you see it land up close.
+
+1358
+00:35:39,736 --> 00:35:45,196
+如果在近距离看到这招命中，这将是一个非常不错的连招。
+
+1359
+00:35:45,196 --> 00:35:49,816
+Also, another good combo is gonna be crouch jab into target combo.
+
+1360
+00:35:45,196 --> 00:35:49,816
+此外，另一个不错的连招是下蹲轻拳接目标连击。
+
+1361
+00:35:49,816 --> 00:35:54,476
+Always a very, very good combo with Cammy.
+
+1362
+00:35:49,816 --> 00:35:54,476
+这对于凯米来说绝对是非常好的连招。
+
+1363
+00:35:54,476 --> 00:36:02,876
+So, I'm gonna say that's pretty much going to be all your basic combos that you confirm into when you see stuff hit
+
+1364
+00:35:54,476 --> 00:36:02,876
+所以，我要说这基本上就是你在看到击中时能够确认的所有基础连招。
+
+1365
+00:36:02,876 --> 00:36:05,236
+non-counter hit, of course.
+
+1366
+00:36:02,876 --> 00:36:05,236
+非计数命中，当然。
+
+1367
+00:36:05,236 --> 00:36:08,056
+Next combo we'll go into is some counter hit combos
+
+1368
+00:36:05,236 --> 00:36:08,056
+接下来我们将探讨一些反击连招
+
+1369
+00:36:08,056 --> 00:36:08,367
+so.
+
+1370
+00:36:08,056 --> 00:36:08,367
+所以。
+
+1371
+00:36:08,367 --> 00:36:08,562
+..
+
+1372
+00:36:08,367 --> 00:36:08,562
+..
+
+1373
+00:36:08,562 --> 00:36:11,548
+Let's say you see yourself, you- you land some counter hits
+
+1374
+00:36:08,562 --> 00:36:11,548
+假设你发现自己，你- 你成功打出了一些反击招式
+
+1375
+00:36:11,548 --> 00:36:13,968
+you know, you start your pressure and you start frame trapping
+
+1376
+00:36:11,548 --> 00:36:13,968
+你知道，你开始施压并开始设置框架陷阱
+
+1377
+00:36:13,968 --> 00:36:14,778
+fellas.
+
+1378
+00:36:13,968 --> 00:36:14,778
+伙计们。
+
+1379
+00:36:14,778 --> 00:36:17,728
+You land a counter hit, stand in a medium punch
+
+1380
+00:36:14,778 --> 00:36:17,728
+你命中一个反击，站立着用中拳
+
+1381
+00:36:17,728 --> 00:36:20,608
+you can go into a lot of different thing.
+
+1382
+00:36:17,728 --> 00:36:20,608
+你可以进行很多不同的操作。
+
+1383
+00:36:20,608 --> 00:36:23,708
+The one- best one, which is gonna be if you hit it at a further range
+
+1384
+00:36:20,608 --> 00:36:23,708
+其中最好的一种，如果你在较远的距离击中它
+
+1385
+00:36:23,708 --> 00:36:26,048
+is going to be the crouching medium kick.
+
+1386
+00:36:23,708 --> 00:36:26,048
+就是蹲下的中踢。
+
+1387
+00:36:26,048 --> 00:36:31,548
+You will be able to land this on counter hit every time from pretty much any range that you see this hit.
+
+1388
+00:36:26,048 --> 00:36:31,548
+每当你看到这个招式命中的时候，你几乎可以在任何距离都能成功对招。
+
+1389
+00:36:31,548 --> 00:36:33,968
+I think this will always work.
+
+1390
+00:36:31,548 --> 00:36:33,968
+我认为这个招式总是会生效。
+
+1391
+00:36:33,968 --> 00:36:36,578
+And if you do land this a bit closer
+
+1392
+00:36:33,968 --> 00:36:36,578
+如果你在稍近的距离命中这个招式
+
+1393
+00:36:36,578 --> 00:36:44,388
+you can get even damaging- more damaging combo which is stand medium punch into standing fierce
+
+1394
+00:36:36,578 --> 00:36:44,388
+你可以获得更具破坏力的连招，即站立中拳接站立重拳
+
+1395
+00:36:44,388 --> 00:36:48,788
+which is gonna do a lot of damage every time.
+
+1396
+00:36:44,388 --> 00:36:48,788
+这将会造成大量伤害。
+
+1397
+00:36:48,788 --> 00:36:55,118
+So this is pretty much gonna be your combo anytime you see yourself landing a counter hit with stand and medium punch
+
+1398
+00:36:48,788 --> 00:36:55,118
+每当你用站立中拳获得反击时，这基本上就是你的连招
+
+1399
+00:36:55,118 --> 00:36:57,728
+you will go into that and if you land it from further
+
+1400
+00:36:55,118 --> 00:36:57,728
+你会进入那个，如果你从远处命中它
+
+1401
+00:36:57,728 --> 00:37:00,058
+go into the crouching medium kick.
+
+1402
+00:36:57,728 --> 00:37:00,058
+进入下蹲中踢。
+
+1403
+00:37:00,058 --> 00:37:02,338
+You can also go into crouch medium punch.
+
+1404
+00:37:00,058 --> 00:37:02,338
+你也可以选择蹲下中拳。
+
+1405
+00:37:02,338 --> 00:37:04,398
+Don't really see a reason to do that
+
+1406
+00:37:02,338 --> 00:37:04,398
+我真的没看到有什么理由这样做
+
+1407
+00:37:04,398 --> 00:37:06,825
+unless you're.
+
+1408
+00:37:04,398 --> 00:37:06,825
+除非你是。
+
+1409
+00:37:06,825 --> 00:37:07,088
+..
+
+1410
+00:37:06,825 --> 00:37:07,088
+..
+
+1411
+00:37:07,088 --> 00:37:10,628
+You know, you pretty much gonna do either this
+
+1412
+00:37:07,088 --> 00:37:10,628
+你知道，你基本上要么做这个
+
+1413
+00:37:10,628 --> 00:37:15,738
+most of the time stand medium punch and to stand fierce or you're gonna be doing stand fierce into low forward.
+
+1414
+00:37:10,628 --> 00:37:15,738
+大多数时候使用站立中拳，或者站立重拳，或者你会使用站立重拳接下前踢。
+
+1415
+00:37:15,738 --> 00:37:20,668
+There's really no reason to go for that one there.
+
+1416
+00:37:15,738 --> 00:37:20,668
+确实没有理由去选择那个。
+
+1417
+00:37:20,668 --> 00:37:28,508
+So yeah, that is gonna be your go-to combos if you see yourself counter hit with stand medium punch.
+
+1418
+00:37:20,668 --> 00:37:28,508
+是的，如果你用站立中拳被反击，这些会是你的主要连招。
+
+1419
+00:37:28,508 --> 00:37:31,298
+Now if you see yourself get a counter hit with crouch and medium punch
+
+1420
+00:37:28,508 --> 00:37:31,298
+如果你用蹲下中拳被反击
+
+1421
+00:37:31,298 --> 00:37:37,168
+your best combo is always gonna be crouch and medium punch two times into the spiral arrow
+
+1422
+00:37:31,298 --> 00:37:37,168
+你最佳的连招总是会是蹲下中拳连续两次，然后接螺旋箭。
+
+1423
+00:37:37,168 --> 00:37:41,148
+of course, or a special move of your choice.
+
+1424
+00:37:37,168 --> 00:37:41,148
+当然，或者是你选择的特殊招式。
+
+1425
+00:37:41,148 --> 00:37:45,948
+Now this is one of the good ones I would say
+
+1426
+00:37:41,148 --> 00:37:45,948
+这是我认为的其中一个很不错的招式
+
+1427
+00:37:45,948 --> 00:37:49,128
+is if you get a counter hit crouch jab
+
+1428
+00:37:45,948 --> 00:37:49,128
+如果你获得了对手蹲下轻拳的反制命中
+
+1429
+00:37:49,128 --> 00:37:51,628
+which you probably will see yourself getting a lot
+
+1430
+00:37:49,128 --> 00:37:51,628
+这是你可能会经常看到的情况
+
+1431
+00:37:51,628 --> 00:37:53,468
+it's very hard to confirm the counter hit
+
+1432
+00:37:51,628 --> 00:37:53,468
+这很难确认对方被反击
+
+1433
+00:37:53,468 --> 00:37:56,968
+but sometimes you actually can- will see it.
+
+1434
+00:37:53,468 --> 00:37:56,968
+但有时候你实际上确实可以 - 会看到它。
+
+1435
+00:37:56,968 --> 00:38:01,868
+I'm pretty good at reacting to it, but it's 'cause I've been playing Street Fighter for so long at this point.
+
+1436
+00:37:56,968 --> 00:38:01,868
+我在这方面反应还不错，主要是因为我玩街头霸王已经很久了。
+
+1437
+00:38:01,868 --> 00:38:06,108
+But yeah, you could do crouching jab into crouching medium punch
+
+1438
+00:38:01,868 --> 00:38:06,108
+没错，你可以从蹲姿轻拳接蹲姿中拳
+
+1439
+00:38:06,108 --> 00:38:13,728
+which is gonna be a pretty damaging, good damage combo from a jab and it'll save you from doing jab light spiral
+
+1440
+00:38:06,108 --> 00:38:13,728
+这会是一个伤害不错的连招，从轻拳打出相当可观的伤害，而且可以帮你省去使用轻螺旋拳的步骤
+
+1441
+00:38:13,728 --> 00:38:15,728
+where you could get a bit more damage from jab
+
+1442
+00:38:13,728 --> 00:38:15,728
+在这里你可以通过轻拳获得更多伤害
+
+1443
+00:38:15,728 --> 00:38:29,648
+crouch and medium punch, spiral arrow, which is gonna be a pretty good important combo for when you catch your opponent slipping in neutral when they're trying to pressure you and you get a counter hit reversal jab
+
+1444
+00:38:15,728 --> 00:38:29,648
+蹲下并使用中等拳，螺旋箭，这是一个非常好且重要的连招，用于在中立位置抓到对手疏忽大意或者他们试图施加压力时，通过反制轻拳获得反击
+
+1445
+00:38:29,648 --> 00:38:30,838
+I would like to call it.
+
+1446
+00:38:29,648 --> 00:38:30,838
+我想称之为这个。
+
+1447
+00:38:30,838 --> 00:38:35,708
+Another important combos is going to be your crouch and fierce counter hit combos
+
+1448
+00:38:30,838 --> 00:38:35,708
+另一个重要的连招将是你的下蹲重拳反击连招
+
+1449
+00:38:35,708 --> 00:38:37,928
+which is crouch fierce counter hit into stand fierce.
+
+1450
+00:38:35,708 --> 00:38:37,928
+即下蹲重拳反击转接立式重拳。
+
+1451
+00:38:37,928 --> 00:38:41,728
+And just like the medium punch, if you get it from further range
+
+1452
+00:38:37,928 --> 00:38:41,728
+就像中拳一样，如果是在较远的距离触发
+
+1453
+00:38:41,728 --> 00:38:46,188
+you can go into the crouching medium kick.
+
+1454
+00:38:41,728 --> 00:38:46,188
+你可以使用下蹲中踢。
+
+1455
+00:38:46,188 --> 00:38:49,008
+It doesn't work on every range like the stand medium punch
+
+1456
+00:38:46,188 --> 00:38:49,008
+它不像站立中拳那样在每个距离都有效
+
+1457
+00:38:49,008 --> 00:38:52,477
+but it will work from further ranges than the stand and fierce.
+
+1458
+00:38:49,008 --> 00:38:52,477
+但它比站立和重拳的射程更远。
+
+1459
+00:38:52,477 --> 00:38:55,548
+But if you get it point-blank, always go into that stand fierce.
+
+1460
+00:38:52,477 --> 00:38:55,548
+但如果你在近距离命中，务必接上站立重拳。
+
+1461
+00:38:55,548 --> 00:39:00,188
+Very good combo.
+
+1462
+00:38:55,548 --> 00:39:00,188
+非常好的连招。
+
+1463
+00:39:00,188 --> 00:39:05,238
+Every time.
+
+1464
+00:39:00,188 --> 00:39:05,238
+每次都是。
+
+1465
+00:39:05,238 --> 00:39:06,128
+Okay.
+
+1466
+00:39:05,238 --> 00:39:06,128
+好的。
+
+1467
+00:39:06,128 --> 00:39:10,728
+So that is gonna pretty much be all your basic counter hit combos with Cammy.
+
+1468
+00:39:06,128 --> 00:39:10,728
+这些基本上就是使用凯米能够打出的所有反击连招。
+
+1469
+00:39:10,728 --> 00:39:14,288
+Now we will move on to the punish counter combos.
+
+1470
+00:39:10,728 --> 00:39:14,288
+现在我们将继续讲解惩罚性反击连招。
+
+1471
+00:39:14,288 --> 00:39:18,008
+And if you don't know what a punish counter combo or a punish counter is
+
+1472
+00:39:14,288 --> 00:39:18,008
+如果你不知道什么是惩罚性反击连招或惩罚性反击
+
+1473
+00:39:18,008 --> 00:39:21,728
+you will get punish counter 100% of the time
+
+1474
+00:39:18,008 --> 00:39:21,728
+你将 100%地受到惩罚反击。
+
+1475
+00:39:21,728 --> 00:39:23,868
+even if, let's say, Guile whiffs his button.
+
+1476
+00:39:21,728 --> 00:39:23,868
+即使，比如说，Guile 错过了他的按键。
+
+1477
+00:39:23,868 --> 00:39:25,218
+Now we're good.
+
+1478
+00:39:23,868 --> 00:39:25,218
+现在我们很好。
+
+1479
+00:39:25,218 --> 00:39:27,008
+Boom, you always get the punish counter.
+
+1480
+00:39:25,218 --> 00:39:27,008
+嘭，你总能获得惩罚性反击。
+
+1481
+00:39:27,008 --> 00:39:29,088
+You see it show up on the screen.
+
+1482
+00:39:27,008 --> 00:39:29,088
+你会看到它显示在屏幕上。
+
+1483
+00:39:29,088 --> 00:39:33,708
+Obviously further away you won't be able to get a cool punish counter combo
+
+1484
+00:39:29,088 --> 00:39:33,708
+显然，距离太远时就无法获得炫酷的惩罚性反击连招
+
+1485
+00:39:33,708 --> 00:39:39,558
+but I just want you to know the basic properties of the punish counter and how you will be landing this.
+
+1486
+00:39:33,708 --> 00:39:39,558
+但我只是想让你了解惩罚计数器的基本属性以及如何触发它。
+
+1487
+00:39:39,558 --> 00:39:43,898
+It's gonna always be from punishing something every time.
+
+1488
+00:39:39,558 --> 00:39:43,898
+这总是来自于每次的惩罚性操作。
+
+1489
+00:39:43,898 --> 00:39:46,248
+And a lot of times you can get
+
+1490
+00:39:43,898 --> 00:39:46,248
+而且很多时候你可以获得
+
+1491
+00:39:46,248 --> 00:39:50,008
+with Cammy, if you whip front or something from a bit closer range
+
+1492
+00:39:46,248 --> 00:39:50,008
+对于凯美，如果你在近距离使用正面鞭打或类似招式
+
+1493
+00:39:50,008 --> 00:39:52,428
+this is- will be your go-to punish counter combo
+
+1494
+00:39:50,008 --> 00:39:52,428
+这将是你用于惩罚性反击组合的
+
+1495
+00:39:52,428 --> 00:39:53,358
+in my opinion.
+
+1496
+00:39:52,428 --> 00:39:53,358
+在我看来。
+
+1497
+00:39:53,358 --> 00:40:02,288
+You will try to get stand fierce into heavy spin knuckle because this allows you to get a follow-up with a light kick into spiral arrow
+
+1498
+00:39:53,358 --> 00:40:02,288
+你将尝试使用站立重拳接重型旋转拳，因为这样可以让你跟上轻踢转接螺旋箭
+
+1499
+00:40:02,288 --> 00:40:06,248
+which is a very good whip punish combo from further range.
+
+1500
+00:40:02,288 --> 00:40:06,248
+这是一个从较远距离很好的鞭打惩罚连招。
+
+1501
+00:40:06,248 --> 00:40:10,578
+And you need to know that this combo only works on punish counters.
+
+1502
+00:40:06,248 --> 00:40:10,578
+你需要知道这个连招只在惩罚性反击时有效。
+
+1503
+00:40:10,578 --> 00:40:21,538
+Stand fierce into heavy knuckle, it is only gonna work on punish counter which makes your punish counter and your whip punishing very deadly
+
+1504
+00:40:10,578 --> 00:40:21,538
+站立重拳接重拳，这只在惩罚反击时有效，这使得你的惩罚反击和鞭打惩罚变得非常致命
+
+1505
+00:40:21,538 --> 00:40:24,008
+I would say, from further back.
+
+1506
+00:40:21,538 --> 00:40:24,008
+我会说，从更远的距离。
+
+1507
+00:40:24,008 --> 00:40:29,888
+The biggest way, of course, for a punish counter is going to be if you block a reversal.
+
+1508
+00:40:24,008 --> 00:40:29,888
+当然，最大的惩罚反击方式是如果你格挡了一个反转招式。
+
+1509
+00:40:29,888 --> 00:40:32,768
+Let me set up Guile to do his reversal.
+
+1510
+00:40:29,888 --> 00:40:32,768
+让我设置 Guile 来执行他的反制技。
+
+1511
+00:40:32,768 --> 00:40:38,638
+Anytime you block a reversal, you're going to get a punish counter and this is pretty much gonna be your go-to combo.
+
+1512
+00:40:32,768 --> 00:40:38,638
+每当你格挡住一个反制技，你就会获得一个惩罚性反击，这基本上就是你的标准连招。
+
+1513
+00:40:38,638 --> 00:40:42,898
+This is gonna be your most optimal non-meter combo
+
+1514
+00:40:38,638 --> 00:40:42,898
+这将是你最优的不使用能量槽的连招
+
+1515
+00:40:42,898 --> 00:40:45,928
+which it does require a micro walk.
+
+1516
+00:40:42,898 --> 00:40:45,928
+这需要一个微微的走位。
+
+1517
+00:40:45,928 --> 00:40:51,098
+You cannot just do this combo from crouch fierce back medium punch.
+
+1518
+00:40:45,928 --> 00:40:51,098
+你不能仅仅从蹲下重拳后中等拳击发动这个连招。
+
+1519
+00:40:51,098 --> 00:40:54,328
+You see, it will whiff every time.
+
+1520
+00:40:51,098 --> 00:40:54,328
+你看，这次攻击每次都会空挥。
+
+1521
+00:40:54,328 --> 00:40:55,068
+Look at that.
+
+1522
+00:40:54,328 --> 00:40:55,068
+看看这个。
+
+1523
+00:40:55,068 --> 00:40:57,228
+Even if I walk up on a flash kick
+
+1524
+00:40:55,068 --> 00:40:57,228
+即便我走到闪踢面前
+
+1525
+00:40:57,228 --> 00:40:58,948
+look, whiffs every time.
+
+1526
+00:40:57,228 --> 00:40:58,948
+看看，每次都会空挥。
+
+1527
+00:40:58,948 --> 00:41:02,628
+So you do have to put a bit of a walk in there
+
+1528
+00:40:58,948 --> 00:41:02,628
+所以你确实需要稍微走动一下
+
+1529
+00:41:02,628 --> 00:41:05,568
+which is a bit more advanced, of course
+
+1530
+00:41:02,628 --> 00:41:05,568
+这当然是稍微高级一点的操作
+
+1531
+00:41:05,568 --> 00:41:07,968
+but it's gonna be your most optimal combo.
+
+1532
+00:41:05,568 --> 00:41:07,968
+但这将是你最优的连招。
+
+1533
+00:41:07,968 --> 00:41:09,818
+If you don't want to do that, you don't have to
+
+1534
+00:41:07,968 --> 00:41:09,818
+如果你不想这样做，也不必强求
+
+1535
+00:41:09,818 --> 00:41:10,218
+of course.
+
+1536
+00:41:09,818 --> 00:41:10,218
+当然。
+
+1537
+00:41:10,218 --> 00:41:18,328
+You can always go with the trustworthy crouch fierce into stand fierce or you can go into
+
+1538
+00:41:10,218 --> 00:41:18,328
+你可以选择可靠的蹲下重拳接立式重拳
+
+1539
+00:41:18,328 --> 00:41:22,126
+which is another good one, you could go into crouch fierce back medium kick.
+
+1540
+00:41:18,328 --> 00:41:22,126
+这也是一个不错的选择，你也可以使用蹲下重拳接后中踢
+
+1541
+00:41:22,126 --> 00:41:22,278
+..
+
+1542
+00:41:22,126 --> 00:41:22,278
+..
+
+1543
+00:41:22,278 --> 00:41:24,968
+I meant crouch fierce back heavy kick.
+
+1544
+00:41:22,278 --> 00:41:24,968
+我指的是蹲下重拳接后重踢
+
+1545
+00:41:24,968 --> 00:41:27,908
+Boom.
+
+1546
+00:41:24,968 --> 00:41:27,908
+轰！
+
+1547
+00:41:27,908 --> 00:41:31,228
+And of course, if you a bit late
+
+1548
+00:41:27,908 --> 00:41:31,228
+当然，如果你稍微晚了一点
+
+1549
+00:41:31,228 --> 00:41:32,658
+you could do these combos.
+
+1550
+00:41:31,228 --> 00:41:32,658
+你仍然可以执行这些连招。
+
+1551
+00:41:32,658 --> 00:41:36,908
+Any regular counter hit combo works as a punish counter combo
+
+1552
+00:41:32,658 --> 00:41:36,908
+任何普通的反击连招都可以作为惩罚性反击连招
+
+1553
+00:41:36,908 --> 00:41:39,248
+so I need, want y'all to know that.
+
+1554
+00:41:36,908 --> 00:41:39,248
+所以我需要、希望你们都知道这一点。
+
+1555
+00:41:39,248 --> 00:41:42,848
+Any combo you learn from me that works on counter hit
+
+1556
+00:41:39,248 --> 00:41:42,848
+你从我这里学到的任何连招，只要在反击时生效
+
+1557
+00:41:42,848 --> 00:41:47,208
+it 100% works on the punish counter too.
+
+1558
+00:41:42,848 --> 00:41:47,208
+在惩罚性反击时也 100%有效。
+
+1559
+00:41:47,208 --> 00:41:52,008
+So boom, look at that.
+
+1560
+00:41:47,208 --> 00:41:52,008
+看，就是这样。
+
+1561
+00:41:52,008 --> 00:41:53,288
+Every time.
+
+1562
+00:41:52,008 --> 00:41:53,288
+每一次。
+
+1563
+00:41:53,288 --> 00:41:55,068
+You always wanna punish with that.
+
+1564
+00:41:53,288 --> 00:41:55,068
+你总是想用那招来惩罚对手。
+
+1565
+00:41:55,068 --> 00:41:56,888
+This is your best punish.
+
+1566
+00:41:55,068 --> 00:41:56,888
+这是你最好的惩罚性打击。
+
+1567
+00:41:56,888 --> 00:41:59,488
+But of course, this is the most optimal one.
+
+1568
+00:41:56,888 --> 00:41:59,488
+但当然，这是最优的。
+
+1569
+00:41:59,488 --> 00:42:05,108
+So those are gonna be your pretty much your standard punish counter combos for Cammy.
+
+1570
+00:41:59,488 --> 00:42:05,108
+所以这些基本上就是你的凯美的标准惩罚性连招。
+
+1571
+00:42:05,108 --> 00:42:07,768
+And now we're gonna get into the drive rush combos
+
+1572
+00:42:05,108 --> 00:42:07,768
+现在我们要讲解驱动冲刺连招
+
+1573
+00:42:07,768 --> 00:42:10,888
+which goes back into the punish counter combos.
+
+1574
+00:42:07,768 --> 00:42:10,888
+这将回到惩罚性反击连招。
+
+1575
+00:42:10,888 --> 00:42:14,128
+Anytime you do a drive rush and is- you do button
+
+1576
+00:42:10,888 --> 00:42:14,128
+每当你进行驱动冲刺并且按下按键时
+
+1577
+00:42:14,128 --> 00:42:18,568
+it is the same amount of plus frames as the punish counter combo I showed you.
+
+1578
+00:42:14,128 --> 00:42:18,568
+这与我之前向你展示的惩罚性反击连招拥有相同的正帧数。
+
+1579
+00:42:18,568 --> 00:42:22,468
+So all of those combos I just showed you will work.
+
+1580
+00:42:18,568 --> 00:42:22,468
+所以我刚才向你展示的所有连招都是可行的。
+
+1581
+00:42:22,468 --> 00:42:23,840
+You could go for that.
+
+1582
+00:42:22,468 --> 00:42:23,840
+你可以尝试这种打法。
+
+1583
+00:42:23,840 --> 00:42:26,332
+You can even do this.
+
+1584
+00:42:23,840 --> 00:42:26,332
+你甚至可以这样做。
+
+1585
+00:42:26,332 --> 00:42:33,452
+Stand fierce, back medium punch, which is gonna pretty much be the most optimal combo you could do.
+
+1586
+00:42:26,332 --> 00:42:33,452
+保持强硬姿态，后方中拳，这基本上是你能做的最优组合。
+
+1587
+00:42:33,452 --> 00:42:39,652
+If you cancel from a low forward, let's say you get the whiff punish with the low forward
+
+1588
+00:42:33,452 --> 00:42:39,652
+如果从低前踢取消，比如说你用低前踢获得了一次惩罚性打击
+
+1589
+00:42:39,652 --> 00:42:42,372
+you cancel, stand fierce, target combo.
+
+1590
+00:42:39,652 --> 00:42:42,372
+你取消，站立重拳，目标连招。
+
+1591
+00:42:42,372 --> 00:42:45,412
+That's gonna be your go-to mid screen.
+
+1592
+00:42:42,372 --> 00:42:45,412
+这将是你在中场的常用技巧。
+
+1593
+00:42:45,412 --> 00:42:50,632
+Now, if you're in a corner, of course you can go into these combos
+
+1594
+00:42:45,412 --> 00:42:50,632
+当然，如果你在角落，你可以使用这些连招
+
+1595
+00:42:50,632 --> 00:42:55,032
+which is, I wouldn't say they're too advanced.
+
+1596
+00:42:50,632 --> 00:42:55,032
+我不会说这些技术太高级。
+
+1597
+00:42:55,032 --> 00:42:59,132
+Honestly, you could, uh, go into crouching fierce
+
+1598
+00:42:55,032 --> 00:42:59,132
+老实说，你可以，呃，使用蹲下重拳
+
+1599
+00:42:59,132 --> 00:43:02,182
+back heavy kick, spiral arrow, DP.
+
+1600
+00:42:59,132 --> 00:43:02,182
+后方重踢，螺旋箭，升龙拳。
+
+1601
+00:43:02,182 --> 00:43:05,552
+This is gonna be your most optimal ender.
+
+1602
+00:43:02,182 --> 00:43:05,552
+这将是你最佳的收招。
+
+1603
+00:43:05,552 --> 00:43:09,092
+Once you finish and you want to dump all your meter
+
+1604
+00:43:05,552 --> 00:43:09,092
+一旦你完成并想要耗尽所有的能量条
+
+1605
+00:43:09,092 --> 00:43:12,052
+you will always end with this combo.
+
+1606
+00:43:09,092 --> 00:43:12,052
+你总是会以这个连招结束。
+
+1607
+00:43:12,052 --> 00:43:16,294
+Or, if they are standing, after a crouching heavy punch if you do.
+
+1608
+00:43:12,052 --> 00:43:16,294
+或者，如果对手站立，在你使用下蹲重拳后。
+
+1609
+00:43:16,294 --> 00:43:16,482
+..
+
+1610
+00:43:16,294 --> 00:43:16,482
+..
+
+1611
+00:43:16,482 --> 00:43:18,772
+Let's say you want to dump all your meter into a combo
+
+1612
+00:43:16,482 --> 00:43:18,772
+假设你想在连招中耗尽所有的能量槽
+
+1613
+00:43:18,772 --> 00:43:19,352
+right?
+
+1614
+00:43:18,772 --> 00:43:19,352
+对吧？
+
+1615
+00:43:19,352 --> 00:43:21,632
+This is the ender that you want to do
+
+1616
+00:43:19,352 --> 00:43:21,632
+这是你想要执行的结束技
+
+1617
+00:43:21,632 --> 00:43:24,282
+back heavy kick, back heavy kick, spiral arrow
+
+1618
+00:43:21,632 --> 00:43:24,282
+后重踢，后重踢，螺旋箭
+
+1619
+00:43:24,282 --> 00:43:25,512
+DP.
+
+1620
+00:43:24,282 --> 00:43:25,512
+龙拳（DP）。
+
+1621
+00:43:25,512 --> 00:43:28,942
+Or, of course, if you want to dump it you could do back heavy
+
+1622
+00:43:25,512 --> 00:43:28,942
+或者，当然，如果你想打出重拳，你可以这样做。
+
+1623
+00:43:28,942 --> 00:43:33,172
+kick back heavy, kick spiral arrow into level three if you have the bar.
+
+1624
+00:43:28,942 --> 00:43:33,172
+重拳踢后，重踢，螺旋箭击进入三级（如果你有能量条）。
+
+1625
+00:43:33,172 --> 00:43:35,852
+Same thing, that combo does work.
+
+1626
+00:43:33,172 --> 00:43:35,852
+是的，那个连招确实有效。
+
+1627
+00:43:35,852 --> 00:43:37,752
+Back heavy kick two times.
+
+1628
+00:43:35,852 --> 00:43:37,752
+后重踢两次。
+
+1629
+00:43:37,752 --> 00:43:41,832
+Oh my God, I look like a bot.
+
+1630
+00:43:37,752 --> 00:43:41,832
+我的天，我看起来像个机器人。
+
+1631
+00:43:41,832 --> 00:43:45,492
+Boom.
+
+1632
+00:43:41,832 --> 00:43:45,492
+轰！
+
+1633
+00:43:45,492 --> 00:43:47,602
+Those are some important drive rush combo.
+
+1634
+00:43:45,492 --> 00:43:47,602
+这些是一些重要的驱动冲刺连招。
+
+1635
+00:43:47,602 --> 00:43:50,092
+Another one is going to be off a jab confirm.
+
+1636
+00:43:47,602 --> 00:43:50,092
+另一个将是基于 jab 确认的连招。
+
+1637
+00:43:50,092 --> 00:43:50,869
+Sometimes you might.
+
+1638
+00:43:50,092 --> 00:43:50,869
+有时候你可能会。
+
+1639
+00:43:50,869 --> 00:43:50,942
+..
+
+1640
+00:43:50,869 --> 00:43:50,942
+..
+
+1641
+00:43:50,942 --> 00:43:53,592
+Can get the kill off of a jab confirm
+
+1642
+00:43:50,942 --> 00:43:53,592
+可以通过点击确认获得击杀
+
+1643
+00:43:53,592 --> 00:43:55,512
+so you would want to do jab, jab
+
+1644
+00:43:53,592 --> 00:43:55,512
+所以你会想要这样做：点击，点击
+
+1645
+00:43:55,512 --> 00:44:01,652
+jab, drive rush into another jab.
+
+1646
+00:43:55,512 --> 00:44:01,652
+点击，冲刺驱动进入另一个点击。
+
+1647
+00:44:01,652 --> 00:44:06,532
+So jab, jab, drive rush into another jab is going to be your best friend.
+
+1648
+00:44:01,652 --> 00:44:06,532
+所以连续的轻拳、轻拳，然后冲刺接轻拳将会是你最好的战术。
+
+1649
+00:44:06,532 --> 00:44:07,402
+You can also.
+
+1650
+00:44:06,532 --> 00:44:07,402
+你还可以。
+
+1651
+00:44:07,402 --> 00:44:07,582
+..
+
+1652
+00:44:07,402 --> 00:44:07,582
+..
+
+1653
+00:44:07,582 --> 00:44:13,732
+You can do from that stand jab into stand fierce is probably the best one
+
+1654
+00:44:07,582 --> 00:44:13,732
+从站立轻拳转 into 站立重拳可能是最好的选择。
+
+1655
+00:44:13,732 --> 00:44:15,532
+honestly.
+
+1656
+00:44:13,732 --> 00:44:15,532
+说实话。
+
+1657
+00:44:15,532 --> 00:44:16,542
+Pretty simple.
+
+1658
+00:44:15,532 --> 00:44:16,542
+很简单。
+
+1659
+00:44:16,542 --> 00:44:19,182
+There's really no reason to do another combo from jab
+
+1660
+00:44:16,542 --> 00:44:19,182
+根本没有必要从一个拳打出另一个连击
+
+1661
+00:44:19,182 --> 00:44:19,732
+jab.
+
+1662
+00:44:19,182 --> 00:44:19,732
+拳打。
+
+1663
+00:44:19,732 --> 00:44:23,372
+Just do stand jab into standing fierce.
+
+1664
+00:44:19,732 --> 00:44:23,372
+只需使用站立轻拳接站立重拳。
+
+1665
+00:44:23,372 --> 00:44:26,232
+Spiral arrow is going to be your go-to jab
+
+1666
+00:44:23,372 --> 00:44:26,232
+螺旋箭将成为你的首选轻拳
+
+1667
+00:44:26,232 --> 00:44:28,212
+drive rush combo.
+
+1668
+00:44:26,232 --> 00:44:28,212
+驱动冲刺连招。
+
+1669
+00:44:28,212 --> 00:44:32,532
+And of course, if you want to meter dump and your opponent is about die
+
+1670
+00:44:28,212 --> 00:44:32,532
+当然，如果你想要耗尽能量条，并且对手即将阵亡
+
+1671
+00:44:32,532 --> 00:44:34,992
+you can do jab, jab, drive rush.
+
+1672
+00:44:32,532 --> 00:44:34,992
+你可以使用连续轻拳，驱动冲刺。
+
+1673
+00:44:34,992 --> 00:44:36,852
+Do the regular jab, drive rush combo
+
+1674
+00:44:34,992 --> 00:44:36,852
+执行常规轻拳，驱动冲刺连招
+
+1675
+00:44:36,852 --> 00:44:41,992
+jab fierce into another one, into super.
+
+1676
+00:44:36,852 --> 00:44:41,992
+轻拳连重拳，然后接必杀技。
+
+1677
+00:44:41,992 --> 00:44:47,392
+Also, all these combos work from standing light kick also.
+
+1678
+00:44:41,992 --> 00:44:47,392
+所有这些连招也可以从站立轻踢开始。
+
+1679
+00:44:47,392 --> 00:44:48,581
+So if you do a jab, uh
+
+1680
+00:44:47,392 --> 00:44:48,581
+所以如果你打出一个轻拳，呃
+
+1681
+00:44:48,581 --> 00:44:53,612
+drive rush from standing light kick, you can do all of these combos that I just showed you.
+
+1682
+00:44:48,581 --> 00:44:53,612
+从站立轻踢的驱动冲刺，你可以执行我刚才展示的所有连招。
+
+1683
+00:44:53,612 --> 00:44:57,932
+They all will work from it.
+
+1684
+00:44:53,612 --> 00:44:57,932
+这些连招都可以生效。
+
+1685
+00:44:57,932 --> 00:45:03,072
+And of course, if you want to end with level three
+
+1686
+00:44:57,932 --> 00:45:03,072
+当然，如果你想以三级结束
+
+1687
+00:45:03,072 --> 00:45:08,772
+the best way to end to level three is always going to be your charge DP into level three.
+
+1688
+00:45:03,072 --> 00:45:08,772
+结束到三级的最佳方式始终是你的蓄力龙爪（DP）进入三级。
+
+1689
+00:45:08,772 --> 00:45:11,032
+If you ever do regular DP level three
+
+1690
+00:45:08,772 --> 00:45:11,032
+如果你尝试普通的龙爪（DP）三级
+
+1691
+00:45:11,032 --> 00:45:12,732
+it will not work.
+
+1692
+00:45:11,032 --> 00:45:12,732
+这是行不通的。
+
+1693
+00:45:12,732 --> 00:45:16,532
+So, if you want to meter dump all your meter and you're about to kill
+
+1694
+00:45:12,732 --> 00:45:16,532
+所以，如果你想倾尽所有的能量条并且即将击败对手
+
+1695
+00:45:16,532 --> 00:45:23,542
+you would do that pretty much as your basic ender combo to kill someone.
+
+1696
+00:45:16,532 --> 00:45:23,542
+你基本上会使用这种连招作为击杀对手的终结技。
+
+1697
+00:45:23,542 --> 00:45:24,285
+That's going to be the.
+
+1698
+00:45:23,542 --> 00:45:24,285
+这将是最终的。
+
+1699
+00:45:24,285 --> 00:45:24,362
+..
+
+1700
+00:45:24,285 --> 00:45:24,362
+..
+
+1701
+00:45:24,362 --> 00:45:28,992
+Pretty much the simple Cammy combo that you see everyone do to kill
+
+1702
+00:45:24,362 --> 00:45:28,992
+基本上，你会看到大家都在使用的简单的 Cammy 连招就是为了击杀对手
+
+1703
+00:45:28,992 --> 00:45:30,502
+and the more advanced one, of course
+
+1704
+00:45:28,992 --> 00:45:30,502
+当然，还有更高级的连招
+
+1705
+00:45:30,502 --> 00:45:35,292
+is going to be what I showed you earlier.
+
+1706
+00:45:30,502 --> 00:45:35,292
+就是我之前向你展示的那个。
+
+1707
+00:45:35,292 --> 00:45:42,292
+Which will be your more optimal, and does a bit more in the corner.
+
+1708
+00:45:35,292 --> 00:45:42,292
+在角落里更优化，并能做更多事情。
+
+1709
+00:45:42,292 --> 00:45:46,192
+Obviously this is a only a corner combo.
+
+1710
+00:45:42,292 --> 00:45:46,192
+显然这只是一个角落连击。
+
+1711
+00:45:46,192 --> 00:45:53,006
+And another good drive rush combo I will say that you will want to have in your arsenal is.
+
+1712
+00:45:46,192 --> 00:45:53,006
+另一个我认为你会想要放入武器库的好驱动冲刺连击是。
+
+1713
+00:45:53,006 --> 00:45:53,202
+..
+
+1714
+00:45:53,006 --> 00:45:53,202
+..
+
+1715
+00:45:53,202 --> 00:45:57,912
+In the corner you can do combos like this with Cammy if you get a knock-up.
+
+1716
+00:45:53,202 --> 00:45:57,912
+在角落里，如果你能击倒对手，可以用凯米这样的连招。
+
+1717
+00:45:57,912 --> 00:46:06,052
+So let's say you get boomed, you can dump some more meter and do a combo like that.
+
+1718
+00:45:57,912 --> 00:46:06,052
+比如说你被击中了，你可以投入更多能量槽并执行这样的连招。
+
+1719
+00:46:06,052 --> 00:46:13,183
+And also, in the corner, it is very important for you to know that no matter how high an opponent.
+
+1720
+00:46:06,052 --> 00:46:13,183
+而且，在角落里，无论对手处于多高的位置，了解这一点都非常重要。
+
+1721
+00:46:13,183 --> 00:46:13,301
+..
+
+1722
+00:46:13,183 --> 00:46:13,301
+..
+
+1723
+00:46:13,301 --> 00:46:17,552
+Or, well, not how high, but if you ever land back heavy kick
+
+1724
+00:46:13,301 --> 00:46:17,552
+或者，嗯，不是有多高，但如果你曾经落地重踢
+
+1725
+00:46:17,552 --> 00:46:22,532
+heavy kick, you can do DP into super.
+
+1726
+00:46:17,552 --> 00:46:22,532
+重踢，你可以接龙卷拳（DP）再接必杀技。
+
+1727
+00:46:22,532 --> 00:46:23,502
+Not from that height.
+
+1728
+00:46:22,532 --> 00:46:23,502
+不是从那个高度。
+
+1729
+00:46:23,502 --> 00:46:25,452
+See, those heights you will not be able to do it from
+
+1730
+00:46:23,502 --> 00:46:25,452
+看，那些高度你是无法做到的
+
+1731
+00:46:25,452 --> 00:46:28,232
+but if you let them land a bit lower
+
+1732
+00:46:25,452 --> 00:46:28,232
+但是如果让它们稍微低一些落地
+
+1733
+00:46:28,232 --> 00:46:32,192
+this will actually do the most.
+
+1734
+00:46:28,232 --> 00:46:32,192
+这样实际上会更好。
+
+1735
+00:46:32,192 --> 00:46:39,182
+And the super will always land in the corner from a charge DP if you land the DP low enough to the opponent.
+
+1736
+00:46:32,192 --> 00:46:39,182
+如果你在对手较低的位置命中龙拳(DP)，超级必定会击中角落。
+
+1737
+00:46:39,182 --> 00:46:45,172
+You will always be able to get charge DP super
+
+1738
+00:46:39,182 --> 00:46:45,172
+你总能获得龙拳超级招式
+
+1739
+00:46:45,172 --> 00:46:49,332
+but mid screen, do not try this because you can.
+
+1740
+00:46:45,172 --> 00:46:49,332
+但在屏幕中央，不要仅仅因为可以就尝试。
+
+1741
+00:46:49,332 --> 00:46:49,892
+..
+
+1742
+00:46:49,332 --> 00:46:49,892
+..
+
+1743
+00:46:49,892 --> 00:46:52,780
+See here, I do not believe.
+
+1744
+00:46:49,892 --> 00:46:52,780
+看着这个，我不相信。
+
+1745
+00:46:52,780 --> 00:46:53,032
+..
+
+1746
+00:46:52,780 --> 00:46:53,032
+..
+
+1747
+00:46:53,032 --> 00:46:59,292
+Yeah, see, it will never work, but if you see me do this combo in the corner
+
+1748
+00:46:53,032 --> 00:46:59,292
+是的，看，它永远不会起作用，但如果你看我在角落里做这个连招
+
+1749
+00:46:59,292 --> 00:47:02,732
+they will always fall into it after the charge DP.
+
+1750
+00:46:59,292 --> 00:47:02,732
+他们总会在充能龙爪之后落入陷阱。
+
+1751
+00:47:02,732 --> 00:47:07,952
+Remember, even if you're juggling, regular DP level three
+
+1752
+00:47:02,732 --> 00:47:07,952
+记住，即使你在连段，常规反升龙三级
+
+1753
+00:47:07,952 --> 00:47:09,752
+boom, never works.
+
+1754
+00:47:07,952 --> 00:47:09,752
+嘭，从不起作用。
+
+1755
+00:47:09,752 --> 00:47:11,592
+Never regular DP level three.
+
+1756
+00:47:09,752 --> 00:47:11,592
+绝不是常规反升龙三级。
+
+1757
+00:47:11,592 --> 00:47:13,852
+If you don't want to go for the charge DP level three
+
+1758
+00:47:11,592 --> 00:47:13,852
+如果你不想使用蓄力龙卷肩技能三级
+
+1759
+00:47:13,852 --> 00:47:19,132
+you can always just do spiral arrow into a level three
+
+1760
+00:47:13,852 --> 00:47:19,132
+你可以直接用螺旋箭攻击切入三级技能
+
+1761
+00:47:19,132 --> 00:47:21,992
+which will be your go-to level three combos
+
+1762
+00:47:19,132 --> 00:47:21,992
+这将是你最常用的三级连招技巧
+
+1763
+00:47:21,992 --> 00:47:22,552
+I would say.
+
+1764
+00:47:21,992 --> 00:47:22,552
+我可以这么说。
+
+1765
+00:47:22,552 --> 00:47:25,252
+Now, for a level one, I would think
+
+1766
+00:47:22,552 --> 00:47:25,252
+现在，对于一级关卡，我会认为
+
+1767
+00:47:25,252 --> 00:47:25,492
+say.
+
+1768
+00:47:25,252 --> 00:47:25,492
+说。
+
+1769
+00:47:25,492 --> 00:47:25,582
+..
+
+1770
+00:47:25,492 --> 00:47:25,582
+..
+
+1771
+00:47:25,582 --> 00:47:33,192
+This is a very important combo, which is going to be your side switch combo here.
+
+1772
+00:47:25,582 --> 00:47:33,192
+这是一个非常重要的连招，它将成为你的换边连招。
+
+1773
+00:47:33,192 --> 00:47:34,972
+This is Cammy's side switch combo.
+
+1774
+00:47:33,192 --> 00:47:34,972
+这是 Cammy 的侧换位连段。
+
+1775
+00:47:34,972 --> 00:47:36,912
+No meter.
+
+1776
+00:47:34,972 --> 00:47:36,912
+不需要能量。
+
+1777
+00:47:36,912 --> 00:47:45,692
+Anytime you land back target combo, you just do heavy hooligan
+
+1778
+00:47:36,912 --> 00:47:45,692
+每当你成功命中背面目标连段时，直接使用重拳钩拳招式。
+
+1779
+00:47:45,692 --> 00:47:48,832
+and it will always side switch if you do target combo.
+
+1780
+00:47:45,692 --> 00:47:48,832
+无论何时，如果你执行目标连招，都将会进行侧面切换。
+
+1781
+00:47:48,832 --> 00:47:52,732
+Anytime you land target combo, you can side switch with this.
+
+1782
+00:47:48,832 --> 00:47:52,732
+每次你命中目标连招，都可以通过这种方式进行侧面切换。
+
+1783
+00:47:52,732 --> 00:47:57,832
+Now, if you look here this is a very good way to use level one
+
+1784
+00:47:52,732 --> 00:47:57,832
+现在，如果你看这里，这是使用一级招式的非常好的方法
+
+1785
+00:47:57,832 --> 00:47:59,852
+I would say.
+
+1786
+00:47:57,832 --> 00:47:59,852
+我可以这么说。
+
+1787
+00:47:59,852 --> 00:48:01,512
+It's a bit damaging combo.
+
+1788
+00:47:59,852 --> 00:48:01,512
+这是一个稍微有些伤害的连招。
+
+1789
+00:48:01,512 --> 00:48:03,258
+It's really good, and it's going to.
+
+1790
+00:48:01,512 --> 00:48:03,258
+这真的很不错，而且它将会。
+
+1791
+00:48:03,258 --> 00:48:03,422
+..
+
+1792
+00:48:03,258 --> 00:48:03,422
+..
+
+1793
+00:48:03,422 --> 00:48:08,022
+Use up quite a lot of meter, but it's going to get your opponent in the corner and take you out the corner.
+
+1794
+00:48:03,422 --> 00:48:08,022
+会消耗相当多的能量条，但是它能把对手逼到角落，并且帮你脱离角落。
+
+1795
+00:48:08,022 --> 00:48:11,112
+It's going to be anytime you land a drive rush
+
+1796
+00:48:08,022 --> 00:48:11,112
+每当你成功进行驱动冲刺（drive rush）时
+
+1797
+00:48:11,112 --> 00:48:16,892
+and you can go into crouch fierce, heavy kick
+
+1798
+00:48:11,112 --> 00:48:16,892
+你可以接上蹲姿重拳，重踢
+
+1799
+00:48:16,892 --> 00:48:25,232
+and it will take them all the way to the corner where you are free to start pressuring them.
+
+1800
+00:48:16,892 --> 00:48:25,232
+这会将对手推到角落，让你可以开始对他们施加压力。
+
+1801
+00:48:25,232 --> 00:48:29,472
+I would say this combo is very important for Cammy and you're gonna want to learn it.
+
+1802
+00:48:25,232 --> 00:48:29,472
+我想说这个连招对于凯米来说非常重要，你一定要学会。
+
+1803
+00:48:29,472 --> 00:48:35,422
+Anytime you land a drive rush, boom-Here we go.
+
+1804
+00:48:29,472 --> 00:48:35,422
+只要你成功触发冲刺进攻，嘭-出招了。
+
+1805
+00:48:35,422 --> 00:48:39,282
+  One more time.
+
+1806
+00:48:35,422 --> 00:48:39,282
+再来一次。
+
+1807
+00:48:39,282 --> 00:48:44,102
+Crouch fears, back heavy kick and then I hold the.
+
+1808
+00:48:39,282 --> 00:48:44,102
+蹲防恐慌，后重踢，然后我按住。
+
+1809
+00:48:44,102 --> 00:48:44,322
+..
+
+1810
+00:48:44,102 --> 00:48:44,322
+..
+
+1811
+00:48:44,322 --> 00:48:47,812
+You know, you do the drive rush after the back heavy kick.
+
+1812
+00:48:44,322 --> 00:48:47,812
+你知道，在背面重踢后进行驱动冲刺。
+
+1813
+00:48:47,812 --> 00:48:49,122
+You do the parry drive rush.
+
+1814
+00:48:47,812 --> 00:48:49,122
+你进行格挡驱动冲刺。
+
+1815
+00:48:49,122 --> 00:48:50,422
+You see me holding the parry?
+
+1816
+00:48:49,122 --> 00:48:50,422
+你看到我一直在保持格挡吗？
+
+1817
+00:48:50,422 --> 00:48:53,372
+I want to explain this so people understand the juggle move.
+
+1818
+00:48:50,422 --> 00:48:53,372
+我想解释这个连段技巧，让大家能够理解。
+
+1819
+00:48:53,372 --> 00:48:56,882
+Hold the parry and then just dash.
+
+1820
+00:48:53,372 --> 00:48:56,882
+按住格挡，然后直接冲刺。
+
+1821
+00:48:56,882 --> 00:48:59,872
+ As you see my input, I start holding very early.
+
+1822
+00:48:56,882 --> 00:48:59,872
+正如你看到的我的输入，我一开始就很早就开始按住。
+
+1823
+00:48:59,872 --> 00:49:04,422
+Soon as I do back heavy kick, you can just start holding it and buffering that dash.
+
+1824
+00:48:59,872 --> 00:49:04,422
+只要我做了后重踢，你就可以开始按住并缓冲那个冲刺。
+
+1825
+00:49:04,422 --> 00:49:07,502
+So, this gonna be a very important combo for that.
+
+1826
+00:49:04,422 --> 00:49:07,502
+所以，这将是一个非常重要的连招。
+
+1827
+00:49:07,502 --> 00:49:14,502
+And now for your level two, you have a very important air combo to close out rounds if you do land this
+
+1828
+00:49:07,502 --> 00:49:14,502
+现在对于你的二级招式，如果你能击中这一招，有一个非常重要的空中连招可以结束回合。
+
+1829
+00:49:14,502 --> 00:49:16,632
+which is going to be- Be quiet.
+
+1830
+00:49:14,502 --> 00:49:16,632
+这将是- 安静点。
+
+1831
+00:49:16,632 --> 00:49:16,632
+.
+
+1832
+00:49:16,632 --> 00:49:16,632
+。
+
+1833
+00:49:16,632 --> 00:49:16,632
+.
+
+1834
+00:49:16,632 --> 00:49:16,632
+。
+
+1835
+00:49:16,632 --> 00:49:18,862
+this into heavy DP.
+
+1836
+00:49:16,632 --> 00:49:18,862
+将其转化为重度 DP。
+
+1837
+00:49:18,862 --> 00:49:21,052
+So, anytime you land a charge, uh
+
+1838
+00:49:18,862 --> 00:49:21,052
+所以，每当你命中一个蓄力攻击时，呃
+
+1839
+00:49:21,052 --> 00:49:26,822
+target combo, you can go into this level two super.
+
+1840
+00:49:21,052 --> 00:49:26,822
+目标连击，你就可以释放这个二级必杀技。
+
+1841
+00:49:26,822 --> 00:49:28,602
+Be quiet.
+
+1842
+00:49:26,822 --> 00:49:28,602
+安静点。
+
+1843
+00:49:28,602 --> 00:49:35,882
+ So, if you ever land an air to air on someone and you do super immediately
+
+1844
+00:49:28,602 --> 00:49:35,882
+所以，如果你在空中对空时击中对手，并立即使用必杀技
+
+1845
+00:49:35,882 --> 00:49:37,872
+you can get a pretty big- Be quiet.
+
+1846
+00:49:35,882 --> 00:49:37,872
+你可以获得一个相当大的- 安静点。
+
+1847
+00:49:37,872 --> 00:49:37,872
+.
+
+1848
+00:49:37,872 --> 00:49:37,872
+。
+
+1849
+00:49:37,872 --> 00:49:37,872
+.
+
+1850
+00:49:37,872 --> 00:49:37,872
+。
+
+1851
+00:49:37,872 --> 00:49:39,501
+drive rush combo.
+
+1852
+00:49:37,872 --> 00:49:39,501
+驱动冲刺连招。
+
+1853
+00:49:39,501 --> 00:49:39,672
+Be quiet.
+
+1854
+00:49:39,501 --> 00:49:39,672
+安静点。
+
+1855
+00:49:39,672 --> 00:49:44,492
+ How does he work like that?
+
+1856
+00:49:39,672 --> 00:49:44,492
+他怎么能这样工作？
+
+1857
+00:49:44,492 --> 00:49:44,512
+Here we go.
+
+1858
+00:49:44,492 --> 00:49:44,512
+我们出发吧。
+
+1859
+00:49:44,512 --> 00:49:48,942
+  You can always get a big drive rush combo.
+
+1860
+00:49:44,512 --> 00:49:48,942
+你总是可以得到一个大的冲刺连击。
+
+1861
+00:49:48,942 --> 00:49:51,782
+You can become unique with that right there
+
+1862
+00:49:48,942 --> 00:49:51,782
+你可以通过这个变得独特
+
+1863
+00:49:51,782 --> 00:49:55,202
+just go off that template and you can figure out stuff from there.
+
+1864
+00:49:51,782 --> 00:49:55,202
+只需按照那个模板，你就可以从那里找出一些东西。
+
+1865
+00:49:55,202 --> 00:49:59,162
+So, I would say, pretty much, that is all the basic combos for Cammy
+
+1866
+00:49:55,202 --> 00:49:59,162
+所以，我想说，这基本上就是 Cammy 的所有基础连招
+
+1867
+00:49:59,162 --> 00:50:02,462
+or the basic and the advanced combos, pretty much
+
+1868
+00:49:59,162 --> 00:50:02,462
+或者说基础和高级连招，基本上就是这些
+
+1869
+00:50:02,462 --> 00:50:05,062
+from jabs to drive rush to all of that.
+
+1870
+00:50:02,462 --> 00:50:05,062
+从直拳到冲刺攻击等所有招式。
+
+1871
+00:50:05,062 --> 00:50:07,812
+Next thing I want to go over is probably going to be Cammy's frame traps
+
+1872
+00:50:05,062 --> 00:50:07,812
+接下来我想讲解的是 Cammy 的帧陷阱
+
+1873
+00:50:07,812 --> 00:50:08,182
+actually.
+
+1874
+00:50:07,812 --> 00:50:08,182
+事实上。
+
+1875
+00:50:08,182 --> 00:50:12,861
+I think her frame traps is pretty important from the drive rush.
+
+1876
+00:50:08,182 --> 00:50:12,861
+我认为她的帧陷阱从驱动冲刺中非常重要。
+
+1877
+00:50:12,861 --> 00:50:14,052
+So, this is going to be, like
+
+1878
+00:50:12,861 --> 00:50:14,052
+好的，这将是关于
+
+1879
+00:50:14,052 --> 00:50:16,082
+drive rush frame traps.
+
+1880
+00:50:14,052 --> 00:50:16,082
+驱动冲刺帧陷阱。
+
+1881
+00:50:16,082 --> 00:50:18,792
+So, we're going to show off some drive rush frame traps.
+
+1882
+00:50:16,082 --> 00:50:18,792
+我们将展示一些驱动冲刺帧陷阱。
+
+1883
+00:50:18,792 --> 00:50:22,192
+If you do catch your opponent mashing a lot on your plus frames
+
+1884
+00:50:18,792 --> 00:50:22,192
+如果你发现对手在你的正优势帧上频繁按键
+
+1885
+00:50:22,192 --> 00:50:24,312
+on drive rush, of course, all these buttons
+
+1886
+00:50:22,192 --> 00:50:24,312
+在驱动冲刺时，当然，所有这些按键
+
+1887
+00:50:24,312 --> 00:50:28,462
+like I stated earlier, all of these are extremely plus.
+
+1888
+00:50:24,312 --> 00:50:28,462
+正如我之前说的，这些都是极度正优势的。
+
+1889
+00:50:28,462 --> 00:50:34,022
+So, you can pretty much get some unique frame traps from the drive rush system on block.
+
+1890
+00:50:28,462 --> 00:50:34,022
+所以，你基本可以通过驱动冲刺系统在格挡时获得一些独特的帧陷阱。
+
+1891
+00:50:34,022 --> 00:50:40,172
+ As you can see, instead of this medium punch being minus one like it usually is
+
+1892
+00:50:34,022 --> 00:50:40,172
+正如你所看到的，这个中拳不再像平常那样处于负一帧
+
+1893
+00:50:40,172 --> 00:50:43,371
+and if I try to do two, I'm gonna get hit.
+
+1894
+00:50:40,172 --> 00:50:43,371
+如果我尝试做两次，我将会被击中。
+
+1895
+00:50:43,371 --> 00:50:45,952
+But if I do this, here, you see
+
+1896
+00:50:43,371 --> 00:50:45,952
+但是如果我这样做，你看，
+
+1897
+00:50:45,952 --> 00:50:48,642
+it always will frame trap their mash.
+
+1898
+00:50:45,952 --> 00:50:48,642
+这总是会让他们的乱按陷入陷阱。
+
+1899
+00:50:48,642 --> 00:50:51,282
+ So, let's say you catch someone mashing
+
+1900
+00:50:48,642 --> 00:50:51,282
+所以，假设你抓住了某人乱按按键
+
+1901
+00:50:51,282 --> 00:50:54,462
+you can do stand medium punch, it will counter hit.
+
+1902
+00:50:51,282 --> 00:50:54,462
+你可以使用站立中拳，这会造成反击命中。
+
+1903
+00:50:54,462 --> 00:51:00,122
+And of course, you know, you just go back to all the counter hit combos I showed earlier and they will work in these situations.
+
+1904
+00:50:54,462 --> 00:51:00,122
+当然，你知道的，你可以回到我之前展示的所有反击连招，它们在这些情况下都会生效。
+
+1905
+00:51:00,122 --> 00:51:03,742
+So, let's say you do this, you can frame trap with another one of those.
+
+1906
+00:51:00,122 --> 00:51:03,742
+所以，比如说你这样做，你可以用另一个技能来设置帧陷阱。
+
+1907
+00:51:03,742 --> 00:51:07,562
+You could even go for a crouching medium punch and it will trade
+
+1908
+00:51:03,742 --> 00:51:07,562
+你甚至可以选择蹲下的中拳，这将会交换打击
+
+1909
+00:51:07,562 --> 00:51:12,422
+and I believe you can get maybe a trade combo from certain ranges if you're close enough.
+
+1910
+00:51:07,562 --> 00:51:12,422
+我相信如果你足够近，你可以从某些距离获得一个交换连招。
+
+1911
+00:51:12,422 --> 00:51:19,282
+ Yeah, there you go.
+
+1912
+00:51:12,422 --> 00:51:19,282
+没错，就是这样。
+
+1913
+00:51:19,282 --> 00:51:21,591
+So you can get, like, a trade combo with standing light kick.
+
+1914
+00:51:19,282 --> 00:51:21,591
+所以你可以得到一个带有站立轻踢的连段连招。
+
+1915
+00:51:21,591 --> 00:51:26,742
+If you at least go this route, I would recommend just frame trapping with two of those
+
+1916
+00:51:21,591 --> 00:51:26,742
+如果你至少走这条路线，我建议使用两个即时帧陷阱
+
+1917
+00:51:26,742 --> 00:51:29,602
+or you either go for the grab after.
+
+1918
+00:51:26,742 --> 00:51:29,602
+或者之后选择抓取。
+
+1919
+00:51:29,602 --> 00:51:32,502
+Another big frame trap gonna be from your crouching fears
+
+1920
+00:51:29,602 --> 00:51:32,502
+另一个大的帧陷阱将来自你的蹲姿重击
+
+1921
+00:51:32,502 --> 00:51:36,292
+which is very plus, and you're able to do
+
+1922
+00:51:32,502 --> 00:51:36,292
+这是非常有利的，你能够做到
+
+1923
+00:51:36,292 --> 00:51:38,622
+of course, the same thing from the standing medium
+
+1924
+00:51:36,292 --> 00:51:38,622
+当然，同样的事情也可以从站立中等攻击开始
+
+1925
+00:51:38,622 --> 00:51:40,762
+except crouch medium punch, if you do it this time
+
+1926
+00:51:38,622 --> 00:51:40,762
+除了蹲下中拳，如果这次做这个动作
+
+1927
+00:51:40,762 --> 00:51:42,642
+it will be real.
+
+1928
+00:51:40,762 --> 00:51:42,642
+它就会成真。
+
+1929
+00:51:42,642 --> 00:51:47,022
+ So you can do crouch fear, stand medium punch
+
+1930
+00:51:42,642 --> 00:51:47,022
+所以你可以做蹲下防御，站立中拳
+
+1931
+00:51:47,022 --> 00:51:49,922
+and this is all going to be part of your pressure.
+
+1932
+00:51:47,022 --> 00:51:49,922
+这些都将成为你施压的一部分。
+
+1933
+00:51:49,922 --> 00:51:54,402
+Get grabbed.
+
+1934
+00:51:49,922 --> 00:51:54,402
+被抓住了。
+
+1935
+00:51:54,402 --> 00:51:57,602
+You see here, even though I'm not in range to grab
+
+1936
+00:51:54,402 --> 00:51:57,602
+你看，即使我不在抓取范围内
+
+1937
+00:51:57,602 --> 00:52:00,442
+which I was mashing here, since it's so plus
+
+1938
+00:51:57,602 --> 00:52:00,442
+我在这里一直狂按，因为这招非常有利
+
+1939
+00:52:00,442 --> 00:52:08,712
+I can just walk up, grab him and it still will counter hit because I have extreme amounts of plus frames from all of this crouch fears.
+
+1940
+00:52:00,442 --> 00:52:08,712
+我可以直接走上前，抓取他，这仍然会触发反击，因为我从所有这些蹲下的攻击中获得了极大的帧数优势。
+
+1941
+00:52:08,712 --> 00:52:12,402
+Slight step walk forward into grab, boom
+
+1942
+00:52:08,712 --> 00:52:12,402
+轻微走位向前，然后抓取，完成！
+
+1943
+00:52:12,402 --> 00:52:14,802
+it's always going to beat the mash.
+
+1944
+00:52:12,402 --> 00:52:14,802
+这总是会打败乱按按键的情况。
+
+1945
+00:52:14,802 --> 00:52:19,022
+And then also, you have your jab frame trap.
+
+1946
+00:52:14,802 --> 00:52:19,022
+然后，你还有你的立拳帧陷阱。
+
+1947
+00:52:19,022 --> 00:52:22,782
+Boom.
+
+1948
+00:52:19,022 --> 00:52:22,782
+轰！
+
+1949
+00:52:22,782 --> 00:52:24,482
+So if someone tried to mash jab there
+
+1950
+00:52:22,782 --> 00:52:24,482
+所以如果有人试图在那里乱按立拳
+
+1951
+00:52:24,482 --> 00:52:28,022
+you could get a pretty cool trade combo.
+
+1952
+00:52:24,482 --> 00:52:28,022
+你可以得到一个相当酷的连段连击。
+
+1953
+00:52:28,022 --> 00:52:31,602
+Uh, stand fears don't work.
+
+1954
+00:52:28,022 --> 00:52:31,602
+呃，站立恐惧不起作用。
+
+1955
+00:52:31,602 --> 00:52:36,322
+Or he could just go for the grab
+
+1956
+00:52:31,602 --> 00:52:36,322
+或者他可以直接去抓取。
+
+1957
+00:52:36,322 --> 00:52:41,022
+of course, which is going to catch the mash every time.
+
+1958
+00:52:36,322 --> 00:52:41,022
+当然，这将每次都捕捉到按键乱打。
+
+1959
+00:52:41,022 --> 00:52:49,942
+So these are pretty cool, important trade combos that you're going to want to know off of frame trapping with the drive reversal.
+
+1960
+00:52:41,022 --> 00:52:49,942
+这些都是相当不错的、重要的交换连段，你需要通过帧陷阱和驱动反击来了解它们。
+
+1961
+00:52:49,942 --> 00:52:58,502
+So, that's pretty much gonna be how we use Cammy's drive system to get frame traps off.
+
+1962
+00:52:49,942 --> 00:52:58,502
+所以，这基本上就是我们如何利用 Cammy 的驱动系统来制造帧陷阱。
+
+1963
+00:52:58,502 --> 00:53:02,742
+Also, of course, you have her crouch fears regularly
+
+1964
+00:52:58,502 --> 00:53:02,742
+同时，当然，你需要经常使用她的蹲姿突袭招式
+
+1965
+00:53:02,742 --> 00:53:07,062
+which is going to frame trap people 'cause it is her only plus button on block
+
+1966
+00:53:02,742 --> 00:53:07,062
+这会对对手形成 Frame Trap，因为这是她唯一在被格挡时为正帧的招式
+
+1967
+00:53:07,062 --> 00:53:15,122
+which is crouching fears into stand jab is your best option to go to from crouch fears to frame trap someone
+
+1968
+00:53:07,062 --> 00:53:15,122
+从蹲姿突袭招式转换到立式轻拳是用来 Frame Trap 对手的最佳选择
+
+1969
+00:53:15,122 --> 00:53:16,582
+mash and jab.
+
+1970
+00:53:15,122 --> 00:53:16,582
+连续按键和轻拳。
+
+1971
+00:53:16,582 --> 00:53:18,222
+And the most important one, I think
+
+1972
+00:53:16,582 --> 00:53:18,222
+而我认为最重要的是
+
+1973
+00:53:18,222 --> 00:53:21,122
+is the crouch jab chains.
+
+1974
+00:53:18,222 --> 00:53:21,122
+蹲下轻拳连招。
+
+1975
+00:53:21,122 --> 00:53:24,842
+If you do chain your crouch jab and someone mash
+
+1976
+00:53:21,122 --> 00:53:24,842
+如果你将蹲姿轻拳串联，有人乱按
+
+1977
+00:53:24,842 --> 00:53:28,922
+they will get hit every time.
+
+1978
+00:53:24,842 --> 00:53:28,922
+他们每次都会被击中。
+
+1979
+00:53:28,922 --> 00:53:29,540
+So this is.
+
+1980
+00:53:28,922 --> 00:53:29,540
+情况就是如此。
+
+1981
+00:53:29,540 --> 00:53:29,632
+..
+
+1982
+00:53:29,540 --> 00:53:29,632
+..
+
+1983
+00:53:29,632 --> 00:53:31,782
+And a very important frame trap.
+
+1984
+00:53:29,632 --> 00:53:31,782
+这是一个非常重要的框架陷阱。
+
+1985
+00:53:31,782 --> 00:53:35,462
+Since crouch jabs are minus on block, people like to mash a lot.
+
+1986
+00:53:31,782 --> 00:53:35,462
+由于下蹲重拳是不利于防御的，人们喜欢乱按按钮。
+
+1987
+00:53:35,462 --> 00:53:38,702
+But since they're chainable, they become a real frame trap.
+
+1988
+00:53:35,462 --> 00:53:38,702
+但是由于这些攻击是可连锁的，它们实际上形成了一个真正的框架陷阱。
+
+1989
+00:53:38,702 --> 00:53:41,222
+But if you do wait one second late
+
+1990
+00:53:38,702 --> 00:53:41,222
+但是如果你晚等一秒钟
+
+1991
+00:53:41,222 --> 00:53:43,072
+boom, you're going to get hit every time.
+
+1992
+00:53:41,222 --> 00:53:43,072
+嘭，你每次都会被击中。
+
+1993
+00:53:43,072 --> 00:53:43,562
+You see that?
+
+1994
+00:53:43,072 --> 00:53:43,562
+你看到了吗？
+
+1995
+00:53:43,562 --> 00:53:44,216
+I'm trying to.
+
+1996
+00:53:43,562 --> 00:53:44,216
+我正在尝试。
+
+1997
+00:53:44,216 --> 00:53:44,372
+..
+
+1998
+00:53:44,216 --> 00:53:44,372
+..
+
+1999
+00:53:44,372 --> 00:53:50,602
+Wait a second, you just chain them and it will beat the mash every time.
+
+2000
+00:53:44,372 --> 00:53:50,602
+等一下，你只需要将这些连招串联起来，就能每次都打败对方的乱按按钮。
+
+2001
+00:53:50,602 --> 00:53:59,332
+So that is pretty much going to be how you want to pressure with Cammy and frame trap people to open them up and
+
+2002
+00:53:50,602 --> 00:53:59,332
+这基本上就是你想要用凯米施压并陷阱对手的方式，以便打开他们的防守，
+
+2003
+00:53:59,332 --> 00:54:04,402
+uh, just create advantageous situations for yourself on offense.
+
+2004
+00:53:59,332 --> 00:54:04,402
+嗯，为自己创造进攻中的有利局面。
+
+2005
+00:54:04,402 --> 00:54:08,872
+The next thing we're going to go over is going to be meteys for Cammy.
+
+2006
+00:54:04,402 --> 00:54:08,872
+接下来我们要讨论的是 Cammy 的招式选择。
+
+2007
+00:54:08,872 --> 00:54:10,202
+If you don't know what a meaty is
+
+2008
+00:54:08,872 --> 00:54:10,202
+如果你不知道什么是 meaty 攻击
+
+2009
+00:54:10,202 --> 00:54:15,582
+it's pretty much going to be something else that stops your opponent from doing wake up buttons
+
+2010
+00:54:10,202 --> 00:54:15,582
+这基本上就是可以阻止对手使用起身按键的技术
+
+2011
+00:54:15,582 --> 00:54:19,882
+as we can show right now when I knock Guile down.
+
+2012
+00:54:15,582 --> 00:54:19,882
+就像我现在击倒 Guile 时展示的那样。
+
+2013
+00:54:19,882 --> 00:54:24,082
+He on a wake up button.
+
+2014
+00:54:19,882 --> 00:54:24,082
+他按下了唤醒按键。
+
+2015
+00:54:24,082 --> 00:54:27,082
+And now, if you mess this timing up
+
+2016
+00:54:24,082 --> 00:54:27,082
+现在，如果你的时机把握不当
+
+2017
+00:54:27,082 --> 00:54:31,542
+let's say you just timing it off of steel
+
+2018
+00:54:27,082 --> 00:54:31,542
+假设你的时机稍微偏离了钢铁的节奏
+
+2019
+00:54:31,542 --> 00:54:38,796
+boom, you can just get hit and mashed on-So
+
+2020
+00:54:31,542 --> 00:54:38,796
+嘭，你就会被打中并被狂揍
+
+2021
+00:54:38,796 --> 00:54:40,646
+since you don't want to mess this up
+
+2022
+00:54:38,796 --> 00:54:40,646
+既然你不想搞砸
+
+2023
+00:54:40,646 --> 00:54:46,756
+you want to kind of find set-ups that just time themselves and you don't even have to think about it
+
+2024
+00:54:40,646 --> 00:54:46,756
+你想找到那些能自动计时的设置，根本不需要你去思考
+
+2025
+00:54:46,756 --> 00:54:50,496
+manually timing your grab or your button or whatever it is
+
+2026
+00:54:46,756 --> 00:54:50,496
+手动控制你的抓取、按键或其他操作的时机
+
+2027
+00:54:50,496 --> 00:54:52,476
+so you don't actually get mashed on.
+
+2028
+00:54:50,496 --> 00:54:52,476
+以避免被对手压制。
+
+2029
+00:54:52,476 --> 00:54:55,776
+The one of the most important ones for Cammy that I've found
+
+2030
+00:54:52,476 --> 00:54:55,776
+我发现对于凯米来说最重要的之一
+
+2031
+00:54:55,776 --> 00:54:58,008
+obviously this is things that I've found, I don't.
+
+2032
+00:54:55,776 --> 00:54:58,008
+显然，这些是我发现的东西，我不知道。
+
+2033
+00:54:58,008 --> 00:54:58,116
+..
+
+2034
+00:54:58,008 --> 00:54:58,116
+..
+
+2035
+00:54:58,116 --> 00:55:00,006
+I will say there's going to be a lot more
+
+2036
+00:54:58,116 --> 00:55:00,006
+我要说，未来可能会有更多
+
+2037
+00:55:00,006 --> 00:55:07,306
+maybe better than these in the future, but these ones are the ones that I have right now and that I use in my matches that I play.
+
+2038
+00:55:00,006 --> 00:55:07,306
+可能比这些更好，但这些就是我现在拥有的，并且在我打比赛时使用的技巧。
+
+2039
+00:55:07,306 --> 00:55:08,928
+Which is going to be.
+
+2040
+00:55:07,306 --> 00:55:08,928
+这将会是的。
+
+2041
+00:55:08,928 --> 00:55:09,556
+..
+
+2042
+00:55:08,928 --> 00:55:09,556
+..
+
+2043
+00:55:09,556 --> 00:55:13,046
+After heavy drill, no matter where you get heavy drill
+
+2044
+00:55:09,556 --> 00:55:13,046
+经过重型钻头后，无论你在哪里得到重型钻头
+
+2045
+00:55:13,046 --> 00:55:18,066
+dash crouch fears mid-screen every time is going to be extremely meaty
+
+2046
+00:55:13,046 --> 00:55:18,066
+在中屏时，冲刺下蹲每次都会非常有威胁性
+
+2047
+00:55:18,066 --> 00:55:23,406
+and as you seen, it beat the wake-up button.
+
+2048
+00:55:18,066 --> 00:55:23,406
+如你所见，它击败了起身按键。
+
+2049
+00:55:23,406 --> 00:55:27,936
+Every time it's going to win.
+
+2050
+00:55:23,406 --> 00:55:27,936
+每次都会赢。
+
+2051
+00:55:27,936 --> 00:55:32,566
+And let's say, even if your opponent hold up and you don't get that counter hit
+
+2052
+00:55:27,936 --> 00:55:32,566
+即便你的对手按住上键，而你没有获得那个反击命中
+
+2053
+00:55:32,566 --> 00:55:37,275
+you can always, on this meaty, go into stand fears.
+
+2054
+00:55:32,566 --> 00:55:37,275
+你总是可以在这个肉搏攻击后进入站立惩罚。
+
+2055
+00:55:37,275 --> 00:55:39,426
+Let me take them off so there's no counter hit.
+
+2056
+00:55:37,275 --> 00:55:39,426
+让我把它们摘掉，这样就没有反打。
+
+2057
+00:55:39,426 --> 00:55:45,676
+So when you land this meaty, it is so meaty that you can combo and to stand fears always.
+
+2058
+00:55:39,426 --> 00:55:45,676
+所以当你命中这个肉搏攻击时，它是如此精准，以至于你可以进行连招并始终进入站立惩罚。
+
+2059
+00:55:45,676 --> 00:55:47,906
+Look at that.
+
+2060
+00:55:45,676 --> 00:55:47,906
+看看这个。
+
+2061
+00:55:47,906 --> 00:55:51,286
+Every time, this is auto-timed, you don't have to think about it.
+
+2062
+00:55:47,906 --> 00:55:51,286
+每次都是自动计时，你不需要思考。
+
+2063
+00:55:51,286 --> 00:55:52,806
+You dash forward.
+
+2064
+00:55:51,286 --> 00:55:52,806
+你向前冲刺。
+
+2065
+00:55:52,806 --> 00:55:54,866
+You do spiral arrow, heavy spiral arrow
+
+2066
+00:55:52,806 --> 00:55:54,866
+你施放螺旋箭，重型螺旋箭
+
+2067
+00:55:54,866 --> 00:55:56,686
+dash forward, crouch fears.
+
+2068
+00:55:54,866 --> 00:55:56,686
+向前冲刺，下蹲恐惧。
+
+2069
+00:55:56,686 --> 00:56:01,326
+It's going to meaty every time, a very good mid-screen.
+
+2070
+00:55:56,686 --> 00:56:01,326
+它每次都会以近身攻击夹击，是一个非常好的中屏技巧。
+
+2071
+00:56:01,326 --> 00:56:02,446
+And you could dash.
+
+2072
+00:56:01,326 --> 00:56:02,446
+你可以向前冲刺。
+
+2073
+00:56:02,446 --> 00:56:06,316
+If you have to time your throw, you just kind of have to time it manually
+
+2074
+00:56:02,446 --> 00:56:06,316
+如果你需要时机抓投，就只能手动计时
+
+2075
+00:56:06,316 --> 00:56:10,576
+which you just kind of dash and wait a slight second and then you just go for throw
+
+2076
+00:56:06,316 --> 00:56:10,576
+基本上就是冲刺并稍微等待一秒，然后直接抓投
+
+2077
+00:56:10,576 --> 00:56:12,636
+which should be pretty easy.
+
+2078
+00:56:10,576 --> 00:56:12,636
+这应该相当简单。
+
+2079
+00:56:12,636 --> 00:56:14,706
+But if you do want to strike every time
+
+2080
+00:56:12,636 --> 00:56:14,706
+但如果你确实想每次都攻击
+
+2081
+00:56:14,706 --> 00:56:19,766
+this is going to be your go-to meaty here.
+
+2082
+00:56:14,706 --> 00:56:19,766
+这将是你的必备近身攻击招式。
+
+2083
+00:56:19,766 --> 00:56:23,296
+On block it is very plus also.
+
+2084
+00:56:19,766 --> 00:56:23,296
+被格挡时非常有利。
+
+2085
+00:56:23,296 --> 00:56:27,666
+It's not going to be plus one like the usual crouch fears.
+
+2086
+00:56:23,296 --> 00:56:27,666
+这不像通常的蹲下攻击那样只有+1 帧优势。
+
+2087
+00:56:27,666 --> 00:56:30,470
+This one is actually going to be.
+
+2088
+00:56:27,666 --> 00:56:30,470
+这个实际上会有帧优势。
+
+2089
+00:56:30,470 --> 00:56:31,446
+..
+
+2090
+00:56:30,470 --> 00:56:31,446
+..
+
+2091
+00:56:31,446 --> 00:56:35,026
+This one is plus three.
+
+2092
+00:56:31,446 --> 00:56:35,026
+这个是+3 帧。
+
+2093
+00:56:35,026 --> 00:56:37,286
+So as you can see, this is plus three
+
+2094
+00:56:35,026 --> 00:56:37,286
+所以正如你所看到的，这一帧是正三帧
+
+2095
+00:56:37,286 --> 00:56:41,416
+so you could get more unique with the frame traps if you want to.
+
+2096
+00:56:37,286 --> 00:56:41,416
+因此你可以根据需要制造更独特的帧陷阱。
+
+2097
+00:56:41,416 --> 00:56:44,216
+You could do like a stand medium punch in between.
+
+2098
+00:56:41,416 --> 00:56:44,216
+你可以在中间加一个站立中拳。
+
+2099
+00:56:44,216 --> 00:56:46,016
+If they mash and jab, walk up though.
+
+2100
+00:56:44,216 --> 00:56:46,016
+如果他们乱按和出拳，直接走上前
+
+2101
+00:56:46,016 --> 00:56:48,526
+So this is going to be a lot more plus
+
+2102
+00:56:46,016 --> 00:56:48,526
+所以这会更有优势
+
+2103
+00:56:48,526 --> 00:56:56,046
+where you can create more unique frame traps instead of this typical stand jab after the crouch fears that we've been showing
+
+2104
+00:56:48,526 --> 00:56:56,046
+在这里你可以创造更独特的帧陷阱，而不是我们之前展示的那种典型的站立轻拳后的蹲下恐惧
+
+2105
+00:56:56,046 --> 00:56:57,906
+the stand jab to stop them from mashing
+
+2106
+00:56:56,046 --> 00:56:57,906
+用站立轻拳来阻止对方乱按键
+
+2107
+00:56:57,906 --> 00:57:02,056
+you could do different button combinations depending on the start-up frames
+
+2108
+00:56:57,906 --> 00:57:02,056
+你可以根据起始帧使用不同的按键组合
+
+2109
+00:57:02,056 --> 00:57:03,266
+of course, of the button.
+
+2110
+00:57:02,056 --> 00:57:03,266
+当然，取决于按键。
+
+2111
+00:57:03,266 --> 00:57:05,916
+So that's going to be pretty much your main meaty
+
+2112
+00:57:03,266 --> 00:57:05,916
+所以这基本上是你的主要打击技
+
+2113
+00:57:05,916 --> 00:57:11,356
+I would say, after spiral arrow, and that's what I see myself doing mid-screen pretty much most of the time.
+
+2114
+00:57:05,916 --> 00:57:11,356
+我认为，在螺旋箭之后，这就是我在中场区域大多数时候做的事情。
+
+2115
+00:57:11,356 --> 00:57:18,586
+You're going to pretty much be doing that mid-screen anytime you're doing a combo in their mid-screen from heavy spiral arrow
+
+2116
+00:57:11,356 --> 00:57:18,586
+你在中场区域从重型螺旋箭连招时，基本上会这样做
+
+2117
+00:57:18,586 --> 00:57:21,346
+you're going to see yourself doing that meaty.
+
+2118
+00:57:18,586 --> 00:57:21,346
+你会看到自己做这个"补刀"动作。
+
+2119
+00:57:21,346 --> 00:57:28,346
+Now in the corner, this is what I would say is the most important meaty that you need to know as a Cammy player
+
+2120
+00:57:21,346 --> 00:57:28,346
+现在在角落里，这是我认为作为一个 Cammy 玩家最需要了解的"补刀"技巧
+
+2121
+00:57:28,346 --> 00:57:31,846
+is after your grab, it stops people from holding up
+
+2122
+00:57:28,346 --> 00:57:31,846
+这个技能可以阻止对手向上位移
+
+2123
+00:57:31,846 --> 00:57:36,546
+mash and jab, everything, is going to be slight step forward
+
+2124
+00:57:31,846 --> 00:57:36,546
+乱按轻拳，全力以赴，将会略微向前迈进
+
+2125
+00:57:36,546 --> 00:57:38,266
+stand medium punch.
+
+2126
+00:57:36,546 --> 00:57:38,266
+站立中拳。
+
+2127
+00:57:38,266 --> 00:57:43,046
+Now as you know, you can never do this combo right as a regular combo with stand medium
+
+2128
+00:57:38,266 --> 00:57:43,046
+现在你知道了，你永远无法像普通连招那样正确执行这个连招
+
+2129
+00:57:43,046 --> 00:57:46,806
+but after the grab, this stand medium punch hits so meaty
+
+2130
+00:57:43,046 --> 00:57:46,806
+但在抓取后，这个站立中拳打得非常精准
+
+2131
+00:57:46,806 --> 00:57:51,466
+you can always combo into the crouching medium punch.
+
+2132
+00:57:46,806 --> 00:57:51,466
+你总是可以连接到下蹲中拳。
+
+2133
+00:57:51,466 --> 00:57:56,966
+This is going to be your most important meaty as a Cammy player after grab
+
+2134
+00:57:51,466 --> 00:57:56,966
+作为一个 Cammy 玩家，这将是你最重要的补刀技巧之一
+
+2135
+00:57:56,966 --> 00:58:00,826
+'cause you're going to see yourself landing a lot of grabs in the corner.
+
+2136
+00:57:56,966 --> 00:58:00,826
+因为你会发现在角落里你会经常抓取对手。
+
+2137
+00:58:00,826 --> 00:58:05,776
+You going to need to know this meaty extremely well.
+
+2138
+00:58:00,826 --> 00:58:05,776
+你需要非常熟悉这个近身攻击。
+
+2139
+00:58:05,776 --> 00:58:07,716
+And you have to time it, though.
+
+2140
+00:58:05,776 --> 00:58:07,716
+而且你必须把握好时机。
+
+2141
+00:58:07,716 --> 00:58:10,686
+It is not auto-timed, this is a manually timed meaty
+
+2142
+00:58:07,716 --> 00:58:10,686
+这不是自动计时的，这是需要手动计时的攻击时机
+
+2143
+00:58:10,686 --> 00:58:17,426
+so you actually have to just do it yourself and get the rhythm and timing down of people hold up a lot
+
+2144
+00:58:10,686 --> 00:58:17,426
+所以你实际上必须自己去练习，掌握节奏和对手防守的时间。
+
+2145
+00:58:17,426 --> 00:58:18,816
+you don't get a counter hit.
+
+2146
+00:58:17,426 --> 00:58:18,816
+你不会获得一个反打点
+
+2147
+00:58:18,816 --> 00:58:21,186
+Boom, it's going to catch the hold up
+
+2148
+00:58:18,816 --> 00:58:21,186
+轰隆一声，它就要抓住机会
+
+2149
+00:58:21,186 --> 00:58:25,166
+and you're going to actually meaty them so they cannot jump out.
+
+2150
+00:58:21,186 --> 00:58:25,166
+你实际上会对他们进行后发制人，使他们无法跳出。
+
+2151
+00:58:25,166 --> 00:58:33,646
+And another good thing is that now this damn medium punch becomes plus one on block
+
+2152
+00:58:25,166 --> 00:58:33,646
+而且现在这个讨厌的中距离拳变得在格挡时为正 1 帧
+
+2153
+00:58:33,646 --> 00:58:36,806
+it is no longer negative like we see it usually.
+
+2154
+00:58:33,646 --> 00:58:36,806
+它不再像以前那样在格挡时为负帧。
+
+2155
+00:58:36,806 --> 00:58:43,966
+Sometimes you will get a zero, but it will never be negative on block no matter what.
+
+2156
+00:58:36,806 --> 00:58:43,966
+有时会是零帧，但无论如何它不会在格挡时为负帧。
+
+2157
+00:58:43,966 --> 00:58:48,526
+So that means it's never not your turn to pressure again.
+
+2158
+00:58:43,966 --> 00:58:48,526
+这意味着你再也不会失去压制的机会。
+
+2159
+00:58:48,526 --> 00:58:52,306
+You can always go for a jab.
+
+2160
+00:58:48,526 --> 00:58:52,306
+你总是可以使用轻拳。
+
+2161
+00:58:52,306 --> 00:58:59,946
+You could always go for a jab or a light kick into a combo.
+
+2162
+00:58:52,306 --> 00:58:59,946
+你总是可以使用轻拳或轻踢进入连招。
+
+2163
+00:58:59,946 --> 00:59:04,136
+So this is going to be your most important meaty after throw.
+
+2164
+00:58:59,946 --> 00:59:04,136
+这将是你在对方被摔倒后最重要的近身攻击。
+
+2165
+00:59:04,136 --> 00:59:12,146
+The only bad downside to meaties I will tell you in this game before we get into the next one is perfect parry.
+
+2166
+00:59:04,136 --> 00:59:12,146
+在我们进入下一个部分之前，关于近身攻击我要告诉你的唯一缺点就是完美格挡。
+
+2167
+00:59:12,146 --> 00:59:17,806
+If your opponent does wake up, let's say we set him to wake up parry
+
+2168
+00:59:12,146 --> 00:59:17,806
+如果你的对手醒来，比如说我们设置他在醒来时格挡
+
+2169
+00:59:17,806 --> 00:59:23,666
+'cause I don't want y'all to think that it's just amazing to go for the meaty every time.
+
+2170
+00:59:17,806 --> 00:59:23,666
+因为我不希望你们认为每次都抓起身就是绝佳的选择。
+
+2171
+00:59:23,666 --> 00:59:25,286
+If we set him to wake up parry
+
+2172
+00:59:23,666 --> 00:59:25,286
+如果我们将他设置为起身招架
+
+2173
+00:59:25,286 --> 00:59:30,446
+he's going to get a perfect parry pretty much every single time.
+
+2174
+00:59:25,286 --> 00:59:30,446
+他几乎每次都能完美招架。
+
+2175
+00:59:30,446 --> 00:59:34,706
+So of course, it is a mind game where if they perfect parry
+
+2176
+00:59:30,446 --> 00:59:34,706
+所以当然，这是一个心理博弈，如果对方完美格挡
+
+2177
+00:59:34,706 --> 00:59:38,906
+you get to punish counter throw and it does extra damage.
+
+2178
+00:59:34,706 --> 00:59:38,906
+你可以惩罚性反击投掷，并造成额外伤害。
+
+2179
+00:59:38,906 --> 00:59:45,886
+So there is a downside to doing these perfect meaties that hit on frame one pretty much on wake up.
+
+2180
+00:59:38,906 --> 00:59:45,886
+所以，对于这些几乎在起身时第一帧就命中的完美提前攻击，是存在一定风险的。
+
+2181
+00:59:45,886 --> 00:59:50,666
+They can be perfect parries, so I want y'all to remember that when you're playing your opponent.
+
+2182
+00:59:45,886 --> 00:59:50,666
+它们可能是完美的招架，所以我希望大家记住，在与对手对战时要注意这一点。
+
+2183
+00:59:50,666 --> 00:59:53,416
+Maybe they might try to do that and throw that out.
+
+2184
+00:59:50,666 --> 00:59:53,416
+也许他们会尝试这样做并使出那一招。
+
+2185
+00:59:53,416 --> 00:59:57,926
+It will hit you every time and they are pretty much guaranteed a combo
+
+2186
+00:59:53,416 --> 00:59:57,926
+这将每次都击中你，他们几乎可以保证接一个连招
+
+2187
+00:59:57,926 --> 01:00:04,916
+but do not let it stop you from doing your meaties because it is very important to do these.
+
+2188
+00:59:57,926 --> 01:00:04,916
+但是不要让它阻止你做近距离攻击，因为这些攻击非常重要。
+
+2189
+01:00:04,916 --> 01:00:10,136
+Uh, yeah, I guess general strategies is- will be the last category that we go over.
+
+2190
+01:00:04,916 --> 01:00:10,136
+呃，是的，我想通用策略将是我们最后讨论的类别。
+
+2191
+01:00:10,136 --> 01:00:13,366
+And pretty much when I'm playing Cammy, a lot of times.
+
+2192
+01:00:10,136 --> 01:00:13,366
+基本上，当我玩凯美的时候，很多时候。
+
+2193
+01:00:13,366 --> 01:00:13,526
+..
+
+2194
+01:00:13,366 --> 01:00:13,526
+..
+
+2195
+01:00:13,526 --> 01:00:15,866
+And she is very good versus fireballs.
+
+2196
+01:00:13,526 --> 01:00:15,866
+她对于对手的能量球攻击非常有效。
+
+2197
+01:00:15,866 --> 01:00:22,786
+Obviously you have the Hooligan, so very anti-fireball move.
+
+2198
+01:00:15,866 --> 01:00:22,786
+显然，你有流氓技（Hooligan），这是一个非常针对能量球的招式。
+
+2199
+01:00:22,786 --> 01:00:30,946
+When you're fighting a fireball character, you always want to keep in mind that Hooligan and EX Hooligan is a bit faster
+
+2200
+01:00:22,786 --> 01:00:30,946
+当你对战使用能量球的角色时，你要始终记住流氓技和 EX 流氓技稍微更快一些。
+
+2201
+01:00:30,946 --> 01:00:33,086
+so maybe if you have a bit slower reaction
+
+2202
+01:00:30,946 --> 01:00:33,086
+所以如果你的反应稍微慢一点，
+
+2203
+01:00:33,086 --> 01:00:35,165
+you can try out the EX Hooligan.
+
+2204
+01:00:33,086 --> 01:00:35,165
+你可以尝试 EX 胡利根招式。
+
+2205
+01:00:35,165 --> 01:00:38,706
+That is obviously the general game plan when you're fighting.
+
+2206
+01:00:35,165 --> 01:00:38,706
+这显然是战斗时的一般游戏策略。
+
+2207
+01:00:38,706 --> 01:00:46,329
+A lot of the fireball characters is to make them stop shooting fireballs early on with the Hooligan.
+
+2208
+01:00:38,706 --> 01:00:46,329
+大量的火球角色被迫通过胡兰干技能提前停止发射火球
+
+2209
+01:00:46,329 --> 01:00:49,720
+And then they are forced to play your game as Cammy
+
+2210
+01:00:46,329 --> 01:00:49,720
+然后他们被迫按照你作为凯米的游戏节奏行动
+
+2211
+01:00:49,720 --> 01:00:55,530
+which is playing neutral, getting whip punishes with your buttons
+
+2212
+01:00:49,720 --> 01:00:55,530
+这意味着在中立位置，使用你的按键来惩罚对手
+
+2213
+01:00:55,530 --> 01:00:57,220
+which is always what I'm looking for.
+
+2214
+01:00:55,530 --> 01:00:57,220
+这正是我一直在寻找的。
+
+2215
+01:00:57,220 --> 01:01:05,150
+A lot of times when I'm playing, I'm looking for a whip punish with low forward into spiral arrow or into my drive rush combo
+
+2216
+01:00:57,220 --> 01:01:05,150
+很多时候在我打游戏时，我在寻找用低前踢到螺旋箭或者我的驱动冲刺连招来惩罚对手。
+
+2217
+01:01:05,150 --> 01:01:07,030
+of course, that we went over earlier.
+
+2218
+01:01:05,150 --> 01:01:07,030
+当然，这是我们之前讨论过的。
+
+2219
+01:01:07,030 --> 01:01:11,150
+So a lot of times I'm just looking to catch that one whip punish here
+
+2220
+01:01:07,030 --> 01:01:11,150
+我通常只是在寻找那一个鞭打惩罚的机会
+
+2221
+01:01:11,150 --> 01:01:19,310
+start my offense, and then Cammy becomes very deadly in the corner because it starts your offense up.
+
+2222
+01:01:11,150 --> 01:01:19,310
+开始我的进攻，然后 Cammy 在角落里变得非常致命，因为这开启了你的进攻。
+
+2223
+01:01:19,310 --> 01:01:22,570
+Another thing with Cammy, when I'm pressuring people
+
+2224
+01:01:19,310 --> 01:01:22,570
+关于 Cammy，当我在施加压力时
+
+2225
+01:01:22,570 --> 01:01:25,110
+a lot of times, especially in the corner
+
+2226
+01:01:22,570 --> 01:01:25,110
+尤其是在角落里的时候，很多时候
+
+2227
+01:01:25,110 --> 01:01:35,159
+I'm always looking to space my divekicks out so that I'm extremely plus and I can keep my turn on offense.
+
+2228
+01:01:25,110 --> 01:01:35,159
+我总是在寻找机会合理间隔我的跳踢，以确保我处于极大优势，可以持续保持进攻态势。
+
+2229
+01:01:35,159 --> 01:01:36,900
+This is very good in the corner I would say
+
+2230
+01:01:35,159 --> 01:01:36,900
+我认为这在角落里非常有效
+
+2231
+01:01:36,900 --> 01:01:44,850
+especially, because it is very easy to just space out your divekicks and it's very hard for your opponent to anti-air their divekicks.
+
+2232
+01:01:36,900 --> 01:01:44,850
+尤其是，因为很容易间隔使用跳踢，而且对手很难对这些跳踢进行防空。
+
+2233
+01:01:44,850 --> 01:01:48,290
+So they're always very good to do to keep pressure on.
+
+2234
+01:01:44,850 --> 01:01:48,290
+所以它们总是非常有效地保持压力。
+
+2235
+01:01:48,290 --> 01:01:53,750
+And it just make your opponent feel very unusual on when they want to press that button.
+
+2236
+01:01:48,290 --> 01:01:53,750
+这会让对手在想按按钮时感到非常不自在。
+
+2237
+01:01:53,750 --> 01:01:55,750
+Also, it takes down drive gauge, right?
+
+2238
+01:01:53,750 --> 01:01:55,750
+而且，这会消耗驱动槽，对吧？
+
+2239
+01:01:55,750 --> 01:01:59,920
+So every divekick you do is going to take down a little bit of drive gauge.
+
+2240
+01:01:55,750 --> 01:01:59,920
+所以你每次施展跳踢都会消耗一点驱动槽。
+
+2241
+01:01:59,920 --> 01:02:01,890
+You can do this mid-screen, of course.
+
+2242
+01:01:59,920 --> 01:02:01,890
+当然，你可以在屏幕中央这样做。
+
+2243
+01:02:01,890 --> 01:02:06,200
+Going to be a little bit harder since your opponent can walk back and forth.
+
+2244
+01:02:01,890 --> 01:02:06,200
+由于对手可以来回走动，这会使情况变得稍微困难一些。
+
+2245
+01:02:06,200 --> 01:02:08,430
+And then you want to start, of course
+
+2246
+01:02:06,200 --> 01:02:08,430
+然后，你当然想要开始
+
+2247
+01:02:08,430 --> 01:02:10,370
+mixing in some regular jumps.
+
+2248
+01:02:08,430 --> 01:02:10,370
+混合一些普通的跳跃。
+
+2249
+01:02:10,370 --> 01:02:15,670
+You don't want to only do divekicks because then it becomes a bit too predictable and easy to anti-air
+
+2250
+01:02:10,370 --> 01:02:15,670
+你不想只做跳踢，因为这样会变得太容易预测，也容易被反空中攻击
+
+2251
+01:02:15,670 --> 01:02:18,930
+but when you start mixing in the regular jumps with the divekicks
+
+2252
+01:02:15,670 --> 01:02:18,930
+但是当你开始混合普通跳跃和跳踢时
+
+2253
+01:02:18,930 --> 01:02:21,770
+it gets a lot harder to anti-air Cammy.
+
+2254
+01:02:18,930 --> 01:02:21,770
+反空中 Cammy 的难度就会大大增加。
+
+2255
+01:02:21,770 --> 01:02:23,830
+Of course, you don't want to just jump around a lot
+
+2256
+01:02:21,770 --> 01:02:23,830
+当然，你不要只是到处乱跳
+
+2257
+01:02:23,830 --> 01:02:27,170
+you have to mix in a lot of good neutral whip punishes
+
+2258
+01:02:23,830 --> 01:02:27,170
+你需要混合多种好的中立鞭击惩罚
+
+2259
+01:02:27,170 --> 01:02:28,540
+making them scared on the ground.
+
+2260
+01:02:27,170 --> 01:02:28,540
+让对手在地面上感到恐惧。
+
+2261
+01:02:28,540 --> 01:02:31,350
+And then of course you want to start approaching from the air a bit
+
+2262
+01:02:28,540 --> 01:02:31,350
+当然，你想要从空中开始进攻一些
+
+2263
+01:02:31,350 --> 01:02:33,210
+but this is just how, you know
+
+2264
+01:02:31,350 --> 01:02:33,210
+但这就是，你知道的
+
+2265
+01:02:33,210 --> 01:02:36,770
+Cammy's game plan is, of course.
+
+2266
+01:02:33,210 --> 01:02:36,770
+Cammy 的游戏计划，当然是这样的。
+
+2267
+01:02:36,770 --> 01:02:39,830
+So a lot of times just looking for whip punishes.
+
+2268
+01:02:36,770 --> 01:02:39,830
+所以很多时候只是在寻找鞭打惩罚机会。
+
+2269
+01:02:39,830 --> 01:02:44,100
+And then, you know, of course you have your trustworthy throw loop in the corner.
+
+2270
+01:02:39,830 --> 01:02:44,100
+然后，你知道的，当然你在角落里有那个可靠的投掷循环。
+
+2271
+01:02:44,100 --> 01:02:50,050
+This is going to be a big part of Cammy's game plan and it goes back into the meaty I showed you.
+
+2272
+01:02:44,100 --> 01:02:50,050
+这将成为 Cammy 游戏计划的重要部分，并且与我之前向你展示的近身攻击有关。
+
+2273
+01:02:50,050 --> 01:02:58,770
+This is why that makes the meaty really good because your opponent will probably start trying to press buttons or jump out the corner or backdash
+
+2274
+01:02:50,050 --> 01:02:58,770
+这就是为什么这个技术很棒，因为对手可能会开始尝试按键攻击、跳出角落或后撤。
+
+2275
+01:02:58,770 --> 01:03:06,500
+because if they do backdash, a lot of people do that now because it does put them in an advantageous situation as you can see.
+
+2276
+01:02:58,770 --> 01:03:06,500
+因为如果他们后撤，很多人现在都这样做，因为这确实会让他们处于有利的位置，正如你所看到的。
+
+2277
+01:03:06,500 --> 01:03:10,860
+But since when you do time their throw loop correctly as a meaty throw
+
+2278
+01:03:06,500 --> 01:03:10,860
+但是当你正确地时机把投技作为一个"补刀"（meaty）技术时
+
+2279
+01:03:10,860 --> 01:03:17,250
+so you're only minus two, as in if you had to time it regularly and you mess it up
+
+2280
+01:03:10,860 --> 01:03:17,250
+所以你只是减 2 帧，就是说如果你正常出招却失误了
+
+2281
+01:03:17,250 --> 01:03:23,450
+you might mess it up, and then you become minus nine where they can actually punish you
+
+2282
+01:03:17,250 --> 01:03:23,450
+你可能会出现失误，然后变成减 9 帧，对手就可以实际惩罚你
+
+2283
+01:03:23,450 --> 01:03:25,170
+which is why Cammy throw loop is good.
+
+2284
+01:03:23,450 --> 01:03:25,170
+这就是为什么 Cammy 的投掷循环很厉害。
+
+2285
+01:03:25,170 --> 01:03:28,660
+You just take a few slight step forward and then throw.
+
+2286
+01:03:25,170 --> 01:03:28,660
+你只需向前轻微走几步然后投掷。
+
+2287
+01:03:28,660 --> 01:03:34,240
+It's very easy to get the timing down and that way you will be safe from these backdashes
+
+2288
+01:03:28,660 --> 01:03:34,240
+很容易掌握这个时机，这样你就可以避免这些后撤步。
+
+2289
+01:03:34,240 --> 01:03:35,490
+which people will start doing.
+
+2290
+01:03:34,240 --> 01:03:35,490
+这是人们会开始做的动作。
+
+2291
+01:03:35,490 --> 01:03:37,730
+But that's why you do this meaty here
+
+2292
+01:03:35,490 --> 01:03:37,730
+但这就是为什么要在这里做个肉搏（meaty）技术
+
+2293
+01:03:37,730 --> 01:03:39,710
+and look at that, it catches the backdash
+
+2294
+01:03:37,730 --> 01:03:39,710
+看，它捕捉到了后撤步（backdash）
+
+2295
+01:03:39,710 --> 01:03:42,070
+you get a combo you wouldn't usually get
+
+2296
+01:03:39,710 --> 01:03:42,070
+你获得了一个平常不会得到的连击
+
+2297
+01:03:42,070 --> 01:03:44,870
+and it's a lot more damage.
+
+2298
+01:03:42,070 --> 01:03:44,870
+并且伤害会更高。
+
+2299
+01:03:44,870 --> 01:03:49,140
+If you want to cash out, you see
+
+2300
+01:03:44,870 --> 01:03:49,140
+如果你想兑现，你会看到
+
+2301
+01:03:49,140 --> 01:03:55,670
+this why this meaty is probably the most important one because it is a part of your very
+
+2302
+01:03:49,140 --> 01:03:55,670
+这就是为什么这个近身攻击可能是最重要的一个，因为它是你最关键的部分
+
+2303
+01:03:55,670 --> 01:04:00,230
+very, very important strategy as a Cammy player
+
+2304
+01:03:55,670 --> 01:04:00,230
+作为 Cammy 玩家，这是非常、非常重要的策略
+
+2305
+01:04:00,230 --> 01:04:02,070
+I would say.
+
+2306
+01:04:00,230 --> 01:04:02,070
+我可以这么说。
+
+2307
+01:04:02,070 --> 01:04:08,039
+So yes, people will try to backdash out your pressure because they know in this game
+
+2308
+01:04:02,070 --> 01:04:08,039
+是的，人们会尝试后退闪避你的压制，因为他们知道在这个游戏中
+
+2309
+01:04:08,039 --> 01:04:14,390
+throws have a lot of recovery, so you can actually backdash punish if people mistime their grab.
+
+2310
+01:04:08,039 --> 01:04:14,390
+投掷有很长的恢复时间，所以如果对方的投掷时机不当，你实际上可以后退惩罚他们。
+
+2311
+01:04:14,390 --> 01:04:22,070
+Or let's say they even walked out of your pressure and you just like mistimed your grab there because they just walked back
+
+2312
+01:04:14,390 --> 01:04:22,070
+或者，假设即便他们已经脱离了你的压制，而你的抓取因为对方后退而没有命中时
+
+2313
+01:04:22,070 --> 01:04:23,740
+sometimes that does happen.
+
+2314
+01:04:22,070 --> 01:04:23,740
+这种情况确实会发生。
+
+2315
+01:04:23,740 --> 01:04:25,990
+They get a lot of good punishes mid-screen
+
+2316
+01:04:23,740 --> 01:04:25,990
+他们在中屏会获得很多好的惩罚机会
+
+2317
+01:04:25,990 --> 01:04:30,020
+but this is pretty much probably going to be your general game plan with Cammy.
+
+2318
+01:04:25,990 --> 01:04:30,020
+但这基本上可能是你使用凯米时的一般游戏策略。
+
+2319
+01:04:30,020 --> 01:04:33,610
+And I would say honestly also when you put people in the corner
+
+2320
+01:04:30,020 --> 01:04:33,610
+老实说，当你把对手逼到角落时
+
+2321
+01:04:33,610 --> 01:04:35,148
+a lot of times I like to.
+
+2322
+01:04:33,610 --> 01:04:35,148
+我经常会选择这样做。
+
+2323
+01:04:35,148 --> 01:04:35,440
+..
+
+2324
+01:04:35,148 --> 01:04:35,440
+..
+
+2325
+01:04:35,440 --> 01:04:40,130
+Instead of anti-airing with DP, I will go for a jump medium punch and an EX divekick.
+
+2326
+01:04:35,440 --> 01:04:40,130
+与其使用升龙拳防空，我会选择跳跃中拳和 EX 下劈踢。
+
+2327
+01:04:40,130 --> 01:04:52,670
+I think this is important in your strategy actually for the simple fact that this is going to do a lot of damage and it's going to make people not want to try to jump out the corner.
+
+2328
+01:04:40,130 --> 01:04:52,670
+我认为这对你的策略其实很重要，原因很简单，这将造成大量伤害，并且会让对手不敢尝试从角落跳出。
+
+2329
+01:04:52,670 --> 01:04:57,610
+'Cause you can do combos like this, you know
+
+2330
+01:04:52,670 --> 01:04:57,610
+因为你可以打出这样的连段，你懂的。
+
+2331
+01:04:57,610 --> 01:05:02,610
+that just does so much damage and even if you don't want to spend all the drive gauge after
+
+2332
+01:04:57,610 --> 01:05:02,610
+这个技能造成如此高的伤害，即使你不想耗尽整个驱动条
+
+2333
+01:05:02,610 --> 01:05:05,650
+you can always just end it with DP of course
+
+2334
+01:05:02,610 --> 01:05:05,650
+你总是可以用龙拳结束攻击，当然
+
+2335
+01:05:05,650 --> 01:05:09,619
+but you can do sand fears into spiral arrow DP.
+
+2336
+01:05:05,650 --> 01:05:09,619
+但你也可以使用砂之恐惧连接螺旋箭龙拳。
+
+2337
+01:05:09,619 --> 01:05:10,730
+Look at that.
+
+2338
+01:05:09,619 --> 01:05:10,730
+看看这个。
+
+2339
+01:05:10,730 --> 01:05:14,070
+You just gotta do the drive rush period that I showed you earlier
+
+2340
+01:05:10,730 --> 01:05:14,070
+你只需要做我之前展示的冲刺驱动（drive rush）动作。
+
+2341
+01:05:14,070 --> 01:05:22,150
+hold the button down, and you can get big combos from the air-to-air.
+
+2342
+01:05:14,070 --> 01:05:22,150
+按住按键，你可以从空中对空获得大连招。
+
+2343
+01:05:22,150 --> 01:05:23,990
+So I would say keep that in mind.
+
+2344
+01:05:22,150 --> 01:05:23,990
+所以我建议你记住这一点。
+
+2345
+01:05:23,990 --> 01:05:33,990
+You can obviously do this mid-screen too, but people love to jump out the corner and you just get really cool combos.
+
+2346
+01:05:23,990 --> 01:05:33,990
+显然，你也可以在屏幕中间这样做，但人们喜欢从角落跳出来，你就能得到非常酷的连招。
+
+2347
+01:05:33,990 --> 01:05:38,010
+Even mid-screen you could do a combo like that if you have a level three from it.
+
+2348
+01:05:33,990 --> 01:05:38,010
+即使在屏幕中间，如果你有三级能量，也可以执行这样的连招。
+
+2349
+01:05:38,010 --> 01:05:41,070
+So this honestly, if you can anti-air with it every time
+
+2350
+01:05:38,010 --> 01:05:41,070
+诚实地说，如果你每次都能用这招反空中攻击
+
+2351
+01:05:41,070 --> 01:05:51,570
+it'll be your go-to anti-air, but obviously air-to-air and sometimes it's not as natural as doing a DP or maybe your back medium punch.
+
+2352
+01:05:41,070 --> 01:05:51,570
+这将是你的首选防空招式，但显然空中对空攻击有时并不像使用龙拳或背面中拳那样自然。
+
+2353
+01:05:51,570 --> 01:05:56,770
+I think that's pretty much going to be the finish of the tutorial.
+
+2354
+01:05:51,570 --> 01:05:56,770
+我认为教程到此基本结束了。
+
+2355
+01:05:56,770 --> 01:06:03,420
+I think we covered pretty much everything that can help you come to the next level with Cammy.
+
+2356
+01:05:56,770 --> 01:06:03,420
+我觉得我们已经涵盖了能帮助你提升 Cammy 水平的几乎所有内容。
+
+2357
+01:06:03,420 --> 01:06:07,370
+I'm going to pretty much be trying to do this for a lot of the characters in Street Fighter 6
+
+2358
+01:06:03,420 --> 01:06:07,370
+我将尝试为街头霸王 6 中的大多数角色制作类似的教程
+
+2359
+01:06:07,370 --> 01:06:10,027
+so let me know down in the comment section below which.
+
+2360
+01:06:07,370 --> 01:06:10,027
+所以请在下方的评论区告诉我
+
+2361
+01:06:10,027 --> 01:06:10,140
+..
+
+2362
+01:06:10,027 --> 01:06:10,140
+..
+
+2363
+01:06:10,140 --> 01:06:15,000
+Who you would like to see next and let me know how you felt about this tutorial overall.
+
+2364
+01:06:10,140 --> 01:06:15,000
+你想接下来看哪个角色，并且让我知道你对这个教程的整体感受。
+
+2365
+01:06:15,000 --> 01:06:18,590
+This is my first one ever, so it might not be extremely perfect
+
+2366
+01:06:15,000 --> 01:06:18,590
+这是我的第一次尝试，所以可能不会非常完美
+
+2367
+01:06:18,590 --> 01:06:30,550
+but I tried to make it the best that I could so that everyone can understand the character and obviously level up and reach a level that maybe you thought you wouldn't reach so fast.
+
+2368
+01:06:18,590 --> 01:06:30,550
+但是我尽力把它做得最好，以便每个人都能理解这个角色，并且显然能够提升并达到一个你可能认为不会这么快就能达到的水平。
+
+2369
+01:06:30,550 --> 01:06:32,430
+I just hope that it can help everyone.
+
+2370
+01:06:30,550 --> 01:06:32,430
+我只希望它能帮助到每一个人。
+
+2371
+01:06:32,430 --> 01:06:37,470
+So let me know down below if it did help you and what character you would like to see next.
+
+2372
+01:06:32,430 --> 01:06:37,470
+那么请在下方告诉我这是否对你有帮助，以及你希望接下来看到哪个角色。
+
+2373
+01:06:37,470 --> 01:06:39,990
+And of course, make sure you leave a like on the video
+
+2374
+01:06:37,470 --> 01:06:39,990
+当然，请确保给视频点赞
+
+2375
+01:06:39,990 --> 01:06:43,530
+subscribe to the channel, and as always
+
+2376
+01:06:39,990 --> 01:06:43,530
+订阅频道，一如既往
+
+2377
+01:06:43,530 --> 01:06:45,170
+I'll see you in the next one.
+
+2378
+01:06:43,530 --> 01:06:45,170
+我们下期再见。
+

@@ -1,0 +1,4756 @@
+1
+00:00:00,080 --> 00:00:05,780
+ This is going to be your most important meaty as a Cammy player after grab
+
+2
+00:00:05,780 --> 00:00:08,700
+'cause you're gonna see yourself landing a lot of grabs in the corner.
+
+3
+00:00:08,700 --> 00:00:13,260
+You gonna need to know this meaty extremely well
+
+4
+00:00:13,260 --> 00:00:14,900
+and you have to time it though.
+
+5
+00:00:14,900 --> 00:00:17,860
+It is not auto-timed, this is a manually timed meaty
+
+6
+00:00:17,860 --> 00:00:22,560
+so you actually have to just do it yourself and get the rhythm and timing down.
+
+7
+00:00:22,560 --> 00:00:23,560
+Yo, yo, yo.
+
+8
+00:00:23,560 --> 00:00:25,280
+What is good, YouTube?
+
+9
+00:00:25,280 --> 00:00:28,640
+It's your boy, Punk, and we are back with another video.
+
+10
+00:00:28,640 --> 00:00:31,660
+And today we have a really good video
+
+11
+00:00:31,660 --> 00:00:32,159
+I would say.
+
+12
+00:00:32,159 --> 00:00:35,020
+This is the first time we've ever gonna be doing this on the channel.
+
+13
+00:00:35,020 --> 00:00:39,290
+And, you know, hopefully we are going to be doing it a lot more with this game.
+
+14
+00:00:39,290 --> 00:00:43,760
+And that is going to be our first ever Street Fighter 6 guide
+
+15
+00:00:43,760 --> 00:00:45,660
+and of course, it's gonna be for our girl
+
+16
+00:00:45,660 --> 00:00:49,330
+Cammy, since, you know, I've been playing Cammy quite a lot in this game
+
+17
+00:00:49,330 --> 00:00:50,305
+probably the most character.
+
+18
+00:00:50,305 --> 00:00:50,370
+..
+
+19
+00:00:50,370 --> 00:00:59,320
+Well, not probably, it's definitely the most character I've played since the release of Street Fighter 6 and we're pretty much going to be making a god with her today.
+
+20
+00:00:59,320 --> 00:01:02,920
+We're gonna be going over everything from combos to her
+
+21
+00:01:02,920 --> 00:01:06,300
+her buttons and strategies I use when I play.
+
+22
+00:01:06,300 --> 00:01:13,120
+Everything that you got to become the best Cammy player and surpass Master Punk.
+
+23
+00:01:13,120 --> 00:01:13,780
+You know what I'm saying?
+
+24
+00:01:13,780 --> 00:01:16,680
+So if you looking forward to playing some Cammy
+
+25
+00:01:16,680 --> 00:01:19,960
+you trying to learn her, this is the place to be right now.
+
+26
+00:01:19,960 --> 00:01:22,600
+So yeah, without further ado, I need you to go like
+
+27
+00:01:22,600 --> 00:01:25,340
+comment, subscribe, and turn the post notification bell on
+
+28
+00:01:25,340 --> 00:01:27,180
+and let's get into it.
+
+29
+00:01:27,180 --> 00:01:32,120
+So first thing you wanna do is go over all of Cammy's frame data and jabs
+
+30
+00:01:32,120 --> 00:01:35,760
+her normals, and for her frame datas and the normals.
+
+31
+00:01:35,760 --> 00:01:39,040
+So first you have her stand jab and her crouch jab
+
+32
+00:01:39,040 --> 00:01:41,860
+which is pretty much gonna be the same button I would say.
+
+33
+00:01:41,860 --> 00:01:46,260
+Stand jab and crouch jab you pretty much would think of as the same.
+
+34
+00:01:46,260 --> 00:01:52,180
+I think, uh, crouch jab would probably be your better button to use for getting out of situations.
+
+35
+00:01:52,180 --> 00:01:56,900
+And I don't really know, stand jab is just kind of used in block strings for the most part
+
+36
+00:01:56,900 --> 00:02:00,780
+they are four frames, so this is your fastest button with Cammy.
+
+37
+00:02:00,780 --> 00:02:02,750
+These, or both of them actually.
+
+38
+00:02:02,750 --> 00:02:06,220
+I don't think there's many characters in this game that has two four-frame buttons
+
+39
+00:02:06,220 --> 00:02:12,640
+but Cammy has two four-frame jabs, so these are your fastest buttons that you want to use.
+
+40
+00:02:12,640 --> 00:02:14,140
+ And then you have her light kick
+
+41
+00:02:14,140 --> 00:02:18,220
+which this button is very good, and you can use for a lot of different things.
+
+42
+00:02:18,220 --> 00:02:20,820
+You can obviously use it for, you know
+
+43
+00:02:20,820 --> 00:02:25,380
+you could do block strings, like things like that.
+
+44
+00:02:25,380 --> 00:02:27,520
+You can get four if you close enough.
+
+45
+00:02:27,520 --> 00:02:28,620
+Okay.
+
+46
+00:02:28,620 --> 00:02:30,930
+Yeah, so you can get four of those.
+
+47
+00:02:30,930 --> 00:02:34,000
+On hit, you can actually just get the four
+
+48
+00:02:34,000 --> 00:02:37,726
+the combo, like that, but.
+
+49
+00:02:37,726 --> 00:02:38,370
+..
+
+50
+00:02:38,370 --> 00:02:41,080
+Bro, why is it not comboing?
+
+51
+00:02:41,080 --> 00:02:43,650
+It maybe is jammy hurt by it for may- oh
+
+52
+00:02:43,650 --> 00:02:46,460
+it might only work on crouching is what it is.
+
+53
+00:02:46,460 --> 00:02:48,700
+Okay, so yeah, there you go.
+
+54
+00:02:48,700 --> 00:02:51,020
+And on block you can do it crouching also.
+
+55
+00:02:51,020 --> 00:02:55,400
+But yeah, if they're crouching you can actually get this block string to
+
+56
+00:02:55,400 --> 00:02:57,329
+oh, three jabs into a light kick
+
+57
+00:02:57,329 --> 00:02:58,329
+which is very good.
+
+58
+00:02:58,329 --> 00:03:01,540
+I don't actually think there's any other character in the game they even have that
+
+59
+00:03:01,540 --> 00:03:03,300
+to my knowledge.
+
+60
+00:03:03,300 --> 00:03:07,860
+And on hit you can see, you get the combo when they're crouching.
+
+61
+00:03:07,860 --> 00:03:10,400
+Which is that combo.
+
+62
+00:03:10,400 --> 00:03:13,360
+And if they're standing you don't really get it
+
+63
+00:03:13,360 --> 00:03:15,340
+but you can still do jab, jab
+
+64
+00:03:15,340 --> 00:03:15,900
+light kick.
+
+65
+00:03:15,900 --> 00:03:19,820
+So still pretty much the same concept.
+
+66
+00:03:19,820 --> 00:03:21,900
+Next button we gonna be getting into is
+
+67
+00:03:21,900 --> 00:03:25,120
+which is one of my favorite buttons which Cammy I like to use
+
+68
+00:03:25,120 --> 00:03:27,080
+is her standard medium kick.
+
+69
+00:03:27,080 --> 00:03:30,100
+This button is amazing, as you can see the range
+
+70
+00:03:30,100 --> 00:03:33,380
+you just see where it hitting jammy from
+
+71
+00:03:33,380 --> 00:03:35,049
+all the way back here.
+
+72
+00:03:35,049 --> 00:03:40,040
+This button is amazing, not only the fact that it hits from so far
+
+73
+00:03:40,040 --> 00:03:43,760
+but even on block, look how much drive gauge you take
+
+74
+00:03:43,760 --> 00:03:45,580
+which is very important in this game.
+
+75
+00:03:45,580 --> 00:03:52,140
+You want to always look at how much meter drive gauge is losing when you press a button.
+
+76
+00:03:52,140 --> 00:03:56,300
+And Cammy medium kick take about a half a bar I would say
+
+77
+00:03:56,300 --> 00:04:00,620
+so this button is really good to abuse your opponent's drive gauge with
+
+78
+00:04:00,620 --> 00:04:05,820
+not only on, to hit them, but even just on block is very good.
+
+79
+00:04:05,820 --> 00:04:09,640
+And it's only minus four so you never really have to worry about getting punished.
+
+80
+00:04:09,640 --> 00:04:12,280
+You should never be in range, if you do it from here.
+
+81
+00:04:12,280 --> 00:04:13,860
+Oh, look, it even spaces itself out
+
+82
+00:04:13,860 --> 00:04:15,780
+so even if you did it from this close
+
+83
+00:04:15,780 --> 00:04:18,120
+you're still not going to get punished, ever.
+
+84
+00:04:18,120 --> 00:04:23,920
+So this is pretty much gonna be one of your best pokes with Cammy that you wanna use when you're playing footsies
+
+85
+00:04:23,920 --> 00:04:24,380
+okay?
+
+86
+00:04:24,380 --> 00:04:26,180
+So that is very important.
+
+87
+00:04:26,180 --> 00:04:29,780
+Next one we're gonna go over is the standard medium punch.
+
+88
+00:04:29,780 --> 00:04:36,830
+Pretty good button, not really used how you would use it in older Street Fighter games
+
+89
+00:04:36,830 --> 00:04:44,480
+which is for pressure, but this time it is used pretty much I would say to frame trap with
+
+90
+00:04:44,480 --> 00:04:48,150
+and also it is very good I found out in meaties with Cammy.
+
+91
+00:04:48,150 --> 00:04:52,840
+So if you do a meaty, I wouldn't say just do this button on block
+
+92
+00:04:52,840 --> 00:05:00,020
+but you can definitely just throw it out sometimes and you can get a combo if it does randomly get a counter.
+
+93
+00:05:00,020 --> 00:05:03,190
+So let's say you're playing and you just see a counter hit
+
+94
+00:05:03,190 --> 00:05:08,920
+you can do a combo with it, you can get standard medium punch and clear
+
+95
+00:05:08,920 --> 00:05:13,680
+so it is very good if you see it counter hit and if you get
+
+96
+00:05:13,680 --> 00:05:17,680
+going for a frame trap, which we'll get into later on in the guide.
+
+97
+00:05:17,680 --> 00:05:22,430
+So, but the best way I've found out using this button is in meaties after
+
+98
+00:05:22,430 --> 00:05:23,180
+like, grabs.
+
+99
+00:05:23,180 --> 00:05:28,380
+So you grab someone in the corner, you could do something like that.
+
+100
+00:05:28,380 --> 00:05:30,180
+Right?
+
+101
+00:05:30,180 --> 00:05:32,160
+So we're gonna get into those things later though
+
+102
+00:05:32,160 --> 00:05:35,820
+so for now, this button, you know
+
+103
+00:05:35,820 --> 00:05:37,060
+I don't really know what to tell you.
+
+104
+00:05:37,060 --> 00:05:40,880
+You wouldn't really use it too much, since it's not really cancelable.
+
+105
+00:05:40,880 --> 00:05:44,440
+It's really used in pressure for the most part
+
+106
+00:05:44,440 --> 00:05:46,469
+not really in neutral.
+
+107
+00:05:46,469 --> 00:05:50,640
+You wouldn't really press this button in neutral at all.
+
+108
+00:05:50,640 --> 00:05:56,250
+So yeah, we're gonna come back to this one a bit later on in the video when we get into
+
+109
+00:05:56,250 --> 00:05:58,480
+like, setups and those kind of things.
+
+110
+00:05:58,480 --> 00:06:00,888
+Next button we are going to go over is the.
+
+111
+00:06:00,888 --> 00:06:01,042
+..
+
+112
+00:06:01,042 --> 00:06:05,206
+Crouching medium kick, which this one is an important button.
+
+113
+00:06:05,206 --> 00:06:07,286
+This is one of my favorite buttons also
+
+114
+00:06:07,286 --> 00:06:09,116
+just like the standard medium kick.
+
+115
+00:06:09,116 --> 00:06:15,526
+I love the crouch medium kick and that is because the crouching medium kick is gonna be one of your main whiff punish buttons
+
+116
+00:06:15,526 --> 00:06:18,036
+and also it's just a really good low range poke
+
+117
+00:06:18,036 --> 00:06:20,876
+so since we have the mechanic drive rush
+
+118
+00:06:20,876 --> 00:06:21,836
+right?
+
+119
+00:06:21,836 --> 00:06:25,916
+If you think that your opponent will not block his feet
+
+120
+00:06:25,916 --> 00:06:26,997
+and you wanna go for some.
+
+121
+00:06:26,997 --> 00:06:27,086
+..
+
+122
+00:06:27,086 --> 00:06:30,516
+Or even if you wanna just start some pressure up and you have a lot of drive gauge
+
+123
+00:06:30,516 --> 00:06:34,296
+you can always just go straight into the crouching medium kick drive rush.
+
+124
+00:06:34,296 --> 00:06:36,516
+If they hit you, you get big combos.
+
+125
+00:06:36,516 --> 00:06:42,316
+If not, you can get good pressure on block with this
+
+126
+00:06:42,316 --> 00:06:45,676
+to do things like that and you remember that in drive rush
+
+127
+00:06:45,676 --> 00:06:51,516
+all your buttons are a plus, so get a lot of good pressure starting out from this crouching medium kick.
+
+128
+00:06:51,516 --> 00:06:57,015
+But for the whiff punish part, this is gonna be one of your main whiff punish buttons for the simple fact you.
+
+129
+00:06:57,015 --> 00:06:57,145
+..
+
+130
+00:06:57,145 --> 00:07:03,856
+It's your longest ranging cancellable poke into drive rush and also into special moves
+
+131
+00:07:03,856 --> 00:07:05,076
+right?
+
+132
+00:07:05,076 --> 00:07:07,206
+So you could do low forward spiral arrow
+
+133
+00:07:07,206 --> 00:07:09,916
+maybe low forward DP if you feeling it.
+
+134
+00:07:09,916 --> 00:07:13,830
+I suck, but yeah, you could do low forward DP which is.
+
+135
+00:07:13,830 --> 00:07:13,946
+..
+
+136
+00:07:13,946 --> 00:07:15,116
+We're gonna show you here.
+
+137
+00:07:15,116 --> 00:07:15,686
+Look at that.
+
+138
+00:07:15,686 --> 00:07:17,796
+You see how far I hit that from?
+
+139
+00:07:17,796 --> 00:07:18,326
+Look it.
+
+140
+00:07:18,326 --> 00:07:20,216
+Man.
+
+141
+00:07:20,216 --> 00:07:22,936
+Get your, get your power ball.
+
+142
+00:07:22,936 --> 00:07:27,436
+Get all this pressure starting, which is very good
+
+143
+00:07:27,436 --> 00:07:31,136
+and that's pretty much gonna be how you wanna use your crouching medium kick.
+
+144
+00:07:31,136 --> 00:07:37,616
+Crouching medium punch, I would say this button is a bit similar to a standard medium punch
+
+145
+00:07:37,616 --> 00:07:43,416
+but it is cancellable, so I would say it does have a bit more use in neutral.
+
+146
+00:07:43,416 --> 00:07:46,476
+Which is, you can buffer this button as you see
+
+147
+00:07:46,476 --> 00:07:48,286
+if you looking at my inputs on the screen
+
+148
+00:07:48,286 --> 00:07:51,256
+you see me buffering into drill right here
+
+149
+00:07:51,256 --> 00:07:53,316
+and it's never coming out.
+
+150
+00:07:53,316 --> 00:07:57,356
+But let's say that Jamie, or not Jamie
+
+151
+00:07:57,356 --> 00:08:00,766
+but your opponent, you know, they're walking blocking.
+
+152
+00:08:00,766 --> 00:08:01,576
+Uh, hold on.
+
+153
+00:08:01,576 --> 00:08:02,316
+Let me record there.
+
+154
+00:08:02,316 --> 00:08:04,606
+Walking blocking, let's say your opponent, you know
+
+155
+00:08:04,606 --> 00:08:06,816
+they're doing it.
+
+156
+00:08:06,816 --> 00:08:10,756
+And you just casually pressing this, obviously
+
+157
+00:08:10,756 --> 00:08:15,376
+uh, in a real match, it'll probably be more effective to buffer it like that.
+
+158
+00:08:15,376 --> 00:08:17,456
+You see as he walked into range?
+
+159
+00:08:17,456 --> 00:08:24,226
+It's a very good button to just buffer while your opponent may be just walking in and out of the ranges
+
+160
+00:08:24,226 --> 00:08:29,256
+or you can even buffer it to drive rush if you wanna be a little bit more safe.
+
+161
+00:08:29,256 --> 00:08:32,916
+But this button is gonna be a bit harder to whiff punish in neutral
+
+162
+00:08:32,916 --> 00:08:38,956
+so you have more freedom to just press it and not worry about being whiff punished.
+
+163
+00:08:38,956 --> 00:08:47,096
+But unlike low- crouch and medium kick, you don't wanna just press this button on whiff because it is very easy to whiff punish I would say.
+
+164
+00:08:47,096 --> 00:08:49,836
+So you don't wanna just be whiffing this button a lot.
+
+165
+00:08:49,836 --> 00:08:50,406
+But this?
+
+166
+00:08:50,406 --> 00:08:56,676
+I would say you have more freedom to just whiff and buffer into your low spiral arrow
+
+167
+00:08:56,676 --> 00:08:58,766
+or even to super if you want to
+
+168
+00:08:58,766 --> 00:09:02,596
+or to drive rush of course, and you get a big combos.
+
+169
+00:09:02,596 --> 00:09:07,796
+So, I would say that is the best use for the crouch medium punch.
+
+170
+00:09:07,796 --> 00:09:12,476
+And now we're moving on to actually my very favorite button with Cammy
+
+171
+00:09:12,476 --> 00:09:15,416
+which is going to be the standing heavy kick.
+
+172
+00:09:15,416 --> 00:09:21,706
+This button here has so many great uses in the neutral that is.
+
+173
+00:09:21,706 --> 00:09:21,886
+..
+
+174
+00:09:21,886 --> 00:09:26,346
+Well, it's only really a neutral button because you can't cancel it or anything.
+
+175
+00:09:26,346 --> 00:09:32,716
+But one, my favorite is for them to block the standing heavy kick because if you look at this
+
+176
+00:09:32,716 --> 00:09:34,516
+boom, look at the bar.
+
+177
+00:09:34,516 --> 00:09:38,996
+You see the drive gauge is also minus four
+
+178
+00:09:38,996 --> 00:09:45,096
+just like your stand medium kick, so the drive gauge is going down.
+
+179
+00:09:45,096 --> 00:09:46,416
+Crazy.
+
+180
+00:09:46,416 --> 00:09:49,756
+So this is a very good drive gauge abuse button
+
+181
+00:09:49,756 --> 00:09:50,305
+you know what I'm saying?
+
+182
+00:09:50,305 --> 00:09:53,916
+If you wanna abuse some drive gauge, you wanna use the standing heavy kick.
+
+183
+00:09:53,916 --> 00:09:57,776
+And not only for it on block.
+
+184
+00:09:57,776 --> 00:10:05,616
+Stand heavy kick is also a really good whiff punish button because this button has a bit more range than the standing medium kick
+
+185
+00:10:05,616 --> 00:10:05,976
+right?
+
+186
+00:10:05,976 --> 00:10:09,836
+So sometimes you're not in range to whiff punish or
+
+187
+00:10:09,836 --> 00:10:11,976
+you know, in range for the standard medium kick
+
+188
+00:10:11,976 --> 00:10:12,289
+but.
+
+189
+00:10:12,289 --> 00:10:12,426
+..
+
+190
+00:10:12,426 --> 00:10:14,596
+Or not the stand medium kick whiff punish
+
+191
+00:10:14,596 --> 00:10:16,276
+I mean the crouching medium kick whiff punish.
+
+192
+00:10:16,276 --> 00:10:18,076
+Sometimes you're not in range, like right here
+
+193
+00:10:18,076 --> 00:10:24,165
+but you see heavy kick hits it, and not only is it good because it hits it
+
+194
+00:10:24,165 --> 00:10:28,716
+it takes a whole drive gauge bar away on whiff punish.
+
+195
+00:10:28,716 --> 00:10:32,016
+So if you whiff punish someone with this stand heavy kick
+
+196
+00:10:32,016 --> 00:10:35,556
+that is a one drive gauge bar gone.
+
+197
+00:10:35,556 --> 00:10:36,426
+Look at it.
+
+198
+00:10:36,426 --> 00:10:41,606
+A whole bar just depleted because they decided to whiff a button.
+
+199
+00:10:41,606 --> 00:10:44,356
+And you can get some type of pressure from this
+
+200
+00:10:44,356 --> 00:10:45,951
+which will be like.
+
+201
+00:10:45,951 --> 00:10:46,246
+..
+
+202
+00:10:46,246 --> 00:10:49,616
+You could get something like that or you could just dash and then do it.
+
+203
+00:10:49,616 --> 00:10:55,576
+But yeah, this button is amazing because it does reach at ranges that your crouching medium kick
+
+204
+00:10:55,576 --> 00:10:58,576
+it won't whiff punish, but this will
+
+205
+00:10:58,576 --> 00:11:00,296
+a whole drive gauge bar.
+
+206
+00:11:00,296 --> 00:11:04,606
+So that is why this is one of my very favorite buttons.
+
+207
+00:11:04,606 --> 00:11:09,216
+And next we're going to get into her standing heavy punch.
+
+208
+00:11:09,216 --> 00:11:11,476
+This button is pretty good I would say.
+
+209
+00:11:11,476 --> 00:11:19,476
+I like it the most when I have someone cornered is when I like to use it the most because they don't have anywhere to walk out of the range to make it whiff.
+
+210
+00:11:19,476 --> 00:11:24,896
+Since it doesn't have that much range, it's very easy to make whiffen- whiff punish by when they're in the corner
+
+211
+00:11:24,896 --> 00:11:28,346
+you just can swing that thing.
+
+212
+00:11:28,346 --> 00:11:33,606
+It takes about a quarter of a drive gauge on block and the best thing about it is
+
+213
+00:11:33,606 --> 00:11:37,836
+this is probably the only button that Cammy actually can hit confirm.
+
+214
+00:11:37,836 --> 00:11:46,956
+So you can actually confirm this on hit to the spiral arrow to continue pressure and get a good amount of damage.
+
+215
+00:11:46,956 --> 00:11:48,332
+Or you could confirm.
+
+216
+00:11:48,332 --> 00:11:48,486
+..
+
+217
+00:11:48,486 --> 00:11:52,436
+It's very hard to do it, but you can confirm into the drive rush
+
+218
+00:11:52,436 --> 00:11:53,756
+but it is very hard.
+
+219
+00:11:53,756 --> 00:11:56,216
+I'm not even very consistent with that one
+
+220
+00:11:56,216 --> 00:12:03,768
+but confirming it into the special move is very good and I think that is the best use for this button.
+
+221
+00:12:03,768 --> 00:12:05,797
+You can use it in the mid-range, of course
+
+222
+00:12:05,797 --> 00:12:06,628
+for the same thing.
+
+223
+00:12:06,628 --> 00:12:12,278
+But it is, like I said, a lot easier to make whiff than a lot of the other buttons that you see.
+
+224
+00:12:12,278 --> 00:12:15,268
+You could be around right here and still was whiffing.
+
+225
+00:12:15,268 --> 00:12:18,548
+So, yeah, that is probably gonna be a use for that.
+
+226
+00:12:18,548 --> 00:12:24,328
+And the next button we're gonna go over is Cammy's sweep.
+
+227
+00:12:24,328 --> 00:12:31,128
+The crouching heavy kick is very fast, nine-frame button that is very fast for the sweep.
+
+228
+00:12:31,128 --> 00:12:34,548
+And it's a s- bit faster than her standing heavy kick
+
+229
+00:12:34,548 --> 00:12:38,008
+and about the same as her crouching medium kick.
+
+230
+00:12:38,008 --> 00:12:40,308
+But as you can see, this button
+
+231
+00:12:40,308 --> 00:12:43,928
+Cammy actually moves forward when she does the sweep
+
+232
+00:12:43,928 --> 00:12:47,288
+which is a very good way to whiff punish.
+
+233
+00:12:47,288 --> 00:12:49,308
+Whiff, which I like to use it the most for
+
+234
+00:12:49,308 --> 00:12:51,328
+is to whiff punish, which is boom.
+
+235
+00:12:51,328 --> 00:12:52,228
+You see that?
+
+236
+00:12:52,228 --> 00:12:53,908
+Boom, and you actually get a setup.
+
+237
+00:12:53,908 --> 00:12:55,308
+Let's say you could get a setup into
+
+238
+00:12:55,308 --> 00:12:58,808
+like, dog kick or jump in light kick.
+
+239
+00:12:58,808 --> 00:13:00,808
+And if you know your opponent might try to parry that
+
+240
+00:13:00,808 --> 00:13:03,448
+you could even go for the L key jump throw there.
+
+241
+00:13:03,448 --> 00:13:04,908
+But we'll get into that stuff later.
+
+242
+00:13:04,908 --> 00:13:07,148
+But, yeah, this is a very good whiff punish.
+
+243
+00:13:07,148 --> 00:13:12,068
+It also takes a whole drive gauge away on block if you whiff punish someone with it.
+
+244
+00:13:12,068 --> 00:13:18,178
+It is a hard knockdown, meaning they cannot tech backwards or get up in place.
+
+245
+00:13:18,178 --> 00:13:21,968
+They just always gonna get up right where they get knocked down at
+
+246
+00:13:21,968 --> 00:13:28,348
+so you get a very good setup from the jumping or jump dog kick right there.
+
+247
+00:13:28,348 --> 00:13:31,248
+And the dog kick also hits meaty here.
+
+248
+00:13:31,248 --> 00:13:33,648
+So, as you can see, it is plus one
+
+249
+00:13:33,648 --> 00:13:37,838
+which is very good setup to continue some pressure with after a good whiff punish.
+
+250
+00:13:37,838 --> 00:13:41,418
+And the last button we are going to go o-.
+
+251
+00:13:41,418 --> 00:13:41,478
+..
+
+252
+00:13:41,478 --> 00:13:42,628
+Actually, there's two more buttons.
+
+253
+00:13:42,628 --> 00:13:44,888
+We have the forward heavy kick.
+
+254
+00:13:44,888 --> 00:13:48,488
+Forward heavy kick is a button that I don't ever really use
+
+255
+00:13:48,488 --> 00:13:50,118
+and I think it's not the best.
+
+256
+00:13:50,118 --> 00:13:51,228
+It has a decent range.
+
+257
+00:13:51,228 --> 00:13:54,248
+You can hit confirm it one hit.
+
+258
+00:13:54,248 --> 00:13:57,608
+So, if it does hit you, click confirm it.
+
+259
+00:13:57,608 --> 00:13:59,775
+See, I don't even know.
+
+260
+00:13:59,775 --> 00:13:59,938
+..
+
+261
+00:13:59,938 --> 00:14:01,108
+Maybe it doesn't punish counter.
+
+262
+00:14:01,108 --> 00:14:03,668
+It might not even combo from far.
+
+263
+00:14:03,668 --> 00:14:04,788
+Yeah, it doesn't.
+
+264
+00:14:04,788 --> 00:14:06,688
+So, I don't really know, honestly.
+
+265
+00:14:06,688 --> 00:14:08,548
+I think that this button, as a Cammy player
+
+266
+00:14:08,548 --> 00:14:10,688
+you just don't really use it.
+
+267
+00:14:10,688 --> 00:14:14,328
+Like, you don't really wanna use this button at all.
+
+268
+00:14:14,328 --> 00:14:16,448
+I don't really see a use for it right now
+
+269
+00:14:16,448 --> 00:14:19,468
+so I would say just dead that.
+
+270
+00:14:19,468 --> 00:14:22,068
+Next button we are gonna go over, which I also forgot about
+
+271
+00:14:22,068 --> 00:14:24,248
+is the back heavy kick.
+
+272
+00:14:24,248 --> 00:14:29,768
+This button is pretty much gonna be used as a combo in just combos
+
+273
+00:14:29,768 --> 00:14:33,388
+like, do stuff like this, you know?
+
+274
+00:14:33,388 --> 00:14:35,368
+But we're gonna go over all the combos later
+
+275
+00:14:35,368 --> 00:14:37,738
+so don't even think about this button.
+
+276
+00:14:37,738 --> 00:14:40,938
+This is not used in the neutral or anything at all.
+
+277
+00:14:40,938 --> 00:14:42,788
+Maybe you could use it to anti-air with.
+
+278
+00:14:42,788 --> 00:14:46,028
+I think it's a pretty decent-ish anti-air.
+
+279
+00:14:46,028 --> 00:14:52,548
+I think it's a pretty decent anti-air, but you do have to wait a bit to do it.
+
+280
+00:14:52,548 --> 00:14:54,228
+You can't just do it when they jump
+
+281
+00:14:54,228 --> 00:14:55,248
+like, or that will happen.
+
+282
+00:14:55,248 --> 00:14:57,288
+You have to wait a bit.
+
+283
+00:14:57,288 --> 00:15:00,428
+And you could get some pretty cool combos.
+
+284
+00:15:00,428 --> 00:15:03,248
+I don't recommend trying it too often.
+
+285
+00:15:03,248 --> 00:15:06,317
+It's very inconsistent for me.
+
+286
+00:15:06,317 --> 00:15:09,408
+But it can be good if you somehow master it.
+
+287
+00:15:09,408 --> 00:15:14,928
+You could be doing big damage off of the anti-air.
+
+288
+00:15:14,928 --> 00:15:19,448
+Got a whole lot of options you can explore
+
+289
+00:15:19,448 --> 00:15:20,788
+you know?
+
+290
+00:15:20,788 --> 00:15:23,408
+So, yeah, I would say, if you want
+
+291
+00:15:23,408 --> 00:15:24,968
+you can try to anti-air with this button.
+
+292
+00:15:24,968 --> 00:15:30,097
+I would not recommend it, but it is possible if you get that timing down really well.
+
+293
+00:15:30,097 --> 00:15:33,928
+Next button we are going to go over will be her back medium punch
+
+294
+00:15:33,928 --> 00:15:37,268
+which is also, I would say, a pretty decent anti-air.
+
+295
+00:15:37,268 --> 00:15:39,168
+But it's a bit hard to use in this game.
+
+296
+00:15:39,168 --> 00:15:44,828
+A lot better in Street Fighter V, but still pretty good
+
+297
+00:15:44,828 --> 00:15:47,228
+I would say.
+
+298
+00:15:47,228 --> 00:15:47,595
+You don't.
+
+299
+00:15:47,595 --> 00:15:47,678
+..
+
+300
+00:15:47,678 --> 00:15:52,028
+Ooh, you can actually get the side switch mix-up like Street Fighter V.
+
+301
+00:15:52,028 --> 00:15:57,288
+Hmm, low-key, I might try to start using this a bit more.
+
+302
+00:15:57,288 --> 00:16:03,228
+I don't actually use this, ever, 'cause you can probably get the side switch mix-up into.
+
+303
+00:16:03,228 --> 00:16:03,317
+..
+
+304
+00:16:03,317 --> 00:16:04,746
+Uh.
+
+305
+00:16:04,746 --> 00:16:05,638
+..
+
+306
+00:16:05,638 --> 00:16:09,208
+Yeah.
+
+307
+00:16:09,208 --> 00:16:11,014
+And sometimes it'll stay on the.
+
+308
+00:16:11,014 --> 00:16:11,078
+..
+
+309
+00:16:11,078 --> 00:16:11,528
+Ah.
+
+310
+00:16:11,528 --> 00:16:13,528
+So, maybe I'll start using that a bit more.
+
+311
+00:16:13,528 --> 00:16:15,228
+I usually just do DP, of course
+
+312
+00:16:15,228 --> 00:16:16,428
+as the anti-air.
+
+313
+00:16:16,428 --> 00:16:20,188
+But back medium punch, you pretty much use this as an anti-air
+
+314
+00:16:20,188 --> 00:16:24,338
+and you would use it in combos like that
+
+315
+00:16:24,338 --> 00:16:25,108
+of course.
+
+316
+00:16:25,108 --> 00:16:27,808
+You can do that.
+
+317
+00:16:27,808 --> 00:16:29,548
+Things like that, but we'll go over that later.
+
+318
+00:16:29,548 --> 00:16:32,958
+So, this is pretty much just an anti-air if you wanna use it in neutral.
+
+319
+00:16:32,958 --> 00:16:35,758
+You don't really, you know, throw this button out at all.
+
+320
+00:16:35,758 --> 00:16:37,248
+So, this would just be an anti-air.
+
+321
+00:16:37,248 --> 00:16:40,048
+Pretty fast five-frame button.
+
+322
+00:16:40,048 --> 00:16:44,378
+The last button we are gonna go over is her crouching fierce.
+
+323
+00:16:44,378 --> 00:16:47,178
+This button is pretty much gives you the good combos
+
+324
+00:16:47,178 --> 00:16:49,458
+and it's also her only plus frame button.
+
+325
+00:16:49,458 --> 00:16:52,398
+If you know anything about the game right now
+
+326
+00:16:52,398 --> 00:16:56,448
+you know every character pretty much has one plus frame button
+
+327
+00:16:56,448 --> 00:16:59,468
+besides maybe two or three characters in the game.
+
+328
+00:16:59,468 --> 00:17:01,428
+And Cammy's is her crouching heavy punch.
+
+329
+00:17:01,428 --> 00:17:06,448
+So, a lot of times you wanna start pressure with this after a knockdown.
+
+330
+00:17:06,448 --> 00:17:10,887
+It is plus one, so if someone do try to mash their fastest button
+
+331
+00:17:10,887 --> 00:17:12,358
+which is Jamie's, what?
+
+332
+00:17:12,358 --> 00:17:14,268
+Crouching jab, I think.
+
+333
+00:17:14,268 --> 00:17:15,988
+Boom.
+
+334
+00:17:15,988 --> 00:17:17,406
+And as you can see, it counter hits.
+
+335
+00:17:17,406 --> 00:17:22,948
+Obviously, you cannot do, like, fierce into fierce or fierce into medium punch.
+
+336
+00:17:22,948 --> 00:17:33,178
+So, yeah, this is pretty much gonna be your go-to frame trap if you see people mashing.
+
+337
+00:17:33,178 --> 00:17:34,034
+But then if.
+
+338
+00:17:34,034 --> 00:17:34,158
+..
+
+339
+00:17:34,158 --> 00:17:36,148
+Once you s- got them stopped to mashing
+
+340
+00:17:36,148 --> 00:17:38,868
+of course you could do things like crouch fierce
+
+341
+00:17:38,868 --> 00:17:41,458
+walk up throw, crouch fierce, crouch fierce.
+
+342
+00:17:41,458 --> 00:17:43,408
+You can start doing crouch fierce jab.
+
+343
+00:17:43,408 --> 00:17:52,058
+You know, all type of frame traps start opening up once your opponents start respecting that you will do the stand jab counter hit combo right there.
+
+344
+00:17:52,058 --> 00:17:59,788
+So, yeah, that is gonna pretty much be your go-to button to get your frame traps off.
+
+345
+00:17:59,788 --> 00:18:04,200
+So, the next thing we want to go over is her special move.
+
+346
+00:18:04,200 --> 00:18:07,153
+She does have quite a few special moves and different versions.
+
+347
+00:18:07,153 --> 00:18:10,374
+And the first one we're gonna go over is going to be
+
+348
+00:18:10,374 --> 00:18:15,224
+of course, her classic Spiral Arrow, which in this game
+
+349
+00:18:15,224 --> 00:18:19,344
+actually has more uses than just combos, I would say.
+
+350
+00:18:19,344 --> 00:18:22,104
+One really good use is, look at this
+
+351
+00:18:22,104 --> 00:18:23,704
+you see it's only minus one.
+
+352
+00:18:23,704 --> 00:18:25,164
+You can space it out pretty well.
+
+353
+00:18:25,164 --> 00:18:29,744
+You can even space out the heavy version to be minus one also.
+
+354
+00:18:29,744 --> 00:18:31,884
+Medium version, uh, made at minus one.
+
+355
+00:18:31,884 --> 00:18:33,424
+You can make it minus one, minus two
+
+356
+00:18:33,424 --> 00:18:34,884
+it's all very good.
+
+357
+00:18:34,884 --> 00:18:41,784
+And it could catch your opponent off-guard walking forward since it is a fast moving move.
+
+358
+00:18:41,784 --> 00:18:43,944
+So you can actually just get your opponent
+
+359
+00:18:43,944 --> 00:18:50,384
+catch them walking forward and it's also pretty spaced out so you're not close enough to get grabbed.
+
+360
+00:18:50,384 --> 00:18:53,964
+So you have some freedom to just kinda block for a while
+
+361
+00:18:53,964 --> 00:19:00,304
+walk back, or maybe even contest with a button if you think that your opponent's gonna try to go for a big frame trap on you.
+
+362
+00:19:00,304 --> 00:19:04,913
+So this is, uh, a very good use for Spiral Arrow.
+
+363
+00:19:04,913 --> 00:19:10,104
+And of course, the one always good use is gonna be as a combo ender.
+
+364
+00:19:10,104 --> 00:19:13,014
+You know, you wanna end combos with the Spiral Arrow
+
+365
+00:19:13,014 --> 00:19:17,284
+that's what Cammy's been doing forever at this point.
+
+366
+00:19:17,284 --> 00:19:22,824
+So yeah, you already know, the Spiral Arrow pretty much good combo ender.
+
+367
+00:19:22,824 --> 00:19:25,404
+It always gives you good pressure after.
+
+368
+00:19:25,404 --> 00:19:29,744
+Next, we're gonna go over is her Cannon Fight
+
+369
+00:19:29,744 --> 00:19:32,364
+which you already know is Cammy's DP.
+
+370
+00:19:32,364 --> 00:19:37,824
+Also, her pretty much best anti-air.
+
+371
+00:19:37,824 --> 00:19:41,094
+You guarantee, 100% of the time if you do this correctly
+
+372
+00:19:41,094 --> 00:19:46,304
+it will anti-air your opponent out of the sky and they gonna have to respect you
+
+373
+00:19:46,304 --> 00:19:47,004
+you know what I'm saying?
+
+374
+00:19:47,004 --> 00:19:53,524
+So, definitely something that's always good to learn how to do is DP anti-air.
+
+375
+00:19:53,524 --> 00:19:56,484
+And also, it's gonna be, of course
+
+376
+00:19:56,484 --> 00:19:58,644
+just like the Spiral Arrow in the corner
+
+377
+00:19:58,644 --> 00:20:07,894
+this is gonna be your go-to probably ender for a lot of combos because you're at least very close and it does more damage than the Spiral Arrow.
+
+378
+00:20:07,894 --> 00:20:10,254
+So you pretty much start ending your combos in this.
+
+379
+00:20:10,254 --> 00:20:17,464
+It's just mid-screen you don't because Spiral Arrow gives a bit better pressure and you don't sacrifice a lot of
+
+380
+00:20:17,464 --> 00:20:18,504
+a lot of damage.
+
+381
+00:20:18,504 --> 00:20:22,284
+But we'll go over of course all them combos and that stuff later.
+
+382
+00:20:22,284 --> 00:20:24,474
+But yeah, they pretty much gonna be your go-to
+
+383
+00:20:24,474 --> 00:20:25,704
+your DP.
+
+384
+00:20:25,704 --> 00:20:27,844
+Got the charged version is heavy.
+
+385
+00:20:27,844 --> 00:20:29,354
+Yeah, I forgot about that.
+
+386
+00:20:29,354 --> 00:20:33,124
+In this game, Cammy has charged versions of the special moves where you do the heavy version.
+
+387
+00:20:33,124 --> 00:20:37,184
+You can charge it up for big combos and enders.
+
+388
+00:20:37,184 --> 00:20:39,124
+But of course, we'll go over that later.
+
+389
+00:20:39,124 --> 00:20:42,944
+These are all pretty much just for combos
+
+390
+00:20:42,944 --> 00:20:43,846
+so.
+
+391
+00:20:43,846 --> 00:20:44,394
+..
+
+392
+00:20:44,394 --> 00:20:46,224
+The next special move we're gonna go over
+
+393
+00:20:46,224 --> 00:20:47,537
+which we had.
+
+394
+00:20:47,537 --> 00:20:47,734
+..
+
+395
+00:20:47,734 --> 00:20:49,244
+Let's change the character.
+
+396
+00:20:49,244 --> 00:20:53,464
+Oh, it's gonna be our Spin Knuckle
+
+397
+00:20:53,464 --> 00:20:55,948
+which Spin Knuckle has a pretty.
+
+398
+00:20:55,948 --> 00:20:56,104
+..
+
+399
+00:20:56,104 --> 00:20:58,084
+a lot of good uses for it.
+
+400
+00:20:58,084 --> 00:20:59,884
+One of the main ones in this game
+
+401
+00:20:59,884 --> 00:21:03,804
+they sped it up so it's very fast and it goes through projectiles
+
+402
+00:21:03,804 --> 00:21:06,964
+which is why we have Ryu on the screen.
+
+403
+00:21:06,964 --> 00:21:09,664
+And we're going to just shoot a Hadouken.
+
+404
+00:21:09,664 --> 00:21:12,674
+You know, all you people out there who hate Hadouken spammers
+
+405
+00:21:12,674 --> 00:21:16,264
+you might consider wanting to play some Cammy because boom
+
+406
+00:21:16,264 --> 00:21:17,924
+look at that.
+
+407
+00:21:17,924 --> 00:21:22,464
+You can do it on reaction pretty well to all Hadoukens.
+
+408
+00:21:22,464 --> 00:21:26,844
+The only fireball I would say that is pretty hard to react to right now is Guile's Sonic Boom.
+
+409
+00:21:26,844 --> 00:21:30,004
+You can still do it, but it's very hard
+
+410
+00:21:30,004 --> 00:21:31,044
+so.
+
+411
+00:21:31,044 --> 00:21:33,184
+But, and of course, since it's a punish counter
+
+412
+00:21:33,184 --> 00:21:36,194
+you get a lot of big combos off of this
+
+413
+00:21:36,194 --> 00:21:38,844
+which we will go over later of course
+
+414
+00:21:38,844 --> 00:21:41,064
+but this is gonna be the main use for this
+
+415
+00:21:41,064 --> 00:21:43,994
+it's going to be to get over those projectiles.
+
+416
+00:21:43,994 --> 00:21:48,074
+And let's say you, you're fighting Guile and you don't get over the projectile
+
+417
+00:21:48,074 --> 00:21:48,283
+right?
+
+418
+00:21:48,283 --> 00:21:49,624
+Let's say you're fighting Guile, right?
+
+419
+00:21:49,624 --> 00:21:54,644
+And you wanna go over the fireball, maybe you're a bit too late.
+
+420
+00:21:54,644 --> 00:21:57,044
+It's pretty hard, he blocks it.
+
+421
+00:21:57,044 --> 00:21:58,244
+Look at that.
+
+422
+00:21:58,244 --> 00:22:01,524
+You go over it, you're plus three.
+
+423
+00:22:01,524 --> 00:22:04,784
+It is plus three on block, the heavy Spin Knuckle plus three.
+
+424
+00:22:04,784 --> 00:22:08,524
+I only really recommend using the heavy, I don't use other Spin Knuckles.
+
+425
+00:22:08,524 --> 00:22:10,744
+In neutral, pretty much just the heavy one
+
+426
+00:22:10,744 --> 00:22:11,864
+plus three on block.
+
+427
+00:22:11,864 --> 00:22:15,433
+So Guile cannot contest you in this situation at all.
+
+428
+00:22:15,433 --> 00:22:19,144
+If he tries to drive impact, you can drive impact back every time.
+
+429
+00:22:19,144 --> 00:22:25,153
+He cannot jab in this situation because he is still in a bit of recovery from Sonic Boom.
+
+430
+00:22:25,153 --> 00:22:26,704
+So, even if he tries to jab
+
+431
+00:22:26,704 --> 00:22:30,824
+which we could even set up, it will not work.
+
+432
+00:22:30,824 --> 00:22:31,574
+Yup, see?
+
+433
+00:22:31,574 --> 00:22:35,164
+That is a counter hit because he is mashing the jab.
+
+434
+00:22:35,164 --> 00:22:40,164
+And even if you're a bit late, you can get a trade here and get a trade combo
+
+435
+00:22:40,164 --> 00:22:43,204
+but every time you can always get that.
+
+436
+00:22:43,204 --> 00:22:45,764
+Maybe a guy will go for a perfect parry
+
+437
+00:22:45,764 --> 00:22:49,184
+but it is not gonna be a very easy button to perfect parry.
+
+438
+00:22:49,184 --> 00:22:51,344
+And also, when they are in burnout
+
+439
+00:22:51,344 --> 00:22:55,924
+it is very good, but I'll go over burnout stuff a bit later on in the video.
+
+440
+00:22:55,924 --> 00:22:58,104
+That'll be with the frame traps and all that.
+
+441
+00:22:58,104 --> 00:22:59,944
+Now we go over to the next special move
+
+442
+00:22:59,944 --> 00:23:05,524
+which is gonna be her Hooligan, which is a move a lot of people asking me about and why I don't use.
+
+443
+00:23:05,524 --> 00:23:10,204
+I do not right now have any uses for this move.
+
+444
+00:23:10,204 --> 00:23:14,774
+I've not found a good way to use it without it being very risky.
+
+445
+00:23:14,774 --> 00:23:17,764
+You can, of course, use it to fake out anti-airs with
+
+446
+00:23:17,764 --> 00:23:19,944
+you know, this version.
+
+447
+00:23:19,944 --> 00:23:24,264
+You can charge it up, you get a lot of good plus frames and combos.
+
+448
+00:23:24,264 --> 00:23:34,104
+But for me personally, it is very easy to hit out the air and they have a new juggle system in this game where if you get hit out of a special move in the air
+
+449
+00:23:34,104 --> 00:23:39,324
+you will take a lot of combo damage if your opponent has the big combo.
+
+450
+00:23:39,324 --> 00:23:42,434
+So, in high level, you get anti-aired here
+
+451
+00:23:42,434 --> 00:23:44,984
+they're gonna do a full combo that might take about 30
+
+452
+00:23:44,984 --> 00:23:47,364
+40% into more pressure.
+
+453
+00:23:47,364 --> 00:23:50,224
+So in my opinion, I'm not a very good
+
+454
+00:23:50,224 --> 00:23:54,064
+very big fan of the Hooligan yet.
+
+455
+00:23:54,064 --> 00:23:56,404
+Maybe some people will figure out uses on it
+
+456
+00:23:56,404 --> 00:23:59,124
+but for us in this video right now
+
+457
+00:23:59,124 --> 00:24:00,864
+we don't have a use for it.
+
+458
+00:24:00,864 --> 00:24:07,476
+And I don't think it is a very big thing that you need right now with Cammy.
+
+459
+00:24:07,476 --> 00:24:12,072
+So, I do think it's okay that even if we don't go over it right now
+
+460
+00:24:12,072 --> 00:24:14,012
+we don't have any use.
+
+461
+00:24:14,012 --> 00:24:17,572
+I don't think it's extremely necessary that she has to use it.
+
+462
+00:24:17,572 --> 00:24:19,192
+Am I missing any special move?
+
+463
+00:24:19,192 --> 00:24:21,112
+Oh, divekick.
+
+464
+00:24:21,112 --> 00:24:27,492
+Cammy's biggest, most hated special move if you're a competitor is going to be her divekick
+
+465
+00:24:27,492 --> 00:24:32,012
+which is always a very good tool for pressure.
+
+466
+00:24:32,012 --> 00:24:35,242
+You space it out really well, you can make it plus one block as you see
+
+467
+00:24:35,242 --> 00:24:40,492
+plus two, make it zero one block and even if you mess it up a bit right there
+
+468
+00:24:40,492 --> 00:24:42,552
+that is minus five.
+
+469
+00:24:42,552 --> 00:24:44,252
+You don't wanna do it in those ranges
+
+470
+00:24:44,252 --> 00:24:46,012
+like, here is bad.
+
+471
+00:24:46,012 --> 00:24:50,712
+You always wanna get it a little bit to where it's touching the toes.
+
+472
+00:24:50,712 --> 00:24:51,638
+You wanna get it to this.
+
+473
+00:24:51,638 --> 00:24:51,721
+..
+
+474
+00:24:51,721 --> 00:24:52,472
+You know what I'm saying?
+
+475
+00:24:52,472 --> 00:24:54,892
+Low, the lower that the divekick make them block
+
+476
+00:24:54,892 --> 00:24:55,952
+the better.
+
+477
+00:24:55,952 --> 00:24:57,912
+That's the rule here with divekick.
+
+478
+00:24:57,912 --> 00:24:59,232
+The lower they block, the better.
+
+479
+00:24:59,232 --> 00:25:00,412
+It's plus on blocking.
+
+480
+00:25:00,412 --> 00:25:02,192
+Even if you do it at these ranges
+
+481
+00:25:02,192 --> 00:25:06,992
+on hit you get big combos like crouch strong.
+
+482
+00:25:06,992 --> 00:25:11,032
+If you land it a little closer, you can always get the jabs
+
+483
+00:25:11,032 --> 00:25:11,652
+of course.
+
+484
+00:25:11,652 --> 00:25:13,112
+Those are always trustworthy.
+
+485
+00:25:13,112 --> 00:25:15,292
+If you land it and you're not sure.
+
+486
+00:25:15,292 --> 00:25:20,032
+But you do wanna make sure you practice your divekicks with Cammy.
+
+487
+00:25:20,032 --> 00:25:25,912
+It's gonna be a big way to start pressure and it's very hard to react to in anti-air
+
+488
+00:25:25,912 --> 00:25:29,762
+so people tend to block it a lot more when they do anti-air it.
+
+489
+00:25:29,762 --> 00:25:31,972
+Just don't get too predictable with it, of course
+
+490
+00:25:31,972 --> 00:25:35,492
+and just start spamming it eight times, ten times in a row.
+
+491
+00:25:35,492 --> 00:25:42,972
+Sometimes you might see me do that, but it's because I have a very big read that my opponent is just very scared and they're not gonna do anything.
+
+492
+00:25:42,972 --> 00:25:45,212
+But, you know, if you don't have that read
+
+493
+00:25:45,212 --> 00:25:46,652
+don't try to do that kinda stuff.
+
+494
+00:25:46,652 --> 00:25:47,432
+You know what I'm saying?
+
+495
+00:25:47,432 --> 00:25:53,792
+ But yeah, that's pretty much going to be all of the special moves from Cammy.
+
+496
+00:25:53,792 --> 00:26:01,992
+Next, we'll go over her supers which you have her level one is going to be this
+
+497
+00:26:01,992 --> 00:26:07,882
+which is pretty much gonna be a combo ender for big damage and
+
+498
+00:26:07,882 --> 00:26:09,831
+also, if you're very close to burnout
+
+499
+00:26:09,831 --> 00:26:14,232
+you can end combos with this to get that last bit of bar down and burn them out.
+
+500
+00:26:14,232 --> 00:26:17,071
+It does not go through projectiles or anything
+
+501
+00:26:17,071 --> 00:26:25,482
+so you are really pretty much be using this as a main combo ender to close out a round or to burn your opponent out.
+
+502
+00:26:25,482 --> 00:26:29,042
+Or even sometimes I like to use it if my opponent has about
+
+503
+00:26:29,042 --> 00:26:31,202
+let's say, even if they have, like
+
+504
+00:26:31,202 --> 00:26:35,572
+about one, one bar.
+
+505
+00:26:35,572 --> 00:26:39,632
+It doesn't do a full bar, but it puts 'em pretty close to burnout
+
+506
+00:26:39,632 --> 00:26:44,072
+so next situation I could probably make them burnout on block with some pressure
+
+507
+00:26:44,072 --> 00:26:47,831
+so I do think that is pretty good.
+
+508
+00:26:47,831 --> 00:26:51,702
+I mean, overdrive specials from Cammy aren't really that good
+
+509
+00:26:51,702 --> 00:26:52,142
+honestly.
+
+510
+00:26:52,142 --> 00:26:55,402
+Her EX special moves aren't very good, I would say.
+
+511
+00:26:55,402 --> 00:26:58,672
+All her EX special moves are just where you can charge 'em up.
+
+512
+00:26:58,672 --> 00:27:02,492
+They pretty much just combo enders, just like the charged version.
+
+513
+00:27:02,492 --> 00:27:04,692
+They're just the charged version, just combo enders.
+
+514
+00:27:04,692 --> 00:27:07,612
+But yeah, that's gonna be the first super.
+
+515
+00:27:07,612 --> 00:27:11,032
+Pretty much just a combo ender or the burnout situation
+
+516
+00:27:11,032 --> 00:27:12,232
+like I stated.
+
+517
+00:27:12,232 --> 00:27:16,352
+And next one is gonna be her level two super
+
+518
+00:27:16,352 --> 00:27:18,732
+which this super has a pretty decent amount of use.
+
+519
+00:27:18,732 --> 00:27:21,352
+Can even go through fireballs sometimes.
+
+520
+00:27:21,352 --> 00:27:23,412
+Pretty hard, probably would never get through a Sonic Boom
+
+521
+00:27:23,412 --> 00:27:25,572
+but we can see.
+
+522
+00:27:25,572 --> 00:27:31,212
+When you're close enough, you have to do it from pretty close range.
+
+523
+00:27:31,212 --> 00:27:32,612
+Charge acquired.
+
+524
+00:27:32,612 --> 00:27:33,112
+Oh, look.
+
+525
+00:27:33,112 --> 00:27:35,092
+See, it actually punishes her.
+
+526
+00:27:35,092 --> 00:27:36,442
+Charge acquired.
+
+527
+00:27:36,442 --> 00:27:36,442
+Charge acquired.
+
+528
+00:27:36,442 --> 00:27:37,912
+But you cannot do it from, like
+
+529
+00:27:37,912 --> 00:27:39,972
+back here, let's say.
+
+530
+00:27:39,972 --> 00:27:43,192
+Boom, you're gonna get smacked, so you gotta be kinda in her face.
+
+531
+00:27:43,192 --> 00:27:43,911
+Charge acquired.
+
+532
+00:27:43,911 --> 00:27:44,342
+Charge acquired.
+
+533
+00:27:44,342 --> 00:27:46,732
+And you can get a punish on the Sonic Boom.
+
+534
+00:27:46,732 --> 00:27:50,752
+Also, it is very good for combo enders when you're gonna kill them and
+
+535
+00:27:50,752 --> 00:27:52,392
+of course, if you can put them in burnout.
+
+536
+00:27:52,392 --> 00:27:55,378
+This level twos take about, uh, one and.
+
+537
+00:27:55,378 --> 00:27:55,542
+..
+
+538
+00:27:55,542 --> 00:28:00,452
+A little bit like one and one-tenth of a drive gauge bar
+
+539
+00:28:00,452 --> 00:28:06,542
+so if they have one bar, this is guaranteed to burn them out every single time.
+
+540
+00:28:06,542 --> 00:28:12,412
+And even it has more use, because if you do a air combo
+
+541
+00:28:12,412 --> 00:28:13,578
+you can.
+
+542
+00:28:13,578 --> 00:28:14,022
+..
+
+543
+00:28:14,022 --> 00:28:22,962
+If you hit someone in the air, you can actually combo into this and it has a different property where you can get a combo ender like the DP
+
+544
+00:28:22,962 --> 00:28:26,492
+but we'll go over the combo enders later for this super.
+
+545
+00:28:26,492 --> 00:28:27,072
+Charge acquired.
+
+546
+00:28:27,072 --> 00:28:27,202
+Charge acquired.
+
+547
+00:28:27,202 --> 00:28:32,692
+But yeah, you can do it in the sky and then you can just do it raw in the air too.
+
+548
+00:28:32,692 --> 00:28:38,112
+Let's say you saw a S- a Sonic Boom or something and you wanna come down faster
+
+549
+00:28:38,112 --> 00:28:40,572
+you could do that.
+
+550
+00:28:40,572 --> 00:28:42,952
+But yeah, that's gonna be pretty much the uses for that.
+
+551
+00:28:42,952 --> 00:28:45,652
+And now we have the level three super
+
+552
+00:28:45,652 --> 00:28:48,672
+which is my favorite if you know, if you've been watching me
+
+553
+00:28:48,672 --> 00:28:49,682
+I love this super.
+
+554
+00:28:49,682 --> 00:28:53,306
+We call it the missile over here, 'cause you listen to it.
+
+555
+00:28:53,306 --> 00:28:54,062
+..
+
+556
+00:28:54,062 --> 00:28:54,851
+Bing!
+
+557
+00:28:54,851 --> 00:28:56,632
+You hear this is a missile.
+
+558
+00:28:56,632 --> 00:29:03,752
+And just like a missile, it travels very fast and goes across the entire screen
+
+559
+00:29:03,752 --> 00:29:07,392
+making it so that when your opponent has a fireball
+
+560
+00:29:07,392 --> 00:29:12,847
+they cannot shoot it because pretty much at every range except all the way back here.
+
+561
+00:29:12,847 --> 00:29:12,942
+..
+
+562
+00:29:12,942 --> 00:29:13,542
+Charge acquired.
+
+563
+00:29:13,542 --> 00:29:14,632
+Charge acquired.
+
+564
+00:29:14,632 --> 00:29:15,232
+Charge acquired.
+
+565
+00:29:15,232 --> 00:29:16,372
+Oh, what?
+
+566
+00:29:16,372 --> 00:29:20,172
+Bro, I've been hit out of this from fullscreen.
+
+567
+00:29:20,172 --> 00:29:20,502
+Charge acquired.
+
+568
+00:29:20,502 --> 00:29:20,502
+Charge acquired.
+
+569
+00:29:20,502 --> 00:29:20,502
+Charge acquired.
+
+570
+00:29:20,502 --> 00:29:21,512
+All right, here it go.
+
+571
+00:29:21,512 --> 00:29:24,622
+Oh, so maybe if you let the Sonic Boom travel a little bit
+
+572
+00:29:24,622 --> 00:29:25,759
+you could still.
+
+573
+00:29:25,759 --> 00:29:26,002
+..
+
+574
+00:29:26,002 --> 00:29:30,831
+It'll still actually punish, so you could do it from fullscreen.
+
+575
+00:29:30,831 --> 00:29:33,162
+But this is used pretty much, of course
+
+576
+00:29:33,162 --> 00:29:36,262
+to put your opponent in burnout, like I said before.
+
+577
+00:29:36,262 --> 00:29:39,012
+A level three does take about a bar and a half.
+
+578
+00:29:39,012 --> 00:29:40,642
+We're gonna look here.
+
+579
+00:29:40,642 --> 00:29:42,792
+And if you have CA, it takes two full bars
+
+580
+00:29:42,792 --> 00:29:44,772
+I know that.
+
+581
+00:29:44,772 --> 00:29:46,432
+So, takes about a bar and a half
+
+582
+00:29:46,432 --> 00:29:50,522
+and if it's the CA version, the CA version does about
+
+583
+00:29:50,522 --> 00:29:53,432
+uh, two bars, I believe.
+
+584
+00:29:53,432 --> 00:30:00,032
+Yep, two bars.
+
+585
+00:30:00,032 --> 00:30:01,412
+All CAs in this game, I think
+
+586
+00:30:01,412 --> 00:30:04,732
+does the same, so two bars for that
+
+587
+00:30:04,732 --> 00:30:08,294
+and of course, you can do this to end your combos with.
+
+588
+00:30:08,294 --> 00:30:14,836
+If you're throwin' a kill, it's always good to use the kill as an ender combo to close out rounds and games
+
+589
+00:30:14,836 --> 00:30:15,836
+of course.
+
+590
+00:30:15,836 --> 00:30:22,356
+But my main way I use it a lot to go through projectiles or to put my opponent in burnout because
+
+591
+00:30:22,356 --> 00:30:23,995
+you know, it's just so fast.
+
+592
+00:30:23,995 --> 00:30:24,896
+It's a missile!
+
+593
+00:30:24,896 --> 00:30:26,235
+It's a missile, bro!
+
+594
+00:30:26,235 --> 00:30:31,036
+But that is gonna be the main use of all of Cammy's supers right there.
+
+595
+00:30:31,036 --> 00:30:36,616
+Pretty much identical to each other, besides the level three is very good to get through fireballs.
+
+596
+00:30:36,616 --> 00:30:46,436
+So, the next thing we are going to go over is Cammy's drive gauge usage.
+
+597
+00:30:46,436 --> 00:30:52,275
+Feel like it is very important for each character to understand how to use the drive gauge
+
+598
+00:30:52,275 --> 00:30:56,735
+which is pretty much gonna be the same for buttons.
+
+599
+00:30:56,735 --> 00:31:00,916
+You can test them all out, but I'm just go over the gist of it 'cause i- if we do the whole thing
+
+600
+00:31:00,916 --> 00:31:04,025
+it's just gonna be like I'm going through all the last button again.
+
+601
+00:31:04,025 --> 00:31:06,846
+So, pretty much all your drive rush buttons you want to use
+
+602
+00:31:06,846 --> 00:31:10,936
+which keep this in mind, Cammy's drive rush is not the best in the game.
+
+603
+00:31:10,936 --> 00:31:12,416
+It does not have a lot of range
+
+604
+00:31:12,416 --> 00:31:15,456
+so you cannot just bust it out.
+
+605
+00:31:15,456 --> 00:31:17,775
+But if you go into pressure from it
+
+606
+00:31:17,775 --> 00:31:22,735
+you gotta remember the best buttons that you want to try to use is your standard medium punch
+
+607
+00:31:22,735 --> 00:31:25,495
+which is gonna give you a plus three on block
+
+608
+00:31:25,495 --> 00:31:29,296
+your crouching heavy punch, which is gonna give you a plus five on block
+
+609
+00:31:29,296 --> 00:31:33,156
+and your standing jabs, which is gonna be plus two on block.
+
+610
+00:31:33,156 --> 00:31:40,249
+And the reason that you wanna do these buttons out of it if your opponent is blocking is because these leave you.
+
+611
+00:31:40,249 --> 00:31:40,326
+..
+
+612
+00:31:40,326 --> 00:31:44,186
+This right here, medium punch, leaves you in range to grab them.
+
+613
+00:31:44,186 --> 00:31:45,786
+You don't have to walk or anything.
+
+614
+00:31:45,786 --> 00:31:48,966
+Also, jab does the exact same thing.
+
+615
+00:31:48,966 --> 00:31:54,316
+So, those two buttons you do because they leave you right in range to grab.
+
+616
+00:31:54,316 --> 00:31:57,136
+You don't have to walk, you can just press the grab button.
+
+617
+00:31:57,136 --> 00:32:00,536
+And the crouching fierce is good because it is the most plus one on block
+
+618
+00:32:00,536 --> 00:32:02,136
+which is plus five.
+
+619
+00:32:02,136 --> 00:32:07,255
+And you can also just grab straight away from it s- at some ranges.
+
+620
+00:32:07,255 --> 00:32:11,416
+But you can just take the slight step forward and grab.
+
+621
+00:32:11,416 --> 00:32:15,146
+But this is good because you can get a lot of big frame traps from it.
+
+622
+00:32:15,146 --> 00:32:18,195
+Crouch fierce into crouch fierce becomes a real frame trap.
+
+623
+00:32:18,195 --> 00:32:23,995
+If they mash, they will take very big damage.
+
+624
+00:32:23,995 --> 00:32:27,386
+So, that is pretty much how you would use the drive gauge with Cammy
+
+625
+00:32:27,386 --> 00:32:28,456
+I would say.
+
+626
+00:32:28,456 --> 00:32:30,726
+You don't really do things like, you know
+
+627
+00:32:30,726 --> 00:32:34,456
+drive rush, stand heavy kick because it's no real use for it.
+
+628
+00:32:34,456 --> 00:32:39,056
+You wanna use your drive rush to get plus range or to do pretty damaging combos
+
+629
+00:32:39,056 --> 00:32:40,096
+right?
+
+630
+00:32:40,096 --> 00:32:47,755
+You can also use crouching medium punch, but does not leave you in range so I wouldn't really recommend it too much.
+
+631
+00:32:47,755 --> 00:32:50,263
+So yeah, that's pretty much what I would say the drive.
+
+632
+00:32:50,263 --> 00:32:50,446
+..
+
+633
+00:32:50,446 --> 00:32:54,786
+You wanna pretty much use her drive system for.
+
+634
+00:32:54,786 --> 00:33:00,116
+You cannot really spam it too much in neutral since it's not very fast and it doesn't have a lot of range
+
+635
+00:33:00,116 --> 00:33:02,495
+but you can definitely catch people off guard.
+
+636
+00:33:02,495 --> 00:33:05,255
+I would be sometimes, you know, I won't do it at whole set
+
+637
+00:33:05,255 --> 00:33:12,936
+then I'll just bust it out for some quick plus range if I'm feeling it and I'm just feeling like they maybe not gonna check me in that moment.
+
+638
+00:33:12,936 --> 00:33:16,956
+And you can just start some pressure.
+
+639
+00:33:16,956 --> 00:33:21,136
+Next thing we want to go over is combos for Cammy.
+
+640
+00:33:21,136 --> 00:33:25,516
+Really gonna be your basic go-to combos if you do land a hit.
+
+641
+00:33:25,516 --> 00:33:29,356
+So, n- number one, the combo you want to have
+
+642
+00:33:29,356 --> 00:33:32,476
+of course, crouch and fierce into crouch medium punch.
+
+643
+00:33:32,476 --> 00:33:35,896
+Any time your crouch fierce hit, if it's non-counter hit
+
+644
+00:33:35,896 --> 00:33:38,795
+this is your best go-to combo.
+
+645
+00:33:38,795 --> 00:33:41,656
+Or if you may be a bit too far
+
+646
+00:33:41,656 --> 00:33:45,126
+you can definitely try to go for the stand and light kick
+
+647
+00:33:45,126 --> 00:33:48,755
+which won't really connect a lot either from far range.
+
+648
+00:33:48,755 --> 00:33:53,176
+So, this is pretty much your go-to combo.
+
+649
+00:33:53,176 --> 00:33:56,716
+If you see this crouch fierce land, it's gonna be the crouch medium punch.
+
+650
+00:33:56,716 --> 00:33:59,326
+Unless you do wanna go into the, you know
+
+651
+00:33:59,326 --> 00:34:02,956
+drive rush, but we'll talk about the drive rush after.
+
+652
+00:34:02,956 --> 00:34:05,876
+So, that's gonna be your basic crouch fierce combo with Cammy.
+
+653
+00:34:05,876 --> 00:34:08,375
+And then after, you have jab, jab
+
+654
+00:34:08,375 --> 00:34:12,395
+jab, of course, boom, jab, jab
+
+655
+00:34:12,395 --> 00:34:17,116
+jab, spiral, which you are gonna see yourself doing a lot with Cammy.
+
+656
+00:34:17,116 --> 00:34:21,436
+Since jabs are very good for pressure in this game
+
+657
+00:34:21,436 --> 00:34:30,716
+you're gonna see yourself using jabs a lot and you're gonna also see yourself landing a lot of jabs
+
+658
+00:34:30,716 --> 00:34:35,306
+so you're gonna need to have this combo down 100%.
+
+659
+00:34:35,306 --> 00:34:38,116
+Also, you could do jab, jab, light kick
+
+660
+00:34:38,116 --> 00:34:41,355
+which is also pretty much the same thing.
+
+661
+00:34:41,355 --> 00:34:44,235
+And if they are crouching, you can do jab
+
+662
+00:34:44,235 --> 00:34:46,815
+jab, jab, light kick.
+
+663
+00:34:46,815 --> 00:34:53,116
+So, these are important combos you're gonna see yourself using a lot.
+
+664
+00:34:53,116 --> 00:34:56,295
+If you watch any of my videos actually playing Cammy
+
+665
+00:34:56,295 --> 00:34:58,836
+you will see that I end up doing jab
+
+666
+00:34:58,836 --> 00:35:03,446
+jab combos probably more than anything else in this game right now.
+
+667
+00:35:03,446 --> 00:35:06,876
+Your next combo is going to be standin' medium punch.
+
+668
+00:35:06,876 --> 00:35:08,816
+If you see this stand medium punch land
+
+669
+00:35:08,816 --> 00:35:13,026
+you can always do stand light kick into spiral arrow if you are in range
+
+670
+00:35:13,026 --> 00:35:15,636
+of course.
+
+671
+00:35:15,636 --> 00:35:17,296
+Every time, this is gonna work.
+
+672
+00:35:17,296 --> 00:35:20,096
+This is your combo if you see this land.
+
+673
+00:35:20,096 --> 00:35:23,716
+Now, if you're very close and you land this
+
+674
+00:35:23,716 --> 00:35:29,536
+you can go into back medium punch target combo
+
+675
+00:35:29,536 --> 00:35:32,736
+which is gonna be a very important combo.
+
+676
+00:35:32,736 --> 00:35:37,556
+Pretty much anytime you clash with drive impacts with someone
+
+677
+00:35:37,556 --> 00:35:39,145
+which we'll go over all that stuff still
+
+678
+00:35:39,145 --> 00:35:39,736
+of course.
+
+679
+00:35:39,736 --> 00:35:45,196
+But yeah, that's gonna be a very good combo for this if you see it land up close.
+
+680
+00:35:45,196 --> 00:35:49,816
+Also, another good combo is gonna be crouch jab into target combo.
+
+681
+00:35:49,816 --> 00:35:54,476
+Always a very, very good combo with Cammy.
+
+682
+00:35:54,476 --> 00:36:02,876
+So, I'm gonna say that's pretty much going to be all your basic combos that you confirm into when you see stuff hit
+
+683
+00:36:02,876 --> 00:36:05,236
+non-counter hit, of course.
+
+684
+00:36:05,236 --> 00:36:08,056
+Next combo we'll go into is some counter hit combos
+
+685
+00:36:08,056 --> 00:36:08,367
+so.
+
+686
+00:36:08,367 --> 00:36:08,562
+..
+
+687
+00:36:08,562 --> 00:36:11,548
+Let's say you see yourself, you- you land some counter hits
+
+688
+00:36:11,548 --> 00:36:13,968
+you know, you start your pressure and you start frame trapping
+
+689
+00:36:13,968 --> 00:36:14,778
+fellas.
+
+690
+00:36:14,778 --> 00:36:17,728
+You land a counter hit, stand in a medium punch
+
+691
+00:36:17,728 --> 00:36:20,608
+you can go into a lot of different thing.
+
+692
+00:36:20,608 --> 00:36:23,708
+The one- best one, which is gonna be if you hit it at a further range
+
+693
+00:36:23,708 --> 00:36:26,048
+is going to be the crouching medium kick.
+
+694
+00:36:26,048 --> 00:36:31,548
+You will be able to land this on counter hit every time from pretty much any range that you see this hit.
+
+695
+00:36:31,548 --> 00:36:33,968
+I think this will always work.
+
+696
+00:36:33,968 --> 00:36:36,578
+And if you do land this a bit closer
+
+697
+00:36:36,578 --> 00:36:44,388
+you can get even damaging- more damaging combo which is stand medium punch into standing fierce
+
+698
+00:36:44,388 --> 00:36:48,788
+which is gonna do a lot of damage every time.
+
+699
+00:36:48,788 --> 00:36:55,118
+So this is pretty much gonna be your combo anytime you see yourself landing a counter hit with stand and medium punch
+
+700
+00:36:55,118 --> 00:36:57,728
+you will go into that and if you land it from further
+
+701
+00:36:57,728 --> 00:37:00,058
+go into the crouching medium kick.
+
+702
+00:37:00,058 --> 00:37:02,338
+You can also go into crouch medium punch.
+
+703
+00:37:02,338 --> 00:37:04,398
+Don't really see a reason to do that
+
+704
+00:37:04,398 --> 00:37:06,825
+unless you're.
+
+705
+00:37:06,825 --> 00:37:07,088
+..
+
+706
+00:37:07,088 --> 00:37:10,628
+You know, you pretty much gonna do either this
+
+707
+00:37:10,628 --> 00:37:15,738
+most of the time stand medium punch and to stand fierce or you're gonna be doing stand fierce into low forward.
+
+708
+00:37:15,738 --> 00:37:20,668
+There's really no reason to go for that one there.
+
+709
+00:37:20,668 --> 00:37:28,508
+So yeah, that is gonna be your go-to combos if you see yourself counter hit with stand medium punch.
+
+710
+00:37:28,508 --> 00:37:31,298
+Now if you see yourself get a counter hit with crouch and medium punch
+
+711
+00:37:31,298 --> 00:37:37,168
+your best combo is always gonna be crouch and medium punch two times into the spiral arrow
+
+712
+00:37:37,168 --> 00:37:41,148
+of course, or a special move of your choice.
+
+713
+00:37:41,148 --> 00:37:45,948
+Now this is one of the good ones I would say
+
+714
+00:37:45,948 --> 00:37:49,128
+is if you get a counter hit crouch jab
+
+715
+00:37:49,128 --> 00:37:51,628
+which you probably will see yourself getting a lot
+
+716
+00:37:51,628 --> 00:37:53,468
+it's very hard to confirm the counter hit
+
+717
+00:37:53,468 --> 00:37:56,968
+but sometimes you actually can- will see it.
+
+718
+00:37:56,968 --> 00:38:01,868
+I'm pretty good at reacting to it, but it's 'cause I've been playing Street Fighter for so long at this point.
+
+719
+00:38:01,868 --> 00:38:06,108
+But yeah, you could do crouching jab into crouching medium punch
+
+720
+00:38:06,108 --> 00:38:13,728
+which is gonna be a pretty damaging, good damage combo from a jab and it'll save you from doing jab light spiral
+
+721
+00:38:13,728 --> 00:38:15,728
+where you could get a bit more damage from jab
+
+722
+00:38:15,728 --> 00:38:29,648
+crouch and medium punch, spiral arrow, which is gonna be a pretty good important combo for when you catch your opponent slipping in neutral when they're trying to pressure you and you get a counter hit reversal jab
+
+723
+00:38:29,648 --> 00:38:30,838
+I would like to call it.
+
+724
+00:38:30,838 --> 00:38:35,708
+Another important combos is going to be your crouch and fierce counter hit combos
+
+725
+00:38:35,708 --> 00:38:37,928
+which is crouch fierce counter hit into stand fierce.
+
+726
+00:38:37,928 --> 00:38:41,728
+And just like the medium punch, if you get it from further range
+
+727
+00:38:41,728 --> 00:38:46,188
+you can go into the crouching medium kick.
+
+728
+00:38:46,188 --> 00:38:49,008
+It doesn't work on every range like the stand medium punch
+
+729
+00:38:49,008 --> 00:38:52,477
+but it will work from further ranges than the stand and fierce.
+
+730
+00:38:52,477 --> 00:38:55,548
+But if you get it point-blank, always go into that stand fierce.
+
+731
+00:38:55,548 --> 00:39:00,188
+Very good combo.
+
+732
+00:39:00,188 --> 00:39:05,238
+Every time.
+
+733
+00:39:05,238 --> 00:39:06,128
+Okay.
+
+734
+00:39:06,128 --> 00:39:10,728
+So that is gonna pretty much be all your basic counter hit combos with Cammy.
+
+735
+00:39:10,728 --> 00:39:14,288
+Now we will move on to the punish counter combos.
+
+736
+00:39:14,288 --> 00:39:18,008
+And if you don't know what a punish counter combo or a punish counter is
+
+737
+00:39:18,008 --> 00:39:21,728
+you will get punish counter 100% of the time
+
+738
+00:39:21,728 --> 00:39:23,868
+even if, let's say, Guile whiffs his button.
+
+739
+00:39:23,868 --> 00:39:25,218
+Now we're good.
+
+740
+00:39:25,218 --> 00:39:27,008
+Boom, you always get the punish counter.
+
+741
+00:39:27,008 --> 00:39:29,088
+You see it show up on the screen.
+
+742
+00:39:29,088 --> 00:39:33,708
+Obviously further away you won't be able to get a cool punish counter combo
+
+743
+00:39:33,708 --> 00:39:39,558
+but I just want you to know the basic properties of the punish counter and how you will be landing this.
+
+744
+00:39:39,558 --> 00:39:43,898
+It's gonna always be from punishing something every time.
+
+745
+00:39:43,898 --> 00:39:46,248
+And a lot of times you can get
+
+746
+00:39:46,248 --> 00:39:50,008
+with Cammy, if you whip front or something from a bit closer range
+
+747
+00:39:50,008 --> 00:39:52,428
+this is- will be your go-to punish counter combo
+
+748
+00:39:52,428 --> 00:39:53,358
+in my opinion.
+
+749
+00:39:53,358 --> 00:40:02,288
+You will try to get stand fierce into heavy spin knuckle because this allows you to get a follow-up with a light kick into spiral arrow
+
+750
+00:40:02,288 --> 00:40:06,248
+which is a very good whip punish combo from further range.
+
+751
+00:40:06,248 --> 00:40:10,578
+And you need to know that this combo only works on punish counters.
+
+752
+00:40:10,578 --> 00:40:21,538
+Stand fierce into heavy knuckle, it is only gonna work on punish counter which makes your punish counter and your whip punishing very deadly
+
+753
+00:40:21,538 --> 00:40:24,008
+I would say, from further back.
+
+754
+00:40:24,008 --> 00:40:29,888
+The biggest way, of course, for a punish counter is going to be if you block a reversal.
+
+755
+00:40:29,888 --> 00:40:32,768
+Let me set up Guile to do his reversal.
+
+756
+00:40:32,768 --> 00:40:38,638
+Anytime you block a reversal, you're going to get a punish counter and this is pretty much gonna be your go-to combo.
+
+757
+00:40:38,638 --> 00:40:42,898
+This is gonna be your most optimal non-meter combo
+
+758
+00:40:42,898 --> 00:40:45,928
+which it does require a micro walk.
+
+759
+00:40:45,928 --> 00:40:51,098
+You cannot just do this combo from crouch fierce back medium punch.
+
+760
+00:40:51,098 --> 00:40:54,328
+You see, it will whiff every time.
+
+761
+00:40:54,328 --> 00:40:55,068
+Look at that.
+
+762
+00:40:55,068 --> 00:40:57,228
+Even if I walk up on a flash kick
+
+763
+00:40:57,228 --> 00:40:58,948
+look, whiffs every time.
+
+764
+00:40:58,948 --> 00:41:02,628
+So you do have to put a bit of a walk in there
+
+765
+00:41:02,628 --> 00:41:05,568
+which is a bit more advanced, of course
+
+766
+00:41:05,568 --> 00:41:07,968
+but it's gonna be your most optimal combo.
+
+767
+00:41:07,968 --> 00:41:09,818
+If you don't want to do that, you don't have to
+
+768
+00:41:09,818 --> 00:41:10,218
+of course.
+
+769
+00:41:10,218 --> 00:41:18,328
+You can always go with the trustworthy crouch fierce into stand fierce or you can go into
+
+770
+00:41:18,328 --> 00:41:22,126
+which is another good one, you could go into crouch fierce back medium kick.
+
+771
+00:41:22,126 --> 00:41:22,278
+..
+
+772
+00:41:22,278 --> 00:41:24,968
+I meant crouch fierce back heavy kick.
+
+773
+00:41:24,968 --> 00:41:27,908
+Boom.
+
+774
+00:41:27,908 --> 00:41:31,228
+And of course, if you a bit late
+
+775
+00:41:31,228 --> 00:41:32,658
+you could do these combos.
+
+776
+00:41:32,658 --> 00:41:36,908
+Any regular counter hit combo works as a punish counter combo
+
+777
+00:41:36,908 --> 00:41:39,248
+so I need, want y'all to know that.
+
+778
+00:41:39,248 --> 00:41:42,848
+Any combo you learn from me that works on counter hit
+
+779
+00:41:42,848 --> 00:41:47,208
+it 100% works on the punish counter too.
+
+780
+00:41:47,208 --> 00:41:52,008
+So boom, look at that.
+
+781
+00:41:52,008 --> 00:41:53,288
+Every time.
+
+782
+00:41:53,288 --> 00:41:55,068
+You always wanna punish with that.
+
+783
+00:41:55,068 --> 00:41:56,888
+This is your best punish.
+
+784
+00:41:56,888 --> 00:41:59,488
+But of course, this is the most optimal one.
+
+785
+00:41:59,488 --> 00:42:05,108
+So those are gonna be your pretty much your standard punish counter combos for Cammy.
+
+786
+00:42:05,108 --> 00:42:07,768
+And now we're gonna get into the drive rush combos
+
+787
+00:42:07,768 --> 00:42:10,888
+which goes back into the punish counter combos.
+
+788
+00:42:10,888 --> 00:42:14,128
+Anytime you do a drive rush and is- you do button
+
+789
+00:42:14,128 --> 00:42:18,568
+it is the same amount of plus frames as the punish counter combo I showed you.
+
+790
+00:42:18,568 --> 00:42:22,468
+So all of those combos I just showed you will work.
+
+791
+00:42:22,468 --> 00:42:23,840
+You could go for that.
+
+792
+00:42:23,840 --> 00:42:26,332
+You can even do this.
+
+793
+00:42:26,332 --> 00:42:33,452
+Stand fierce, back medium punch, which is gonna pretty much be the most optimal combo you could do.
+
+794
+00:42:33,452 --> 00:42:39,652
+If you cancel from a low forward, let's say you get the whiff punish with the low forward
+
+795
+00:42:39,652 --> 00:42:42,372
+you cancel, stand fierce, target combo.
+
+796
+00:42:42,372 --> 00:42:45,412
+That's gonna be your go-to mid screen.
+
+797
+00:42:45,412 --> 00:42:50,632
+Now, if you're in a corner, of course you can go into these combos
+
+798
+00:42:50,632 --> 00:42:55,032
+which is, I wouldn't say they're too advanced.
+
+799
+00:42:55,032 --> 00:42:59,132
+Honestly, you could, uh, go into crouching fierce
+
+800
+00:42:59,132 --> 00:43:02,182
+back heavy kick, spiral arrow, DP.
+
+801
+00:43:02,182 --> 00:43:05,552
+This is gonna be your most optimal ender.
+
+802
+00:43:05,552 --> 00:43:09,092
+Once you finish and you want to dump all your meter
+
+803
+00:43:09,092 --> 00:43:12,052
+you will always end with this combo.
+
+804
+00:43:12,052 --> 00:43:16,294
+Or, if they are standing, after a crouching heavy punch if you do.
+
+805
+00:43:16,294 --> 00:43:16,482
+..
+
+806
+00:43:16,482 --> 00:43:18,772
+Let's say you want to dump all your meter into a combo
+
+807
+00:43:18,772 --> 00:43:19,352
+right?
+
+808
+00:43:19,352 --> 00:43:21,632
+This is the ender that you want to do
+
+809
+00:43:21,632 --> 00:43:24,282
+back heavy kick, back heavy kick, spiral arrow
+
+810
+00:43:24,282 --> 00:43:25,512
+DP.
+
+811
+00:43:25,512 --> 00:43:28,942
+Or, of course, if you want to dump it you could do back heavy
+
+812
+00:43:28,942 --> 00:43:33,172
+kick back heavy, kick spiral arrow into level three if you have the bar.
+
+813
+00:43:33,172 --> 00:43:35,852
+Same thing, that combo does work.
+
+814
+00:43:35,852 --> 00:43:37,752
+Back heavy kick two times.
+
+815
+00:43:37,752 --> 00:43:41,832
+Oh my God, I look like a bot.
+
+816
+00:43:41,832 --> 00:43:45,492
+Boom.
+
+817
+00:43:45,492 --> 00:43:47,602
+Those are some important drive rush combo.
+
+818
+00:43:47,602 --> 00:43:50,092
+Another one is going to be off a jab confirm.
+
+819
+00:43:50,092 --> 00:43:50,869
+Sometimes you might.
+
+820
+00:43:50,869 --> 00:43:50,942
+..
+
+821
+00:43:50,942 --> 00:43:53,592
+Can get the kill off of a jab confirm
+
+822
+00:43:53,592 --> 00:43:55,512
+so you would want to do jab, jab
+
+823
+00:43:55,512 --> 00:44:01,652
+jab, drive rush into another jab.
+
+824
+00:44:01,652 --> 00:44:06,532
+So jab, jab, drive rush into another jab is going to be your best friend.
+
+825
+00:44:06,532 --> 00:44:07,402
+You can also.
+
+826
+00:44:07,402 --> 00:44:07,582
+..
+
+827
+00:44:07,582 --> 00:44:13,732
+You can do from that stand jab into stand fierce is probably the best one
+
+828
+00:44:13,732 --> 00:44:15,532
+honestly.
+
+829
+00:44:15,532 --> 00:44:16,542
+Pretty simple.
+
+830
+00:44:16,542 --> 00:44:19,182
+There's really no reason to do another combo from jab
+
+831
+00:44:19,182 --> 00:44:19,732
+jab.
+
+832
+00:44:19,732 --> 00:44:23,372
+Just do stand jab into standing fierce.
+
+833
+00:44:23,372 --> 00:44:26,232
+Spiral arrow is going to be your go-to jab
+
+834
+00:44:26,232 --> 00:44:28,212
+drive rush combo.
+
+835
+00:44:28,212 --> 00:44:32,532
+And of course, if you want to meter dump and your opponent is about die
+
+836
+00:44:32,532 --> 00:44:34,992
+you can do jab, jab, drive rush.
+
+837
+00:44:34,992 --> 00:44:36,852
+Do the regular jab, drive rush combo
+
+838
+00:44:36,852 --> 00:44:41,992
+jab fierce into another one, into super.
+
+839
+00:44:41,992 --> 00:44:47,392
+Also, all these combos work from standing light kick also.
+
+840
+00:44:47,392 --> 00:44:48,581
+So if you do a jab, uh
+
+841
+00:44:48,581 --> 00:44:53,612
+drive rush from standing light kick, you can do all of these combos that I just showed you.
+
+842
+00:44:53,612 --> 00:44:57,932
+They all will work from it.
+
+843
+00:44:57,932 --> 00:45:03,072
+And of course, if you want to end with level three
+
+844
+00:45:03,072 --> 00:45:08,772
+the best way to end to level three is always going to be your charge DP into level three.
+
+845
+00:45:08,772 --> 00:45:11,032
+If you ever do regular DP level three
+
+846
+00:45:11,032 --> 00:45:12,732
+it will not work.
+
+847
+00:45:12,732 --> 00:45:16,532
+So, if you want to meter dump all your meter and you're about to kill
+
+848
+00:45:16,532 --> 00:45:23,542
+you would do that pretty much as your basic ender combo to kill someone.
+
+849
+00:45:23,542 --> 00:45:24,285
+That's going to be the.
+
+850
+00:45:24,285 --> 00:45:24,362
+..
+
+851
+00:45:24,362 --> 00:45:28,992
+Pretty much the simple Cammy combo that you see everyone do to kill
+
+852
+00:45:28,992 --> 00:45:30,502
+and the more advanced one, of course
+
+853
+00:45:30,502 --> 00:45:35,292
+is going to be what I showed you earlier.
+
+854
+00:45:35,292 --> 00:45:42,292
+Which will be your more optimal, and does a bit more in the corner.
+
+855
+00:45:42,292 --> 00:45:46,192
+Obviously this is a only a corner combo.
+
+856
+00:45:46,192 --> 00:45:53,006
+And another good drive rush combo I will say that you will want to have in your arsenal is.
+
+857
+00:45:53,006 --> 00:45:53,202
+..
+
+858
+00:45:53,202 --> 00:45:57,912
+In the corner you can do combos like this with Cammy if you get a knock-up.
+
+859
+00:45:57,912 --> 00:46:06,052
+So let's say you get boomed, you can dump some more meter and do a combo like that.
+
+860
+00:46:06,052 --> 00:46:13,183
+And also, in the corner, it is very important for you to know that no matter how high an opponent.
+
+861
+00:46:13,183 --> 00:46:13,301
+..
+
+862
+00:46:13,301 --> 00:46:17,552
+Or, well, not how high, but if you ever land back heavy kick
+
+863
+00:46:17,552 --> 00:46:22,532
+heavy kick, you can do DP into super.
+
+864
+00:46:22,532 --> 00:46:23,502
+Not from that height.
+
+865
+00:46:23,502 --> 00:46:25,452
+See, those heights you will not be able to do it from
+
+866
+00:46:25,452 --> 00:46:28,232
+but if you let them land a bit lower
+
+867
+00:46:28,232 --> 00:46:32,192
+this will actually do the most.
+
+868
+00:46:32,192 --> 00:46:39,182
+And the super will always land in the corner from a charge DP if you land the DP low enough to the opponent.
+
+869
+00:46:39,182 --> 00:46:45,172
+You will always be able to get charge DP super
+
+870
+00:46:45,172 --> 00:46:49,332
+but mid screen, do not try this because you can.
+
+871
+00:46:49,332 --> 00:46:49,892
+..
+
+872
+00:46:49,892 --> 00:46:52,780
+See here, I do not believe.
+
+873
+00:46:52,780 --> 00:46:53,032
+..
+
+874
+00:46:53,032 --> 00:46:59,292
+Yeah, see, it will never work, but if you see me do this combo in the corner
+
+875
+00:46:59,292 --> 00:47:02,732
+they will always fall into it after the charge DP.
+
+876
+00:47:02,732 --> 00:47:07,952
+Remember, even if you're juggling, regular DP level three
+
+877
+00:47:07,952 --> 00:47:09,752
+boom, never works.
+
+878
+00:47:09,752 --> 00:47:11,592
+Never regular DP level three.
+
+879
+00:47:11,592 --> 00:47:13,852
+If you don't want to go for the charge DP level three
+
+880
+00:47:13,852 --> 00:47:19,132
+you can always just do spiral arrow into a level three
+
+881
+00:47:19,132 --> 00:47:21,992
+which will be your go-to level three combos
+
+882
+00:47:21,992 --> 00:47:22,552
+I would say.
+
+883
+00:47:22,552 --> 00:47:25,252
+Now, for a level one, I would think
+
+884
+00:47:25,252 --> 00:47:25,492
+say.
+
+885
+00:47:25,492 --> 00:47:25,582
+..
+
+886
+00:47:25,582 --> 00:47:33,192
+This is a very important combo, which is going to be your side switch combo here.
+
+887
+00:47:33,192 --> 00:47:34,972
+This is Cammy's side switch combo.
+
+888
+00:47:34,972 --> 00:47:36,912
+No meter.
+
+889
+00:47:36,912 --> 00:47:45,692
+Anytime you land back target combo, you just do heavy hooligan
+
+890
+00:47:45,692 --> 00:47:48,832
+and it will always side switch if you do target combo.
+
+891
+00:47:48,832 --> 00:47:52,732
+Anytime you land target combo, you can side switch with this.
+
+892
+00:47:52,732 --> 00:47:57,832
+Now, if you look here this is a very good way to use level one
+
+893
+00:47:57,832 --> 00:47:59,852
+I would say.
+
+894
+00:47:59,852 --> 00:48:01,512
+It's a bit damaging combo.
+
+895
+00:48:01,512 --> 00:48:03,258
+It's really good, and it's going to.
+
+896
+00:48:03,258 --> 00:48:03,422
+..
+
+897
+00:48:03,422 --> 00:48:08,022
+Use up quite a lot of meter, but it's going to get your opponent in the corner and take you out the corner.
+
+898
+00:48:08,022 --> 00:48:11,112
+It's going to be anytime you land a drive rush
+
+899
+00:48:11,112 --> 00:48:16,892
+and you can go into crouch fierce, heavy kick
+
+900
+00:48:16,892 --> 00:48:25,232
+and it will take them all the way to the corner where you are free to start pressuring them.
+
+901
+00:48:25,232 --> 00:48:29,472
+I would say this combo is very important for Cammy and you're gonna want to learn it.
+
+902
+00:48:29,472 --> 00:48:35,422
+Anytime you land a drive rush, boom-Here we go.
+
+903
+00:48:35,422 --> 00:48:39,282
+  One more time.
+
+904
+00:48:39,282 --> 00:48:44,102
+Crouch fears, back heavy kick and then I hold the.
+
+905
+00:48:44,102 --> 00:48:44,322
+..
+
+906
+00:48:44,322 --> 00:48:47,812
+You know, you do the drive rush after the back heavy kick.
+
+907
+00:48:47,812 --> 00:48:49,122
+You do the parry drive rush.
+
+908
+00:48:49,122 --> 00:48:50,422
+You see me holding the parry?
+
+909
+00:48:50,422 --> 00:48:53,372
+I want to explain this so people understand the juggle move.
+
+910
+00:48:53,372 --> 00:48:56,882
+Hold the parry and then just dash.
+
+911
+00:48:56,882 --> 00:48:59,872
+ As you see my input, I start holding very early.
+
+912
+00:48:59,872 --> 00:49:04,422
+Soon as I do back heavy kick, you can just start holding it and buffering that dash.
+
+913
+00:49:04,422 --> 00:49:07,502
+So, this gonna be a very important combo for that.
+
+914
+00:49:07,502 --> 00:49:14,502
+And now for your level two, you have a very important air combo to close out rounds if you do land this
+
+915
+00:49:14,502 --> 00:49:16,632
+which is going to be- Be quiet.
+
+916
+00:49:16,632 --> 00:49:16,632
+.
+
+917
+00:49:16,632 --> 00:49:16,632
+.
+
+918
+00:49:16,632 --> 00:49:18,862
+this into heavy DP.
+
+919
+00:49:18,862 --> 00:49:21,052
+So, anytime you land a charge, uh
+
+920
+00:49:21,052 --> 00:49:26,822
+target combo, you can go into this level two super.
+
+921
+00:49:26,822 --> 00:49:28,602
+Be quiet.
+
+922
+00:49:28,602 --> 00:49:35,882
+ So, if you ever land an air to air on someone and you do super immediately
+
+923
+00:49:35,882 --> 00:49:37,872
+you can get a pretty big- Be quiet.
+
+924
+00:49:37,872 --> 00:49:37,872
+.
+
+925
+00:49:37,872 --> 00:49:37,872
+.
+
+926
+00:49:37,872 --> 00:49:39,501
+drive rush combo.
+
+927
+00:49:39,501 --> 00:49:39,672
+Be quiet.
+
+928
+00:49:39,672 --> 00:49:44,492
+ How does he work like that?
+
+929
+00:49:44,492 --> 00:49:44,512
+Here we go.
+
+930
+00:49:44,512 --> 00:49:48,942
+  You can always get a big drive rush combo.
+
+931
+00:49:48,942 --> 00:49:51,782
+You can become unique with that right there
+
+932
+00:49:51,782 --> 00:49:55,202
+just go off that template and you can figure out stuff from there.
+
+933
+00:49:55,202 --> 00:49:59,162
+So, I would say, pretty much, that is all the basic combos for Cammy
+
+934
+00:49:59,162 --> 00:50:02,462
+or the basic and the advanced combos, pretty much
+
+935
+00:50:02,462 --> 00:50:05,062
+from jabs to drive rush to all of that.
+
+936
+00:50:05,062 --> 00:50:07,812
+Next thing I want to go over is probably going to be Cammy's frame traps
+
+937
+00:50:07,812 --> 00:50:08,182
+actually.
+
+938
+00:50:08,182 --> 00:50:12,861
+I think her frame traps is pretty important from the drive rush.
+
+939
+00:50:12,861 --> 00:50:14,052
+So, this is going to be, like
+
+940
+00:50:14,052 --> 00:50:16,082
+drive rush frame traps.
+
+941
+00:50:16,082 --> 00:50:18,792
+So, we're going to show off some drive rush frame traps.
+
+942
+00:50:18,792 --> 00:50:22,192
+If you do catch your opponent mashing a lot on your plus frames
+
+943
+00:50:22,192 --> 00:50:24,312
+on drive rush, of course, all these buttons
+
+944
+00:50:24,312 --> 00:50:28,462
+like I stated earlier, all of these are extremely plus.
+
+945
+00:50:28,462 --> 00:50:34,022
+So, you can pretty much get some unique frame traps from the drive rush system on block.
+
+946
+00:50:34,022 --> 00:50:40,172
+ As you can see, instead of this medium punch being minus one like it usually is
+
+947
+00:50:40,172 --> 00:50:43,371
+and if I try to do two, I'm gonna get hit.
+
+948
+00:50:43,371 --> 00:50:45,952
+But if I do this, here, you see
+
+949
+00:50:45,952 --> 00:50:48,642
+it always will frame trap their mash.
+
+950
+00:50:48,642 --> 00:50:51,282
+ So, let's say you catch someone mashing
+
+951
+00:50:51,282 --> 00:50:54,462
+you can do stand medium punch, it will counter hit.
+
+952
+00:50:54,462 --> 00:51:00,122
+And of course, you know, you just go back to all the counter hit combos I showed earlier and they will work in these situations.
+
+953
+00:51:00,122 --> 00:51:03,742
+So, let's say you do this, you can frame trap with another one of those.
+
+954
+00:51:03,742 --> 00:51:07,562
+You could even go for a crouching medium punch and it will trade
+
+955
+00:51:07,562 --> 00:51:12,422
+and I believe you can get maybe a trade combo from certain ranges if you're close enough.
+
+956
+00:51:12,422 --> 00:51:19,282
+ Yeah, there you go.
+
+957
+00:51:19,282 --> 00:51:21,591
+So you can get, like, a trade combo with standing light kick.
+
+958
+00:51:21,591 --> 00:51:26,742
+If you at least go this route, I would recommend just frame trapping with two of those
+
+959
+00:51:26,742 --> 00:51:29,602
+or you either go for the grab after.
+
+960
+00:51:29,602 --> 00:51:32,502
+Another big frame trap gonna be from your crouching fears
+
+961
+00:51:32,502 --> 00:51:36,292
+which is very plus, and you're able to do
+
+962
+00:51:36,292 --> 00:51:38,622
+of course, the same thing from the standing medium
+
+963
+00:51:38,622 --> 00:51:40,762
+except crouch medium punch, if you do it this time
+
+964
+00:51:40,762 --> 00:51:42,642
+it will be real.
+
+965
+00:51:42,642 --> 00:51:47,022
+ So you can do crouch fear, stand medium punch
+
+966
+00:51:47,022 --> 00:51:49,922
+and this is all going to be part of your pressure.
+
+967
+00:51:49,922 --> 00:51:54,402
+Get grabbed.
+
+968
+00:51:54,402 --> 00:51:57,602
+You see here, even though I'm not in range to grab
+
+969
+00:51:57,602 --> 00:52:00,442
+which I was mashing here, since it's so plus
+
+970
+00:52:00,442 --> 00:52:08,712
+I can just walk up, grab him and it still will counter hit because I have extreme amounts of plus frames from all of this crouch fears.
+
+971
+00:52:08,712 --> 00:52:12,402
+Slight step walk forward into grab, boom
+
+972
+00:52:12,402 --> 00:52:14,802
+it's always going to beat the mash.
+
+973
+00:52:14,802 --> 00:52:19,022
+And then also, you have your jab frame trap.
+
+974
+00:52:19,022 --> 00:52:22,782
+Boom.
+
+975
+00:52:22,782 --> 00:52:24,482
+So if someone tried to mash jab there
+
+976
+00:52:24,482 --> 00:52:28,022
+you could get a pretty cool trade combo.
+
+977
+00:52:28,022 --> 00:52:31,602
+Uh, stand fears don't work.
+
+978
+00:52:31,602 --> 00:52:36,322
+Or he could just go for the grab
+
+979
+00:52:36,322 --> 00:52:41,022
+of course, which is going to catch the mash every time.
+
+980
+00:52:41,022 --> 00:52:49,942
+So these are pretty cool, important trade combos that you're going to want to know off of frame trapping with the drive reversal.
+
+981
+00:52:49,942 --> 00:52:58,502
+So, that's pretty much gonna be how we use Cammy's drive system to get frame traps off.
+
+982
+00:52:58,502 --> 00:53:02,742
+Also, of course, you have her crouch fears regularly
+
+983
+00:53:02,742 --> 00:53:07,062
+which is going to frame trap people 'cause it is her only plus button on block
+
+984
+00:53:07,062 --> 00:53:15,122
+which is crouching fears into stand jab is your best option to go to from crouch fears to frame trap someone
+
+985
+00:53:15,122 --> 00:53:16,582
+mash and jab.
+
+986
+00:53:16,582 --> 00:53:18,222
+And the most important one, I think
+
+987
+00:53:18,222 --> 00:53:21,122
+is the crouch jab chains.
+
+988
+00:53:21,122 --> 00:53:24,842
+If you do chain your crouch jab and someone mash
+
+989
+00:53:24,842 --> 00:53:28,922
+they will get hit every time.
+
+990
+00:53:28,922 --> 00:53:29,540
+So this is.
+
+991
+00:53:29,540 --> 00:53:29,632
+..
+
+992
+00:53:29,632 --> 00:53:31,782
+And a very important frame trap.
+
+993
+00:53:31,782 --> 00:53:35,462
+Since crouch jabs are minus on block, people like to mash a lot.
+
+994
+00:53:35,462 --> 00:53:38,702
+But since they're chainable, they become a real frame trap.
+
+995
+00:53:38,702 --> 00:53:41,222
+But if you do wait one second late
+
+996
+00:53:41,222 --> 00:53:43,072
+boom, you're going to get hit every time.
+
+997
+00:53:43,072 --> 00:53:43,562
+You see that?
+
+998
+00:53:43,562 --> 00:53:44,216
+I'm trying to.
+
+999
+00:53:44,216 --> 00:53:44,372
+..
+
+1000
+00:53:44,372 --> 00:53:50,602
+Wait a second, you just chain them and it will beat the mash every time.
+
+1001
+00:53:50,602 --> 00:53:59,332
+So that is pretty much going to be how you want to pressure with Cammy and frame trap people to open them up and
+
+1002
+00:53:59,332 --> 00:54:04,402
+uh, just create advantageous situations for yourself on offense.
+
+1003
+00:54:04,402 --> 00:54:08,872
+The next thing we're going to go over is going to be meteys for Cammy.
+
+1004
+00:54:08,872 --> 00:54:10,202
+If you don't know what a meaty is
+
+1005
+00:54:10,202 --> 00:54:15,582
+it's pretty much going to be something else that stops your opponent from doing wake up buttons
+
+1006
+00:54:15,582 --> 00:54:19,882
+as we can show right now when I knock Guile down.
+
+1007
+00:54:19,882 --> 00:54:24,082
+He on a wake up button.
+
+1008
+00:54:24,082 --> 00:54:27,082
+And now, if you mess this timing up
+
+1009
+00:54:27,082 --> 00:54:31,542
+let's say you just timing it off of steel
+
+1010
+00:54:31,542 --> 00:54:38,796
+boom, you can just get hit and mashed on-So
+
+1011
+00:54:38,796 --> 00:54:40,646
+since you don't want to mess this up
+
+1012
+00:54:40,646 --> 00:54:46,756
+you want to kind of find set-ups that just time themselves and you don't even have to think about it
+
+1013
+00:54:46,756 --> 00:54:50,496
+manually timing your grab or your button or whatever it is
+
+1014
+00:54:50,496 --> 00:54:52,476
+so you don't actually get mashed on.
+
+1015
+00:54:52,476 --> 00:54:55,776
+The one of the most important ones for Cammy that I've found
+
+1016
+00:54:55,776 --> 00:54:58,008
+obviously this is things that I've found, I don't.
+
+1017
+00:54:58,008 --> 00:54:58,116
+..
+
+1018
+00:54:58,116 --> 00:55:00,006
+I will say there's going to be a lot more
+
+1019
+00:55:00,006 --> 00:55:07,306
+maybe better than these in the future, but these ones are the ones that I have right now and that I use in my matches that I play.
+
+1020
+00:55:07,306 --> 00:55:08,928
+Which is going to be.
+
+1021
+00:55:08,928 --> 00:55:09,556
+..
+
+1022
+00:55:09,556 --> 00:55:13,046
+After heavy drill, no matter where you get heavy drill
+
+1023
+00:55:13,046 --> 00:55:18,066
+dash crouch fears mid-screen every time is going to be extremely meaty
+
+1024
+00:55:18,066 --> 00:55:23,406
+and as you seen, it beat the wake-up button.
+
+1025
+00:55:23,406 --> 00:55:27,936
+Every time it's going to win.
+
+1026
+00:55:27,936 --> 00:55:32,566
+And let's say, even if your opponent hold up and you don't get that counter hit
+
+1027
+00:55:32,566 --> 00:55:37,275
+you can always, on this meaty, go into stand fears.
+
+1028
+00:55:37,275 --> 00:55:39,426
+Let me take them off so there's no counter hit.
+
+1029
+00:55:39,426 --> 00:55:45,676
+So when you land this meaty, it is so meaty that you can combo and to stand fears always.
+
+1030
+00:55:45,676 --> 00:55:47,906
+Look at that.
+
+1031
+00:55:47,906 --> 00:55:51,286
+Every time, this is auto-timed, you don't have to think about it.
+
+1032
+00:55:51,286 --> 00:55:52,806
+You dash forward.
+
+1033
+00:55:52,806 --> 00:55:54,866
+You do spiral arrow, heavy spiral arrow
+
+1034
+00:55:54,866 --> 00:55:56,686
+dash forward, crouch fears.
+
+1035
+00:55:56,686 --> 00:56:01,326
+It's going to meaty every time, a very good mid-screen.
+
+1036
+00:56:01,326 --> 00:56:02,446
+And you could dash.
+
+1037
+00:56:02,446 --> 00:56:06,316
+If you have to time your throw, you just kind of have to time it manually
+
+1038
+00:56:06,316 --> 00:56:10,576
+which you just kind of dash and wait a slight second and then you just go for throw
+
+1039
+00:56:10,576 --> 00:56:12,636
+which should be pretty easy.
+
+1040
+00:56:12,636 --> 00:56:14,706
+But if you do want to strike every time
+
+1041
+00:56:14,706 --> 00:56:19,766
+this is going to be your go-to meaty here.
+
+1042
+00:56:19,766 --> 00:56:23,296
+On block it is very plus also.
+
+1043
+00:56:23,296 --> 00:56:27,666
+It's not going to be plus one like the usual crouch fears.
+
+1044
+00:56:27,666 --> 00:56:30,470
+This one is actually going to be.
+
+1045
+00:56:30,470 --> 00:56:31,446
+..
+
+1046
+00:56:31,446 --> 00:56:35,026
+This one is plus three.
+
+1047
+00:56:35,026 --> 00:56:37,286
+So as you can see, this is plus three
+
+1048
+00:56:37,286 --> 00:56:41,416
+so you could get more unique with the frame traps if you want to.
+
+1049
+00:56:41,416 --> 00:56:44,216
+You could do like a stand medium punch in between.
+
+1050
+00:56:44,216 --> 00:56:46,016
+If they mash and jab, walk up though.
+
+1051
+00:56:46,016 --> 00:56:48,526
+So this is going to be a lot more plus
+
+1052
+00:56:48,526 --> 00:56:56,046
+where you can create more unique frame traps instead of this typical stand jab after the crouch fears that we've been showing
+
+1053
+00:56:56,046 --> 00:56:57,906
+the stand jab to stop them from mashing
+
+1054
+00:56:57,906 --> 00:57:02,056
+you could do different button combinations depending on the start-up frames
+
+1055
+00:57:02,056 --> 00:57:03,266
+of course, of the button.
+
+1056
+00:57:03,266 --> 00:57:05,916
+So that's going to be pretty much your main meaty
+
+1057
+00:57:05,916 --> 00:57:11,356
+I would say, after spiral arrow, and that's what I see myself doing mid-screen pretty much most of the time.
+
+1058
+00:57:11,356 --> 00:57:18,586
+You're going to pretty much be doing that mid-screen anytime you're doing a combo in their mid-screen from heavy spiral arrow
+
+1059
+00:57:18,586 --> 00:57:21,346
+you're going to see yourself doing that meaty.
+
+1060
+00:57:21,346 --> 00:57:28,346
+Now in the corner, this is what I would say is the most important meaty that you need to know as a Cammy player
+
+1061
+00:57:28,346 --> 00:57:31,846
+is after your grab, it stops people from holding up
+
+1062
+00:57:31,846 --> 00:57:36,546
+mash and jab, everything, is going to be slight step forward
+
+1063
+00:57:36,546 --> 00:57:38,266
+stand medium punch.
+
+1064
+00:57:38,266 --> 00:57:43,046
+Now as you know, you can never do this combo right as a regular combo with stand medium
+
+1065
+00:57:43,046 --> 00:57:46,806
+but after the grab, this stand medium punch hits so meaty
+
+1066
+00:57:46,806 --> 00:57:51,466
+you can always combo into the crouching medium punch.
+
+1067
+00:57:51,466 --> 00:57:56,966
+This is going to be your most important meaty as a Cammy player after grab
+
+1068
+00:57:56,966 --> 00:58:00,826
+'cause you're going to see yourself landing a lot of grabs in the corner.
+
+1069
+00:58:00,826 --> 00:58:05,776
+You going to need to know this meaty extremely well.
+
+1070
+00:58:05,776 --> 00:58:07,716
+And you have to time it, though.
+
+1071
+00:58:07,716 --> 00:58:10,686
+It is not auto-timed, this is a manually timed meaty
+
+1072
+00:58:10,686 --> 00:58:17,426
+so you actually have to just do it yourself and get the rhythm and timing down of people hold up a lot
+
+1073
+00:58:17,426 --> 00:58:18,816
+you don't get a counter hit.
+
+1074
+00:58:18,816 --> 00:58:21,186
+Boom, it's going to catch the hold up
+
+1075
+00:58:21,186 --> 00:58:25,166
+and you're going to actually meaty them so they cannot jump out.
+
+1076
+00:58:25,166 --> 00:58:33,646
+And another good thing is that now this damn medium punch becomes plus one on block
+
+1077
+00:58:33,646 --> 00:58:36,806
+it is no longer negative like we see it usually.
+
+1078
+00:58:36,806 --> 00:58:43,966
+Sometimes you will get a zero, but it will never be negative on block no matter what.
+
+1079
+00:58:43,966 --> 00:58:48,526
+So that means it's never not your turn to pressure again.
+
+1080
+00:58:48,526 --> 00:58:52,306
+You can always go for a jab.
+
+1081
+00:58:52,306 --> 00:58:59,946
+You could always go for a jab or a light kick into a combo.
+
+1082
+00:58:59,946 --> 00:59:04,136
+So this is going to be your most important meaty after throw.
+
+1083
+00:59:04,136 --> 00:59:12,146
+The only bad downside to meaties I will tell you in this game before we get into the next one is perfect parry.
+
+1084
+00:59:12,146 --> 00:59:17,806
+If your opponent does wake up, let's say we set him to wake up parry
+
+1085
+00:59:17,806 --> 00:59:23,666
+'cause I don't want y'all to think that it's just amazing to go for the meaty every time.
+
+1086
+00:59:23,666 --> 00:59:25,286
+If we set him to wake up parry
+
+1087
+00:59:25,286 --> 00:59:30,446
+he's going to get a perfect parry pretty much every single time.
+
+1088
+00:59:30,446 --> 00:59:34,706
+So of course, it is a mind game where if they perfect parry
+
+1089
+00:59:34,706 --> 00:59:38,906
+you get to punish counter throw and it does extra damage.
+
+1090
+00:59:38,906 --> 00:59:45,886
+So there is a downside to doing these perfect meaties that hit on frame one pretty much on wake up.
+
+1091
+00:59:45,886 --> 00:59:50,666
+They can be perfect parries, so I want y'all to remember that when you're playing your opponent.
+
+1092
+00:59:50,666 --> 00:59:53,416
+Maybe they might try to do that and throw that out.
+
+1093
+00:59:53,416 --> 00:59:57,926
+It will hit you every time and they are pretty much guaranteed a combo
+
+1094
+00:59:57,926 --> 01:00:04,916
+but do not let it stop you from doing your meaties because it is very important to do these.
+
+1095
+01:00:04,916 --> 01:00:10,136
+Uh, yeah, I guess general strategies is- will be the last category that we go over.
+
+1096
+01:00:10,136 --> 01:00:13,366
+And pretty much when I'm playing Cammy, a lot of times.
+
+1097
+01:00:13,366 --> 01:00:13,526
+..
+
+1098
+01:00:13,526 --> 01:00:15,866
+And she is very good versus fireballs.
+
+1099
+01:00:15,866 --> 01:00:22,786
+Obviously you have the Hooligan, so very anti-fireball move.
+
+1100
+01:00:22,786 --> 01:00:30,946
+When you're fighting a fireball character, you always want to keep in mind that Hooligan and EX Hooligan is a bit faster
+
+1101
+01:00:30,946 --> 01:00:33,086
+so maybe if you have a bit slower reaction
+
+1102
+01:00:33,086 --> 01:00:35,165
+you can try out the EX Hooligan.
+
+1103
+01:00:35,165 --> 01:00:38,706
+That is obviously the general game plan when you're fighting.
+
+1104
+01:00:38,706 --> 01:00:46,329
+A lot of the fireball characters is to make them stop shooting fireballs early on with the Hooligan.
+
+1105
+01:00:46,329 --> 01:00:49,720
+And then they are forced to play your game as Cammy
+
+1106
+01:00:49,720 --> 01:00:55,530
+which is playing neutral, getting whip punishes with your buttons
+
+1107
+01:00:55,530 --> 01:00:57,220
+which is always what I'm looking for.
+
+1108
+01:00:57,220 --> 01:01:05,150
+A lot of times when I'm playing, I'm looking for a whip punish with low forward into spiral arrow or into my drive rush combo
+
+1109
+01:01:05,150 --> 01:01:07,030
+of course, that we went over earlier.
+
+1110
+01:01:07,030 --> 01:01:11,150
+So a lot of times I'm just looking to catch that one whip punish here
+
+1111
+01:01:11,150 --> 01:01:19,310
+start my offense, and then Cammy becomes very deadly in the corner because it starts your offense up.
+
+1112
+01:01:19,310 --> 01:01:22,570
+Another thing with Cammy, when I'm pressuring people
+
+1113
+01:01:22,570 --> 01:01:25,110
+a lot of times, especially in the corner
+
+1114
+01:01:25,110 --> 01:01:35,159
+I'm always looking to space my divekicks out so that I'm extremely plus and I can keep my turn on offense.
+
+1115
+01:01:35,159 --> 01:01:36,900
+This is very good in the corner I would say
+
+1116
+01:01:36,900 --> 01:01:44,850
+especially, because it is very easy to just space out your divekicks and it's very hard for your opponent to anti-air their divekicks.
+
+1117
+01:01:44,850 --> 01:01:48,290
+So they're always very good to do to keep pressure on.
+
+1118
+01:01:48,290 --> 01:01:53,750
+And it just make your opponent feel very unusual on when they want to press that button.
+
+1119
+01:01:53,750 --> 01:01:55,750
+Also, it takes down drive gauge, right?
+
+1120
+01:01:55,750 --> 01:01:59,920
+So every divekick you do is going to take down a little bit of drive gauge.
+
+1121
+01:01:59,920 --> 01:02:01,890
+You can do this mid-screen, of course.
+
+1122
+01:02:01,890 --> 01:02:06,200
+Going to be a little bit harder since your opponent can walk back and forth.
+
+1123
+01:02:06,200 --> 01:02:08,430
+And then you want to start, of course
+
+1124
+01:02:08,430 --> 01:02:10,370
+mixing in some regular jumps.
+
+1125
+01:02:10,370 --> 01:02:15,670
+You don't want to only do divekicks because then it becomes a bit too predictable and easy to anti-air
+
+1126
+01:02:15,670 --> 01:02:18,930
+but when you start mixing in the regular jumps with the divekicks
+
+1127
+01:02:18,930 --> 01:02:21,770
+it gets a lot harder to anti-air Cammy.
+
+1128
+01:02:21,770 --> 01:02:23,830
+Of course, you don't want to just jump around a lot
+
+1129
+01:02:23,830 --> 01:02:27,170
+you have to mix in a lot of good neutral whip punishes
+
+1130
+01:02:27,170 --> 01:02:28,540
+making them scared on the ground.
+
+1131
+01:02:28,540 --> 01:02:31,350
+And then of course you want to start approaching from the air a bit
+
+1132
+01:02:31,350 --> 01:02:33,210
+but this is just how, you know
+
+1133
+01:02:33,210 --> 01:02:36,770
+Cammy's game plan is, of course.
+
+1134
+01:02:36,770 --> 01:02:39,830
+So a lot of times just looking for whip punishes.
+
+1135
+01:02:39,830 --> 01:02:44,100
+And then, you know, of course you have your trustworthy throw loop in the corner.
+
+1136
+01:02:44,100 --> 01:02:50,050
+This is going to be a big part of Cammy's game plan and it goes back into the meaty I showed you.
+
+1137
+01:02:50,050 --> 01:02:58,770
+This is why that makes the meaty really good because your opponent will probably start trying to press buttons or jump out the corner or backdash
+
+1138
+01:02:58,770 --> 01:03:06,500
+because if they do backdash, a lot of people do that now because it does put them in an advantageous situation as you can see.
+
+1139
+01:03:06,500 --> 01:03:10,860
+But since when you do time their throw loop correctly as a meaty throw
+
+1140
+01:03:10,860 --> 01:03:17,250
+so you're only minus two, as in if you had to time it regularly and you mess it up
+
+1141
+01:03:17,250 --> 01:03:23,450
+you might mess it up, and then you become minus nine where they can actually punish you
+
+1142
+01:03:23,450 --> 01:03:25,170
+which is why Cammy throw loop is good.
+
+1143
+01:03:25,170 --> 01:03:28,660
+You just take a few slight step forward and then throw.
+
+1144
+01:03:28,660 --> 01:03:34,240
+It's very easy to get the timing down and that way you will be safe from these backdashes
+
+1145
+01:03:34,240 --> 01:03:35,490
+which people will start doing.
+
+1146
+01:03:35,490 --> 01:03:37,730
+But that's why you do this meaty here
+
+1147
+01:03:37,730 --> 01:03:39,710
+and look at that, it catches the backdash
+
+1148
+01:03:39,710 --> 01:03:42,070
+you get a combo you wouldn't usually get
+
+1149
+01:03:42,070 --> 01:03:44,870
+and it's a lot more damage.
+
+1150
+01:03:44,870 --> 01:03:49,140
+If you want to cash out, you see
+
+1151
+01:03:49,140 --> 01:03:55,670
+this why this meaty is probably the most important one because it is a part of your very
+
+1152
+01:03:55,670 --> 01:04:00,230
+very, very important strategy as a Cammy player
+
+1153
+01:04:00,230 --> 01:04:02,070
+I would say.
+
+1154
+01:04:02,070 --> 01:04:08,039
+So yes, people will try to backdash out your pressure because they know in this game
+
+1155
+01:04:08,039 --> 01:04:14,390
+throws have a lot of recovery, so you can actually backdash punish if people mistime their grab.
+
+1156
+01:04:14,390 --> 01:04:22,070
+Or let's say they even walked out of your pressure and you just like mistimed your grab there because they just walked back
+
+1157
+01:04:22,070 --> 01:04:23,740
+sometimes that does happen.
+
+1158
+01:04:23,740 --> 01:04:25,990
+They get a lot of good punishes mid-screen
+
+1159
+01:04:25,990 --> 01:04:30,020
+but this is pretty much probably going to be your general game plan with Cammy.
+
+1160
+01:04:30,020 --> 01:04:33,610
+And I would say honestly also when you put people in the corner
+
+1161
+01:04:33,610 --> 01:04:35,148
+a lot of times I like to.
+
+1162
+01:04:35,148 --> 01:04:35,440
+..
+
+1163
+01:04:35,440 --> 01:04:40,130
+Instead of anti-airing with DP, I will go for a jump medium punch and an EX divekick.
+
+1164
+01:04:40,130 --> 01:04:52,670
+I think this is important in your strategy actually for the simple fact that this is going to do a lot of damage and it's going to make people not want to try to jump out the corner.
+
+1165
+01:04:52,670 --> 01:04:57,610
+'Cause you can do combos like this, you know
+
+1166
+01:04:57,610 --> 01:05:02,610
+that just does so much damage and even if you don't want to spend all the drive gauge after
+
+1167
+01:05:02,610 --> 01:05:05,650
+you can always just end it with DP of course
+
+1168
+01:05:05,650 --> 01:05:09,619
+but you can do sand fears into spiral arrow DP.
+
+1169
+01:05:09,619 --> 01:05:10,730
+Look at that.
+
+1170
+01:05:10,730 --> 01:05:14,070
+You just gotta do the drive rush period that I showed you earlier
+
+1171
+01:05:14,070 --> 01:05:22,150
+hold the button down, and you can get big combos from the air-to-air.
+
+1172
+01:05:22,150 --> 01:05:23,990
+So I would say keep that in mind.
+
+1173
+01:05:23,990 --> 01:05:33,990
+You can obviously do this mid-screen too, but people love to jump out the corner and you just get really cool combos.
+
+1174
+01:05:33,990 --> 01:05:38,010
+Even mid-screen you could do a combo like that if you have a level three from it.
+
+1175
+01:05:38,010 --> 01:05:41,070
+So this honestly, if you can anti-air with it every time
+
+1176
+01:05:41,070 --> 01:05:51,570
+it'll be your go-to anti-air, but obviously air-to-air and sometimes it's not as natural as doing a DP or maybe your back medium punch.
+
+1177
+01:05:51,570 --> 01:05:56,770
+I think that's pretty much going to be the finish of the tutorial.
+
+1178
+01:05:56,770 --> 01:06:03,420
+I think we covered pretty much everything that can help you come to the next level with Cammy.
+
+1179
+01:06:03,420 --> 01:06:07,370
+I'm going to pretty much be trying to do this for a lot of the characters in Street Fighter 6
+
+1180
+01:06:07,370 --> 01:06:10,027
+so let me know down in the comment section below which.
+
+1181
+01:06:10,027 --> 01:06:10,140
+..
+
+1182
+01:06:10,140 --> 01:06:15,000
+Who you would like to see next and let me know how you felt about this tutorial overall.
+
+1183
+01:06:15,000 --> 01:06:18,590
+This is my first one ever, so it might not be extremely perfect
+
+1184
+01:06:18,590 --> 01:06:30,550
+but I tried to make it the best that I could so that everyone can understand the character and obviously level up and reach a level that maybe you thought you wouldn't reach so fast.
+
+1185
+01:06:30,550 --> 01:06:32,430
+I just hope that it can help everyone.
+
+1186
+01:06:32,430 --> 01:06:37,470
+So let me know down below if it did help you and what character you would like to see next.
+
+1187
+01:06:37,470 --> 01:06:39,990
+And of course, make sure you leave a like on the video
+
+1188
+01:06:39,990 --> 01:06:43,530
+subscribe to the channel, and as always
+
+1189
+01:06:43,530 --> 01:06:45,170
+I'll see you in the next one.
+
