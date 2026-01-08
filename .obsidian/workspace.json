@@ -4,56 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8a0d99278fadf306",
+        "id": "a1cbab197002edd3",
         "type": "tabs",
         "children": [
           {
-            "id": "ebdad551b49cfba2",
+            "id": "297375cfaa3acbcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/英语/子昂/六年级/英语知识点总结-Lesson8.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "英语知识点总结-Lesson8"
-            }
-          },
-          {
-            "id": "92fb1d5c63b45a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/英语/子昂/六年级/英语知识点总结-Lesson8.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "英语知识点总结-Lesson8"
-            }
-          },
-          {
-            "id": "ad3ec8332c621220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/英语/子昂/六年级/英语知识点总结-Lesson1.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "英语知识点总结-Lesson1"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"docs/英语/子昂/六年级/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,12 +70,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "f346cf22d98f8f8a",
@@ -178,12 +141,33 @@
               "icon": "lucide-list",
               "title": "conflict-files-obsidian-git 的大纲"
             }
+          },
+          {
+            "id": "b7132c298887e765",
+            "type": "leaf",
+            "state": {
+              "type": "note-preview",
+              "state": {},
+              "icon": "clipboard-paste",
+              "title": "笔记预览"
+            }
+          },
+          {
+            "id": "adf1c0e37040b996",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -202,39 +186,59 @@
       "random-note:开始漫游笔记": false,
       "publish:发布更改": false,
       "obsidian-custom-frames:Open 微信读书": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "note-to-mp:复制到公众号": false,
+      "claudian:Open Claudian": false
     }
   },
-  "active": "53f7ae63d2062ec7",
+  "active": "d83259dbd35b5238",
   "lastOpenFiles": [
-    "docs/英语/子昂/六年级/英语知识点总结-Lesson2.md",
-    "docs/英语/子昂/六年级/英语知识点总结-Lesson1.md",
-    "docs/英语/子昂/六年级/英语知识点总结-Lesson3.md",
-    "docs/英语/子昂/六年级/英语知识点总结-Lesson5.md",
-    "docs/英语/子昂/六年级/英语知识点总结-Lesson6.md",
-    "docs/英语/子昂/六年级/英语知识点总结-Lesson7.md",
-    "docs/吉他/和弦的意义与重要性.md",
-    "docs/吉他/CAGED系统吉他教学完整指南.md",
-    "docs/吉他/12品吉他指板图.md",
-    "docs/吉他/caged.md",
-    "docs/杂项/街霸.md",
-    "docs/英语/播客精读/rule.md",
-    "docs/英语/播客精读/2.md",
-    "docs/英语/子昂/语文/高尔基.md",
-    "docs/英语/子昂/语文/10.高尔基_思维导图.jpg",
-    "docs/英语/子昂/语文",
-    "docs/英语/子昂/新概念 2/rule.md",
-    "docs/英语/子昂/新概念 2/23.md",
-    "docs/英语/子昂/新概念 2",
-    "docs/英语/子昂/新概念 1/新概念 1 单词.md",
-    "docs/英语/子昂/新概念 1",
-    "book/马同学图解线性代数.pdf",
-    "book/马代笔记.md",
-    "book",
-    "docs/英语/新概念 2/22.md",
     "conflict-files-obsidian-git.md",
-    "docs/英语/子昂/新概念 1 单词.md",
-    "docs/英语/新概念 2/rule.md",
-    "docs/英语/新概念 2"
+    "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230412154420.png",
+    "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230412141050.png",
+    "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230412135848.png",
+    "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230406161126.png",
+    "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230406105636.png",
+    "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230406091012.png",
+    "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230406090856.png",
+    "docs/P.A.R.A/03-Resources/language/React/image/Pasted image 20230727111724.png",
+    "docs/P.A.R.A/03-Resources/language/React/image/Pasted image 20230718091841.png",
+    "docs/P.A.R.A/03-Resources/language/React/image/Pasted image 20230718091536.png",
+    "docs/P.A.R.A/03-Resources/language/前端/常用库.md",
+    "docs/P.A.R.A/03-Resources/language/前端/vue3 transition 动画.md",
+    "docs/P.A.R.A/03-Resources/language/前端/tailwindcss.md",
+    "docs/P.A.R.A/03-Resources/language/前端/css.md",
+    "docs/P.A.R.A/03-Resources/language/vite/未命名.md",
+    "docs/P.A.R.A/03-Resources/language/uiux/参考.md",
+    "docs/P.A.R.A/03-Resources/language/python/虚拟环境.md",
+    "docs/P.A.R.A/03-Resources/language/python/源.md",
+    "docs/P.A.R.A/03-Resources/language/python/实用类库.md",
+    "docs/P.A.R.A/03-Resources/language/python/典型问题.md",
+    "docs/P.A.R.A/03-Resources/language/python/python操作文本类.md",
+    "docs/P.A.R.A/03-Resources/language/python/python.md",
+    "docs/P.A.R.A/03-Resources/language/python/opencv.md",
+    "docs/P.A.R.A/03-Resources/language/python/numpy.md",
+    "docs/P.A.R.A/03-Resources/language/opencv/参考.md",
+    "docs/P.A.R.A/03-Resources/language/opencv/opencv.md",
+    "docs/P.A.R.A/03-Resources/language/node/热门依赖手机.md",
+    "docs/P.A.R.A/03-Resources/language/javascript/模块化历史.md",
+    "docs/P.A.R.A/03-Resources/language/javascript/数组处理.md",
+    "docs/P.A.R.A/03-Resources/language/javascript/展开运算符.md",
+    "docs/P.A.R.A/03-Resources/language/javascript/内置函数.md",
+    "docs/P.A.R.A/03-Resources/language/javascript/代码语意.md",
+    "docs/P.A.R.A/03-Resources/language/javascript/this.md",
+    "docs/P.A.R.A/03-Resources/language/javascript/svg.md",
+    "docs/P.A.R.A/03-Resources/language/javascript/promise.md",
+    "docs/P.A.R.A/03-Resources/language/cpp/image",
+    "docs/P.A.R.A/03-Resources/language/React/image",
+    "docs/P.A.R.A/03-Resources/language/前端",
+    "docs/P.A.R.A/03-Resources/language/vite",
+    "docs/P.A.R.A/03-Resources/language/uiux",
+    "docs/P.A.R.A/03-Resources/language/python",
+    "docs/P.A.R.A/03-Resources/language/opencv",
+    "docs/P.A.R.A/03-Resources/language/node",
+    "docs/P.A.R.A/03-Resources/language/javascript",
+    "docs/P.A.R.A/03-Resources/language/css",
+    "未命名.canvas"
   ]
 }
