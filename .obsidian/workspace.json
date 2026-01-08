@@ -193,6 +193,12 @@
   },
   "active": "d83259dbd35b5238",
   "lastOpenFiles": [
+    "docs/P.A.R.A/02-Areas/ai-angent/skill/claude-code-skills-research-2025.md",
+    "docs/P.A.R.A/02-Areas/ai-angent/skill/02-claude-code-hooks详解.md",
+    "docs/P.A.R.A/02-Areas/ai-angent/skill/00-claude-skills总表.md",
+    "docs/P.A.R.A/02-Areas/ai-angent/未命名文件夹",
+    "docs/P.A.R.A/02-Areas/ai-angent/skill",
+    "docs/P.A.R.A/02-Areas/ai-angent",
     "conflict-files-obsidian-git.md",
     "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230412154420.png",
     "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230412141050.png",
@@ -226,9 +232,6 @@
     "docs/P.A.R.A/03-Resources/language/javascript/展开运算符.md",
     "docs/P.A.R.A/03-Resources/language/javascript/内置函数.md",
     "docs/P.A.R.A/03-Resources/language/javascript/代码语意.md",
-    "docs/P.A.R.A/03-Resources/language/javascript/this.md",
-    "docs/P.A.R.A/03-Resources/language/javascript/svg.md",
-    "docs/P.A.R.A/03-Resources/language/javascript/promise.md",
     "docs/P.A.R.A/03-Resources/language/cpp/image",
     "docs/P.A.R.A/03-Resources/language/React/image",
     "docs/P.A.R.A/03-Resources/language/前端",
@@ -236,9 +239,6 @@
     "docs/P.A.R.A/03-Resources/language/uiux",
     "docs/P.A.R.A/03-Resources/language/python",
     "docs/P.A.R.A/03-Resources/language/opencv",
-    "docs/P.A.R.A/03-Resources/language/node",
-    "docs/P.A.R.A/03-Resources/language/javascript",
-    "docs/P.A.R.A/03-Resources/language/css",
     "未命名.canvas"
   ]
 }
