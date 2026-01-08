@@ -1,0 +1,3 @@
+{"type":"meta","id":"conv-1767598034583-kpohgq41s","title":"这个文件里边都包括什么东西？","createdAt":1767598034583,"updatedAt":1767598053877,"lastResponseAt":1767598053871,"sessionId":null,"currentNote":"docs/英语/子昂/新概念 2/23.md","titleGenerationStatus":"failed"}
+{"type":"message","message":{"id":"msg-1767598053846-e1jio4mbg","role":"user","content":"这个文件里边都包括什么东西？","timestamp":1767598053846,"currentNote":"docs/英语/子昂/新概念 2/23.md"}}
+{"type":"message","message":{"id":"msg-1767598053854-ahg3ngfej","role":"assistant","content":"","timestamp":1767598053854,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude CLI not found. Please install Claude Code CLI."}]}}
