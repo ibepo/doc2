@@ -193,9 +193,10 @@
   },
   "active": "d83259dbd35b5238",
   "lastOpenFiles": [
+    "docs/TS/完整API接口文档.md",
+    "docs/TS",
     "docs/P.A.R.A/01-Projects/ts/API安全测试报告.md",
     "docs/TS/API安全测试报告.md",
-    "docs/TS",
     "docs/P.A.R.A/01-Projects/ts/中国技术交易所系统分析报告.md",
     "docs/P.A.R.A/01-Projects/中国技术交易所系统分析报告.md",
     "docs/TS/中国技术交易所系统分析报告.md",
@@ -238,7 +239,6 @@
     "docs/P.A.R.A/03-Resources/language/前端/vue3 transition 动画.md",
     "docs/P.A.R.A/03-Resources/language/前端/tailwindcss.md",
     "docs/P.A.R.A/03-Resources/language/前端/css.md",
-    "docs/P.A.R.A/03-Resources/language/vite/未命名.md",
     "未命名.canvas"
   ]
 }
