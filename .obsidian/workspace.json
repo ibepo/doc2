@@ -11,17 +11,10 @@
             "id": "92be6d8140e26af3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "docs/TS/清朝皇帝完整版.canvas",
-                "viewState": {
-                  "x": -24.685434356629948,
-                  "y": -25,
-                  "zoom": -1.7025402911837444
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "清朝皇帝完整版"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -201,9 +194,10 @@
   },
   "active": "92be6d8140e26af3",
   "lastOpenFiles": [
+    "docs/TS/清朝皇帝完整版.canvas",
+    "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/TS/清朝皇帝.canvas",
     "docs/TS/清朝皇帝时间线.canvas",
-    "docs/TS/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/01-Projects/ts/API安全测试报告.md",
     "docs/P.A.R.A/01-Projects/ts/完整API接口文档.md",
     "docs/TS",
