@@ -11,10 +11,15 @@
             "id": "297375cfaa3acbcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/TS/完整API接口文档.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "完整API接口文档"
             }
           }
         ]
@@ -191,7 +196,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "d83259dbd35b5238",
+  "active": "297375cfaa3acbcd",
   "lastOpenFiles": [
     "docs/TS/清朝皇帝时间线.html",
     "docs/TS/完整API接口文档.md",
