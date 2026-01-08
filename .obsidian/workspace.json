@@ -193,9 +193,12 @@
   },
   "active": "d83259dbd35b5238",
   "lastOpenFiles": [
-    "docs/TS/中国技术交易所系统分析报告.md",
+    "docs/P.A.R.A/01-Projects/ts/API安全测试报告.md",
+    "docs/TS/API安全测试报告.md",
     "docs/TS",
     "docs/P.A.R.A/01-Projects/ts/中国技术交易所系统分析报告.md",
+    "docs/P.A.R.A/01-Projects/中国技术交易所系统分析报告.md",
+    "docs/TS/中国技术交易所系统分析报告.md",
     "docs/P.A.R.A/01-Projects/ts/网站安全分析-监测预警后台管理系统.md",
     "docs/P.A.R.A/01-Projects/ts",
     "docs/P.A.R.A/02-Areas/读书/03-wechat2md技能说明/images/image_04.png",
@@ -236,8 +239,6 @@
     "docs/P.A.R.A/03-Resources/language/前端/tailwindcss.md",
     "docs/P.A.R.A/03-Resources/language/前端/css.md",
     "docs/P.A.R.A/03-Resources/language/vite/未命名.md",
-    "docs/P.A.R.A/03-Resources/language/uiux/参考.md",
-    "docs/P.A.R.A/03-Resources/language/python/虚拟环境.md",
     "未命名.canvas"
   ]
 }
