@@ -193,6 +193,9 @@
   },
   "active": "d83259dbd35b5238",
   "lastOpenFiles": [
+    "docs/P.A.R.A/01-Projects/ts/中国技术交易所系统分析报告.md",
+    "docs/TS/中国技术交易所系统分析报告.md",
+    "docs/TS",
     "docs/P.A.R.A/01-Projects/ts/网站安全分析-监测预警后台管理系统.md",
     "docs/P.A.R.A/01-Projects/ts",
     "docs/P.A.R.A/02-Areas/读书/03-wechat2md技能说明/images/image_04.png",
@@ -221,7 +224,6 @@
     "docs/读书",
     "docs/talkwithAI/09-百年孤独人物关系与事件分析.md",
     "docs/talkwithAI",
-    "docs/P.A.R.A/02-Areas/读书/产品沉思录 2021 年精选v1.1.0.pdf",
     "docs/P.A.R.A/02-Areas/读书/08-安娜卡列尼娜人物关系网络研究.md",
     "docs/P.A.R.A/02-Areas/ai-angent/skill/claude-code-skills-research-2025.md",
     "docs/P.A.R.A/02-Areas/ai-angent/skill/02-claude-code-hooks详解.md",
@@ -237,8 +239,6 @@
     "docs/P.A.R.A/03-Resources/language/uiux/参考.md",
     "docs/P.A.R.A/03-Resources/language/python/虚拟环境.md",
     "docs/P.A.R.A/03-Resources/language/python/源.md",
-    "docs/P.A.R.A/03-Resources/language/python/实用类库.md",
-    "docs/P.A.R.A/03-Resources/language/python/典型问题.md",
     "未命名.canvas"
   ]
 }
