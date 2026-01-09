@@ -1,5 +1,5 @@
 #!/bin/bash
 # Two beeps when session ends
-afplay /System/Library/Sounds/Pop.aiff &
+afplay /System/Library/Sounds/Pop.aiff &>/dev/null || true
 sleep 0.1
-afplay /System/Library/Sounds/Pop.aiff &
+afplay /System/Library/Sounds/Pop.aiff &>/dev/null || true
