@@ -5,7 +5,7 @@
 
 ```dataview
 TABLE show_id AS "ID", file.链接 AS "链接", show, season, episode, episode_title, created, language
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE show = "Friends"
 SORT season ASC, episode ASC
 ```
@@ -22,7 +22,7 @@ TABLE
   air_date AS "首播日期",
   file.链接 AS "查看",
   created AS "创建日期"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE show = "Friends"
 SORT season ASC, episode ASC
 ```
@@ -35,7 +35,7 @@ TABLE WITHOUT ID
   episode AS "集数",
   episode_title AS "标题",
   created AS "创建日期"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(tags, "#英语学习")
 SORT created DESC
 ```
@@ -56,7 +56,7 @@ TABLE
   episode AS "集数",
   episode_title AS "标题",
   file.链接 AS "查看"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "Carol") OR contains(content, "pregnant") OR contains(content, "Susan")
 ```
 
@@ -67,7 +67,7 @@ TABLE
   episode AS "集数",
   episode_title AS "标题",
   file.链接 AS "查看"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "Rachel") AND (contains(content, "ring") OR contains(content, "job") OR contains(content, "independent"))
 ```
 
@@ -78,7 +78,7 @@ TABLE
   episode AS "集数",
   episode_title AS "标题",
   file.链接 AS "查看"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "dating") OR contains(content, "kiss") OR contains(content, "relationship")
 ```
 
@@ -89,7 +89,7 @@ TABLE
   episode AS "集数",
   episode_title AS "标题",
   file.链接 AS "查看"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "funny") OR contains(content, "[!note]") OR contains(content, "[!quote]")
 ```
 
@@ -102,7 +102,7 @@ TABLE
   episode AS "集数",
   episode_title AS "标题",
   content AS "内容预览"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "## 生词汇总")
 SORT season ASC, episode ASC
 ```
@@ -113,7 +113,7 @@ SORT season ASC, episode ASC
 
 ```dataview
 TABLE word, 首字母, episode
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "| 单词")
 ```
 
@@ -121,7 +121,7 @@ WHERE contains(content, "| 单词")
 
 ```dataview
 LIST
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "[!quote]")
 ```
 
@@ -131,7 +131,7 @@ WHERE contains(content, "[!quote]")
 
 ```dataview
 LIST
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "[!tip]") OR contains(content, "[!learn]") OR contains(content, "[!insight]")
 ```
 
@@ -139,7 +139,7 @@ WHERE contains(content, "[!tip]") OR contains(content, "[!learn]") OR contains(c
 
 ```dataview
 LIST
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "[!culture]") OR contains(content, "[!note]")
 ```
 
@@ -151,7 +151,7 @@ WHERE contains(content, "[!culture]") OR contains(content, "[!note]")
 TABLE
   season AS "季数",
   count(episode) AS "集数"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE show = "Friends"
 GROUP BY season
 ```
@@ -162,7 +162,7 @@ GROUP BY season
 TABLE
   tags AS "标签",
   count(tags) AS "文档数"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 GROUP BY tags
 FLATTEN tags AS tag
 ```
@@ -175,7 +175,7 @@ TABLE
   episode_title AS "标题",
   file.链接 AS "查看",
   created AS "创建时间"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE created >= date(today) AND created < date(today) + dur(1 day)
 SORT created DESC
 ```
@@ -189,7 +189,7 @@ TABLE
   file.链接 AS "链接",
   episode_title AS "剧集",
   content AS "包含内容的行"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "{{query}}")
 LIMIT 50
 ```
@@ -201,7 +201,7 @@ TABLE
   file.链接 AS "链接",
   episode_title AS "剧集",
   tags AS "标签"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(tags, "{{query}}")
 ```
 
@@ -216,7 +216,7 @@ TABLE
   episode_title AS "标题",
   file.链接 AS "查看",
   modified AS "更新时间"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 SORT modified DESC
 LIMIT 5
 ```
@@ -229,7 +229,7 @@ TABLE
   episode AS "集数",
   episode_title AS "标题",
   file.链接 AS "查看"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE created < date("2025-01-01")
 SORT created ASC
 ```
@@ -244,7 +244,7 @@ SORT created ASC
 TABLE
   字母,
   count(*) AS "词汇数"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "首字母: [A-Z]")
 GROUP BY 字母
 SORT 字母 ASC
@@ -254,7 +254,7 @@ SORT 字母 ASC
 
 ```dataview
 LIST
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "[!vocab]")
 ```
 
@@ -335,7 +335,7 @@ WHERE contains(content, "[!vocab]")
 
 ```dataview
 TABLE season, episode, episode_title, difficulty, file.链接
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE difficulty = "简单"
 ```
 
@@ -343,7 +343,7 @@ WHERE difficulty = "简单"
 
 ```dataview
 TABLE season, episode, episode_title, status, created
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE status = "进行中"
 SORT created DESC
 ```
@@ -357,7 +357,7 @@ TABLE
   episode_title AS "标题",
   favorite AS "收藏",
   file.链接 AS "查看"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE favorite = true
 ```
 
@@ -365,7 +365,7 @@ WHERE favorite = true
 
 ```dataview
 TABLE season, episode, episode_title, review_count, last_reviewed
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE review_count > 0 AND last_reviewed < date(today) - dur(14 day)
 ORDER BY review_count DESC
 ```
@@ -383,7 +383,7 @@ TABLE
   episode AS "集数",
   episode_title AS "标题",
   file.链接 AS "查看"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE created = date(today)
 ORDER BY created DESC
 ```
@@ -397,7 +397,7 @@ TABLE
   episode AS "集数",
   episode_title AS "标题",
   file.链接 AS "查看"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE created >= date(today) - dur(7 day)
 ORDER BY created DESC
 ```
@@ -408,7 +408,7 @@ ORDER BY created DESC
 TABLE
   season AS "季数",
   count(episode) AS "集数"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE season = 1
 HAVING count(episode) < 24
 ```
@@ -417,7 +417,7 @@ HAVING count(episode) < 24
 
 ```dataview
 LIST
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "**Ross**:") AND !contains(content, "[!note]")
 ```
 
@@ -428,7 +428,7 @@ TABLE
   file.链接 AS "链接",
   episode AS "集数",
   type AS "标注类型"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE contains(content, "[!")
 ```
 
@@ -438,7 +438,7 @@ WHERE contains(content, "[!")
 TABLE
   episode AS "集数",
   count(*) AS "完成数量"
-FROM "02-Areas/英语/老友记字幕笔记"
+FROM "03-Resources/英语/老友记字幕笔记"
 WHERE completed = true
 GROUP BY episode
 ```
