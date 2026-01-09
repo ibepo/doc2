@@ -11,10 +11,15 @@
             "id": "92be6d8140e26af3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/AI作品会侵权吗？我花了一个月时间，调研了你想知道的一切。.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "AI作品会侵权吗？我花了一个月时间，调研了你想知道的一切。"
             }
           }
         ]
@@ -194,6 +199,9 @@
   },
   "active": "92be6d8140e26af3",
   "lastOpenFiles": [
+    "Clippings/109 数字生命卡兹克如何用 AI：把任何重复3遍的事AI化.md",
+    "Clippings/AI作品会侵权吗？我花了一个月时间，调研了你想知道的一切。.md",
+    "Clippings",
     "docs/P.A.R.A/02-Areas/播客/晚点聊/123.md",
     "docs/播客/晚点聊/109-数字生命卡兹克如何用AI把任何重复3遍的事AI化.md",
     "docs/播客/晚点聊",
@@ -209,7 +217,6 @@
     "docs/P.A.R.A/02-Areas/Ai/skill/obsidian-canvas-format-lessons-learned.md",
     "02-areas/ai/redme/obsidian-canvas-format-lessons-learned.md",
     "02-areas/ai/redme",
-    "02-areas/ai",
     "docs/TS/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/TS/清朝皇帝.canvas",
@@ -240,8 +247,6 @@
     "docs/P.A.R.A/02-Areas/读书/02-百年孤独人物关系与事件分析.md",
     "docs/talkwithAI/09-百年孤独人物关系与事件分析.md",
     "docs/P.A.R.A/02-Areas/读书/08-安娜卡列尼娜人物关系网络研究.md",
-    "docs/P.A.R.A/02-Areas/ai-angent/skill/claude-code-skills-research-2025.md",
-    "docs/P.A.R.A/02-Areas/ai-angent/skill/02-claude-code-hooks详解.md",
     "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230412154420.png",
     "docs/P.A.R.A/03-Resources/language/cpp/image/Pasted image 20230412141050.png",
     "未命名.canvas"
