@@ -1,0 +1,31 @@
+# 播客字幕自动生成器配置文件
+
+# ASR 配置
+asr:
+  model: "SenseVoiceSmall"  # SenseVoiceSmall, Fun-ASR-Nano, Paraformer
+  device: "cpu"             # cpu, cuda, cuda:0
+  language: "auto"          # auto, zh, en, yue, ja, ko
+
+# 输出配置
+output:
+  format: "srt"             # srt, txt, md
+  encoding: "utf-8"
+  directory: "./outputs"
+
+# 下载配置
+downloader:
+  audio_format: "wav"
+  sample_rate: 16000        # 16kHz for FunASR
+  channels: 1               # 1 for mono
+
+# GUI 配置
+gui:
+  port: 7860
+  host: "127.0.0.1"
+  share: false              # 是否创建公网链接
+
+# MCP 配置
+mcp:
+  enabled: true
+  name: "podcast-subtitle-generator"
+  version: "1.0.0"

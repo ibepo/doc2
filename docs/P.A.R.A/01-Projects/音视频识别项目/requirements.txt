@@ -1,0 +1,23 @@
+# 播客字幕自动生成器 - 依赖
+
+# 核心依赖
+funasr>=1.0.0
+modelscope>=1.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# URL 解析
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# 下载工具
+yt-dlp>=2023.0.0
+ffmpeg-python>=0.2.0
+
+# GUI
+gradio>=4.0.0
+
+# 工具
+pyyaml>=6.0
+tqdm>=4.66.0
