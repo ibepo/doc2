@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
+                "file": "docs/P.A.R.A/03-Resources/英语学习/Friends/S01E01-The_Pilot/完整剧本-按场景.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统"
+              "title": "完整剧本-按场景"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 352.5
   },
   "right": {
     "id": "f346cf22d98f8f8a",
@@ -199,6 +199,7 @@
   },
   "active": "52db9ed870d5d1c9",
   "lastOpenFiles": [
+    "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
     "docs/P.A.R.A/03-Resources/英语学习/Friends/S01E01-The_Pilot/完整剧本-按场景.md",
     "docs/P.A.R.A/03-Resources/英语学习/Friends/S01E01-The_Pilot/台词摘录.md",
     "docs/P.A.R.A/03-Resources/英语学习/Friends/S01E01-The_Pilot/剧集笔记.md",
@@ -209,7 +210,6 @@
     "docs/P.A.R.A/03-Resources/英语学习",
     "docs/P.A.R.A/02-Areas/知识卡片/PARA实战笔记法从被笔记困住到让笔记为自己打工.md",
     "docs/P.A.R.A/02-Areas/知识卡片",
-    "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
     "CLAUDE.md",
     "docs/P.A.R.A/03-Resources/微信公众号/职场/用 PARA 整理了 500 条笔记，我的改变是…….md",
     "docs/P.A.R.A/03-Resources/微信公众号/职场/README.md",
