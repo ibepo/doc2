@@ -1,0 +1,68 @@
+
+	(function () {
+		var totalCount = 0,
+			finishCount = 0;
+
+		function _loadVConsolePlugin() {
+			window.vConsole = new window.VConsole();
+			while (window.vConsolePlugins.length > 0) {
+				var p = window.vConsolePlugins.shift();
+				window.vConsole.addPlugin(p);
+			}
+			
+			if (!window.vConsole.isInited) {
+				window.vConsole._render();
+				window.vConsole._mockTap();
+				window.vConsole._bindEvent();
+				window.vConsole._autoRun();
+			}
+		}
+
+		function _addScript(uri, cb) {
+			totalCount++;
+			var node = document.createElement('SCRIPT');
+			node.type = 'text/javascript';
+			node.src = uri;
+			node.setAttribute('nonce', '');
+			if (cb) {
+				node.onload = cb;
+			}
+			document.getElementsByTagName('head')[0].appendChild(node);
+		}
+		if (
+			(document.cookie && document.cookie.indexOf('vconsole_open=1') > -1)
+			|| location.href.indexOf('vconsole=1') > -1
+		) {
+			window.vConsolePlugins = [];
+			_addScript('//res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/vconsole/3.2.2/vconsole.min7af204.js', function () {
+				
+				_addScript('//res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/vconsole/plugin/vconsole-mpopt/1.0.1/vconsole-mpopt7af204.js', _loadVConsolePlugin);
+			});
+		}
+		if (document.cookie && document.cookie.indexOf('__xweb_remote_debug_device_token__') > -1) {
+			_addScript('https://mp.weixin.qq.com/mmbizappmsg/zh_CN/htmledition/js/scripts/mprdev-0.2.5.js', function () {
+				_addScript('https://mp.weixin.qq.com/mmbizappmsg/zh_CN/htmledition/js/scripts/xwebrd-0.0.2.js');
+			});
+		}
+
+		
+		try {
+			var adIframeUrl = localStorage.getItem('__WXLS_ad_iframe_url');
+			if (window === top) {
+				if (adIframeUrl) {
+					if (navigator.userAgent.indexOf('iPhone') > -1) {
+						var img = new Image();
+						img.src = adIframeUrl;
+					} else {
+						var link = document.createElement('link');
+						link.rel = 'prefetch';
+						link.href = adIframeUrl;
+						document.getElementsByTagName('head')[0].appendChild(link);
+					}
+				}
+			}
+		} catch (err) {
+
+		}
+
+	})();
