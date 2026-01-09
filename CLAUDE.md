@@ -30,7 +30,8 @@ docs/P.A.R.A/
 | `.base` | obsidian-bases | 数据库视图，支持过滤/公式/分组 |
 | `.canvas` | json-canvas | **必须用 skill**，字段：`text`/`fromNode`/`toNode` |
 
-> ⚠️ Canvas 常见错误：用 `content` 代替 `text`，用 `from`/`to` 代替 `fromNode`/`toNode`
+> ⚠️ **Canvas 常见错误**：用 `content` 代替 `text`，用 `from`/`to` 代替 `fromNode`/`toNode`
+> ⚠️ **Wikilinks 常见错误**：`[[文件名]]` 必须与实际文件名完全匹配（不含 .md），否则无法跳转
 
 ---
 

@@ -1,11 +1,12 @@
 {
   "theme": "moonstone",
-  "interfaceFontFamily": "LXGW WenKai Mono",
+  "interfaceFontFamily": "FZPingXianYaSongS-R-GB,LXGW WenKai Mono",
   "accentColor": "",
-  "baseFontSize": 18,
-  "monospaceFontFamily": "JuliaMono",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "JetBrains Mono,JuliaMono",
   "cssTheme": "Minimal",
   "textFontFamily": "FZPingXianYaSongS-R-GB",
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true
 }
