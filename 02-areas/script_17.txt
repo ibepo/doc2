@@ -1,2 +1,0 @@
-
-var PAGE_MID='mmbizwap:pages/album.html';
