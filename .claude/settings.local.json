@@ -10,7 +10,8 @@
       "Bash(python:*)",
       "Bash(npx -y @larksuiteoapi/lark-mcp mcp:*)",
       "Bash(npx -y @larksuiteoapi/lark-mcp login:*)",
-      "Bash(claude mcp remove:*)"
+      "Bash(claude mcp remove:*)",
+      "Bash(chmod:*)"
     ]
   }
 }
