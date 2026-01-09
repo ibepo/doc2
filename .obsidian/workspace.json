@@ -199,6 +199,7 @@
   },
   "active": "92be6d8140e26af3",
   "lastOpenFiles": [
+    "02-areas/get_album_with_playwright.py",
     "docs/P.A.R.A/01-Projects/音视频识别项目/src/core/asr_engine.py",
     "02-areas/桌面系统升级完毕/桌面系统升级完毕.md",
     "02-areas/桌面系统升级完毕/images/image_02.jpg",
@@ -212,7 +213,6 @@
     "docs/P.A.R.A/01-Projects/音视频识别项目/src/core/downloader.py",
     "docs/P.A.R.A/01-Projects/音视频识别项目/src/core/url_parser.py",
     "docs/P.A.R.A/01-Projects/音视频识别项目/src/core",
-    "docs/P.A.R.A/01-Projects/音视频识别项目/src",
     "docs/P.A.R.A/01-Projects/音视频识别项目/播客字幕自动化系统设计.md",
     "docs/P.A.R.A/01-Projects/音视频识别项目/ModelScope平台介绍.md",
     "docs/P.A.R.A/01-Projects/音视频识别项目/FunASR项目深度研究.md",
