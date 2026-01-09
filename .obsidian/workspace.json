@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "03cd02162d0d902e",
+        "id": "298853ad2582654a",
         "type": "tabs",
         "children": [
           {
-            "id": "92be6d8140e26af3",
+            "id": "52db9ed870d5d1c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/03-Resources/微信公众号/职场/用 PARA 整理了 500 条笔记，我的改变是…….md",
+                "file": "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "用 PARA 整理了 500 条笔记，我的改变是……"
+              "title": "从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 243.5
   },
   "right": {
     "id": "f346cf22d98f8f8a",
@@ -197,10 +197,12 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "92be6d8140e26af3",
+  "active": "52db9ed870d5d1c9",
   "lastOpenFiles": [
-    "docs/P.A.R.A/03-Resources/微信公众号/职场/README.md",
+    "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
+    "CLAUDE.md",
     "docs/P.A.R.A/03-Resources/微信公众号/职场/用 PARA 整理了 500 条笔记，我的改变是…….md",
+    "docs/P.A.R.A/03-Resources/微信公众号/职场/README.md",
     "docs/P.A.R.A/03-Resources/微信公众号/那些思想/README.md",
     "docs/P.A.R.A/03-Resources/微信公众号/职场/用 PARA 整理了 500 条笔记.md",
     "docs/P.A.R.A/03-Resources/微信公众号/职场/Obsidian 不需要复杂：3个文件夹 + 2个索引页，就够你用到进阶.md",
@@ -234,9 +236,7 @@
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/难得出趟门/images/image_02.jpg",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/难得出趟门/images/image_01.jpg",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/闲鱼爱心卖家/images/image_03.jpg",
-    "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/齐刷刷.md",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/images",
-    "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/骑上一匹马/骑上一匹马.md",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/骑上一匹马/images",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/难得出趟门/images",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/闲鱼爱心卖家/images",
