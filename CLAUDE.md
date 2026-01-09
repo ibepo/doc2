@@ -286,6 +286,10 @@ This vault primarily contains **Chinese-language content**. When creating or edi
 
 正确的 Canvas 文件示例：`/docs/TS/清朝皇帝完整版.canvas`
 
+##路径
+当我说一个文件夹的时候,优先搜索项目中相关的,类似的,询问我, 如果需要创建,要询问我
+
+
 ---
 
 *文档创建时间：2026-01-08*
