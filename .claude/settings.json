@@ -60,5 +60,5 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "claudeCliPath": ""
+  "claudeCliPath": "/Users/ibepo/.nvm/versions/node/v20.19.6/lib/node_modules/@anthropic-ai/claude-code/cli.js"
 }
