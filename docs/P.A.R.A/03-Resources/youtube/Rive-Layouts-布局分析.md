@@ -4,6 +4,79 @@
 
 ---
 
+## 教程概览
+
+### 项目目标
+创建一个**可交互的摩托车选择菜单**，包含：
+- 动态背景切换（4 种颜色的摩托车）
+- 属性数据显示（速度、加速、操控等）
+- 可点击的列表项（支持 hover 效果）
+- Intro/Outro 动画效果
+
+### 教程章节结构
+
+| 章节 | 内容 | 关键技术 |
+|------|------|---------|
+| **1. 界面介绍** | Rive Editor 界面、Artboard、Data Panel | 基础操作 |
+| **2. 组件设计** | Item、Stats、Start Button、Background | Component 系统 |
+| **3. Layouts 布局** | 行列布局、嵌套、响应式设计 | **重点** |
+| **4. 数据绑定** | ViewModel、属性绑定 | 数据驱动 |
+| **5. 状态机** | Timeline、状态转换、条件判断 | 动画逻辑 |
+| **6. 列表功能** | Artboard List、Instance | 动态列表 |
+| **7. 交互逻辑** | Hover、Click、音效 | Listener |
+| **8. 进场/退场** | Intro/Outro 动画 | 综合应用 |
+
+### 完整组件树
+
+```
+Menu Artboard (500×500)
+│
+├── Background Component (Leaf, Cover)
+│   └── Solo (4 张摩托车图)
+│
+└── Main Column (Fill, Padding: 50)
+    │
+    ├── Header Row
+    │   ├── Arrows Component
+    │   ├── "Select Your Moto" Text
+    │   └── "Class" Text
+    │
+    ├── Item List (Artboard List, 4 项)
+    │   └── Item Component × 4
+    │       ├── Helmet Image
+    │       ├── Name / Class Text
+    │       └── Description (点击展开)
+    │
+    └── Stats Column
+        ├── Power (进度条 + 数值)
+        ├── Speed
+        ├── Acceleration
+        └── Handling
+```
+
+### 学习路径建议
+
+```
+新手路径：
+1. 熟悉 Rive Editor 界面
+2. 掌握 Layouts 基础（Row/Column）
+3. 创建简单组件
+4. 添加动画
+5. 学习数据绑定
+6. 掌握状态机
+7. 实现交互逻辑
+
+进阶路径：
+1. Layouts 高级技巧（响应式、嵌套）
+2. Instance 复用与差异化
+3. State Machine 层级设计
+4. Listener 与事件系统
+5. 列表与动态内容
+6. 综合项目实战
+```
+
+---
+
 ## 一、Rive Layouts 核心方法论
 
 ### 1.1 自底向上的构建策略
