@@ -47,7 +47,7 @@
   "permissions": [],
   "excludedTags": [],
   "mediaFolder": "",
-  "environmentVariables": "",
+  "environmentVariables": "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/paas/v4\nANTHROPIC_AUTH_TOKEN=9dfa51576ed64a07a4e73d474223e0db.akfzbHfHFg8ntu90",
   "envSnippets": [],
   "systemPrompt": "",
   "allowedExportPaths": [
@@ -60,5 +60,5 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "claudeCliPath": "/opt/homebrew/bin/opencode"
+  "claudeCliPath": ""
 }
