@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15c036edbfcb561d",
+        "id": "d7cc55f794bcc4bc",
         "type": "tabs",
         "children": [
           {
-            "id": "13da27e04c736868",
+            "id": "2a96b72220911e78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "新标签页"
             }
           }
         ]
@@ -79,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 272.5
   },
   "right": {
     "id": "f346cf22d98f8f8a",
@@ -177,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 557.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +196,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "adf1c0e37040b996",
+  "active": "2a96b72220911e78",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
     "Clippings/我用 Obsidian Dataview 做了 6 个实时增长看板.md",
     "docs/P.A.R.A/01-Projects/油管同步播/开源项目对比分析.md",
@@ -233,7 +229,6 @@
     "docs/P.A.R.A/03-Resources/英语学习/Friends/S01E01-The_Pilot/完整剧本-按场景.md",
     "docs/P.A.R.A/02-Areas/英语/老友记字幕笔记/Friends-S01E01-The-One-Where-Monica-Gets-a-Roommate.md",
     "docs/P.A.R.A/02-Areas/英语/老友记字幕笔记",
-    "docs/P.A.R.A/03-Resources/老友记字幕/Season01/README.md",
     "docs/P.A.R.A/03-Resources/老友记字幕/Season01/friends.s01e24.720p.bluray.x264-psychd.srt",
     "docs/P.A.R.A/03-Resources/老友记字幕/Season01/friends.s01e23.720p.bluray.x264-psychd.srt",
     "docs/P.A.R.A/03-Resources/老友记字幕/Season01/friends.s01e22.720p.bluray.x264-psychd.srt",

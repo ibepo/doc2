@@ -1,5 +1,4 @@
 [
-  "editing-toolbar",
   "obsidian-git",
   "markdown-prettifier",
   "obsidian-vimrc-support",
@@ -8,15 +7,14 @@
   "obsidian-minimal-settings",
   "obsidian-vim-im-switch-plugin",
   "obsidian-style-settings",
-  "obsidian-custom-frames",
   "obsidian-image-toolkit",
   "obsidian-markmind",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-annotator",
-  "code-block-copy",
   "omnisearch",
   "quickadd",
   "note-to-mp",
-  "claudian"
+  "claudian",
+  "novel-word-count"
 ]
