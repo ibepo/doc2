@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557.5
+    "width": 727.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +196,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "2a96b72220911e78",
+  "active": "adf1c0e37040b996",
   "lastOpenFiles": [
+    "docs/P.A.R.A/02-Areas/talkwithAI/08-分析 nextjs 及其上下游的流行技术栈.md",
     "CLAUDE.md",
     "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
     "Clippings/我用 Obsidian Dataview 做了 6 个实时增长看板.md",
@@ -227,7 +228,6 @@
     "Clippings/智能制造的未来：当“钢铁巨兽”学会思考-腾讯云开发者社区-腾讯云 1.md",
     "Clippings/智能制造的未来：当“钢铁巨兽”学会思考-腾讯云开发者社区-腾讯云 2.md",
     "docs/P.A.R.A/03-Resources/英语学习/Friends/S01E01-The_Pilot/完整剧本-按场景.md",
-    "docs/P.A.R.A/02-Areas/英语/老友记字幕笔记/Friends-S01E01-The-One-Where-Monica-Gets-a-Roommate.md",
     "docs/P.A.R.A/02-Areas/英语/老友记字幕笔记",
     "docs/P.A.R.A/03-Resources/老友记字幕/Season01/friends.s01e24.720p.bluray.x264-psychd.srt",
     "docs/P.A.R.A/03-Resources/老友记字幕/Season01/friends.s01e23.720p.bluray.x264-psychd.srt",
