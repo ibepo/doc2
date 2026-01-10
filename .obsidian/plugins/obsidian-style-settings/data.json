@@ -1,4 +1,6 @@
 {
   "minimal-style@@window-title-off": true,
-  "minimal-style@@code-normal@@light": "#CC2424"
+  "minimal-style@@code-normal@@light": "#CC2424",
+  "minimal-advanced@@font-ui-small": 11,
+  "minimal-advanced@@font-ui-smaller": 8
 }
