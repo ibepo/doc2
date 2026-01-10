@@ -1,6 +1,6 @@
 {
   "activeConversationId": "conv-1767598034583-kpohgq41s",
-  "lastEnvHash": "",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/paas/v4",
   "lastClaudeModel": "opus",
   "lastCustomModel": ""
 }

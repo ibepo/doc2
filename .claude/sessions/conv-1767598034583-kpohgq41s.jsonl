@@ -1,5 +1,9 @@
-{"type":"meta","id":"conv-1767598034583-kpohgq41s","title":"这个文件里边都包括什么东西？","createdAt":1767598034583,"updatedAt":1768005270198,"lastResponseAt":1768005270198,"sessionId":null,"titleGenerationStatus":"failed"}
+{"type":"meta","id":"conv-1767598034583-kpohgq41s","title":"这个文件里边都包括什么东西？","createdAt":1767598034583,"updatedAt":1768006075809,"lastResponseAt":1768006075808,"sessionId":null,"titleGenerationStatus":"failed"}
 {"type":"message","message":{"id":"msg-1767598053846-e1jio4mbg","role":"user","content":"这个文件里边都包括什么东西？","timestamp":1767598053846,"currentNote":"docs/英语/子昂/新概念 2/23.md"}}
 {"type":"message","message":{"id":"msg-1767598053854-ahg3ngfej","role":"assistant","content":"","timestamp":1767598053854,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude CLI not found. Please install Claude Code CLI."}]}}
 {"type":"message","message":{"id":"msg-1768005268767-tx8znjfdp","role":"user","content":"你怕","timestamp":1768005268767}}
 {"type":"message","message":{"id":"msg-1768005268787-nmo8ikxz3","role":"assistant","content":"","timestamp":1768005268787,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Unexpected token '\u001b', \"\u001b[0m▄\" is not valid JSON"}]}}
+{"type":"message","message":{"id":"msg-1768005918597-9f3myx6mn","role":"user","content":"你好","timestamp":1768005918597}}
+{"type":"message","message":{"id":"msg-1768005918617-e1bfuuabi","role":"assistant","content":"","timestamp":1768005918617,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude CLI not found. Please install Claude Code CLI."}]}}
+{"type":"message","message":{"id":"msg-1768006075802-ppug7427i","role":"user","content":"12365","timestamp":1768006075802}}
+{"type":"message","message":{"id":"msg-1768006075805-p2cak08mk","role":"assistant","content":"","timestamp":1768006075805,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude CLI not found. Please install Claude Code CLI."}]}}
