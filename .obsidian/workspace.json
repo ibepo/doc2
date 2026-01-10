@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文总结.md",
+                "file": "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文完整分析.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dontbesilent_推文总结"
+              "title": "dontbesilent_推文完整分析"
             }
           }
         ]
@@ -201,14 +201,14 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "adf1c0e37040b996",
+  "active": "c7e989661919d34c",
   "lastOpenFiles": [
+    "docs/P.A.R.A/02-Areas/读书/dontbesilent 2430 条推文.pdf",
+    "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文总结.md",
     "docs/P.A.R.A/03-Resources/youtube/Rive.md",
     "tweet_classification_optimized.json",
     "tweet_classification.json",
     "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文完整分析.md",
-    "docs/P.A.R.A/02-Areas/读书/dontbesilent 2430 条推文.pdf",
-    "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文总结.md",
     "pdf_env/bin/pymupdf",
     "pdf_env/lib/python3.12/site-packages/pymupdf-1.26.7.dist-info/entry_points.txt",
     "pdf_env/lib/python3.12/site-packages/pymupdf-1.26.7.dist-info/WHEEL",
@@ -238,7 +238,6 @@
     "docs/P.A.R.A/02-Areas/linux/archlinux/sxhkdrc.md",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/突然断联的几种可能/突然断联的几种可能.md",
     "docs/P.A.R.A/03-Resources/微信公众号/那些思想/再见了，ChatGPT，我只想堂堂正正的当一个成年人。.md",
-    "docs/P.A.R.A/03-Resources/计算机科学/人工智能/嵌入式.md",
     "未命名.canvas",
     "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/images/image_03.jpg",
