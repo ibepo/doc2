@@ -38,10 +38,10 @@
       "Remove-Partition"
     ]
   },
-  "model": "opus",
+  "model": "haiku",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "opus",
-  "thinkingBudget": "medium",
+  "thinkingBudget": "off",
   "permissionMode": "yolo",
   "lastNonPlanPermissionMode": "yolo",
   "permissions": [],
