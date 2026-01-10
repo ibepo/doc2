@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ec07c9c0036831",
+        "id": "a6874cd3ff4cd035",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbc5772f97e022c",
+            "id": "40fd379713f164af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文完整分析.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
@@ -201,13 +201,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "adf1c0e37040b996",
+  "active": "40fd379713f164af",
   "lastOpenFiles": [
-    "docs/P.A.R.A/03-Resources/youtube/Rive-Layouts-布局分析.md",
     "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文总结.md",
+    "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文完整分析.md",
+    "docs/P.A.R.A/03-Resources/youtube/Rive-Layouts-布局分析.md",
     "docs/P.A.R.A/02-Areas/ios/MP4转Live Photo-速查表.md",
     "docs/P.A.R.A/02-Areas/ios/MP4转Live Photo技术调查报告.md",
-    "docs/P.A.R.A/02-Areas/读书/dontbesilent_推文完整分析.md",
     "docs/P.A.R.A/02-Areas/技术相关/视频处理/README.md",
     "docs/P.A.R.A/02-Areas/技术相关/视频处理/MP4转Live Photo速查表.md",
     "docs/P.A.R.A/02-Areas/技术相关/视频处理/MP4转Live Photo快速实践指南.md",
