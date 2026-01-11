@@ -162,17 +162,17 @@ Menu Artboard (根容器)
 
 ### 2.1 概念对照表
 
-| 概念 | Rive | Android (Jetpack Compose) | iOS (SwiftUI) | iOS (UIKit) | Figma |
-|------|------|--------------------------|---------------|-------------|-------|
-| **行布局** | Row Layout | `Row()` | `HStack` | `UIStackView(axis: .horizontal)` | Auto Layout (水平) |
-| **列布局** | Column Layout | `Column()` | `VStack` | `UIStackView(axis: .vertical)` | Auto Layout (垂直) |
-| **填充** | Fill | `fillMaxWidth()` | `.frame(maxWidth: .infinity)` | Content Hugging Priority | Fill Container |
-| **包裹** | Hug | `wrapContentSize()` | 自适应 | Intrinsic Content Size | Auto Frame |
-| **间距** | Gap | `arrangement.spacedBy()` | `.spacing()` | `.spacing` | Space Between |
-| **内边距** | Padding | `padding()` | `.padding()` | `.layoutMargins` | Padding |
-| **绝对定位** | Absolute Positioning | `offset()` | `.position()` | Frame origin | X/Y + Pin |
-| **嵌套** | Layout in Layout | Composable 嵌套 | HStack/VStack 嵌套 | View Hierarchy | Frame Groups |
-| **列表** | Artboard List | `LazyColumn()` | `List` | `UITableView` | Replicate |
+| 概念 | Rive | Android XML | Android (Jetpack Compose) | iOS (SwiftUI) | iOS (UIKit) | Figma |
+|------|------|-----------|--------------------------|---------------|-------------|-------|
+| **行布局** | Row Layout | `LinearLayout (horizontal)` | `Row()` | `HStack` | `UIStackView(axis: .horizontal)` | Auto Layout (水平) |
+| **列布局** | Column Layout | `LinearLayout (vertical)` | `Column()` | `VStack` | `UIStackView(axis: .vertical)` | Auto Layout (垂直) |
+| **填充** | Fill | `match_parent` / `weight` | `fillMaxWidth()` | `.frame(maxWidth: .infinity)` | Content Hugging Priority | Fill Container |
+| **包裹** | Hug | `wrap_content` | `wrapContentSize()` | 自适应 | Intrinsic Content Size | Auto Frame |
+| **间距** | Gap | `margin` / `space` (RecyclerView) | `arrangement.spacedBy()` | `.spacing()` | `.spacing` | Space Between |
+| **内边距** | Padding | `padding` | `padding()` | `.padding()` | `.layoutMargins` | Padding |
+| **绝对定位** | Absolute Positioning | `layout_marginLeft/Top` | `offset()` | `.position()` | Frame origin | X/Y + Pin |
+| **嵌套** | Layout in Layout | View Hierarchy | Composable 嵌套 | HStack/VStack 嵌套 | View Hierarchy | Frame Groups |
+| **列表** | Artboard List | `RecyclerView` | `LazyColumn()` | `List` | `UITableView` | Replicate |
 
 ---
 
@@ -189,6 +189,46 @@ Item Column (Padding: 10, Gap: 10)
 │       ├── Title (30pt Bold)
 │       └── Subtitle (20pt)
 └── Description
+```
+
+**Android XML**:
+```xml
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <TextView
+                android:text="Title"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:text="Subtitle"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:text="Description" />
+</LinearLayout>
 ```
 
 **Android (Jetpack Compose)**:
@@ -246,13 +286,14 @@ Frame (Auto Layout, Vertical, Padding: 10, Gap: 10)
 
 ### 3.1 与传统平台差异
 
-| 特性 | Rive | Android/iOS | Figma |
-|------|------|-------------|-------|
-| **动画优先** | 布局为动画服务 | 静态布局为主 | 导出前静态 |
-| **百分比单位** | 广泛使用 % 做响应式 | 部分支持（dp%/多权重） | 仅约束支持 |
-| **Instance 系统** | 同一组件多实例独立布局 | RecyclerView 复用 | Components/Instances |
-| **ViewModel 绑定** | 布局属性可数据绑定 | DataBinding/State | Variables |
-| **Leaf 模式** | 特殊容器模式 | 无对应 | Frame |
+| 特性 | Rive | Android XML | Android/iOS (现代框架) | Figma |
+|------|------|-------------|---------------------|-------|
+| **动画优先** | 布局为动画服务，原生支持 | 需要代码实现（Animator/MotionLayout） | 部分支持（SwiftUI动画） | 导出前静态 |
+| **百分比单位** | 广泛使用 % 做响应式 | 仅 ConstraintLayout 支持（`app:layout_constraintWidth_percent`） | 部分支持（dp%/多权重） | 仅约束支持 |
+| **Instance 系统** | 同一组件多实例独立布局 | 通过 RecyclerView ViewHolder 复用 | RecyclerView 复用 | Components/Instances |
+| **ViewModel 绑定** | 布局属性可数据绑定 | 需要 DataBinding/ViewBinding | DataBinding/State | Variables |
+| **Leaf 模式** | 特殊容器模式 | FrameLayout + scaleType | 无对应 | Frame |
+| **运行时动态性** | 可通过数据绑定实时调整布局 | 需要代码动态修改 View 属性 | 支持动态更新 | 静态导出 |
 
 ### 3.2 Rive 专属模式
 
@@ -363,6 +404,8 @@ Item List (Artboard List, Gap: 10)
 
 Rive Layouts 是一个**介于传统 UI 框架和设计工具之间**的布局系统：
 
+### 7.1 Rive Layouts 优势
+
 | 优势 | 说明 |
 |------|------|
 | **可视化 + 严谨性** | 既有代码的 Fit/Gap/Align 严谨性，又有可视化工具的直观性 |
@@ -370,11 +413,50 @@ Rive Layouts 是一个**介于传统 UI 框架和设计工具之间**的布局�
 | **响应式优先** | 百分比单位 + Fill/Hug 模式天然支持多尺寸 |
 | **数据驱动** | ViewModel 绑定实现属性实时控制 |
 
+### 7.2 Rive Layouts 局限
+
 | 局限 | 说明 |
 |------|------|
 | **学习曲线** | Node/Leaf/Instance 等概念需要理解 |
 | **动画约束** | 某些布局模式不支持动画 |
 | **工具依赖** | 必须在 Rive Editor 中操作 |
+
+### 7.3 与 Android XML 核心差异
+
+| 维度 | Rive | Android XML |
+|------|------|-------------|
+| **学习曲线** | 中等（需要理解可视化概念：Fill/Hug/Gap/Leaf/Node） | 中等（XML 语法直观，理解 View 体系即可） |
+| **开发效率** | 可视化拖拽，**适合设计师**主导 | 代码编写，**适合开发者**主导 |
+| **动画支持** | 原生支持，无需代码（设计师直接在工具中完成） | 需要编写动画代码（ValueAnimator/ObjectAnimator/MotionLayout） |
+| **响应式能力** | 百分比 + Fill/Hug 强大，天然响应式 | 需要多种布局组合（LinearLayout + ConstraintLayout + dp/sp） |
+| **团队协作** | 设计主导，开发集成运行时 | 开发主导，设计交付静态稿 |
+| **性能** | 运行时渲染，动画流畅 | 编译时生成，原生性能 |
+| **动态性** | 可通过数据绑定实时修改布局属性 | 需要代码动态修改 View 属性或重新布局 |
+| **灵活性** | 专注于动画交互界面 | 通用型，可构建任意类型界面 |
+
+### 7.4 关键概念映射速查
+
+| Rive | Android XML | 等价关系 |
+|------|-------------|----------|
+| `Fill` | `match_parent` / `weight` | 填满父容器/按权重分配 |
+| `Hug` | `wrap_content` | 根据内容自适应 |
+| `Gap` | `margin` | 间距控制 |
+| `Padding` | `padding` | 内边距 |
+| `Fixed 100%` | ConstraintLayout 的 `app:layout_constraintWidth_percent="1.0"` | 百分比尺寸 |
+| `Row Layout` | `LinearLayout (horizontal)` | 水平容器 |
+| `Column Layout` | `LinearLayout (vertical)` | 垂直容器 |
+| `Artboard List` | `RecyclerView` + `Adapter` | 动态列表 |
+| `Leaf 模式` | `FrameLayout` + `scaleType` | 图片适配模式 |
+
+### 7.5 适用场景推荐
+
+| 场景 | 推荐方案 | 原因 |
+|------|---------|------|
+| **游戏 UI / 动效原型** | **Rive** | 原生动画支持，设计师可直接实现 |
+| **标准 App 界面** | **Android XML** | 生态成熟，开发者熟悉，性能最优 |
+| **交互式营销页面** | **Rive** | 视觉效果丰富，动画流畅 |
+| **复杂业务表单** | **Android XML** | 布局稳定，易于维护 |
+| **跨平台动画组件** | **Rive** | 一套设计，多平台运行 |
 
 **适用场景**：需要动画的交互界面（游戏 UI、动效原型、交互组件）
 
