@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/02-Areas/ios/AGENTS.md",
+                "file": "tweets_for_document.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "tweets_for_document"
             }
           }
         ]
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 811.5
+    "width": 724.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +194,6 @@
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
       "publish:发布更改": false,
-      "obsidian-custom-frames:Open 微信读书": false,
       "omnisearch:Omnisearch": false,
       "note-to-mp:复制到公众号": false,
       "claudian:Open Claudian": false,
@@ -203,8 +202,8 @@
   },
   "active": "fabdd11ca888fbc3",
   "lastOpenFiles": [
-    "docs/P.A.R.A/03-Resources/youtube/Rive-教程中文翻译.md",
     "docs/P.A.R.A/02-Areas/ios/AGENTS.md",
+    "docs/P.A.R.A/03-Resources/youtube/Rive-教程中文翻译.md",
     "docs/P.A.R.A/01-Projects/tts/IndexTTS2-macOS可行性报告.md",
     "docs/P.A.R.A/03-Resources/youtube/Rive.md",
     "docs/P.A.R.A/03-Resources/youtube/字幕-中文.md",
