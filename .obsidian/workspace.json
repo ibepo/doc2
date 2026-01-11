@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tweets_for_document.md",
-                "mode": "source",
+                "file": "Clippings/找不到好用的视频生成字幕及翻译字幕软件，于是我开源了一款.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "tweets_for_document"
+              "title": "找不到好用的视频生成字幕及翻译字幕软件，于是我开源了一款"
             }
           }
         ]
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 724.5
+    "width": 663.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +202,14 @@
   },
   "active": "fabdd11ca888fbc3",
   "lastOpenFiles": [
+    "tweets_for_document.md",
+    "Clippings/找不到好用的视频生成字幕及翻译字幕软件，于是我开源了一款.md",
     "docs/P.A.R.A/02-Areas/ios/AGENTS.md",
     "docs/P.A.R.A/03-Resources/youtube/Rive-教程中文翻译.md",
     "docs/P.A.R.A/01-Projects/tts/IndexTTS2-macOS可行性报告.md",
     "docs/P.A.R.A/03-Resources/youtube/Rive.md",
     "docs/P.A.R.A/03-Resources/youtube/字幕-中文.md",
     "docs/P.A.R.A/03-Resources/youtube/字幕.md",
-    "tweets_for_document.md",
     "docs/P.A.R.A/01-Projects/tts",
     "docs/P.A.R.A/02-Areas/talkwithAI/AI-ToDo-产品深度调研报告.md",
     "final_tweet_classification.json",
@@ -237,7 +238,6 @@
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/牛马抬头/牛马抬头.md",
     "docs/P.A.R.A/03-Resources/language/node.md",
     "docs/P.A.R.A/02-Areas/linux/archlinux/ranger.md",
-    "docs/P.A.R.A/03-Resources/英语/老友记字幕笔记/Friends-S01E05-The-One-With-The-East-German-Laundry-Detergent.md",
     "未命名.canvas",
     "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/images/image_03.jpg",
