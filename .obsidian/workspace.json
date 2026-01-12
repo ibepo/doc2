@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/02-Areas/Ai/skill/00-claude-skills总表.md",
-                "mode": "preview",
+                "file": "Clippings/2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00-claude-skills总表"
+              "title": "2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移"
             }
           }
         ]
@@ -202,6 +202,8 @@
   },
   "active": "7e20f4a4d01d2a55",
   "lastOpenFiles": [
+    "docs/P.A.R.A/02-Areas/Ai/skill/00-claude-skills总表.md",
+    "Clippings/2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移.md",
     "Clippings/超燃！大涨50！本周首日大涨！焦炭提涨！钢厂上调！钢价一涨再涨？.md",
     "docs/P.A.R.A/03-Resources/telegram/设计教程博客资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/YouTube资源详细列表.md",
@@ -228,8 +230,6 @@
     "docs/P.A.R.A/02-Areas/talkwithAI/09-TelegramBot获取群组消息.md",
     "Clippings/我用 Obsidian Dataview 做了 6 个实时增长看板.md",
     "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
-    "Clippings/找不到好用的视频生成字幕及翻译字幕软件，于是我开源了一款.md",
-    "docs/P.A.R.A/02-Areas/ios/AGENTS.md",
     "docs/P.A.R.A/01-Projects/tts",
     "final_tweet_classification.json",
     "final_tweet_classification.py",
