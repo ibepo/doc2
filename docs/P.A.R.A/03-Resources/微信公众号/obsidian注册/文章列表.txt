@@ -1,0 +1,452 @@
+# 文章列表 (共150篇)
+
+1. Obsidian插件，Advanced Tables真正实现表格的“Excel化”操作！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487360&idx=1&sn=b603a7a065250bfbe994ab148fc656ea&chksm=c190dc45f6e75553e05550b1c336173c59383cc2ed218baa904964ca38e49f1029224e1301ec#rd
+
+2. Obsidian插件，Outliner解锁“丝滑大纲编辑”的新境界
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487340&idx=1&sn=071a21033133c73338f9f5ff0341807a&chksm=c190dca9f6e755bff40cbb574530cb3c2d9670aeef77208c5a41b22faf483dd59273ff0492b6#rd
+
+3. Obsidian插件，Dataview让你的笔记库变成可查询的数据库
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487331&idx=1&sn=1588242cbd4834bc255f8e22505e3487&chksm=c190dca6f6e755b02d56c70c36eb113d739345b565fd30b38c123aadabc801533f38ea6bd60f#rd
+
+4. Obsidian插件，Templater打造你的高效笔记模板系统
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487329&idx=1&sn=12cfdedbfa33abe42ef58d930f2fd7d6&chksm=c190dca4f6e755b2279184c0f259f0bcd1ae03f2d64bbb676c3e51c787e00fd8ea827777ecde#rd
+
+5. Obsidian Tasks 插件，超强的任务管理神器！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487245&idx=1&sn=02bcb208ff617bfa773c0da0db9604ef&chksm=c190dcc8f6e755de6b6ecbcec4fd0802f0cd5bfcdc4acf843298ffc55c187284d535addd520d#rd
+
+6. Obsidian Tasks 插件，超强的任务管理神器！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487243&idx=1&sn=be90d7a545dd36b95089834be65ea8b6&chksm=c190dccef6e755d8e4cde7d35a48e7def87df3f15311cd61e2f0e298a4d5222b6205ef291aae#rd
+
+7. Obsidian Tasks 插件：Advanced Tables，让你的 Markdown 表格操作丝滑流畅
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487192&idx=1&sn=1fa83e20f6facf994009a1b3db919cff&chksm=c190dd1df6e7540bdbbc2fa05276f684648d1f650418120b673854d38f0adae94632825495f4#rd
+
+8. Obsidian插件-Minimal Theme自定义主题
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487171&idx=1&sn=d378b2eab6a60212cf2b7ea1d4e742ad&chksm=c190dd06f6e75410a305694f293c1f97fb354f7268271ac7d1d08573d60fbf196abbdc670377#rd
+
+9. Obsidian插件—Excalidraw，最强的视觉化插件！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247487122&idx=1&sn=5d3b3f514891e088dd2d6b78b00557a4&chksm=c190dd57f6e75441d7aae705203aa657cad63e2351de5deeb3a7845baeb4ce9287137b3cb29a#rd
+
+10. Obsidian插件：Meld Encrypt 帮你创建加密笔记，让笔记更安全！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486488&idx=1&sn=45055048c93a961b93abe1eca9b576dc&chksm=c190dfddf6e756cbe90846fb176040fae3e4352bf1309f4abdc938c1bed0969906f19c40cc7b#rd
+
+11. Obsidian插件：Better Word Count统计文档的字数、字符数、句子数等
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486480&idx=1&sn=88f5325d3f225edd5a06a77b9f7ef15b&chksm=c190dfd5f6e756c3225d32dcd05f0eaf56fa81caae19a01ead34971c1672bfd703735d83b522#rd
+
+12. 用Readwise Official插件，Obsidian笔记高效整理攻略
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486479&idx=1&sn=b1dac287dcb920bec72f72ffd3277a46&chksm=c190dfcaf6e756dcd398a1227243aa688558a4e2a2dc9fe4b756809bb0e9ab0adb670cc359f1#rd
+
+13. Obsidian插件:​ Admonition 为笔记增添亮点，更加醒目
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486464&idx=1&sn=fbb6d6d9dee82628bda42eb94dba92fd&chksm=c190dfc5f6e756d318c9c88bb65807eae6e93c5552108a3667119de2f4f8c956dab8357cfebf#rd
+
+14. Book Search插件：快速高效管理书籍信息的利器~
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486463&idx=1&sn=10fbc768b2210397db9b1444c8d09ace&chksm=c190d83af6e7512c7edc09c80cfc6e70d4cb283f5175a6dc8a180e24c1f115df56e5185aa948#rd
+
+15. Obsidian插件：Excel to Markdown Table将表格数据转换成Markdown格式
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486437&idx=1&sn=d1270ce9e00e8c412970ebd703801769&chksm=c190d820f6e751368bf8d165484cf6856dff74606e382ab9578a35f241cfbbd1bf93d8031c9f#rd
+
+16. Obsidian插件：Make.md为你量身打造一个完美的个人系统。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486428&idx=1&sn=0c57e5fa62d38eb74404b4b82ceb5760&chksm=c190d819f6e7510fb812ea4575af1a10d5f9391ec7bc8725eb0cee3168773c25f6f2b83f8ba9#rd
+
+17. Obsidian插件-Emoji Toolbar 插件让你的笔记更生动~
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486416&idx=1&sn=5dc0cd9e5b891978121d12e9c8997ae3&chksm=c190d815f6e7510363d1de562e2b8557b254f306216ff4ceddac18ed83036951844383eb1e11#rd
+
+18. Obsidian插件-Mind Map将笔记转换为思维导图
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486408&idx=1&sn=4c01b309f90c350380659ec54e0337dc&chksm=c190d80df6e7511b46e64eb89cff49a0c6fe10f40dd401dd0a09a58b19056774a3d56cf5d38d#rd
+
+19. Obsidian插件-Better Count Word你写作的得力助手
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486401&idx=1&sn=1e8eba1c3307bcc65bc5c08fe6337ea3&chksm=c190d804f6e75112fbf1523196a02a2cae72af63d1ac218158cb92b6dfe2e81894706c13ca9a#rd
+
+20. Obsidian插件-Advanced Slides让你随时随地制作幻灯片
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486400&idx=1&sn=647c84aa5ac7c5df7ce0b5e48ca9a7ec&chksm=c190d805f6e75113ce5d923c6cb4290a4b5a2bb426c0afd3ce7e1912690ffd6024a67ea1c8e4#rd
+
+21. Obsidian插件-Minimal Theme自定义你的主题
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486383&idx=1&sn=685e9e8adac918433f1a1447428f1a93&chksm=c190d86af6e7517cc468b98b7c997d5b99c217ad4e4b123cb1366056fb521603a989c03a9bbc#rd
+
+22. Obsidian插件-Excalidraw，开源手绘式设计工具
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486374&idx=1&sn=9406e3a7e1b45091abe73ebeab85964b&chksm=c190d863f6e75175fa1b91c75109cf3dfaa09fa26ac0b9646edaa0ee5115f4aa397157b86599#rd
+
+23. 使你的笔记管理更直观：Obsidian Calendar插件使用详解
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486363&idx=1&sn=94046d36c1e6d99797c1614884adce50&chksm=c190d85ef6e75148988e93e282ef66f5eabfc1f771897075e0d22076ed3f85ff3971925b79f1#rd
+
+24. 整理笔记的利器：Obsidian Backlinks in Document 插件详解
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486361&idx=1&sn=af4450c074d19c78a6ebd49b7f856b79&chksm=c190d85cf6e7514addacbca89ae3707e8a0759d34bbfeed879a3cf0215b76563ef4803d0a577#rd
+
+25. 让你的笔记更有条理：Obsidian Admonition插件的妙用
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486351&idx=1&sn=cc46918ffa867b741f4bb1d9db731756&chksm=c190d84af6e7515c4c3bb74f74bc5a585f90552ca828f71ec596c7af94038eebf335a77f7206#rd
+
+26. 为日常事务列一个清单：Obsidian Daily notes插件详解
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486314&idx=1&sn=1b5febcf905b2bf1b2b76d6465493d3c&chksm=c190d8aff6e751b9d775e0eb16159cbb7ee4b8eb2940cc1578cf5ce16916e369017b2ed44ef8#rd
+
+27. 为文件夹增添智慧：Obsidian AidenLx插件的强大功能与应用
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486307&idx=1&sn=a026e4e4b9c1f7138826d7a8c9b6d91a&chksm=c190d8a6f6e751b0c3e7121dd49c32f2b84855e481f23d513d13938e6b2e1cb2cc1cf7f87a2a#rd
+
+28. 让你的Obsidian更出彩：File Color插件详解
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486306&idx=1&sn=d253a843179ab5982f76765b606a0298&chksm=c190d8a7f6e751b121d5177fb56f79b604fcbd220df9f5f1b696efb03414a34ecda09e9b2f12#rd
+
+29. 高效管理Obsidian工作区：Workspaces Plus插件详解
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486305&idx=1&sn=68ae19b9e03679072796dba0b44abfda&chksm=c190d8a4f6e751b2fa12922af4289676481741e8565d8df35be769056041f9cf1f09632a3e3d#rd
+
+30. Obsidian中的高效GTD工具：TODO Plugin详解
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486304&idx=1&sn=2313f2ad00056fcd0fdf51f1649d70f9&chksm=c190d8a5f6e751b31575af8b8ffcf8583e7eeac16ad64961cf0b644070bebb7ea349696d0be8#rd
+
+31. Obsidian插件Longform：专为长篇创作设计的写作助手
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486303&idx=1&sn=d52c321c2580fb0e8424cb8521df4c49&chksm=c190d89af6e7518cb184512b08220d39f337404063143f573b34a15d36e00de8a756cda41353#rd
+
+32. Obsidian 插件 Execute Code：让代码在笔记中“跑”起来
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486302&idx=1&sn=8a45001d40fdaa467420da4c81e5aca0&chksm=c190d89bf6e7518d0e027383a2aee71eb087d3f27c406b7f1227d2e07d6a14708815f3d1c9dd#rd
+
+33. 让阅读更高效：Obsidian中的Weread插件详解
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486293&idx=1&sn=8c6f5a1fb04093829086e6773db814ce&chksm=c190d890f6e7518630f841b4d4dbbf735bdf88c210fa4dedabc76705962705bcd1bfca26c18e#rd
+
+34. 用Heatmap Calendar插件将Obsidian数据直观可视化
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486292&idx=1&sn=e0c88475d8d9cb6364b5e9c21597014d&chksm=c190d891f6e75187709cad25ac184583cbd5b8482da94b8ecbba3ae664ac20e0864496022e2e#rd
+
+35. Obsidian插件Mermaid Tools：图表创作的高效助手
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486291&idx=1&sn=90c77ca62c2aa2719534b121bfe85250&chksm=c190d896f6e751804c5906f60f3b17c8402846af47a48b174ebaed92aaeabef088822b20fe62#rd
+
+36. Book Search插件：快速高效管理书籍信息的利器~
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486226&idx=1&sn=942db0a2ade4881f44bcfa958ee90868&chksm=c190d8d7f6e751c1e3e0192864247b780e315a02352154189d196502ae085a275eeba9f4b5a3#rd
+
+37. Sliding Panes为Obsidian带来全新滑动面板体验！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486225&idx=1&sn=078ac4106067d6974e1d358a94260b90&chksm=c190d8d4f6e751c286c6df9cb82b8b8371d411617227d843a20f4fd1ef81c1678e91a1563cf9#rd
+
+38. Obsidian插件：利用CardBoard实现高效看板任务管理！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486224&idx=1&sn=b0940936b6848bcefbaae1b78f40ba30&chksm=c190d8d5f6e751c3e8ad280a4c85d38cb62d0357e4aa5c235796304cc0634d12c14737cb781e#rd
+
+39. Copilot插件：为Obsidian用户提供智能AI助手~
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486204&idx=1&sn=053143f87c3edab197fec01cb798308e&chksm=c190d939f6e7502f7806d7cf931c551faa826d6e397f0efcb0476670d48290b22f3b25c59811#rd
+
+40. 用Workspaces Plus插件，为Obsidian工作区管理带来高级功能！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486203&idx=1&sn=8ac6cd9ea3703c6526355dc723e78d39&chksm=c190d93ef6e75028ae517ceadad80072079520362b5145f0adf377e218ce1741906e00897ea0#rd
+
+41. 用Meld Encrypt插件，保护你的笔记隐私~
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486197&idx=1&sn=b97d0f66b17b4a8eecc5789859cad6b7&chksm=c190d930f6e750269edb268e49ab70f9f2e907d1cf0eac81c37777b3aba661b03078eab47724#rd
+
+42. 用Image Toolki插件，轻松提升Obsidian图像处理体验！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486175&idx=1&sn=53f3a27b56b257494d53189c6dcf7d6c&chksm=c190d91af6e7500c77eb307b88f9eb0230af2dbb1dd1134aabc6432ae0ad215e829c21557590#rd
+
+43. 用ExcaliBrain 插件，打造结构化的思维导图体验~
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486167&idx=1&sn=9a573d52ddf35ad49ae4d383107c99c5&chksm=c190d912f6e750044a79457d71898bf5b5fb9f184e3b5dc34c5232221e8ff15be6c757e1ec48#rd
+
+44. Quiet Outline 插件：简洁大纲视图，提升笔记管理效率！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486166&idx=1&sn=ded7789efdb5b2bd1e921068accca640&chksm=c190d913f6e7500513b37e7e5e0168edff23549031adf327b76596bfc86fc54ca77b20159fdb#rd
+
+45. 用Clipper插件轻松将内容保存到Obsidian笔记！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486165&idx=1&sn=d2e38dae244295ad8f26612a74cc7d62&chksm=c190d910f6e75006634ac7293331876ccb2d8c4703541dc9bed7e373871294fb852b4e58fff9#rd
+
+46. Weread一键同步微信读书笔记至Obsidian，提升阅读管理效率！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486144&idx=1&sn=f1cf51e0cd45edb7215c686d03869f54&chksm=c190d905f6e75013502be362e71f462990d6082bf31f8004d843b63e0afde95affff0730e5b1#rd
+
+47. Obsidian Columns 插件：让你的笔记轻松实现多列布局
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486128&idx=1&sn=6ef2b010be8e4813c8de4bc0afa47e90&chksm=c190d975f6e750636de4e82de5c02c9d326225d72a63dc19e59dec4f26f3b8cc679dad3c3ab6#rd
+
+48. AidenLx文件夹笔记插件：提升Obsidian文件管理体验！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486121&idx=1&sn=c301ff314e6442989011b495344b00e2&chksm=c190d96cf6e7507ae0e91d7e4ae4c2bdafb207c134666f5785702740d4ef496bdce185e113ec#rd
+
+49. 用Tracker插件， 解锁生活数据，轻松追踪，发现隐藏规律！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486112&idx=1&sn=74bfe32604a8769d6984f74c34b9d43c&chksm=c190d965f6e75073690af343cca14860cc5f2f38336f0845e958a215052a7e4290ade6178a5e#rd
+
+50. 用Memos插件，让你的日常笔记秒变高效备忘录！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486111&idx=1&sn=0385d0dfc67aac523217db28ca4b36eb&chksm=c190d95af6e7504c58e1c915564e3501b7af57d2595a1094985b66f99301e6853ec13cce9cee#rd
+
+51. Obsidian Text Generator：知识管理的完美工具
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486110&idx=1&sn=4ca9c0b8b789a5942e81eeaa541eb546&chksm=c190d95bf6e7504d99743cac5a9105c2062cc1d6e2422baa80d109faa689eae2c49da4902a3e#rd
+
+52. 解锁Obsidian隐藏技能：用Excalidraw让你的笔记会手绘！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486098&idx=1&sn=807c94eca8eeaa1fa6a1608b73c7df44&chksm=c190d957f6e75041c895b8d44bf3fd6c39ba4154747ddb84bfaeea9604d8acea19ca3bdb5ede#rd
+
+53. 用Self-hosted LiveSync插件让你的笔记同步更安全！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486079&idx=1&sn=58d7d96495e9d38e41abfb44358a05b1&chksm=c190d9baf6e750ac0c6738750c7c99ca8de2e80aa930cac8eef73baacd9c09eb4c60411115d6#rd
+
+54. 用Readwise Official插件，Obsidian笔记高效整理攻略
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486063&idx=1&sn=6fed12b514be1a319c7b23cf87ce0b17&chksm=c190d9aaf6e750bcc0326b999015ffafd851fb7905a6ec21ed0d2d6933cff33e2bca743615f8#rd
+
+55. 用Obsidian的Breadcrumb插件轻松构建笔记层级和关联关系
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486055&idx=1&sn=281b8f3518cdcdb8f8189da28cdcd890&chksm=c190d9a2f6e750b4c35b0703fe8ab5ae5b483a277e5ae5a5f476107b5ed1f00877864a58828d#rd
+
+56. Obsidian插件Folder Note：轻松打造层级化笔记系统
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486038&idx=1&sn=5e00ab737a8c30c1e398e4fbd52e94dc&chksm=c190d993f6e75085426d450630846744dfccc9f61341203e73318b2be772248a73b6f9562cc8#rd
+
+57. Obsidian 插件 Dataview：玩转数据处理与智能查询的秘诀
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486031&idx=1&sn=e6d89cfae131bc18d9f61a88f5992155&chksm=c190d98af6e7509cc912873bb85637a8268ae5e3966b657874c175430506435efaeac4942506#rd
+
+58. 用 Obsidian 和 Zotero 打造你的终极知识库！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486026&idx=1&sn=d5f12578524c3f5f1db142d31db588ee&chksm=c190d98ff6e75099c92b4f0e98a10d2b017718aaf2587839f34bb32152bd99ddd48ec6880876#rd
+
+59. MarkMind 让 Obsidian 瞬间变身知识管理利器
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486016&idx=1&sn=e589441f2134ebcc1fd8adba952ce142&chksm=c190d985f6e75093ebb87949c739f7a00d93905fb92014e31cb65b20f4d70e9e1bb36608bdaf#rd
+
+60. 一键导出Word、PDF、PPT！Pandoc 提升Obsidian新高度！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247486007&idx=1&sn=9400d64cdf35af99f2092bc6ac993faa&chksm=c190d9f2f6e750e46b44ae10ed4dbd60bf3a90cbb7a04417fa96978deb5bca4fbc2937a46d00#rd
+
+61. 用Importer插件，轻松搞定Obsidian笔记导入
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485980&idx=1&sn=adc8eb3c060c242d7f8fa7c853d22f6d&chksm=c190d9d9f6e750cf0b8c093e11e678e37219bc980219c700fd7ee233ab170e725fc2315363f3#rd
+
+62. 用Obsidian插件轻松打造专业公众号文章！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485973&idx=1&sn=9aefeeb057749af331421f97eb7f0644&chksm=c190d9d0f6e750c60a744f72ea116b7fa165ced94003adc927f3139d1dfdce87a94482f9735a#rd
+
+63. 轻松管理多媒体文件！解锁 Ozan's Image in Editor 插件的强大功能
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485967&idx=1&sn=1a9f201769cd18f7fdba929e44e7b2a9&chksm=c190d9caf6e750dcc9d6080538e7a0bbfeeed137f625c2fa72e50d62391cc5c2a5560499647e#rd
+
+64. 告别枯燥笔记，Highlightr让你的笔记瞬间高亮！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485959&idx=1&sn=9d9c4293bdf6cbbfecffdbf32181f8c1&chksm=c190d9c2f6e750d4147e8bb6a95e3aad07ee677a04384a18d827f55edff6ed8744108b9a0f7a#rd
+
+65. 告别混乱，拥抱高效！Obsidian Projects让你的笔记管理更上一层楼。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485949&idx=1&sn=f967bcb184d1b9d9340c8a553e3f7153&chksm=c190da38f6e7532e5e50fdece0947e600be5ab90d16b199e1308b09d232bbf166157d513a699#rd
+
+66. Obsidian 高手必备：Advanced URI 带你解锁 Obsidian 高效新姿势，效率提升100%！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485940&idx=1&sn=7bf6eb6efb4dce6e041f39d4c89bb50b&chksm=c190da31f6e75327958c08cbe56c25001b183478e582b195ea170df1fcbb434e140abbdb893e#rd
+
+67. Obsidian 必备！Emoji Toolbar 插件让你的笔记更生动~
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485934&idx=1&sn=d5db7239eda390ed50c1b5b96e55c9cd&chksm=c190da2bf6e7533d1be5d807a06da4e5bb9e57ac7f31b0eb023c94156d835a2333988d5e0b82#rd
+
+68. 告别杂乱笔记！Periodic Notes插件让你的Obsidian更高效
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485926&idx=1&sn=08f94ccc5bd059ed65cc0d4b03db72dd&chksm=c190da23f6e753357596438122483832b6595111839928e34bd2c24aba53b0ebd949eab46471#rd
+
+69. Obsidian插件Checklist ：告别任务混乱，管理笔记任务更高效！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485918&idx=1&sn=01d5a599debc683af26537c24d89cd13&chksm=c190da1bf6e7530d2f52a94b57e3853be7dc4b607474180870eef6bef32370ccd053b949dd5a#rd
+
+70. Obsidian神级插件：Natural Language Dates ，助你高效管理笔记!
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485907&idx=1&sn=ab5a21e4c9b9b0329309b5757615e988&chksm=c190da16f6e753009c66ae6da91b7d7ba7c6310ab8f1cb002c17e85d5382ff422548a3181816#rd
+
+71. Obsidian插件：Make.md为你量身打造一个完美的个人系统。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485896&idx=1&sn=a13c9fcd01a0693dafef7a6edce5de8f&chksm=c190da0df6e7531b4890c7b581bf793c4255ea4183c567405b920a407f802ff338b1e86cbb3c#rd
+
+72. Obsidian插件：Editing Toolbar 让笔记编辑变得更加简单和直观
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485885&idx=1&sn=fdd0b6299765f6149bd0b6c538716552&chksm=c190da78f6e7536ef9827d3f5cff76054bb7653626368c89f711e79ee8819b6207e1f5d83210#rd
+
+73. Obsidian插件：Better Word Count统计文档的字数、字符数、句子数等
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485865&idx=1&sn=e34c00104214d18c4fa94789ab03124a&chksm=c190da6cf6e7537a7bbdaa5be8071e072261cba86faeeeae9f1e29afe57c27150ae5a3588fa0#rd
+
+74. Obsidian插件：Annotator在Obsidian中直接打开并标注PDF和EPUB文件
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485853&idx=1&sn=10ae2c37607dd3bff27a2012e051ef77&chksm=c190da58f6e7534e2226647327b95c64331fb1cfca8127cd1cc443f1d4efd989d01ab784ad53#rd
+
+75. Obsidian插件：Homepage指定打开某个笔记、画布或工作区，直接进入工作状态
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485834&idx=1&sn=e34796fff1f6ff07e51ea3ef84f4cb88&chksm=c190da4ff6e75359785cafd0797224c4f3be68781de3530ae1712ed4b28f99bcbf114ddb8162#rd
+
+76. Obsidian插件：Linter专门用于格式化和美化 Obsidian 笔记
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485823&idx=1&sn=f8630d665ae3a387447806d077f69ade&chksm=c190dabaf6e753ac1bf89bf168667048e82417c1880e1045bf9f8b7587024f46eb5c6bfa70ce#rd
+
+77. Obsidian插件：Day Planner在笔记中规划和管理时间
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485811&idx=1&sn=16e679a4c623271c120684534510d60c&chksm=c190dab6f6e753a0e7e84ecb41014c82d1ab4b44a1007308f2687c39de9ed1cb0b451be18da0#rd
+
+78. Obsidian插件：Recent Files快速找到最近编辑过的文件
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485797&idx=1&sn=b1dee1df9d1b3f957d72b3041f7838b1&chksm=c190daa0f6e753b65f745a2e3ba5b1062d8f2ed11a998d8e23282b83d8664df8eeffc154a151#rd
+
+79. Obsidian插件：Omnisearch让你的笔记搜索如虎添翼
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485787&idx=1&sn=77704cc1a3049f9aa8118e0a1f4a774b&chksm=c190da9ef6e75388ce714031cb3ce9a48af0ad444ee483989fc59269b03bac1635503796772e#rd
+
+80. Obsidian插件：Mind Map将笔记转换为思维导图
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485776&idx=1&sn=f57e9fa6961b791a727d586dbfe303ad&chksm=c190da95f6e7538308692882fcd33bc433e64ad6b067caabe892a85756dc0e5632f32f03c244#rd
+
+81. Obsidian插件：Tag Wrangler专为整理和管理标签而生
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485763&idx=1&sn=ecde6d2a57d2d6fe5936407844009229&chksm=c190da86f6e753908aa8d9a92d5cbd87a569b7c70af29abc6606aa4059168b44fe9b99cc9f64#rd
+
+82. Obsidian插件：Remotely Save支持各种主流的云服务来同步Obsidian笔记
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485753&idx=1&sn=4e90fc231d9be89ee77a086456dde674&chksm=c190dafcf6e753ea0d43c414259c1c6cb9b8190632b4b257e6c967dedd0d49881c60a3f9f472#rd
+
+83. Obsidian插件：QuickAdd 创建模板，告别重复劳动，提升笔记效率
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485740&idx=1&sn=149911594ff32190b9ab06f14c268153&chksm=c190dae9f6e753ff287561810fc6b796cfb99e2f294e760fb0cdb026826574590ae1d5ff32ad#rd
+
+84. Obsidian插件:​ Admonition 为笔记增添亮点，更加醒目
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485724&idx=1&sn=304538a2e356dc086b15bf22b1e992ed&chksm=c190dad9f6e753cff33ee30f4a447f38871f4b932833749fcb5091744189b844e13c3cead6f8#rd
+
+85. Obsidian插件: Minimal Theme 自定义主题
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485712&idx=1&sn=aab92a547df02b1f96a467b411a64658&chksm=c190dad5f6e753c3602da14f5a2a4144429d8e3e3b5f7c64100112ed75a194e724f4fc87b26e#rd
+
+86. Obsidian插件:​ Advanced Slides 为知识网络增加动态幻灯片
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485700&idx=1&sn=71da915a7773ffc48c50e14191138670&chksm=c190dac1f6e753d7b7c53dd7856c493d3fe67a1a2a93d3121cf8cd405bc50b4afdf3da578ba3#rd
+
+87. Obsidian插件: Iconize 美化和个性化笔记，添加独特图标
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485685&idx=1&sn=c7164f167042deb89d0305162395873f&chksm=c190db30f6e752265cf45e7ef90ab3b040715f1996055396a6c93e69783a8d1711714829a642#rd
+
+88. Obsidian插件: Outliner 轻松移动深层次的结构化列表
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485682&idx=1&sn=5484c9a40a0154b65327979c30ac51d1&chksm=c190db37f6e7522161d550f2b5371497cb971902650f166251ef2200f38098e15566b00e7e07#rd
+
+89. Obsidian插件: Style Settings 简单直观美化Obsidian的外观
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485662&idx=1&sn=e98debbb7a43cffcd040433ddca23bf8&chksm=c190db1bf6e7520d876e892e9a735e8fe59549c7126cde36350e97c77efbb29f656714f1797b#rd
+
+90. Obsidian插件：Git 自动备份笔记，无需担心数据丢失
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485629&idx=1&sn=08420ba241dbed0c342945fe535e9a7f&chksm=c190db78f6e7526e60c411d7610c9c2221c69c2b684a14c14c962032288176733fc0fd292660#rd
+
+91. Obsidian插件:​ Kanban 任务卡片让管理更高效和有趣
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485628&idx=1&sn=675bbe9a24f3cfab67e45c137a04cfca&chksm=c190db79f6e7526feea8dbaf1460ec870054f402f691decf2ba6d1dbb7230c25dda7b7960704#rd
+
+92. Obsidian插件 : Calendar 可视化和导航你的日记笔记
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485619&idx=1&sn=0c56582f00602d3b557be30606bd6621&chksm=c190db76f6e75260a91c93ba3a156a4f95850f2ac73cf4e74aa483ad02e1b1594b1fa7212ddd#rd
+
+93. Obsidian插件:​ Tasks 全面掌控你的Obsidian任务管理
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485618&idx=1&sn=3ec39bb8447892c51a05e2e0a1d878a8&chksm=c190db77f6e7526185db832b7757f494088d340728acdca1cc023a33eeeea8d9780a196499b9#rd
+
+94. Obsidian插件: ​Templater 预定义模板让笔记高效化
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485601&idx=1&sn=3bfa831b7fd337e8b3c87c3a8c5d7e93&chksm=c190db64f6e752722666f034bb644215328930e1bee6be2dfee2b991f3fb1b70fa3219a93010#rd
+
+95. Obsidian插件:​ Advanced Tables 高效管理你的表格
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485542&idx=1&sn=699fd912ecb13d302e8736f6ec901f9f&chksm=c190dba3f6e752b55620d85358738149362b650261b31b705e1c6514406c57e86f0fb2ac122d#rd
+
+96. Obsidian 插件：Dataview让你的笔记变成数据库，效率提升100倍！
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485526&idx=1&sn=c12599458a7429fddc9f01d3fead7131&chksm=c190db93f6e7528568a9db6de19287fcf3f6888bef21f99c19c1561e3f0f0fc1339b7652a188#rd
+
+97. Obsidian 插件:Excalidraw，在笔记软件里直接画图
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485511&idx=1&sn=1442c3b6d96154a75a2e9e65c7a9b8bb&chksm=c190db82f6e7529424dc1ab34d6ba26e114bf8d0e55b5fb11d710137b76f65033ee4a083cf77#rd
+
+98. Obsidian 插件：Local Images轻松地管理和本地化各种媒体文件
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485495&idx=1&sn=96c2dc71266119f31ad226ca95f6841c&chksm=c190dbf2f6e752e4d0443e5fe598157884b2e4a98821d0d30ccceecce1627c7788ff1576c066#rd
+
+99. Obsidian 插件：Focus Mode,专注于当前的任务，提高工作效率
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485494&idx=1&sn=80490dc2e27d0bea2f0ed3bba4c594d4&chksm=c190dbf3f6e752e53c996194bd4cc77966a997a44f89970e38f3216e54d085efd3a32c17dc2f#rd
+
+100. Obsidian 插件：Filename Heading Sync让文件名和文件的第一个标题保持同步
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485493&idx=1&sn=4a5c30765321316e9846995ac58d5771&chksm=c190dbf0f6e752e68d183b01b6d456b685971033b3859c0d10551e8f3e89c22648936c6b0a98#rd
+
+101. Obsidian 插件：Number Headings给标题自动编号,让你的文档结构更清晰
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485492&idx=1&sn=0b46a5781a288d55f2640cf1fac99ac0&chksm=c190dbf1f6e752e7216f95a51468322ffae3cb126c753c79188248777233f96e5f7cd1e29ae6#rd
+
+102. Obsidian 插件：Copy Block Link让笔记的引用和导航变得更轻松高效
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485434&idx=1&sn=89b5b1600516eff34c458ec442127579&chksm=c190d43ff6e75d29005c1029e8e9ecab48c02b36871239e15de22fc5afc5f1712af5f1f85033#rd
+
+103. Obsidian 插件：Table Extended轻松实现跨列、跨行的单元格，嵌入列表、代码等块级元素
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485422&idx=1&sn=be218b60cdc9291fd8cb6328083a03e2&chksm=c190d42bf6e75d3df9fbc4157b8d7cf85c507cd920714f0a042503b23985f2e32fa5cbe7cebc#rd
+
+104. Obsidian 插件：Paste Image Rename管理Obsidian中的附件，使笔记仓库更加有序。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485407&idx=1&sn=24b924778eea4b66976666961732ab2f&chksm=c190d41af6e75d0ca8bef31f1a60f273cbfe562f7e8ef6493a5f6ed5685ece6651976a6dd341#rd
+
+105. Obsidian 插件：Columns，支持移动端，让您在 Obsidian 笔记中创建列
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485395&idx=1&sn=3b85f47a40786ab14331c136e3bc6823&chksm=c190d416f6e75d0014847f3f192714cabba427e2322831eb4d9245edd862239e562233332702#rd
+
+106. Obsidian 插件：Table Extended为Obsidian带来了MultiMarkdown表格语法
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485394&idx=1&sn=f6b749cd3c0e4b6aab0812daa92b536b&chksm=c190d417f6e75d01b7001fc8d6cba91bfa6c18da63131cddda437b285d5c1b938003735f2f75#rd
+
+107. Obsidian 插件：AidenLx为文件夹添加描述、摘要和更多信息
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485389&idx=1&sn=d6db0428131fd980e54121f5d9ba47ea&chksm=c190d408f6e75d1e2e02531a729757050e42935ce60ecc7eb18fe264f9b140b21a4e43f26d44#rd
+
+108. Obsidian 插件：Obsidian File Color比如为文件和文件夹设置颜色
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485339&idx=1&sn=35db9672be4abe1a15f7d88d5642f8ca&chksm=c190d45ef6e75d4806b04398e82d9db8659721889787525b63e69f9022e3a6cc6f46b559eb94#rd
+
+109. Obsidian 插件：Workspaces Plus为用户提供强大的工具集。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485325&idx=1&sn=085f126d0b104b98587f3b8347dd1b45&chksm=c190d448f6e75d5e9d60d55eea8b4a306293758c5d7c7cde56c2d5fd723d80a5bdaed61edfaf#rd
+
+110. Obsidian 插件：TODO在Obsidian中实施基于文本的GTD方法
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485308&idx=1&sn=59edb9951d7162b3db498010d9db2343&chksm=c190d4b9f6e75daf1830764f04a9490a1c07b3c73028b9ae282e7f06c26d7f24e86b284ba80f#rd
+
+111. Obsidian 插件：Longform专为撰写和编辑大型项目设计的工具
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485307&idx=1&sn=d6a9053fa6daccfa9f0251f630df2985&chksm=c190d4bef6e75da805b0b14e67a7dca44b7cb3fe538c75f8e246cb2d30454914885053138639#rd
+
+112. Obsidian 插件：Execute Code笔记中直接运行代码
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485306&idx=1&sn=981ac295aaf30e3ea812749ef03588e7&chksm=c190d4bff6e75da94b38e03fdc53f25f81a03f03fff1653db2bcf64f267492dd5931ab8e9191#rd
+
+113. Obsidian 插件：Weread微信读书插件
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485305&idx=1&sn=9b7324e71e417ebdaf46624ed9b2e51c&chksm=c190d4bcf6e75daa9fd4f60bef93eeafb884ff8dae45f7d7252b91ae2bd65257a2d1998775bb#rd
+
+114. Obsidian 插件：Heatmap Calendar以热图形式可视化地展示各种数据
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485258&idx=1&sn=f5970750913c0adfb64028fa0302fb33&chksm=c190d48ff6e75d99814a3a08e3a54e9c41884d263b4ba43b08c646fe938224da693dd75d672d#rd
+
+115. Obsidian 插件：Mermaid Tools创建复杂的图表和可视化图形
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485246&idx=1&sn=08eba0861a7526f99ca94e1891921ca6&chksm=c190d4fbf6e75dedaaed54ded5f7e8dfbb2e3d9aab23e780c4d9e599780f2df128ab2e4fedcc#rd
+
+116. Obsidian实战教程
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485230&idx=1&sn=c4d25b920bf1847b467287a70e0ebfcd&chksm=c190d4ebf6e75dfdf09bf99e1672d06ee6fe6e499f831545f7e4512f1740d5108c268a0aa810#rd
+
+117. Obsidian 插件：Book Search用户直接从Obsidian中搜索书籍，并快速创建笔记
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485223&idx=1&sn=dd6f263a2a7f707b8fc8c955c73c0ce9&chksm=c190d4e2f6e75df445c3a907e53d4671ff366fb4a17e5f7aecaa268ab18153687a986e3d8af0#rd
+
+118. Obsidian插件：Markdown Table Editor创建、编辑和格式化Markdown表格
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485222&idx=1&sn=4b5d5dd8201157001eb5fcd58175cda3&chksm=c190d4e3f6e75df56b871347f7b41c66e68f7faad5c7c2aa75910c7144ee0377833a2a8834b2#rd
+
+119. Obsidian插件：Meld Encrypt为用户提供加密笔记内容的方法，确保信息安全。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485221&idx=1&sn=8f3f798e7d2ae5e300263095378e9c32&chksm=c190d4e0f6e75df6ae8650f516910398eb054ebd1d5f32cd13c684d5052782524095b994e11e#rd
+
+120. Obsidian实战教程
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485220&idx=1&sn=ee53143636e3f9cf5cae2eb211a56873&chksm=c190d4e1f6e75df7c3a8b6de3b55a7f8842bcc1930ff1ad047db667ed5fd4f401901298e5541#rd
+
+121. Obsidian插件：Markdown Formatting Assistant简化和加速文档的格式化过程
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485208&idx=1&sn=3cb02694da0e1149b344f4ba5bb63bd9&chksm=c190d4ddf6e75dcbbbe2ebe74aa34e89d435ad062d70a16b0093b3cdc2615794ef4453aa0193#rd
+
+122. Obsidian插件：CardBoard为Obsidian添加了看板式任务管理功能
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485148&idx=1&sn=6057328c1a868124ae9a4e9975a86aad&chksm=c190d519f6e75c0fbbe270f5bd9d0ce538db8ca15754d2b39900368d69de88904096b7a11abe#rd
+
+123. Obsidian插件：Quiet Outline为用户提供更加清晰、易用的大纲视图
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485133&idx=1&sn=9a9a4ed657c698c1e27fde8978c6290c&chksm=c190d508f6e75c1e8258bf81b6e2d8ec4b7094b6818cfbec542a0d2fd920d4acb15e6cb8715a#rd
+
+124. Obsidian插件：Diagram高效图表工具支持在笔记中创建.编辑.保存图表
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485110&idx=1&sn=6026a9f8c1fa9ba8de078bf198157257&chksm=c190d573f6e75c65c4f9977d5561b1cb79a7e62e5f97cafc30ed2162fdc90f89b0190f2013bc#rd
+
+125. Obsidian插件：Icons允许用户在笔记中插入各种图标，强大的视觉增强工具
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485109&idx=1&sn=454db2757b9640ed163448e3742cc9ab&chksm=c190d570f6e75c66c48b2f583f7d06062e688b2193a67f9c17c726e386ca488f08998e70a45a#rd
+
+126. Obsidian插件：Todoist Sync在笔记中实现Todoist任务列表展示
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485081&idx=1&sn=1bbdc27a5a211bc8025bdf09e787e941&chksm=c190d55cf6e75c4aa906e0d1a11a1a9ab2eec17cf3b407e3086995670705409a65aeef8f6408#rd
+
+127. Obsidian插件：Copilot，通过Copilot命令与AI进行交流，增强了笔记的功能性和交互性。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485068&idx=1&sn=ea517dd18ef865f008d986bbee6ec9eb&chksm=c190d549f6e75c5f702e4ecaf5b75a1d634b1ec73936269b61d1fcccd9a19d5b95c8610c86a4#rd
+
+128. Obsidian插件：Custom Frames允许用户将网页应用作为面板嵌入到Obsidian界面中
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485051&idx=1&sn=1163afb6589d943e94115f48768416b8&chksm=c190d5bef6e75ca896d813c7e75f9afc917b164ee4a853b95642130976d81bc974eb0f781978#rd
+
+129. Obsidian插件：MetaEdit专注于提高元数据的管理和编辑效率
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485050&idx=1&sn=8ba0df6cea52387c2f4db6253183a504&chksm=c190d5bff6e75ca9e703be53aa0e70a9a7ab882e8337061f3be3a1e5b31e129d497348fed11a#rd
+
+130. Obsidian插件：PDF Highlights从PDF文件中提取高亮和下划线的文本
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485026&idx=1&sn=d1e26a619055d6d2d20ebf4441b4b49f&chksm=c190d5a7f6e75cb1248831e06cdeda858a444c2c41a5c43c5ecd6966ca197f6154d501bcca8f#rd
+
+131. Obsidian插件：Quick Explorer一个提高文件浏览和笔记预览效率的工具
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485012&idx=1&sn=ce2d55768d2d9e6e4d6bfd98f162a3c8&chksm=c190d591f6e75c87ceac411ff7763dedc84ea61b4ef4ab89b643270d2eae550faf5e0b439dbf#rd
+
+132. Obsidian插件：Memos一个为Obsidian用户提供快速捕捉思想和管理日常笔记的工具
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485011&idx=1&sn=00ea61ce2bbca003920762bdec738daf&chksm=c190d596f6e75c80e414e06ec1abe36a6618a189e2637940b61e537c3bd84513b25570930bf8#rd
+
+133. Obsidian插件：Folder Note使Obsidian保险库形成一个层级化的笔记系统
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485009&idx=1&sn=f43747a47951fafd6dba695f7b32bda9&chksm=c190d594f6e75c826a41937fd7b1052efd70641d896dd280fd53fe5869374b695532672cf096#rd
+
+134. Obsidian插件：Footnote Shortcut提高笔记制作效率
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485008&idx=1&sn=35ad1e327e95c5aeec518504ba48bf91&chksm=c190d595f6e75c837b744c4bfc9d8b9b87d9c0d07b28255105f06f2fa16337d16bd4c98c1dd1#rd
+
+135. Obsidian插件：Zoom增强Obsidian编辑体验
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485007&idx=1&sn=f4ff53d7c2f2142a083f0f385a1ea0ca&chksm=c190d58af6e75c9c67ce70aa878456f9f51363d78cb7bd61b078889026b3e7aa868ad2726686#rd
+
+136. Obsidian插件：Excel to Markdown Table将表格数据转换成Markdown格式
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247485006&idx=1&sn=0ceba89b7c756319dc459b2023b9d7a9&chksm=c190d58bf6e75c9ddbca1884fec5998895f23b160608dabc8174c4d020b0fa77d7d6cbf257bd#rd
+
+137. Obsidian插件：TagFolder允许用户像处理文件夹一样管理和组织标签。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484940&idx=1&sn=329b7a99e75a9ebf0f21e8b5b8cdfb81&chksm=c190d5c9f6e75cdf8389c47be7d5eea7b2aa29c71c166557d4447e85be567aa67f06fcd682a8#rd
+
+138. Obsidian插件：Fantasy Statblocks 在 Obsidian 中创建、管理和查看幻想生物图鉴
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484939&idx=1&sn=ec4577d0ea9943d8ace950e8c0ac61fb&chksm=c190d5cef6e75cd8948fb85f16db2315d38ae661650cca7ff33d2157097781325a6a0de775fe#rd
+
+139. Obsidian插件：Supercharged Links根据笔记的元数据来设置链接的样式
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484938&idx=1&sn=71f32a6a590323c0728f2f2fa9b244dd&chksm=c190d5cff6e75cd94064f777c7bf5b12d7f80474ffb37011667d0a1d6f67c165659db3ca387c#rd
+
+140. Obsidian插件：LaTeX Suite通过快捷方式和文本扩展使 LaTeX 数学排版速度快如手写
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484937&idx=1&sn=93804da2eff378755f57070d92ba752d&chksm=c190d5ccf6e75cda613c599dc362f80e61d620f3e3ab6acf4df4a7628f17c58d19672ef3ebce#rd
+
+141. Obsidian插件：Readwise Official将高亮内容整合到Obsidian中，便于管理和回顾
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484856&idx=1&sn=6e561a58a1670b5faad0a7e012b76e25&chksm=c190d67df6e75f6b0f84af0f62aca8e1566b3bb7b6b73f0406d414c63ce2faf7a6f2261a34e9#rd
+
+142. Obsidian插件：Breadcrumb允许用户在笔记之间建立起层级和关联性
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484855&idx=1&sn=276538002f909ec738f5134b0baa63c6&chksm=c190d672f6e75f64045d01df3ee231b922ff77e7ed80f8f422e875ebb0312da325a7f0363322#rd
+
+143. Obsidian插件：Table of Contents在笔记中创建和管理目录
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484854&idx=1&sn=b04e8d060ea3db90b46282beff9b46e0&chksm=c190d673f6e75f65a4a8a85d92269ad0480fd8bfa9da67f07cf5941d8753c3b1d9ee811e5995#rd
+
+144. Obsidian插件：Tracker从笔记中收集数据并全面地展示数据
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484853&idx=1&sn=92f30e2adb6cca7ed5272db53f4a5f31&chksm=c190d670f6e75f6649c58c05477f413a5fc1f2bb699568385d0887de641a3d7ee85adc45fbd3#rd
+
+145. Obsidian插件：Dice Roller一款内联骰子滚动插件。
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484852&idx=1&sn=c8491eb8f3d1b22a8c1bc695abe50476&chksm=c190d671f6e75f67f3ed85f3dc4650f56f0eddac5734959a3f8af715fa3a7d7d1cb2c604a54e#rd
+
+146. Obsidian插件：Self-hosted LiveSync确保笔记的完全私密
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484787&idx=1&sn=deca1754a93b8135beb1e4e3fbe4fb07&chksm=c190d6b6f6e75fa0fdb35fb289d17dc1ab3c46e311557c4b590cd6c09ef2dd57baadce520e85#rd
+
+147. Obsidian插件：Auto Link Title自动获取粘贴链接的网页标题，并将其转换成Markdown格式的链接
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484782&idx=1&sn=39fd6a2db39415c77c560800fe5b0cc0&chksm=c190d6abf6e75fbd28fb75b9484f0cb9791fbdf5375aa646b9f8e1a30a2c1319e4417efb0f6d#rd
+
+148. Obsidian插件：Reminder 为 Obsidian 用户提供便捷的提醒功能
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484781&idx=1&sn=342acbba6940aa9d8e10774cf5957b69&chksm=c190d6a8f6e75fbe275f874f4d3eb7c9bb51e07b576dabf39faae498ee125603c627f423dec8#rd
+
+149. Obsidian插件：Image Toolkit一款提升图像交互体验的插件
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484780&idx=1&sn=076731736f8c4f478659e6beacd79247&chksm=c190d6a9f6e75fbf532fb8b6b7ec6bb172680ae3a7311ad3670ff69b0f3d2da4373a9fa0e255#rd
+
+150. Obsidian插件：ExcaliBrain丰富您的知识管理体验
+   http://mp.weixin.qq.com/s?__biz=MzkyMDUyMDM2Mg==&mid=2247484779&idx=1&sn=fca89095e5b2bead285dcf9686340d11&chksm=c190d6aef6e75fb8e456af6ccff60d17816bc98f04be2a1f5341a63602e6af3f06240c6eb73c#rd
+
