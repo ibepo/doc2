@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/01-Projects/ts/钢铁市场监控指标采集来源.md",
+                "file": "docs/P.A.R.A/02-Areas/ios/AGENTS.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "钢铁市场监控指标采集来源"
+              "title": "AGENTS"
             }
           }
         ]
@@ -202,10 +202,10 @@
   },
   "active": "af455ba8db53ac2b",
   "lastOpenFiles": [
+    "docs/P.A.R.A/01-Projects/ts/钢铁市场监控指标采集来源.md",
     "docs/P.A.R.A/01-Projects/ts/钢铁市场差异化监控方案.md",
     "docs/P.A.R.A/01-Projects/ts/钢铁市场一体化监控平台方案.md",
     "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场监控指南.md",
-    "docs/P.A.R.A/01-Projects/ts/钢铁市场监控指标采集来源.md",
     "docs/P.A.R.A/01-Projects/ts/钢铁市场监控核心指南.md",
     "Clippings/找不到好用的视频生成字幕及翻译字幕软件，于是我开源了一款.md",
     "docs/P.A.R.A/ts/钢铁市场监控核心指南.md",
