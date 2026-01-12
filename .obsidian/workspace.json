@@ -195,8 +195,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "adf1c0e37040b996",
+  "active": "d83259dbd35b5238",
   "lastOpenFiles": [
+    "docs/P.A.R.A/01-Projects/ts/钢铁市场监控核心指南.md",
+    "Clippings/找不到好用的视频生成字幕及翻译字幕软件，于是我开源了一款.md",
+    "docs/P.A.R.A/ts/钢铁市场监控核心指南.md",
     "docs/P.A.R.A/ts",
     "Clippings/我用 Obsidian Dataview 做了 6 个实时增长看板.md",
     "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
@@ -222,8 +225,6 @@
     "docs/P.A.R.A/03-Resources/telegram/Twitter资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/Bad News资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/Bilibili资源详细列表.md",
-    "docs/P.A.R.A/03-Resources/telegram/Telegram收藏夹资源清单.md",
-    "docs/P.A.R.A/03-Resources/telegram/GitHub资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/messages.html",
     "docs/P.A.R.A/03-Resources/telegram",
     "docs/P.A.R.A/01-Projects/tts",
@@ -232,7 +233,6 @@
     "other_tweets_analysis.json",
     "analyze_other_tweets.py",
     "reclassify_tweets.py",
-    "docs/P.A.R.A/02-Areas/技术相关/视频处理",
     "未命名.canvas",
     "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/images/image_03.jpg",
