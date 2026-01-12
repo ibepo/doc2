@@ -49,7 +49,7 @@ parent: [[Telegram收藏夹资源清单]]
 
 ## 🔗 相关资源
 
-- [[Telegram收藏夹资源清单]] - 汇总笔记
+- [[Telegram收藏夹资源清单 1]] - 汇总笔记
 - [[GitHub资源详细列表]] - iOS/Swift 开发资源
 
 ---

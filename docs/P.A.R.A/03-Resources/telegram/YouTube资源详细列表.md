@@ -231,7 +231,7 @@ parent: [[Telegram收藏夹资源清单]]
 
 ## 🔗 相关资源
 
-- [[Telegram收藏夹资源清单]] - 汇总笔记
+- [[Telegram收藏夹资源清单 1]] - 汇总笔记
 - [[Bilibili资源详细列表]] - Bilibili 视频资源
 - [[设计资源收集]] - 设计相关资源
 
