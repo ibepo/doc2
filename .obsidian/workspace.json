@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "76d1103460c42650",
+        "id": "613135ca0734edc9",
         "type": "tabs",
         "children": [
           {
-            "id": "af455ba8db53ac2b",
+            "id": "af191df95d366e47",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望(终版)(4).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2026年钢铁市场与行业展望(终版)(4)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -174,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 766.5
+    "width": 976.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +197,7 @@
   },
   "active": "adf1c0e37040b996",
   "lastOpenFiles": [
+    "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器",
     "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望-全面分析报告.md",
     "docs/P.A.R.A/01-Projects/ts/docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望-完整分析报告.md",
     "docs/P.A.R.A/01-Projects/ts/docs/P.A.R.A/01-Projects/ts",
@@ -232,7 +231,6 @@
     "docs/P.A.R.A/03-Resources/telegram/JableTV资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/微信公众号资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/Figma资源详细列表.md",
-    "docs/P.A.R.A/03-Resources/telegram/其他域名分类资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/messages.html",
     "docs/P.A.R.A/03-Resources/telegram",
     "未命名.canvas",
