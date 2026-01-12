@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "133d742f170ed245",
+        "id": "76d1103460c42650",
         "type": "tabs",
         "children": [
           {
-            "id": "7e20f4a4d01d2a55",
+            "id": "af455ba8db53ac2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移"
+              "title": "新标签页"
             }
           }
         ]
@@ -200,13 +195,16 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "7e20f4a4d01d2a55",
+  "active": "adf1c0e37040b996",
   "lastOpenFiles": [
+    "docs/P.A.R.A/ts",
+    "Clippings/我用 Obsidian Dataview 做了 6 个实时增长看板.md",
+    "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
+    "Clippings/超燃！大涨50！本周首日大涨！焦炭提涨！钢厂上调！钢价一涨再涨？.md",
+    "Clippings/2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移.md",
     "docs/P.A.R.A/02-Areas/投资/2026年钢铁市场监控指南.md",
     "docs/P.A.R.A/02-Areas/投资",
     "docs/P.A.R.A/02-Areas/Ai/skill/00-claude-skills总表.md",
-    "Clippings/2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移.md",
-    "Clippings/超燃！大涨50！本周首日大涨！焦炭提涨！钢厂上调！钢价一涨再涨？.md",
     "docs/P.A.R.A/03-Resources/telegram/设计教程博客资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/YouTube资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/Reddit资源详细列表.md",
@@ -226,11 +224,8 @@
     "docs/P.A.R.A/03-Resources/telegram/Bilibili资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/Telegram收藏夹资源清单.md",
     "docs/P.A.R.A/03-Resources/telegram/GitHub资源详细列表.md",
-    "docs/P.A.R.A/03-Resources/GitHub资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/messages.html",
     "docs/P.A.R.A/03-Resources/telegram",
-    "docs/P.A.R.A/02-Areas/talkwithAI/09-TelegramBot获取群组消息.md",
-    "Clippings/我用 Obsidian Dataview 做了 6 个实时增长看板.md",
     "docs/P.A.R.A/01-Projects/tts",
     "final_tweet_classification.json",
     "final_tweet_classification.py",
