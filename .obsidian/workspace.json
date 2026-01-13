@@ -11,15 +11,12 @@
             "id": "af191df95d366e47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器/iOS平台著名播客播放器深度讨论.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "docs/P.A.R.A/02-Areas/读书/副本9小时免费播客讲义(1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "iOS平台著名播客播放器深度讨论"
+              "icon": "lucide-file-text",
+              "title": "副本9小时免费播客讲义(1)"
             }
           }
         ]
@@ -177,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 976.5
+    "width": 921.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +197,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "af191df95d366e47",
+  "active": "adf1c0e37040b996",
   "lastOpenFiles": [
+    "docs/P.A.R.A/02-Areas/博客讲义分析.py",
+    "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器/iOS平台著名播客播放器深度讨论.md",
+    "docs/P.A.R.A/02-Areas/读书/副本9小时免费播客讲义(1).pdf",
     "docs/P.A.R.A/03-Resources/temp/summarize_articles.py",
     "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望(终版)(4).pdf",
-    "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器/iOS平台著名播客播放器深度讨论.md",
     "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器",
     "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望-全面分析报告.md",
     "docs/P.A.R.A/01-Projects/ts/docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望-完整分析报告.md",
@@ -229,7 +228,6 @@
     "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
     "Clippings/超燃！大涨50！本周首日大涨！焦炭提涨！钢厂上调！钢价一涨再涨？.md",
     "Clippings/2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移.md",
-    "docs/P.A.R.A/02-Areas/投资",
     "docs/P.A.R.A/02-Areas/Ai/skill/00-claude-skills总表.md",
     "docs/P.A.R.A/03-Resources/telegram/设计教程博客资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/YouTube资源详细列表.md",
@@ -237,7 +235,6 @@
     "docs/P.A.R.A/03-Resources/telegram/Medium资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/JableTV资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/微信公众号资源详细列表.md",
-    "docs/P.A.R.A/03-Resources/telegram/messages.html",
     "未命名.canvas",
     "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/images/image_03.jpg",
