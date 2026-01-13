@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器/iOS平台著名播客播放器深度讨论.md",
+                "file": "docs/P.A.R.A/02-Areas/talkwithAI/10/mksass模板速查表.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "iOS平台著名播客播放器深度讨论"
+              "title": "mksass模板速查表"
             }
           }
         ]
@@ -203,6 +203,8 @@
   "active": "af191df95d366e47",
   "lastOpenFiles": [
     "docs/P.A.R.A/02-Areas/talkwithAI/10/mksass模板深度调研报告.md",
+    "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器/iOS平台著名播客播放器深度讨论.md",
+    "docs/P.A.R.A/02-Areas/talkwithAI/10/mksass模板速查表.md",
     "docs/P.A.R.A/02-Areas/读书/副本9小时免费博客讲义-全面分析报告.md",
     "docs/P.A.R.A/02-Areas/talkwithAI/10",
     "docs/P.A.R.A/02-Areas/读书/副本9小时免费播客讲义(1).pdf",
@@ -210,7 +212,6 @@
     "docs/P.A.R.A/02-Areas/读书/博客讲义分析结果.json",
     "docs/P.A.R.A/02-Areas/读书/analyze_blog_lecture.py",
     "docs/P.A.R.A/02-Areas/博客讲义分析.py",
-    "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器/iOS平台著名播客播放器深度讨论.md",
     "docs/P.A.R.A/03-Resources/temp/summarize_articles.py",
     "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望(终版)(4).pdf",
     "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器",
@@ -237,7 +238,6 @@
     "docs/P.A.R.A/03-Resources/telegram/YouTube资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/Reddit资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/Medium资源详细列表.md",
-    "docs/P.A.R.A/03-Resources/telegram/JableTV资源详细列表.md",
     "未命名.canvas",
     "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/images/image_03.jpg",
