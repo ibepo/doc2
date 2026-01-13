@@ -1,0 +1,93 @@
+{
+  "document_info": {
+    "title": "副本9小时免费博客讲义",
+    "analysis_date": "2026-01-13 08:07:52",
+    "total_pages": 114,
+    "total_content_length": 36133,
+    "file_size_mb": 8.710409164428711
+  },
+  "structure_analysis": {
+    "total_lines": 2519,
+    "identified_titles": 1361,
+    "title_sample": [
+      [
+        1,
+        "南添：商业思维，演化思维"
+      ],
+      [
+        2,
+        "南添：商业思维，演化思维"
+      ],
+      [
+        3,
+        "南添：商业思维，演化思维"
+      ],
+      [
+        4,
+        "南添：商业思维，演化思维"
+      ],
+      [
+        5,
+        "南添：商业思维，演化思维"
+      ]
+    ]
+  },
+  "key_points": [
+    {
+      "category": "播客",
+      "content": "书单是很多思维的来源，与播客内容配合食用，效果更佳",
+      "length": 25
+    },
+    {
+      "category": "推广营销",
+      "content": "    人群动态分层：看重低价 90 （流量） – 9 – 看重附加值 1（用户）",
+      "length": 42
+    },
+    {
+      "category": "技术工具",
+      "content": "自上而下的范式解构  —— 技术革命 + 社会规律 = 看不见的",
+      "length": 32
+    },
+    {
+      "category": "商业变现",
+      "content": "    价格：上限是可支配收入、下限是现金成本",
+      "length": 24
+    },
+    {
+      "category": "运营策略",
+      "content": "    两种策略：性价比（莱特定律侧重低价、摩尔定律侧重使用价值）、高附加值",
+      "length": 39
+    },
+    {
+      "category": "数据分析",
+      "content": "数据中心营收：2022年150亿、2023年475亿、2024年1152亿",
+      "length": 37
+    }
+  ],
+  "data_points": {
+    "numbers_count": 412,
+    "percentages_count": 91,
+    "time_references": []
+  },
+  "theme_analysis": {
+    "博客基础": 4,
+    "播客制作": 2,
+    "推广营销": 23,
+    "商业变现": 31,
+    "工具技术": 138,
+    "运营策略": 8,
+    "数据分析": 9
+  },
+  "content_summary": {
+    "main_topics": [
+      "博客基础",
+      "播客制作",
+      "推广营销",
+      "商业变现",
+      "工具技术",
+      "运营策略",
+      "数据分析"
+    ],
+    "content_focus": "工具技术"
+  }
+}

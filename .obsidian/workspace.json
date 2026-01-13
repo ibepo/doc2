@@ -11,12 +11,15 @@
             "id": "af191df95d366e47",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/02-Areas/读书/副本9小时免费播客讲义(1).pdf"
+                "file": "docs/P.A.R.A/02-Areas/读书/副本9小时免费博客讲义-全面分析报告.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "副本9小时免费播客讲义(1)"
+              "icon": "lucide-file",
+              "title": "副本9小时免费博客讲义-全面分析报告"
             }
           }
         ]
@@ -174,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 921.5
+    "width": 793.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +200,15 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "adf1c0e37040b996",
+  "active": "af191df95d366e47",
   "lastOpenFiles": [
+    "docs/P.A.R.A/02-Areas/读书/副本9小时免费播客讲义(1).pdf",
+    "docs/P.A.R.A/02-Areas/读书/副本9小时免费博客讲义-全面分析报告.md",
+    "docs/P.A.R.A/02-Areas/读书/博客讲义总结报告.json",
+    "docs/P.A.R.A/02-Areas/读书/博客讲义分析结果.json",
+    "docs/P.A.R.A/02-Areas/读书/analyze_blog_lecture.py",
     "docs/P.A.R.A/02-Areas/博客讲义分析.py",
     "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器/iOS平台著名播客播放器深度讨论.md",
-    "docs/P.A.R.A/02-Areas/读书/副本9小时免费播客讲义(1).pdf",
     "docs/P.A.R.A/03-Resources/temp/summarize_articles.py",
     "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望(终版)(4).pdf",
     "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器",
@@ -209,9 +216,6 @@
     "docs/P.A.R.A/01-Projects/ts/docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望-完整分析报告.md",
     "docs/P.A.R.A/01-Projects/ts/docs/P.A.R.A/01-Projects/ts",
     "docs/P.A.R.A/01-Projects/ts/docs/P.A.R.A/01-Projects",
-    "docs/P.A.R.A/01-Projects/ts/docs/P.A.R.A",
-    "docs/P.A.R.A/01-Projects/ts/docs",
-    "docs/P.A.R.A/01-Projects/ts/analyze_steel_2026.py",
     "docs/P.A.R.A/01-Projects/ts/完整API接口文档.md",
     "docs/P.A.R.A/01-Projects/ts/钢铁市场一体化监控平台方案.md",
     "docs/P.A.R.A/01-Projects/ts/钢铁市场监控指标采集来源.md",
@@ -223,7 +227,6 @@
     "docs/P.A.R.A/02-Areas/ios/AGENTS.md",
     "Clippings/找不到好用的视频生成字幕及翻译字幕软件，于是我开源了一款.md",
     "docs/P.A.R.A/ts/钢铁市场监控核心指南.md",
-    "docs/P.A.R.A/ts",
     "Clippings/我用 Obsidian Dataview 做了 6 个实时增长看板.md",
     "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
     "Clippings/超燃！大涨50！本周首日大涨！焦炭提涨！钢厂上调！钢价一涨再涨？.md",
@@ -234,7 +237,6 @@
     "docs/P.A.R.A/03-Resources/telegram/Reddit资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/Medium资源详细列表.md",
     "docs/P.A.R.A/03-Resources/telegram/JableTV资源详细列表.md",
-    "docs/P.A.R.A/03-Resources/telegram/微信公众号资源详细列表.md",
     "未命名.canvas",
     "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/images/image_03.jpg",
