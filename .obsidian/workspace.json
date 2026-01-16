@@ -11,12 +11,15 @@
             "id": "75650869ff35e5aa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/01-Projects/ts/report.pdf"
+                "file": "Clippings/金钱世界是怎样运行的？.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "report"
+              "icon": "lucide-file",
+              "title": "金钱世界是怎样运行的？"
             }
           }
         ]
@@ -76,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 218.5
   },
   "right": {
     "id": "f346cf22d98f8f8a",
@@ -199,8 +202,9 @@
   },
   "active": "75650869ff35e5aa",
   "lastOpenFiles": [
-    "Clippings/(1) X.md",
     "docs/P.A.R.A/01-Projects/ts/report.pdf",
+    "Clippings/金钱世界是怎样运行的？.md",
+    "Clippings/(1) X.md",
     "Clippings/你真的理解 File 和 Blob 吗？.md",
     "Clippings/Thread by @cnzoecomeback.md",
     "docs/P.A.R.A/02-Areas/Ai/skill/00-claude-skills总表.md",
@@ -233,7 +237,6 @@
     "docs/P.A.R.A/01-Projects/ts/完整API接口文档.md",
     "docs/P.A.R.A/01-Projects/ts/钢铁市场一体化监控平台方案.md",
     "docs/P.A.R.A/01-Projects/ts/钢铁市场监控指标采集来源.md",
-    "docs/P.A.R.A/01-Projects/ts/钢铁市场差异化监控方案.md",
     "未命名.canvas",
     "docs/P.A.R.A/02-Areas/talkwithAI/清朝皇帝完整版.canvas",
     "docs/P.A.R.A/03-Resources/微信公众号/老牛杂记专辑/齐刷刷/images/image_03.jpg",
