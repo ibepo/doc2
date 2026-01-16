@@ -8,18 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75650869ff35e5aa",
+            "id": "3ba7ae3116da3b16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Clippings/金钱世界是怎样运行的？.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
+                "file": "docs/P.A.R.A/02-Areas/读书/《世界经济霸权（1500-1990）》 (金德尔伯格) (Z-Library)_副本.pdf"
               },
-              "icon": "lucide-file",
-              "title": "金钱世界是怎样运行的？"
+              "icon": "lucide-file-text",
+              "title": "《世界经济霸权（1500-1990）》 (金德尔伯格) (Z-Library)_副本"
             }
           }
         ]
@@ -200,10 +197,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "75650869ff35e5aa",
+  "active": "3ba7ae3116da3b16",
   "lastOpenFiles": [
-    "docs/P.A.R.A/01-Projects/ts/report.pdf",
     "Clippings/金钱世界是怎样运行的？.md",
+    "docs/P.A.R.A/02-Areas/读书/《世界经济霸权（1500-1990）》 (金德尔伯格) (Z-Library)_副本.pdf",
+    "docs/P.A.R.A/01-Projects/ts/report.pdf",
     "Clippings/(1) X.md",
     "Clippings/你真的理解 File 和 Blob 吗？.md",
     "Clippings/Thread by @cnzoecomeback.md",
@@ -231,7 +229,6 @@
     "docs/P.A.R.A/02-Areas/博客讲义分析.py",
     "docs/P.A.R.A/03-Resources/temp/summarize_articles.py",
     "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望(终版)(4).pdf",
-    "docs/P.A.R.A/02-Areas/talkwithAI/10-iOS播客播放器",
     "docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望-全面分析报告.md",
     "docs/P.A.R.A/01-Projects/ts/docs/P.A.R.A/01-Projects/ts/2026年钢铁市场与行业展望-完整分析报告.md",
     "docs/P.A.R.A/01-Projects/ts/完整API接口文档.md",
