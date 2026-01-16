@@ -9,12 +9,70 @@ Claude Code 工作指南 - Obsidian Vault (PARA 方法)
 ### 文件路径规则
 
 ```
-docs/P.A.R.A/
-├── 01-Projects/     # 有明确结束日期的项目
-├── 02-Areas/        # 持续负责的领域（无结束日期）
-├── 03-Resources/    # 参考资料
-│   └── 微信公众号/   # 微信文章/专辑下载到此
-└── 04-Archives/     # 已完成/不活跃的内容
+.
+|____Clippings
+|____.ruff_cache
+| |____0.12.5
+|____.obsidian
+| |____plugins
+| | |____obsidian-hider
+| | |____obsidian-auto-link-title
+| | |____obsidian-proxy-github
+| | |____obsidian-markmind
+| | |____code-block-copy
+| | |____obsidian-git
+| | |____dataview
+| | |____table-editor-obsidian
+| | |____novel-word-count
+| | |____obsidian-style-settings
+| | |____claudian
+| | |____markdown-prettifier
+| | |____obsidian-excalidraw-plugin
+| | |____note-to-mp
+| | |____mousewheel-image-zoom
+| | |____obsidian-annotator
+| | |____obsidian-minimal-settings
+| | |____quickadd
+| | |____obsidian-custom-frames
+| | |____omnisearch
+| | |____obsidian-image-toolkit
+| | |____editing-toolbar
+| |____themes
+| | |____Dracula Official
+| | |____Obuntu
+| | |____Wikipedia
+| | |____Discordian
+| | |____Atom
+| | |____Solarized
+| | |____Minimal
+| | |____Ayu Mirage
+| | |____Things
+| | |____Cybertron
+|____.claude
+| |____sessions
+| |____hooks
+| |____commands
+| |____skills
+| | |____obsidian-markdown
+| | |____skill-creator
+| | |____obsidian-bases
+| | |____json-canvas
+|____docs
+| |____P.A.R.A
+| | |____01-Projects
+| | |____02-Areas
+| | |____03-Resources
+| | |____ts
+| | |____04-Archives
+|____pdf_env
+| |____bin
+| |____include
+| | |____python3.12
+| |____lib
+| | |____python3.12
+|____.git
+|____.claudian-cache
+| |____images
 ```
 
 **特殊规则**：
