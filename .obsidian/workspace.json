@@ -11,12 +11,15 @@
             "id": "3ba7ae3116da3b16",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/02-Areas/读书/《世界经济霸权（1500-1990）》 (金德尔伯格) (Z-Library)_副本.pdf"
+                "file": "Clippings/金钱世界是怎样运行的？.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "《世界经济霸权（1500-1990）》 (金德尔伯格) (Z-Library)_副本"
+              "icon": "lucide-file",
+              "title": "金钱世界是怎样运行的？"
             }
           }
         ]
@@ -199,8 +202,8 @@
   },
   "active": "3ba7ae3116da3b16",
   "lastOpenFiles": [
-    "Clippings/金钱世界是怎样运行的？.md",
     "docs/P.A.R.A/02-Areas/读书/《世界经济霸权（1500-1990）》 (金德尔伯格) (Z-Library)_副本.pdf",
+    "Clippings/金钱世界是怎样运行的？.md",
     "docs/P.A.R.A/01-Projects/ts/report.pdf",
     "Clippings/(1) X.md",
     "Clippings/你真的理解 File 和 Blob 吗？.md",
