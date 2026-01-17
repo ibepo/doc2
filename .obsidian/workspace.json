@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +203,9 @@
   },
   "active": "3ba7ae3116da3b16",
   "lastOpenFiles": [
-    "Clippings/读过的书正在被你浪费：一个让读书真正有用的系统.md",
+    "Clippings/Thread by @cnzoecomeback.md",
     "Clippings/The State of Agentic iOS Engineering in 2026.md",
+    "Clippings/读过的书正在被你浪费：一个让读书真正有用的系统.md",
     "Clippings/金钱世界是怎样运行的？.md",
     "Clippings/金钱世界是怎样运行的？-AI方法论-SCU.md",
     "Clippings/【增长黑客AI周报】加餐：我如何用 AI 搭建人生记录与复盘体系  获奖投稿.md",
@@ -212,7 +214,6 @@
     "docs/P.A.R.A/01-Projects/ts/report.pdf",
     "Clippings/(1) X.md",
     "Clippings/你真的理解 File 和 Blob 吗？.md",
-    "Clippings/Thread by @cnzoecomeback.md",
     "docs/P.A.R.A/02-Areas/Ai/skill/00-claude-skills总表.md",
     "docs/P.A.R.A/02-Areas/读书/bookmarks_timeline.md",
     "docs/P.A.R.A/02-Areas/读书/bookmarks_timeline_精选分类.md",
