@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/P.A.R.A/01-Projects/ts/感悟.md",
-                "mode": "preview",
+                "file": "Clippings/(1) X 1.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "感悟"
+              "title": "(1) X 1"
             }
           }
         ]
@@ -201,12 +201,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "adf1c0e37040b996",
+  "active": "3ba7ae3116da3b16",
   "lastOpenFiles": [
+    "docs/P.A.R.A/01-Projects/ts/感悟.md",
+    "Clippings/(1) X 1.md",
     "docs/P.A.R.A/01-Projects/ts/感悟-精华版.md",
     "Clippings/Agentic iOS感悟精华.md",
     "Clippings/The State of Agentic iOS Engineering in 2026.md",
-    "docs/P.A.R.A/01-Projects/ts/感悟.md",
     "Clippings/Thread by @cnzoecomeback.md",
     "Clippings/读过的书正在被你浪费：一个让读书真正有用的系统.md",
     "Clippings/金钱世界是怎样运行的？.md",
@@ -231,7 +232,6 @@
     "Clippings/从乱收藏到有体系：我用 Obsidian + AI 搭了一套个人知识管理系统.md",
     "Clippings/超燃！大涨50！本周首日大涨！焦炭提涨！钢厂上调！钢价一涨再涨？.md",
     "Clippings/2026年钢铁市场年度咨情报告-新周期开启，景气扩张，价格中枢上移.md",
-    "docs/P.A.R.A/02-Areas/talkwithAI/10/mksass模板速查表.md",
     "docs/P.A.R.A/02-Areas/talkwithAI/10",
     "docs/P.A.R.A/02-Areas/读书/博客讲义总结报告.json",
     "docs/P.A.R.A/02-Areas/读书/博客讲义分析结果.json",
